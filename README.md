@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-04-30 11:09:31 Asia/Shanghai
+ Automated deployment @ 2022-04-30 11:18:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -45,40 +45,6 @@
 
 ## Non-Euclidean Staistics
 
-### Frechet Mean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-04-28**|**Online convex optimization for data-driven control of dynamical systems**|Marko Nonhoff et.al.|[2204.13680v1](http://arxiv.org/abs/2204.13680v1)|null|
-|**2022-04-28**|**Measuring the Streaming motion in the Milky Way disc with Gaia EDR3 +**|Shourya Khanna et.al.|[2204.13672v1](http://arxiv.org/abs/2204.13672v1)|null|
-|**2022-04-28**|**Fractional Josephson effect versus fractional charge in superconducting-normal metal hybrid circuits**|Mohammad Atif Javed et.al.|[2204.13623v1](http://arxiv.org/abs/2204.13623v1)|null|
-|**2022-04-28**|**Vortex Lattice Melting Line in Superconductors with Paramagnetic Pair-Breaking**|Dai Nakashima et.al.|[2204.13588v1](http://arxiv.org/abs/2204.13588v1)|null|
-|**2022-04-28**|**Correlation of Dark Matter, Gas and Stellar Profiles in Dark Matter Halos**|Arya Farahi et.al.|[2204.13578v1](http://arxiv.org/abs/2204.13578v1)|null|
-|**2022-04-28**|**An Explainable Regression Framework for Predicting Remaining Useful Life of Machines**|Talhat Khan et.al.|[2204.13574v1](http://arxiv.org/abs/2204.13574v1)|null|
-|**2022-04-28**|**A low-eccentricity migration pathway for a 13-h-period Earth analogue in a four-planet system**|Luisa Maria Serrano et.al.|[2204.13573v1](http://arxiv.org/abs/2204.13573v1)|null|
-|**2022-04-28**|**Data augmented turbulence modeling for three-dimensional separation flows**|Chongyang Yan et.al.|[2204.13566v1](http://arxiv.org/abs/2204.13566v1)|null|
-|**2022-04-28**|**Pseudo-Particle Vertex Solver for Quantum Impurity Models**|Aaram J. Kim et.al.|[2204.13562v1](http://arxiv.org/abs/2204.13562v1)|null|
-|**2022-04-28**|**Une version polyatomique de l'algorithme Frank-Wolfe pour résoudre le problème LASSO en grandes dimensions**|Adrian Jarret et.al.|[2204.13557v1](http://arxiv.org/abs/2204.13557v1)|null|
-|**2022-04-28**|**Multi-Mask Least-Squares Deconvolution: Extracting RVs using tailored masks**|F. Lienhard et.al.|[2204.13556v1](http://arxiv.org/abs/2204.13556v1)|null|
-|**2022-04-28**|**Singular value distribution of dense random matrices with block Markovian dependence**|Jaron Sanders et.al.|[2204.13534v1](http://arxiv.org/abs/2204.13534v1)|null|
-|**2022-04-28**|**Quantum Fluctuations and Coherence of a Molecular Polariton Condensate**|Zhedong Zhang et.al.|[2204.13528v1](http://arxiv.org/abs/2204.13528v1)|null|
-|**2022-04-28**|**On tuning a mean-field model for semi-supervised classification**|Emílio Bergamim et.al.|[2204.13519v1](http://arxiv.org/abs/2204.13519v1)|null|
-|**2022-04-28**|**What do You Mean by Relation Extraction? A Survey on Datasets and Study on Scientific Relation Classification**|Elisa Bassignana et.al.|[2204.13516v1](http://arxiv.org/abs/2204.13516v1)|null|
-|**2022-04-28**|**Theory for polaritonic quantum tunneling**|Kalle S. U. Kansanen et.al.|[2204.13490v1](http://arxiv.org/abs/2204.13490v1)|null|
-|**2022-04-28**|**Two-particle azimuthal correlations in $γ$p interactions using pPb collisions at $\sqrt{s_\mathrm{NN}}$ = 8.16 TeV**|CMS Collaboration et.al.|[2204.13486v1](http://arxiv.org/abs/2204.13486v1)|null|
-|**2022-04-28**|**Low-energy spin excitations of the frustrated ferromagnetic $J_1$-$J_2$ chain material linarite, PbCuSO$_4$(OH)$_2$, in applied magnetic fields $\mathbf{H} \parallel b$ axis**|L. Heinze et.al.|[2204.13482v1](http://arxiv.org/abs/2204.13482v1)|null|
-|**2022-04-28**|**Regotron: Regularizing the Tacotron2 architecture via monotonic alignment loss**|Efthymios Georgiou et.al.|[2204.13437v1](http://arxiv.org/abs/2204.13437v1)|null|
-|**2022-04-28**|**Correlation function and linear response function of homogeneous isotropic turbulence in the Eulerian and Lagrangian coordinates**|Takeshi Matsumoto et.al.|[2204.13435v1](http://arxiv.org/abs/2204.13435v1)|null|
-|**2022-04-28**|**Hybrid Relation Guided Set Matching for Few-shot Action Recognition**|Xiang Wang et.al.|[2204.13423v1](http://arxiv.org/abs/2204.13423v1)|null|
-|**2022-04-28**|**Fuzzy Expert System for Stock Portfolio Selection: An Application to Bombay Stock Exchange**|Gour Sundar Mitra Thakur et.al.|[2204.13385v1](http://arxiv.org/abs/2204.13385v1)|null|
-|**2022-04-28**|**Learning General Inventory Management Policy for Large Supply Chain Network**|Soh Kumabe et.al.|[2204.13378v1](http://arxiv.org/abs/2204.13378v1)|null|
-|**2022-04-28**|**Coupling between turbulence and solar-like oscillations: A combined Lagrangian PDF/SPH approach. II - Mode driving, damping and modal surface effect**|J. Philidet et.al.|[2204.13367v1](http://arxiv.org/abs/2204.13367v1)|null|
-|**2022-04-28**|**Semantic Communication: An Information Bottleneck View**|Edgar Beck et.al.|[2204.13366v1](http://arxiv.org/abs/2204.13366v1)|null|
-|**2022-04-28**|**The Casimir effect in graphene systems: Experiment and theory**|G. L. Klimchitskaya et.al.|[2204.13315v1](http://arxiv.org/abs/2204.13315v1)|null|
-|**2022-04-28**|**Local normal forms of em-wavefronts in affine flat coordinates**|Naomichi Nakajima et.al.|[2204.13288v1](http://arxiv.org/abs/2204.13288v1)|null|
-|**2022-04-28**|**The Paper Pile at Home: Adopting Personal Electronic Records**|Matt Balogh et.al.|[2204.13282v1](http://arxiv.org/abs/2204.13282v1)|null|
-|**2022-04-28**|**Persistent homology analysis of a generalized Aubry-André-Harper model**|Yu He et.al.|[2204.13276v1](http://arxiv.org/abs/2204.13276v1)|null|
-|**2022-04-28**|**Covariance-aware Feature Alignment with Pre-computed Source Statistics for Test-time Adaptation**|Kazuki Adachi et.al.|[2204.13263v1](http://arxiv.org/abs/2204.13263v1)|null|
-
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -112,3 +78,37 @@
 |**2022-04-28**|**Unconventional bosonization of chiral quantum wires coupled through a point-contact**|Nikhil Danny Babu et.al.|[2204.13517v1](http://arxiv.org/abs/2204.13517v1)|null|
 |**2022-04-28**|**(Non)universality of Unruh-Fulling effect in nonlocal field theory - the role of Unruh decomposition**|Ashmita Das et.al.|[2204.13513v1](http://arxiv.org/abs/2204.13513v1)|null|
 |**2022-04-28**|**RobBERTje: a Distilled Dutch BERT Model**|Pieter Delobelle et.al.|[2204.13511v1](http://arxiv.org/abs/2204.13511v1)|null|
+
+### Frechet Mean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-28**|**Online convex optimization for data-driven control of dynamical systems**|Marko Nonhoff et.al.|[2204.13680v1](http://arxiv.org/abs/2204.13680v1)|null|
+|**2022-04-28**|**Measuring the Streaming motion in the Milky Way disc with Gaia EDR3 +**|Shourya Khanna et.al.|[2204.13672v1](http://arxiv.org/abs/2204.13672v1)|null|
+|**2022-04-28**|**Fractional Josephson effect versus fractional charge in superconducting-normal metal hybrid circuits**|Mohammad Atif Javed et.al.|[2204.13623v1](http://arxiv.org/abs/2204.13623v1)|null|
+|**2022-04-28**|**Vortex Lattice Melting Line in Superconductors with Paramagnetic Pair-Breaking**|Dai Nakashima et.al.|[2204.13588v1](http://arxiv.org/abs/2204.13588v1)|null|
+|**2022-04-28**|**Correlation of Dark Matter, Gas and Stellar Profiles in Dark Matter Halos**|Arya Farahi et.al.|[2204.13578v1](http://arxiv.org/abs/2204.13578v1)|null|
+|**2022-04-28**|**An Explainable Regression Framework for Predicting Remaining Useful Life of Machines**|Talhat Khan et.al.|[2204.13574v1](http://arxiv.org/abs/2204.13574v1)|null|
+|**2022-04-28**|**A low-eccentricity migration pathway for a 13-h-period Earth analogue in a four-planet system**|Luisa Maria Serrano et.al.|[2204.13573v1](http://arxiv.org/abs/2204.13573v1)|null|
+|**2022-04-28**|**Data augmented turbulence modeling for three-dimensional separation flows**|Chongyang Yan et.al.|[2204.13566v1](http://arxiv.org/abs/2204.13566v1)|null|
+|**2022-04-28**|**Pseudo-Particle Vertex Solver for Quantum Impurity Models**|Aaram J. Kim et.al.|[2204.13562v1](http://arxiv.org/abs/2204.13562v1)|null|
+|**2022-04-28**|**Une version polyatomique de l'algorithme Frank-Wolfe pour résoudre le problème LASSO en grandes dimensions**|Adrian Jarret et.al.|[2204.13557v1](http://arxiv.org/abs/2204.13557v1)|null|
+|**2022-04-28**|**Multi-Mask Least-Squares Deconvolution: Extracting RVs using tailored masks**|F. Lienhard et.al.|[2204.13556v1](http://arxiv.org/abs/2204.13556v1)|null|
+|**2022-04-28**|**Singular value distribution of dense random matrices with block Markovian dependence**|Jaron Sanders et.al.|[2204.13534v1](http://arxiv.org/abs/2204.13534v1)|null|
+|**2022-04-28**|**Quantum Fluctuations and Coherence of a Molecular Polariton Condensate**|Zhedong Zhang et.al.|[2204.13528v1](http://arxiv.org/abs/2204.13528v1)|null|
+|**2022-04-28**|**On tuning a mean-field model for semi-supervised classification**|Emílio Bergamim et.al.|[2204.13519v1](http://arxiv.org/abs/2204.13519v1)|null|
+|**2022-04-28**|**What do You Mean by Relation Extraction? A Survey on Datasets and Study on Scientific Relation Classification**|Elisa Bassignana et.al.|[2204.13516v1](http://arxiv.org/abs/2204.13516v1)|null|
+|**2022-04-28**|**Theory for polaritonic quantum tunneling**|Kalle S. U. Kansanen et.al.|[2204.13490v1](http://arxiv.org/abs/2204.13490v1)|null|
+|**2022-04-28**|**Two-particle azimuthal correlations in $γ$p interactions using pPb collisions at $\sqrt{s_\mathrm{NN}}$ = 8.16 TeV**|CMS Collaboration et.al.|[2204.13486v1](http://arxiv.org/abs/2204.13486v1)|null|
+|**2022-04-28**|**Low-energy spin excitations of the frustrated ferromagnetic $J_1$-$J_2$ chain material linarite, PbCuSO$_4$(OH)$_2$, in applied magnetic fields $\mathbf{H} \parallel b$ axis**|L. Heinze et.al.|[2204.13482v1](http://arxiv.org/abs/2204.13482v1)|null|
+|**2022-04-28**|**Regotron: Regularizing the Tacotron2 architecture via monotonic alignment loss**|Efthymios Georgiou et.al.|[2204.13437v1](http://arxiv.org/abs/2204.13437v1)|null|
+|**2022-04-28**|**Correlation function and linear response function of homogeneous isotropic turbulence in the Eulerian and Lagrangian coordinates**|Takeshi Matsumoto et.al.|[2204.13435v1](http://arxiv.org/abs/2204.13435v1)|null|
+|**2022-04-28**|**Hybrid Relation Guided Set Matching for Few-shot Action Recognition**|Xiang Wang et.al.|[2204.13423v1](http://arxiv.org/abs/2204.13423v1)|null|
+|**2022-04-28**|**Fuzzy Expert System for Stock Portfolio Selection: An Application to Bombay Stock Exchange**|Gour Sundar Mitra Thakur et.al.|[2204.13385v1](http://arxiv.org/abs/2204.13385v1)|null|
+|**2022-04-28**|**Learning General Inventory Management Policy for Large Supply Chain Network**|Soh Kumabe et.al.|[2204.13378v1](http://arxiv.org/abs/2204.13378v1)|null|
+|**2022-04-28**|**Coupling between turbulence and solar-like oscillations: A combined Lagrangian PDF/SPH approach. II - Mode driving, damping and modal surface effect**|J. Philidet et.al.|[2204.13367v1](http://arxiv.org/abs/2204.13367v1)|null|
+|**2022-04-28**|**Semantic Communication: An Information Bottleneck View**|Edgar Beck et.al.|[2204.13366v1](http://arxiv.org/abs/2204.13366v1)|null|
+|**2022-04-28**|**The Casimir effect in graphene systems: Experiment and theory**|G. L. Klimchitskaya et.al.|[2204.13315v1](http://arxiv.org/abs/2204.13315v1)|null|
+|**2022-04-28**|**Local normal forms of em-wavefronts in affine flat coordinates**|Naomichi Nakajima et.al.|[2204.13288v1](http://arxiv.org/abs/2204.13288v1)|null|
+|**2022-04-28**|**The Paper Pile at Home: Adopting Personal Electronic Records**|Matt Balogh et.al.|[2204.13282v1](http://arxiv.org/abs/2204.13282v1)|null|
+|**2022-04-28**|**Persistent homology analysis of a generalized Aubry-André-Harper model**|Yu He et.al.|[2204.13276v1](http://arxiv.org/abs/2204.13276v1)|null|
+|**2022-04-28**|**Covariance-aware Feature Alignment with Pre-computed Source Statistics for Test-time Adaptation**|Kazuki Adachi et.al.|[2204.13263v1](http://arxiv.org/abs/2204.13263v1)|null|
