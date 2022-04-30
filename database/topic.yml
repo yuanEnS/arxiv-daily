@@ -1,7 +1,10 @@
 "Non-Euclidean Staistics":
-  "Frechet Mean": '"Frechet Mean"ANDcat:"stat.*"'
-  "Non Eculidean": '"Non Eculidean"ANDcat:"stat.*"'
+  "Frechet Mean": '"frechet mean"ANDcat:"stat.*"'
+  "Non Eculidean": '"frechet"ANDcat:"stat.*"'
+  
+"Variable Selection":
+  "Variable selection": '("model selection"OR"variable selection")ANDcat:"stat.*"'
   
 "Network Statistics":
-  "Network Bootstrap": '"Network Bootstrap"ANDcat:"stat.*"'
-  "Graph Neural Network": '"Graph Neural Network"ANDcat:"stat.*"'
+  "Network Bootstrap": '"network bootstrap"ANDcat:"stat.*"'
+  "Graph Neural Network": '"graph neural network"ANDcat:"stat.*"'
