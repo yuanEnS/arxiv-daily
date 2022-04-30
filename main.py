@@ -86,7 +86,7 @@ class CoroutineSpeedup:
 
         self.cache_space = []
 
-        self.max_results = 30
+        self.max_results = 15
 
     def _adaptor(self):
         while not self.worker.empty():
@@ -348,7 +348,7 @@ class Scaffold:
         context = ToolBox.get_yaml_data()
 
         # Set tasks
-        pending_atomic = [{"subtopic": subtopic, "keyword": keyword.replace('"', ""), "topic": topic}
+        pending_atomic = [{"subtopic": subtopic, "keyword": keyword, "topic": topic}
                           for topic, subtopics in context.items() for subtopic, keyword in subtopics.items()]
 
         # Offload tasks
