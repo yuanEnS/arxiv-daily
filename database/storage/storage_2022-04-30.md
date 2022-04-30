@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-04-30 12:56:14 Asia/Shanghai
+ Automated deployment @ 2022-04-30 12:59:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -33,21 +33,10 @@
 ### Network Bootstrap
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-04-27**|**Uncertainty Quantification for nonparametric regression using Empirical Bayesian neural networks**|Stefan Franssen et.al.|[2204.12735v2](http://arxiv.org/abs/2204.12735v2)|null|
-|**2022-04-26**|**MemFHE: End-to-End Computing with Fully Homomorphic Encryption in Memory**|Saransh Gupta et.al.|[2204.12557v1](http://arxiv.org/abs/2204.12557v1)|null|
-|**2022-04-24**|**Large Scale Time-Series Representation Learning via Simultaneous Low and High Frequency Feature Bootstrapping**|Vandan Gorade et.al.|[2204.11291v1](http://arxiv.org/abs/2204.11291v1)|null|
-|**2022-04-04**|**WiFiEye -- Seeing over WiFi Made Accessible**|Philipp H. Kindt et.al.|[2204.01830v2](http://arxiv.org/abs/2204.01830v2)|[link](https://github.com/pkindt/wifieye)|
-|**2022-03-31**|**An energy-based deep splitting method for the nonlinear filtering problem**|Kasper Bågmark et.al.|[2203.17153v2](http://arxiv.org/abs/2203.17153v2)|null|
-|**2022-03-24**|**DyRep: Bootstrapping Training with Dynamic Re-parameterization**|Tao Huang et.al.|[2203.12868v1](http://arxiv.org/abs/2203.12868v1)|[link](https://github.com/hunto/dyrep)|
-|**2022-03-15**|**Self-Normalized Density Map (SNDM) for Counting Microbiological Objects**|Krzysztof M. Graczyk et.al.|[2203.09474v1](http://arxiv.org/abs/2203.09474v1)|null|
-|**2022-03-03**|**Unfolding-Aided Bootstrapped Phase Retrieval in Optical Imaging**|Samuel Pinilla et.al.|[2203.01695v1](http://arxiv.org/abs/2203.01695v1)|null|
 |**2022-03-02**|**Improving the Diversity of Bootstrapped DQN via Noisy Priors**|Li Meng et.al.|[2203.01004v1](http://arxiv.org/abs/2203.01004v1)|null|
-|**2022-02-22**|**Confident Neural Network Regression with Bootstrapped Deep Ensembles**|Laurens Sluijterman et.al.|[2202.10903v1](http://arxiv.org/abs/2202.10903v1)|[link](https://github.com/laurenssluyterman/bootstrapped_deep_ensembles)|
-|**2022-02-18**|**Iterative Learning for Instance Segmentation**|Tuomas Sormunen et.al.|[2202.09110v1](http://arxiv.org/abs/2202.09110v1)|null|
-|**2022-02-17**|**RemixIT: Continual self-training of speech enhancement models via bootstrapped remixing**|Efthymios Tzinis et.al.|[2202.08862v2](http://arxiv.org/abs/2202.08862v2)|null|
-|**2022-02-17**|**Social network analysis of Staphylococcus aureus carriage in a general youth population**|Dina Benedicte Stensen et.al.|[2202.08794v1](http://arxiv.org/abs/2202.08794v1)|null|
-|**2022-02-10**|**Off-Policy Fitted Q-Evaluation with Differentiable Function Approximators: Z-Estimation and Inference Theory**|Ruiqi Zhang et.al.|[2202.04970v1](http://arxiv.org/abs/2202.04970v1)|null|
-|**2022-02-09**|**Relaxation of the parameter independence assumption in the `bootComb` R package**|Marc Yves Romain Henrion et.al.|[2202.04519v1](http://arxiv.org/abs/2202.04519v1)|[link](https://github.com/gitMarcH/bootComb)|
+|**2020-12-01**|**Fully Convolutional Network Bootstrapped by Word Encoding and Embedding for Activity Recognition in Smart Homes**|Damien Bouchabou et.al.|[2012.02300v1](http://arxiv.org/abs/2012.02300v1)|[link](https://github.com/dbouchabou/Fully-Convolutional-Network-Smart-Homes)|
+|**2020-04-14**|**Edgeworth expansions for network moments**|Yuan Zhang et.al.|[2004.06615v2](http://arxiv.org/abs/2004.06615v2)|[link](https://github.com/yzhanghf/NetworkEdgeworthExpansion)|
+|**2013-03-18**|**Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles**|Gregory Norcie et.al.|[1303.4155v2](http://arxiv.org/abs/1303.4155v2)|null|
 
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
