@@ -107,7 +107,7 @@ class CoroutineSpeedup:
         res = arxiv.Search(
             query=keyword_,
             max_results=self.max_results,
-            sort_by=arxiv.SortCriterion.SubmittedDate
+            sort_by=arxiv.SortCriterion.LastUpdatedDate
         ).results()
 
         context.update({"response": res, "hook": context})
