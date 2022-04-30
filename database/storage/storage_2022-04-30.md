@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-04-30 11:18:34 Asia/Shanghai
+ Automated deployment @ 2022-04-30 12:29:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -45,40 +45,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-04-28**|**Revisiting Witten-O'Raifeartaigh Inflation for a Non-minimally Coupled Scalar Field**|F. B. M. dos Santos et.al.|[2204.13694v1](http://arxiv.org/abs/2204.13694v1)|null|
-|**2022-04-28**|**The minimal Archimedean order unitization of seminormed ordered vector spaces**|Josse van Dobben de Bruyn et.al.|[2204.13688v1](http://arxiv.org/abs/2204.13688v1)|null|
-|**2022-04-28**|**Force-gradient sensing and entanglement via feedback cooling of interacting nanoparticles**|Henning Rudolph et.al.|[2204.13684v1](http://arxiv.org/abs/2204.13684v1)|null|
-|**2022-04-28**|**Phase gadget compilation for diagonal qutrit gates**|John van de Wetering et.al.|[2204.13681v1](http://arxiv.org/abs/2204.13681v1)|null|
-|**2022-04-28**|**Parallel spinors, pp-waves, and gravitational perturbations**|Bernardo Araneda et.al.|[2204.13673v1](http://arxiv.org/abs/2204.13673v1)|null|
-|**2022-04-28**|**Membrane-less phonon trapping and resolution enhancement in optical microwave kinetic inductance detectors**|Nicholas Zobrist et.al.|[2204.13669v1](http://arxiv.org/abs/2204.13669v1)|null|
-|**2022-04-28**|**Theory and Algorithms for Diffusion Processes on Riemannian Manifolds**|Xiang Cheng et.al.|[2204.13665v1](http://arxiv.org/abs/2204.13665v1)|null|
-|**2022-04-28**|**ADVISER: AI-Driven Vaccination Intervention Optimiser for Increasing Vaccine Uptake in Nigeria**|Vineet Nair et.al.|[2204.13663v1](http://arxiv.org/abs/2204.13663v1)|null|
-|**2022-04-28**|**A novel connection between integral binary quadratic forms and knot polynomials**|Amitesh Datta et.al.|[2204.13660v1](http://arxiv.org/abs/2204.13660v1)|null|
-|**2022-04-28**|**On Quantitative Algebraic Higher-Order Theories**|Ugo Dal Lago et.al.|[2204.13654v1](http://arxiv.org/abs/2204.13654v1)|null|
-|**2022-04-28**|**Unlocking High-Accuracy Differentially Private Image Classification through Scale**|Soham De et.al.|[2204.13650v1](http://arxiv.org/abs/2204.13650v1)|[link](https://github.com/deepmind/jax_privacy)|
-|**2022-04-28**|**Survivable Network Design Revisited: Group-Connectivity**|Qingyun Chen et.al.|[2204.13648v1](http://arxiv.org/abs/2204.13648v1)|null|
-|**2022-04-28**|**Interaction of Autonomous and Manually-Controlled Vehicles:Implementation of a Road User Communication Service**|Nikita Smirnov et.al.|[2204.13643v1](http://arxiv.org/abs/2204.13643v1)|null|
-|**2022-04-28**|**Linearity Characterization and Uncertainty Quantification of Spectroradiometers via Maximum Likelihood and the Non-parametric Bootstrap**|Adam L. Pintar et.al.|[2204.13617v1](http://arxiv.org/abs/2204.13617v1)|null|
-|**2022-04-28**|**Bernstein - von Mises theorem and misspecified models: a review**|Natalia Bochkina et.al.|[2204.13614v1](http://arxiv.org/abs/2204.13614v1)|null|
-|**2022-04-28**|**Non-lorentzian spacetimes**|José Figueroa-O'Farrill et.al.|[2204.13609v1](http://arxiv.org/abs/2204.13609v1)|null|
-|**2022-04-28**|**Bona fide Riesz projections for density estimation**|P. del Aguila Pla et.al.|[2204.13606v1](http://arxiv.org/abs/2204.13606v1)|null|
-|**2022-04-28**|**On non-ideal chemical-reaction networks and phase separation**|Ander Movilla Miangolarra et.al.|[2204.13577v1](http://arxiv.org/abs/2204.13577v1)|null|
-|**2022-04-28**|**Symmetric Transformer-based Network for Unsupervised Image Registration**|Mingrui Ma et.al.|[2204.13575v1](http://arxiv.org/abs/2204.13575v1)|null|
-|**2022-04-28**|**A low-eccentricity migration pathway for a 13-h-period Earth analogue in a four-planet system**|Luisa Maria Serrano et.al.|[2204.13573v1](http://arxiv.org/abs/2204.13573v1)|null|
-|**2022-04-28**|**Are there Einsteinian gravities involving covariant derivatives of the Riemann tensor?**|Jose D. Edelstein et.al.|[2204.13567v1](http://arxiv.org/abs/2204.13567v1)|null|
-|**2022-04-28**|**Data augmented turbulence modeling for three-dimensional separation flows**|Chongyang Yan et.al.|[2204.13566v1](http://arxiv.org/abs/2204.13566v1)|null|
-|**2022-04-28**|**Wasserstein Convergence for Conditional Empirical Measures of Subordinated Dirichlet Diffusions on Riemannian Manifolds**|Huaiqian Li et.al.|[2204.13559v1](http://arxiv.org/abs/2204.13559v1)|null|
-|**2022-04-28**|**Ultraviolet freeze-in baryogenesis**|Andreas Goudelis et.al.|[2204.13554v1](http://arxiv.org/abs/2204.13554v1)|null|
-|**2022-04-28**|**Spectral measures with arbitrary dimensions**|Zhi-Yi Wu et.al.|[2204.13549v1](http://arxiv.org/abs/2204.13549v1)|null|
-|**2022-04-28**|**Low-frequency resolvent analysis of the laminar oblique shock wave / boundary layer interaction**|B. Bugeat et.al.|[2204.13527v1](http://arxiv.org/abs/2204.13527v1)|null|
-|**2022-04-28**|**Chapter: Energy conversion at water-solid interfaces using electrokinetic effects**|Cecilia Herrero et.al.|[2204.13522v1](http://arxiv.org/abs/2204.13522v1)|null|
-|**2022-04-28**|**Unconventional bosonization of chiral quantum wires coupled through a point-contact**|Nikhil Danny Babu et.al.|[2204.13517v1](http://arxiv.org/abs/2204.13517v1)|null|
-|**2022-04-28**|**(Non)universality of Unruh-Fulling effect in nonlocal field theory - the role of Unruh decomposition**|Ashmita Das et.al.|[2204.13513v1](http://arxiv.org/abs/2204.13513v1)|null|
-|**2022-04-28**|**RobBERTje: a Distilled Dutch BERT Model**|Pieter Delobelle et.al.|[2204.13511v1](http://arxiv.org/abs/2204.13511v1)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -112,3 +78,37 @@
 |**2022-04-28**|**The Paper Pile at Home: Adopting Personal Electronic Records**|Matt Balogh et.al.|[2204.13282v1](http://arxiv.org/abs/2204.13282v1)|null|
 |**2022-04-28**|**Persistent homology analysis of a generalized Aubry-André-Harper model**|Yu He et.al.|[2204.13276v1](http://arxiv.org/abs/2204.13276v1)|null|
 |**2022-04-28**|**Covariance-aware Feature Alignment with Pre-computed Source Statistics for Test-time Adaptation**|Kazuki Adachi et.al.|[2204.13263v1](http://arxiv.org/abs/2204.13263v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-28**|**Revisiting Witten-O'Raifeartaigh Inflation for a Non-minimally Coupled Scalar Field**|F. B. M. dos Santos et.al.|[2204.13694v1](http://arxiv.org/abs/2204.13694v1)|null|
+|**2022-04-28**|**The minimal Archimedean order unitization of seminormed ordered vector spaces**|Josse van Dobben de Bruyn et.al.|[2204.13688v1](http://arxiv.org/abs/2204.13688v1)|null|
+|**2022-04-28**|**Force-gradient sensing and entanglement via feedback cooling of interacting nanoparticles**|Henning Rudolph et.al.|[2204.13684v1](http://arxiv.org/abs/2204.13684v1)|null|
+|**2022-04-28**|**Phase gadget compilation for diagonal qutrit gates**|John van de Wetering et.al.|[2204.13681v1](http://arxiv.org/abs/2204.13681v1)|null|
+|**2022-04-28**|**Parallel spinors, pp-waves, and gravitational perturbations**|Bernardo Araneda et.al.|[2204.13673v1](http://arxiv.org/abs/2204.13673v1)|null|
+|**2022-04-28**|**Membrane-less phonon trapping and resolution enhancement in optical microwave kinetic inductance detectors**|Nicholas Zobrist et.al.|[2204.13669v1](http://arxiv.org/abs/2204.13669v1)|null|
+|**2022-04-28**|**Theory and Algorithms for Diffusion Processes on Riemannian Manifolds**|Xiang Cheng et.al.|[2204.13665v1](http://arxiv.org/abs/2204.13665v1)|null|
+|**2022-04-28**|**ADVISER: AI-Driven Vaccination Intervention Optimiser for Increasing Vaccine Uptake in Nigeria**|Vineet Nair et.al.|[2204.13663v1](http://arxiv.org/abs/2204.13663v1)|null|
+|**2022-04-28**|**A novel connection between integral binary quadratic forms and knot polynomials**|Amitesh Datta et.al.|[2204.13660v1](http://arxiv.org/abs/2204.13660v1)|null|
+|**2022-04-28**|**On Quantitative Algebraic Higher-Order Theories**|Ugo Dal Lago et.al.|[2204.13654v1](http://arxiv.org/abs/2204.13654v1)|null|
+|**2022-04-28**|**Unlocking High-Accuracy Differentially Private Image Classification through Scale**|Soham De et.al.|[2204.13650v1](http://arxiv.org/abs/2204.13650v1)|[link](https://github.com/deepmind/jax_privacy)|
+|**2022-04-28**|**Survivable Network Design Revisited: Group-Connectivity**|Qingyun Chen et.al.|[2204.13648v1](http://arxiv.org/abs/2204.13648v1)|null|
+|**2022-04-28**|**Interaction of Autonomous and Manually-Controlled Vehicles:Implementation of a Road User Communication Service**|Nikita Smirnov et.al.|[2204.13643v1](http://arxiv.org/abs/2204.13643v1)|null|
+|**2022-04-28**|**Linearity Characterization and Uncertainty Quantification of Spectroradiometers via Maximum Likelihood and the Non-parametric Bootstrap**|Adam L. Pintar et.al.|[2204.13617v1](http://arxiv.org/abs/2204.13617v1)|null|
+|**2022-04-28**|**Bernstein - von Mises theorem and misspecified models: a review**|Natalia Bochkina et.al.|[2204.13614v1](http://arxiv.org/abs/2204.13614v1)|null|
+|**2022-04-28**|**Non-lorentzian spacetimes**|José Figueroa-O'Farrill et.al.|[2204.13609v1](http://arxiv.org/abs/2204.13609v1)|null|
+|**2022-04-28**|**Bona fide Riesz projections for density estimation**|P. del Aguila Pla et.al.|[2204.13606v1](http://arxiv.org/abs/2204.13606v1)|null|
+|**2022-04-28**|**On non-ideal chemical-reaction networks and phase separation**|Ander Movilla Miangolarra et.al.|[2204.13577v1](http://arxiv.org/abs/2204.13577v1)|null|
+|**2022-04-28**|**Symmetric Transformer-based Network for Unsupervised Image Registration**|Mingrui Ma et.al.|[2204.13575v1](http://arxiv.org/abs/2204.13575v1)|null|
+|**2022-04-28**|**A low-eccentricity migration pathway for a 13-h-period Earth analogue in a four-planet system**|Luisa Maria Serrano et.al.|[2204.13573v1](http://arxiv.org/abs/2204.13573v1)|null|
+|**2022-04-28**|**Are there Einsteinian gravities involving covariant derivatives of the Riemann tensor?**|Jose D. Edelstein et.al.|[2204.13567v1](http://arxiv.org/abs/2204.13567v1)|null|
+|**2022-04-28**|**Data augmented turbulence modeling for three-dimensional separation flows**|Chongyang Yan et.al.|[2204.13566v1](http://arxiv.org/abs/2204.13566v1)|null|
+|**2022-04-28**|**Wasserstein Convergence for Conditional Empirical Measures of Subordinated Dirichlet Diffusions on Riemannian Manifolds**|Huaiqian Li et.al.|[2204.13559v1](http://arxiv.org/abs/2204.13559v1)|null|
+|**2022-04-28**|**Ultraviolet freeze-in baryogenesis**|Andreas Goudelis et.al.|[2204.13554v1](http://arxiv.org/abs/2204.13554v1)|null|
+|**2022-04-28**|**Spectral measures with arbitrary dimensions**|Zhi-Yi Wu et.al.|[2204.13549v1](http://arxiv.org/abs/2204.13549v1)|null|
+|**2022-04-28**|**Low-frequency resolvent analysis of the laminar oblique shock wave / boundary layer interaction**|B. Bugeat et.al.|[2204.13527v1](http://arxiv.org/abs/2204.13527v1)|null|
+|**2022-04-28**|**Chapter: Energy conversion at water-solid interfaces using electrokinetic effects**|Cecilia Herrero et.al.|[2204.13522v1](http://arxiv.org/abs/2204.13522v1)|null|
+|**2022-04-28**|**Unconventional bosonization of chiral quantum wires coupled through a point-contact**|Nikhil Danny Babu et.al.|[2204.13517v1](http://arxiv.org/abs/2204.13517v1)|null|
+|**2022-04-28**|**(Non)universality of Unruh-Fulling effect in nonlocal field theory - the role of Unruh decomposition**|Ashmita Das et.al.|[2204.13513v1](http://arxiv.org/abs/2204.13513v1)|null|
+|**2022-04-28**|**RobBERTje: a Distilled Dutch BERT Model**|Pieter Delobelle et.al.|[2204.13511v1](http://arxiv.org/abs/2204.13511v1)|null|
