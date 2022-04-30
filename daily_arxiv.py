@@ -59,7 +59,7 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=2):
     output = dict()
 
     search_engine = arxiv.Search(
-        query=query + 'ANDcat:“stat.*”',
+        query=query + 'ANDcat:"stat.*"',
         max_results=max_results,
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
