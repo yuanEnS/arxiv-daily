@@ -4,4 +4,4 @@
   
 "Network Statistics":
   "Network Bootstrap": '"Network"AND"Bootstrap"'
-  "Graph Neural Network": '"Graph Neural Network"'
+  "Graph Neural Network": '"Graph Neural Network"ANDcat:"stat.*"'
