@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-01 07:28:57 Asia/Shanghai
+ Automated deployment @ 2022-05-01 19:26:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -31,27 +31,6 @@
 |**2022-04-23**|**Long-term Spatio-temporal Forecasting via Dynamic Multiple-Graph Attention**|Wei Shao et.al.|[2204.11008v2](http://arxiv.org/abs/2204.11008v2)|null|
 |**2022-04-27**|**A Practical Two-stage Ranking Framework for Cross-market Recommendation**|Zeyuan Chen et.al.|[2204.12682v1](http://arxiv.org/abs/2204.12682v1)|[link](https://github.com/loserchen/wsdm_cup_rec_2022)|
 |**2022-04-23**|**Reinforced Causal Explainer for Graph Neural Networks**|Xiang Wang et.al.|[2204.11028v2](http://arxiv.org/abs/2204.11028v2)|[link](https://github.com/xiangwang1223/reinforced_causal_explainer)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-04-28**|**Flavour and dark matter in a scoto/type-II seesaw model**|D. M. Barreiros et.al.|[2204.13605v1](http://arxiv.org/abs/2204.13605v1)|null|
-|**2019-02-21**|**Approximate selective inference via maximum likelihood**|Snigdha Panigrahi et.al.|[1902.07884v5](http://arxiv.org/abs/1902.07884v5)|null|
-|**2022-04-28**|**A robust Bayesian analysis of variable selection under prior ignorance**|Tathagata Basu et.al.|[2204.13341v1](http://arxiv.org/abs/2204.13341v1)|null|
-|**2021-08-26**|**Consistent Relative Confidence and Label-Free Model Selection for Convolutional Neural Networks**|Bin Liu et.al.|[2108.11845v7](http://arxiv.org/abs/2108.11845v7)|null|
-|**2022-04-28**|**Model Selection, Adaptation, and Combination for Deep Transfer Learning through Neural Networks in Renewable Energies**|Jens Schreiber et.al.|[2204.13293v1](http://arxiv.org/abs/2204.13293v1)|null|
-|**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v2](http://arxiv.org/abs/2201.09871v2)|[link](https://github.com/uoguelph-mlrg/ggm-metrics)|
-|**2020-07-30**|**A Power Analysis for Model-X Knockoffs with $\ell_{p}$-Regularized Statistics**|Asaf Weinstein et.al.|[2007.15346v2](http://arxiv.org/abs/2007.15346v2)|null|
-|**2022-04-27**|**Objective crystallographic symmetry classifications of a noisy crystal pattern with strong Fedorov type pseudosymmetries and its optimal image-quality enhancement**|Peter Moeck et.al.|[2204.13107v1](http://arxiv.org/abs/2204.13107v1)|null|
-|**2021-10-14**|**A Distribution-Free Independence Test for High Dimension Data**|Zhanrui Cai et.al.|[2110.07652v2](http://arxiv.org/abs/2110.07652v2)|null|
-|**2022-04-26**|**Observer Design for an Inertia Wheel Pendulum with Static Friction**|L. Ecker et.al.|[2204.12269v1](http://arxiv.org/abs/2204.12269v1)|null|
-|**2019-09-08**|**Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Comparative Study**|Jérôme Rony et.al.|[1909.03354v5](http://arxiv.org/abs/1909.03354v5)|[link](https://github.com/jeromerony/survey_wsl_histology)|
-|**2022-03-16**|**Variability Selected Active Galactic Nuclei from ASAS-SN Survey: Constraining the Low Luminosity AGN Population**|Heechan Yuk et.al.|[2203.08348v2](http://arxiv.org/abs/2203.08348v2)|null|
-|**2017-09-14**|**Semi-standard partial covariance variable selection when irrepresentable conditions fail**|Fei Xue et.al.|[1709.04840v2](http://arxiv.org/abs/1709.04840v2)|null|
-|**2021-05-12**|**Dimension-free Mixing for High-dimensional Bayesian Variable Selection**|Quan Zhou et.al.|[2105.05719v3](http://arxiv.org/abs/2105.05719v3)|null|
-|**2022-04-22**|**Analysing Opportunity Cost of Care Work using Mixed Effects Random Forests under Aggregated Census Data**|Patrick Krennmair et.al.|[2204.10736v1](http://arxiv.org/abs/2204.10736v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -92,3 +71,24 @@
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-28**|**Flavour and dark matter in a scoto/type-II seesaw model**|D. M. Barreiros et.al.|[2204.13605v1](http://arxiv.org/abs/2204.13605v1)|null|
+|**2019-02-21**|**Approximate selective inference via maximum likelihood**|Snigdha Panigrahi et.al.|[1902.07884v5](http://arxiv.org/abs/1902.07884v5)|null|
+|**2022-04-28**|**A robust Bayesian analysis of variable selection under prior ignorance**|Tathagata Basu et.al.|[2204.13341v1](http://arxiv.org/abs/2204.13341v1)|null|
+|**2021-08-26**|**Consistent Relative Confidence and Label-Free Model Selection for Convolutional Neural Networks**|Bin Liu et.al.|[2108.11845v7](http://arxiv.org/abs/2108.11845v7)|null|
+|**2022-04-28**|**Model Selection, Adaptation, and Combination for Deep Transfer Learning through Neural Networks in Renewable Energies**|Jens Schreiber et.al.|[2204.13293v1](http://arxiv.org/abs/2204.13293v1)|null|
+|**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v2](http://arxiv.org/abs/2201.09871v2)|[link](https://github.com/uoguelph-mlrg/ggm-metrics)|
+|**2020-07-30**|**A Power Analysis for Model-X Knockoffs with $\ell_{p}$-Regularized Statistics**|Asaf Weinstein et.al.|[2007.15346v2](http://arxiv.org/abs/2007.15346v2)|null|
+|**2022-04-27**|**Objective crystallographic symmetry classifications of a noisy crystal pattern with strong Fedorov type pseudosymmetries and its optimal image-quality enhancement**|Peter Moeck et.al.|[2204.13107v1](http://arxiv.org/abs/2204.13107v1)|null|
+|**2021-10-14**|**A Distribution-Free Independence Test for High Dimension Data**|Zhanrui Cai et.al.|[2110.07652v2](http://arxiv.org/abs/2110.07652v2)|null|
+|**2022-04-26**|**Observer Design for an Inertia Wheel Pendulum with Static Friction**|L. Ecker et.al.|[2204.12269v1](http://arxiv.org/abs/2204.12269v1)|null|
+|**2019-09-08**|**Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Comparative Study**|Jérôme Rony et.al.|[1909.03354v5](http://arxiv.org/abs/1909.03354v5)|[link](https://github.com/jeromerony/survey_wsl_histology)|
+|**2022-03-16**|**Variability Selected Active Galactic Nuclei from ASAS-SN Survey: Constraining the Low Luminosity AGN Population**|Heechan Yuk et.al.|[2203.08348v2](http://arxiv.org/abs/2203.08348v2)|null|
+|**2017-09-14**|**Semi-standard partial covariance variable selection when irrepresentable conditions fail**|Fei Xue et.al.|[1709.04840v2](http://arxiv.org/abs/1709.04840v2)|null|
+|**2021-05-12**|**Dimension-free Mixing for High-dimensional Bayesian Variable Selection**|Quan Zhou et.al.|[2105.05719v3](http://arxiv.org/abs/2105.05719v3)|null|
+|**2022-04-22**|**Analysing Opportunity Cost of Care Work using Mixed Effects Random Forests under Aggregated Census Data**|Patrick Krennmair et.al.|[2204.10736v1](http://arxiv.org/abs/2204.10736v1)|null|
