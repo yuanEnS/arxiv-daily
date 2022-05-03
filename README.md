@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-03 07:30:33 Asia/Shanghai
+ Automated deployment @ 2022-05-03 19:28:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,27 +16,31 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-06-05**|**MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph**|Mengying Sun et.al.|[2106.04509v2](http://arxiv.org/abs/2106.04509v2)|[link](https://github.com/illidanlab/MoCL-DK)|
+|**2022-05-02**|**Detection Recovery in Online Multi-Object Tracking with Sparse Graph Tracker**|Jeongseok Hyun et.al.|[2205.00968v1](http://arxiv.org/abs/2205.00968v1)|null|
+|**2022-05-02**|**FastGCL: Fast Self-Supervised Learning on Graphs via Contrastive Neighborhood Aggregation**|Yuansheng Wang et.al.|[2205.00905v1](http://arxiv.org/abs/2205.00905v1)|null|
+|**2022-05-02**|**Large Neighborhood Search based on Neural Construction Heuristics**|Jonas K. Falkner et.al.|[2205.00772v1](http://arxiv.org/abs/2205.00772v1)|[link](https://github.com/jokofa/jampr_plus)|
+|**2021-12-06**|**JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering**|Yueqing Sun et.al.|[2112.02732v2](http://arxiv.org/abs/2112.02732v2)|null|
+|**2021-11-12**|**Implicit vs Unfolded Graph Neural Networks**|Yongyi Yang et.al.|[2111.06592v2](http://arxiv.org/abs/2111.06592v2)|null|
+|**2022-04-23**|**Long-term Spatio-temporal Forecasting via Dynamic Multiple-Graph Attention**|Wei Shao et.al.|[2204.11008v3](http://arxiv.org/abs/2204.11008v3)|null|
+|**2022-04-08**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v2](http://arxiv.org/abs/2204.04046v2)|[link](https://github.com/wenqian-zhang/kcd)|
+|**2022-05-02**|**Extracting Symbolic Models of Collective Behaviors with Graph Neural Networks and Macro-Micro Evolution**|Stephen Powers et.al.|[2205.00614v1](http://arxiv.org/abs/2205.00614v1)|null|
+|**2022-05-01**|**Heterogeneous graph neural network for power allocation in multicarrier-division duplex cell-free massive MIMO systems**|Bohan Li et.al.|[2205.00546v1](http://arxiv.org/abs/2205.00546v1)|null|
+|**2022-04-30**|**Graph Anisotropic Diffusion**|Ahmed A. A. Elhag et.al.|[2205.00354v1](http://arxiv.org/abs/2205.00354v1)|[link](https://github.com/ahmed-a-a-elhag/gad)|
+|**2022-04-30**|**Heterogeneous Graph Neural Networks using Self-supervised Reciprocally Contrastive Learning**|Di Jin et.al.|[2205.00256v1](http://arxiv.org/abs/2205.00256v1)|null|
 |**2022-02-05**|**MarkovGNN: Graph Neural Networks on Markov Diffusion**|Md. Khaledur Rahman et.al.|[2202.02470v2](http://arxiv.org/abs/2202.02470v2)|[link](https://github.com/hipgraph/markovgnn)|
 |**2022-01-24**|**Large-Scale Graph Reinforcement Learning in Wireless Control Systems**|Vinicius Lima et.al.|[2201.09859v2](http://arxiv.org/abs/2201.09859v2)|null|
 |**2022-04-14**|**Finding MNEMON: Reviving Memories of Node Embeddings**|Yun Shen et.al.|[2204.06963v2](http://arxiv.org/abs/2204.06963v2)|null|
-|**2022-04-29**|**Size Generalization for Resource Allocation with Graph Neural Networks**|Wu Jiajun et.al.|[2204.13972v1](http://arxiv.org/abs/2204.13972v1)|null|
-|**2022-04-28**|**Distributed Auto-Learning GNN for Multi-Cell Cluster-Free NOMA Communications**|Xiaoxia Xu et.al.|[2204.13766v1](http://arxiv.org/abs/2204.13766v1)|null|
-|**2022-04-28**|**Learning cosmology and clustering with cosmic graphs**|Pablo Villanueva-Domingo et.al.|[2204.13713v1](http://arxiv.org/abs/2204.13713v1)|[link](https://github.com/PabloVD/CosmoGraphNet)|
-|**2021-12-08**|**Forecasting Brain Activity Based on Models of Spatio-Temporal Brain Dynamics: A Comparison of Graph Neural Network Architectures**|Simon Wein et.al.|[2112.04266v2](http://arxiv.org/abs/2112.04266v2)|[link](https://github.com/simonvino/DCRNN_brain_connectivity)|
-|**2022-04-28**|**TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection**|Sijia Li et.al.|[2204.13442v1](http://arxiv.org/abs/2204.13442v1)|null|
-|**2022-04-14**|**Galaxies and Halos on Graph Neural Networks: Deep Generative Modeling Scalar and Vector Quantities for Intrinsic Alignment**|Yesukhei Jagvaral et.al.|[2204.07077v2](http://arxiv.org/abs/2204.07077v2)|null|
-|**2022-04-28**|**DOTIN: Dropping Task-Irrelevant Nodes for GNNs**|Shaofeng Zhang et.al.|[2204.13429v1](http://arxiv.org/abs/2204.13429v1)|null|
-|**2021-11-02**|**Improved Constraints on Effective Top Quark Interactions using Edge Convolution Networks**|Oliver Atkinson et.al.|[2111.01838v2](http://arxiv.org/abs/2111.01838v2)|null|
-|**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa et.al.|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
-|**2022-04-04**|**GraFN: Semi-Supervised Node Classification on Graph with Few Labels via Non-Parametric Distribution Assignment**|Junseok Lee et.al.|[2204.01303v3](http://arxiv.org/abs/2204.01303v3)|[link](https://github.com/junseok0207/grafn)|
-|**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v2](http://arxiv.org/abs/2201.09871v2)|[link](https://github.com/uoguelph-mlrg/ggm-metrics)|
-|**2022-04-27**|**SSR-GNNs: Stroke-based Sketch Representation with Graph Neural Networks**|Sheng Cheng et.al.|[2204.13153v1](http://arxiv.org/abs/2204.13153v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-02**|**Graphical Evidence**|Anindya Bhadra et.al.|[2205.01016v1](http://arxiv.org/abs/2205.01016v1)|null|
+|**2022-04-30**|**Identification of Physical Processes and Unknown Parameters of 3D Groundwater Contaminant Problems via Theory-guided U-net**|Tianhao He et.al.|[2205.00134v1](http://arxiv.org/abs/2205.00134v1)|null|
+|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v5](http://arxiv.org/abs/2110.08633v5)|[link](https://github.com/knagrecha/hydra)|
+|**2022-04-27**|**Objective crystallographic symmetry classifications of a noisy crystal pattern with strong Fedorov type pseudosymmetries and its optimal image-quality enhancement**|Peter Moeck et.al.|[2204.13107v2](http://arxiv.org/abs/2204.13107v2)|null|
 |**2022-04-29**|**Exploration and Exploitation in Federated Learning to Exclude Clients with Poisoned Data**|Shadha Tabatabai et.al.|[2204.14020v1](http://arxiv.org/abs/2204.14020v1)|null|
 |**2022-01-17**|**Evaluation of HTR models without Ground Truth Material**|Phillip Benjamin Ströbel et.al.|[2201.06170v2](http://arxiv.org/abs/2201.06170v2)|[link](https://github.com/pstroe/atr-eval)|
 |**2022-04-29**|**Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer**|Haoran Xu et.al.|[2204.13869v1](http://arxiv.org/abs/2204.13869v1)|null|
@@ -48,31 +52,8 @@
 |**2022-04-28**|**Model Selection, Adaptation, and Combination for Deep Transfer Learning through Neural Networks in Renewable Energies**|Jens Schreiber et.al.|[2204.13293v1](http://arxiv.org/abs/2204.13293v1)|null|
 |**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v2](http://arxiv.org/abs/2201.09871v2)|[link](https://github.com/uoguelph-mlrg/ggm-metrics)|
 |**2020-07-30**|**A Power Analysis for Model-X Knockoffs with $\ell_{p}$-Regularized Statistics**|Asaf Weinstein et.al.|[2007.15346v2](http://arxiv.org/abs/2007.15346v2)|null|
-|**2022-04-27**|**Objective crystallographic symmetry classifications of a noisy crystal pattern with strong Fedorov type pseudosymmetries and its optimal image-quality enhancement**|Peter Moeck et.al.|[2204.13107v1](http://arxiv.org/abs/2204.13107v1)|null|
-|**2021-10-14**|**A Distribution-Free Independence Test for High Dimension Data**|Zhanrui Cai et.al.|[2110.07652v2](http://arxiv.org/abs/2110.07652v2)|null|
-|**2022-04-26**|**Observer Design for an Inertia Wheel Pendulum with Static Friction**|L. Ecker et.al.|[2204.12269v1](http://arxiv.org/abs/2204.12269v1)|null|
-|**2019-09-08**|**Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Comparative Study**|Jérôme Rony et.al.|[1909.03354v5](http://arxiv.org/abs/1909.03354v5)|[link](https://github.com/jeromerony/survey_wsl_histology)|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
-|**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
-|**2022-04-21**|**Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories**|Jiaxin Ding et.al.|[2204.10053v1](http://arxiv.org/abs/2204.10053v1)|null|
-|**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v3](http://arxiv.org/abs/2204.08816v3)|[link](https://github.com/inigoval/fixmatch)|
-|**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
-|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v2](http://arxiv.org/abs/2112.13272v2)|null|
-|**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
-|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
-|**2022-04-02**|**StyleWaveGAN: Style-based synthesis of drum sounds with extensive controls using generative adversarial networks**|Antoine Lavault et.al.|[2204.00907v1](http://arxiv.org/abs/2204.00907v1)|null|
-|**2020-02-24**|**xAI-GAN: Enhancing Generative Adversarial Networks via Explainable AI Systems**|Vineel Nagisetty et.al.|[2002.10438v3](http://arxiv.org/abs/2002.10438v3)|null|
-|**2021-08-02**|**PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series**|Jeha Paul et.al.|[2108.00981v3](http://arxiv.org/abs/2108.00981v3)|[link](https://github.com/awslabs/gluon-ts)|
-|**2022-03-28**|**Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation**|Naofumi Akimoto et.al.|[2203.14668v1](http://arxiv.org/abs/2203.14668v1)|null|
-|**2021-11-06**|**Parametric and nonparametric probability distribution estimators of sample maximum**|Taku Moriyama et.al.|[2111.03765v4](http://arxiv.org/abs/2111.03765v4)|null|
-|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v1](http://arxiv.org/abs/2203.12996v1)|null|
-|**2022-03-19**|**On Practical Nearest Sub-Trajectory Queries under the Fréchet Distance**|Joachim Gudmundsson et.al.|[2203.10364v1](http://arxiv.org/abs/2203.10364v1)|[link](https://github.com/japfeifer/frechet-queries)|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,3 +73,22 @@
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
+|**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
+|**2022-04-21**|**Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories**|Jiaxin Ding et.al.|[2204.10053v1](http://arxiv.org/abs/2204.10053v1)|null|
+|**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v3](http://arxiv.org/abs/2204.08816v3)|[link](https://github.com/inigoval/fixmatch)|
+|**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
+|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v2](http://arxiv.org/abs/2112.13272v2)|null|
+|**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
+|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
+|**2022-04-02**|**StyleWaveGAN: Style-based synthesis of drum sounds with extensive controls using generative adversarial networks**|Antoine Lavault et.al.|[2204.00907v1](http://arxiv.org/abs/2204.00907v1)|null|
+|**2020-02-24**|**xAI-GAN: Enhancing Generative Adversarial Networks via Explainable AI Systems**|Vineel Nagisetty et.al.|[2002.10438v3](http://arxiv.org/abs/2002.10438v3)|null|
+|**2021-08-02**|**PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series**|Jeha Paul et.al.|[2108.00981v3](http://arxiv.org/abs/2108.00981v3)|[link](https://github.com/awslabs/gluon-ts)|
+|**2022-03-28**|**Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation**|Naofumi Akimoto et.al.|[2203.14668v1](http://arxiv.org/abs/2203.14668v1)|null|
+|**2021-11-06**|**Parametric and nonparametric probability distribution estimators of sample maximum**|Taku Moriyama et.al.|[2111.03765v4](http://arxiv.org/abs/2111.03765v4)|null|
+|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v1](http://arxiv.org/abs/2203.12996v1)|null|
+|**2022-03-19**|**On Practical Nearest Sub-Trajectory Queries under the Fréchet Distance**|Joachim Gudmundsson et.al.|[2203.10364v1](http://arxiv.org/abs/2203.10364v1)|[link](https://github.com/japfeifer/frechet-queries)|
