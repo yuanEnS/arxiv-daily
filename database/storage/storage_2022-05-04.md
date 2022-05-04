@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-04 07:28:53 Asia/Shanghai
+ Automated deployment @ 2022-05-04 19:24:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-03**|**DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks**|Shih-Yang Su et.al.|[2205.01666v1](http://arxiv.org/abs/2205.01666v1)|null|
+|**2021-11-20**|**Retrieve-then-extract Based Knowledge Graph Querying Using Graph Neural Networks**|Hanning Gao et.al.|[2111.10541v3](http://arxiv.org/abs/2111.10541v3)|null|
+|**2022-05-03**|**HL-Net: Heterophily Learning Network for Scene Graph Generatio**|Xin Lin et.al.|[2205.01316v1](http://arxiv.org/abs/2205.01316v1)|null|
+|**2022-05-03**|**RU-Net: Regularized Unrolling Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01297v1](http://arxiv.org/abs/2205.01297v1)|null|
+|**2022-05-02**|**FINETUNA: Fine-tuning Accelerated Molecular Simulations**|Joseph Musielewicz et.al.|[2205.01223v1](http://arxiv.org/abs/2205.01223v1)|null|
 |**2021-06-05**|**MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph**|Mengying Sun et.al.|[2106.04509v2](http://arxiv.org/abs/2106.04509v2)|[link](https://github.com/illidanlab/MoCL-DK)|
 |**2022-05-02**|**Detection Recovery in Online Multi-Object Tracking with Sparse Graph Tracker**|Jeongseok Hyun et.al.|[2205.00968v1](http://arxiv.org/abs/2205.00968v1)|null|
 |**2022-05-02**|**FastGCL: Fast Self-Supervised Learning on Graphs via Contrastive Neighborhood Aggregation**|Yuansheng Wang et.al.|[2205.00905v1](http://arxiv.org/abs/2205.00905v1)|null|
@@ -26,38 +31,14 @@
 |**2022-04-08**|**KCD: Knowledge Walks and Textual Cues Enhanced Political Perspective Detection in News Media**|Wenqian Zhang et.al.|[2204.04046v2](http://arxiv.org/abs/2204.04046v2)|[link](https://github.com/wenqian-zhang/kcd)|
 |**2022-05-02**|**Extracting Symbolic Models of Collective Behaviors with Graph Neural Networks and Macro-Micro Evolution**|Stephen Powers et.al.|[2205.00614v1](http://arxiv.org/abs/2205.00614v1)|null|
 |**2022-05-01**|**Heterogeneous graph neural network for power allocation in multicarrier-division duplex cell-free massive MIMO systems**|Bohan Li et.al.|[2205.00546v1](http://arxiv.org/abs/2205.00546v1)|null|
-|**2022-04-30**|**Graph Anisotropic Diffusion**|Ahmed A. A. Elhag et.al.|[2205.00354v1](http://arxiv.org/abs/2205.00354v1)|[link](https://github.com/ahmed-a-a-elhag/gad)|
-|**2022-04-30**|**Heterogeneous Graph Neural Networks using Self-supervised Reciprocally Contrastive Learning**|Di Jin et.al.|[2205.00256v1](http://arxiv.org/abs/2205.00256v1)|null|
-|**2022-02-05**|**MarkovGNN: Graph Neural Networks on Markov Diffusion**|Md. Khaledur Rahman et.al.|[2202.02470v2](http://arxiv.org/abs/2202.02470v2)|[link](https://github.com/hipgraph/markovgnn)|
-|**2022-01-24**|**Large-Scale Graph Reinforcement Learning in Wireless Control Systems**|Vinicius Lima et.al.|[2201.09859v2](http://arxiv.org/abs/2201.09859v2)|null|
-|**2022-04-14**|**Finding MNEMON: Reviving Memories of Node Embeddings**|Yun Shen et.al.|[2204.06963v2](http://arxiv.org/abs/2204.06963v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-02**|**Graphical Evidence**|Anindya Bhadra et.al.|[2205.01016v1](http://arxiv.org/abs/2205.01016v1)|null|
-|**2022-04-30**|**Identification of Physical Processes and Unknown Parameters of 3D Groundwater Contaminant Problems via Theory-guided U-net**|Tianhao He et.al.|[2205.00134v1](http://arxiv.org/abs/2205.00134v1)|null|
-|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v5](http://arxiv.org/abs/2110.08633v5)|[link](https://github.com/knagrecha/hydra)|
-|**2022-04-27**|**Objective crystallographic symmetry classifications of a noisy crystal pattern with strong Fedorov type pseudosymmetries and its optimal image-quality enhancement**|Peter Moeck et.al.|[2204.13107v2](http://arxiv.org/abs/2204.13107v2)|null|
-|**2022-04-29**|**Exploration and Exploitation in Federated Learning to Exclude Clients with Poisoned Data**|Shadha Tabatabai et.al.|[2204.14020v1](http://arxiv.org/abs/2204.14020v1)|null|
-|**2022-01-17**|**Evaluation of HTR models without Ground Truth Material**|Phillip Benjamin Ströbel et.al.|[2201.06170v2](http://arxiv.org/abs/2201.06170v2)|[link](https://github.com/pstroe/atr-eval)|
-|**2022-04-29**|**Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer**|Haoran Xu et.al.|[2204.13869v1](http://arxiv.org/abs/2204.13869v1)|null|
-|**2022-04-28**|**High Dimensional Bayesian Optimization with Kernel Principal Component Analysis**|Kirill Antonov et.al.|[2204.13753v1](http://arxiv.org/abs/2204.13753v1)|null|
-|**2022-04-28**|**Flavour and dark matter in a scoto/type-II seesaw model**|D. M. Barreiros et.al.|[2204.13605v1](http://arxiv.org/abs/2204.13605v1)|null|
-|**2019-02-21**|**Approximate selective inference via maximum likelihood**|Snigdha Panigrahi et.al.|[1902.07884v5](http://arxiv.org/abs/1902.07884v5)|null|
-|**2022-04-28**|**A robust Bayesian analysis of variable selection under prior ignorance**|Tathagata Basu et.al.|[2204.13341v1](http://arxiv.org/abs/2204.13341v1)|null|
-|**2021-08-26**|**Consistent Relative Confidence and Label-Free Model Selection for Convolutional Neural Networks**|Bin Liu et.al.|[2108.11845v7](http://arxiv.org/abs/2108.11845v7)|null|
-|**2022-04-28**|**Model Selection, Adaptation, and Combination for Deep Transfer Learning through Neural Networks in Renewable Energies**|Jens Schreiber et.al.|[2204.13293v1](http://arxiv.org/abs/2204.13293v1)|null|
-|**2022-01-24**|**On Evaluation Metrics for Graph Generative Models**|Rylee Thompson et.al.|[2201.09871v2](http://arxiv.org/abs/2201.09871v2)|[link](https://github.com/uoguelph-mlrg/ggm-metrics)|
-|**2020-07-30**|**A Power Analysis for Model-X Knockoffs with $\ell_{p}$-Regularized Statistics**|Asaf Weinstein et.al.|[2007.15346v2](http://arxiv.org/abs/2007.15346v2)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
+|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
 |**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
 |**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
 |**2022-04-21**|**Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories**|Jiaxin Ding et.al.|[2204.10053v1](http://arxiv.org/abs/2204.10053v1)|null|
@@ -71,8 +52,6 @@
 |**2021-08-02**|**PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series**|Jeha Paul et.al.|[2108.00981v3](http://arxiv.org/abs/2108.00981v3)|[link](https://github.com/awslabs/gluon-ts)|
 |**2022-03-28**|**Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation**|Naofumi Akimoto et.al.|[2203.14668v1](http://arxiv.org/abs/2203.14668v1)|null|
 |**2021-11-06**|**Parametric and nonparametric probability distribution estimators of sample maximum**|Taku Moriyama et.al.|[2111.03765v4](http://arxiv.org/abs/2111.03765v4)|null|
-|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v1](http://arxiv.org/abs/2203.12996v1)|null|
-|**2022-03-19**|**On Practical Nearest Sub-Trajectory Queries under the Fréchet Distance**|Joachim Gudmundsson et.al.|[2203.10364v1](http://arxiv.org/abs/2203.10364v1)|[link](https://github.com/japfeifer/frechet-queries)|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -92,3 +71,24 @@
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-28**|**A robust Bayesian analysis of variable selection under prior ignorance**|Tathagata Basu et.al.|[2204.13341v2](http://arxiv.org/abs/2204.13341v2)|null|
+|**2022-05-03**|**An R Package AZIAD for Analyzing Zero-Inflated and Zero-Altered Data**|Niloufar Dousti Mousavi et.al.|[2205.01294v1](http://arxiv.org/abs/2205.01294v1)|null|
+|**2022-05-03**|**Complementary Goodness of Fit Procedure for Crash Frequency Models**|Mohammadreza Hashemi et.al.|[2205.01279v1](http://arxiv.org/abs/2205.01279v1)|null|
+|**2020-11-13**|**Rank Determination in Tensor Factor Model**|Yuefeng Han et.al.|[2011.07131v2](http://arxiv.org/abs/2011.07131v2)|null|
+|**2017-06-24**|**High-dimensional Linear Regression for Dependent Data with Applications to Nowcasting**|Yuefeng Han et.al.|[1706.07899v3](http://arxiv.org/abs/1706.07899v3)|null|
+|**2022-05-02**|**Graphical Evidence**|Anindya Bhadra et.al.|[2205.01016v1](http://arxiv.org/abs/2205.01016v1)|[link](https://github.com/sagarknk/graphical_evidence)|
+|**2022-04-30**|**Identification of Physical Processes and Unknown Parameters of 3D Groundwater Contaminant Problems via Theory-guided U-net**|Tianhao He et.al.|[2205.00134v1](http://arxiv.org/abs/2205.00134v1)|null|
+|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v5](http://arxiv.org/abs/2110.08633v5)|[link](https://github.com/knagrecha/hydra)|
+|**2022-04-27**|**Objective crystallographic symmetry classifications of a noisy crystal pattern with strong Fedorov type pseudosymmetries and its optimal image-quality enhancement**|Peter Moeck et.al.|[2204.13107v2](http://arxiv.org/abs/2204.13107v2)|null|
+|**2022-04-29**|**Exploration and Exploitation in Federated Learning to Exclude Clients with Poisoned Data**|Shadha Tabatabai et.al.|[2204.14020v1](http://arxiv.org/abs/2204.14020v1)|null|
+|**2022-01-17**|**Evaluation of HTR models without Ground Truth Material**|Phillip Benjamin Ströbel et.al.|[2201.06170v2](http://arxiv.org/abs/2201.06170v2)|[link](https://github.com/pstroe/atr-eval)|
+|**2022-04-29**|**Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer**|Haoran Xu et.al.|[2204.13869v1](http://arxiv.org/abs/2204.13869v1)|null|
+|**2022-04-28**|**High Dimensional Bayesian Optimization with Kernel Principal Component Analysis**|Kirill Antonov et.al.|[2204.13753v1](http://arxiv.org/abs/2204.13753v1)|null|
+|**2022-04-28**|**Flavour and dark matter in a scoto/type-II seesaw model**|D. M. Barreiros et.al.|[2204.13605v1](http://arxiv.org/abs/2204.13605v1)|null|
+|**2019-02-21**|**Approximate selective inference via maximum likelihood**|Snigdha Panigrahi et.al.|[1902.07884v5](http://arxiv.org/abs/1902.07884v5)|null|
