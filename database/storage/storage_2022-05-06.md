@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-06 07:30:31 Asia/Shanghai
+ Automated deployment @ 2022-05-06 19:27:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,8 +16,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-04**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial Action Units Detection**|Xuri Ge et.al.|[2204.01349v3](http://arxiv.org/abs/2204.01349v3)|null|
+|**2022-05-05**|**Towards Fast Simulation of Environmental Fluid Mechanics with Multi-Scale Graph Neural Networks**|Mario Lino et.al.|[2205.02637v1](http://arxiv.org/abs/2205.02637v1)|null|
+|**2021-08-18**|**Predicting Basin Stability of Power Grids using Graph Neural Networks**|Christian Nauck et.al.|[2108.08230v3](http://arxiv.org/abs/2108.08230v3)|[link](https://github.com/pik-icone/paper-companion_predicting-snbs-using-gnn)|
+|**2022-05-01**|**Heterogeneous graph neural network for power allocation in multicarrier-division duplex cell-free massive MIMO systems**|Bohan Li et.al.|[2205.00546v2](http://arxiv.org/abs/2205.00546v2)|null|
+|**2022-05-05**|**Alignahead: Online Cross-Layer Knowledge Extraction on Graph Neural Networks**|Jiongyu Guo et.al.|[2205.02468v1](http://arxiv.org/abs/2205.02468v1)|[link](https://github.com/guojy-eatstg/alignahead)|
+|**2022-05-05**|**COGMEN: COntextualized GNN based Multimodal Emotion recognitioN**|Abhinav Joshi et.al.|[2205.02455v1](http://arxiv.org/abs/2205.02455v1)|[link](https://github.com/exploration-lab/cogmen)|
+|**2022-05-04**|**Who Will Support My Project? Interactive Search of Potential Crowdfunding Investors Through InSearch**|Songheng Zhang et.al.|[2205.02041v2](http://arxiv.org/abs/2205.02041v2)|null|
 |**2022-02-03**|**Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v2](http://arxiv.org/abs/2202.01380v2)|[link](https://github.com/pprachas/abc_dataset)|
-|**2022-05-04**|**Who Will Support My Project? Interactive Search of Potential Crowdfunding Investors Through InSearch**|Zhang et.al.|[2205.02041v1](http://arxiv.org/abs/2205.02041v1)|null|
 |**2022-05-04**|**Multi-subgoal Robot Navigation in Crowds with History Information and Interactions**|Xinyi Yu et.al.|[2205.02003v1](http://arxiv.org/abs/2205.02003v1)|null|
 |**2021-10-17**|**GNN-LM: Language Modeling based on Global Contexts via GNN**|Yuxian Meng et.al.|[2110.08743v5](http://arxiv.org/abs/2110.08743v5)|[link](https://github.com/ShannonAI/GNN-LM)|
 |**2022-05-04**|**Crystal Twins: Self-supervised Learning for Crystalline Material Property Prediction**|Rishikesh Magar et.al.|[2205.01893v1](http://arxiv.org/abs/2205.01893v1)|null|
@@ -25,12 +31,6 @@
 |**2022-05-03**|**HL-Net: Heterophily Learning Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01316v2](http://arxiv.org/abs/2205.01316v2)|null|
 |**2022-05-03**|**DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks**|Shih-Yang Su et.al.|[2205.01666v1](http://arxiv.org/abs/2205.01666v1)|null|
 |**2021-11-20**|**Retrieve-then-extract Based Knowledge Graph Querying Using Graph Neural Networks**|Hanning Gao et.al.|[2111.10541v3](http://arxiv.org/abs/2111.10541v3)|null|
-|**2022-05-03**|**RU-Net: Regularized Unrolling Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01297v1](http://arxiv.org/abs/2205.01297v1)|null|
-|**2022-05-02**|**FINETUNA: Fine-tuning Accelerated Molecular Simulations**|Joseph Musielewicz et.al.|[2205.01223v1](http://arxiv.org/abs/2205.01223v1)|null|
-|**2021-06-05**|**MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph**|Mengying Sun et.al.|[2106.04509v2](http://arxiv.org/abs/2106.04509v2)|[link](https://github.com/illidanlab/MoCL-DK)|
-|**2022-05-02**|**Detection Recovery in Online Multi-Object Tracking with Sparse Graph Tracker**|Jeongseok Hyun et.al.|[2205.00968v1](http://arxiv.org/abs/2205.00968v1)|null|
-|**2022-05-02**|**FastGCL: Fast Self-Supervised Learning on Graphs via Contrastive Neighborhood Aggregation**|Yuansheng Wang et.al.|[2205.00905v1](http://arxiv.org/abs/2205.00905v1)|null|
-|**2022-05-02**|**Large Neighborhood Search based on Neural Construction Heuristics**|Jonas K. Falkner et.al.|[2205.00772v1](http://arxiv.org/abs/2205.00772v1)|[link](https://github.com/jokofa/jampr_plus)|
 
 ## Non-Euclidean Staistics
 
