@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-09 07:29:23 Asia/Shanghai
+ Automated deployment @ 2022-05-09 19:27:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-31**|**AEGNN: Asynchronous Event-based Graph Neural Networks**|Simon Schaefer et.al.|[2203.17149v2](http://arxiv.org/abs/2203.17149v2)|null|
+|**2022-01-19**|**Graph Neural Network-based Android Malware Classification with Jumping Knowledge**|Wai Weng Lo et.al.|[2201.07537v8](http://arxiv.org/abs/2201.07537v8)|null|
+|**2021-09-21**|**Learning General Optimal Policies with Graph Neural Networks: Expressive Power, Transparency, and Limits**|Simon Ståhlberg et.al.|[2109.10129v2](http://arxiv.org/abs/2109.10129v2)|null|
+|**2022-05-06**|**Learning Optimal Propagation for Graph Neural Networks**|Beidi Zhao et.al.|[2205.02998v1](http://arxiv.org/abs/2205.02998v1)|null|
+|**2021-08-02**|**Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks**|Zachary Ravichandran et.al.|[2108.01176v2](http://arxiv.org/abs/2108.01176v2)|null|
+|**2022-05-05**|**RoboCraft: Learning to See, Simulate, and Shape Elasto-Plastic Objects with Graph Networks**|Haochen Shi et.al.|[2205.02909v1](http://arxiv.org/abs/2205.02909v1)|null|
 |**2022-04-04**|**MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial Action Units Detection**|Xuri Ge et.al.|[2204.01349v3](http://arxiv.org/abs/2204.01349v3)|null|
 |**2022-05-05**|**Towards Fast Simulation of Environmental Fluid Mechanics with Multi-Scale Graph Neural Networks**|Mario Lino et.al.|[2205.02637v1](http://arxiv.org/abs/2205.02637v1)|null|
 |**2021-08-18**|**Predicting Basin Stability of Power Grids using Graph Neural Networks**|Christian Nauck et.al.|[2108.08230v3](http://arxiv.org/abs/2108.08230v3)|[link](https://github.com/pik-icone/paper-companion_predicting-snbs-using-gnn)|
@@ -25,33 +31,6 @@
 |**2022-05-04**|**Who Will Support My Project? Interactive Search of Potential Crowdfunding Investors Through InSearch**|Songheng Zhang et.al.|[2205.02041v2](http://arxiv.org/abs/2205.02041v2)|null|
 |**2022-02-03**|**Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v2](http://arxiv.org/abs/2202.01380v2)|[link](https://github.com/pprachas/abc_dataset)|
 |**2022-05-04**|**Multi-subgoal Robot Navigation in Crowds with History Information and Interactions**|Xinyi Yu et.al.|[2205.02003v1](http://arxiv.org/abs/2205.02003v1)|null|
-|**2021-10-17**|**GNN-LM: Language Modeling based on Global Contexts via GNN**|Yuxian Meng et.al.|[2110.08743v5](http://arxiv.org/abs/2110.08743v5)|[link](https://github.com/ShannonAI/GNN-LM)|
-|**2022-05-04**|**Crystal Twins: Self-supervised Learning for Crystalline Material Property Prediction**|Rishikesh Magar et.al.|[2205.01893v1](http://arxiv.org/abs/2205.01893v1)|null|
-|**2022-05-04**|**Great Truths are Always Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models**|Jinhao Jiang et.al.|[2205.01841v1](http://arxiv.org/abs/2205.01841v1)|[link](https://github.com/rucaibox/safe)|
-|**2022-05-03**|**HL-Net: Heterophily Learning Network for Scene Graph Generation**|Xin Lin et.al.|[2205.01316v2](http://arxiv.org/abs/2205.01316v2)|null|
-|**2022-05-03**|**DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks**|Shih-Yang Su et.al.|[2205.01666v1](http://arxiv.org/abs/2205.01666v1)|null|
-|**2021-11-20**|**Retrieve-then-extract Based Knowledge Graph Querying Using Graph Neural Networks**|Hanning Gao et.al.|[2111.10541v3](http://arxiv.org/abs/2111.10541v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2019-06-28**|**Multiple Testing and Variable Selection along the path of the Least Angle Regression**|J. -M. Azaïs et.al.|[1906.12072v5](http://arxiv.org/abs/1906.12072v5)|[link](https://github.com/ydecastro/lar_testing)|
-|**2022-05-04**|**Estimation of prediction error with known covariate shift**|Hui Xu et.al.|[2205.01849v1](http://arxiv.org/abs/2205.01849v1)|null|
-|**2022-04-28**|**A robust Bayesian analysis of variable selection under prior ignorance**|Tathagata Basu et.al.|[2204.13341v2](http://arxiv.org/abs/2204.13341v2)|null|
-|**2022-05-03**|**An R Package AZIAD for Analyzing Zero-Inflated and Zero-Altered Data**|Niloufar Dousti Mousavi et.al.|[2205.01294v1](http://arxiv.org/abs/2205.01294v1)|null|
-|**2022-05-03**|**Complementary Goodness of Fit Procedure for Crash Frequency Models**|Mohammadreza Hashemi et.al.|[2205.01279v1](http://arxiv.org/abs/2205.01279v1)|null|
-|**2020-11-13**|**Rank Determination in Tensor Factor Model**|Yuefeng Han et.al.|[2011.07131v2](http://arxiv.org/abs/2011.07131v2)|null|
-|**2017-06-24**|**High-dimensional Linear Regression for Dependent Data with Applications to Nowcasting**|Yuefeng Han et.al.|[1706.07899v3](http://arxiv.org/abs/1706.07899v3)|null|
-|**2022-05-02**|**Graphical Evidence**|Anindya Bhadra et.al.|[2205.01016v1](http://arxiv.org/abs/2205.01016v1)|[link](https://github.com/sagarknk/graphical_evidence)|
-|**2022-04-30**|**Identification of Physical Processes and Unknown Parameters of 3D Groundwater Contaminant Problems via Theory-guided U-net**|Tianhao He et.al.|[2205.00134v1](http://arxiv.org/abs/2205.00134v1)|null|
-|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v5](http://arxiv.org/abs/2110.08633v5)|[link](https://github.com/knagrecha/hydra)|
-|**2022-04-27**|**Objective crystallographic symmetry classifications of a noisy crystal pattern with strong Fedorov type pseudosymmetries and its optimal image-quality enhancement**|Peter Moeck et.al.|[2204.13107v2](http://arxiv.org/abs/2204.13107v2)|null|
-|**2022-04-29**|**Exploration and Exploitation in Federated Learning to Exclude Clients with Poisoned Data**|Shadha Tabatabai et.al.|[2204.14020v1](http://arxiv.org/abs/2204.14020v1)|null|
-|**2022-01-17**|**Evaluation of HTR models without Ground Truth Material**|Phillip Benjamin Ströbel et.al.|[2201.06170v2](http://arxiv.org/abs/2201.06170v2)|[link](https://github.com/pstroe/atr-eval)|
-|**2022-04-29**|**Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer**|Haoran Xu et.al.|[2204.13869v1](http://arxiv.org/abs/2204.13869v1)|null|
-|**2022-04-28**|**High Dimensional Bayesian Optimization with Kernel Principal Component Analysis**|Kirill Antonov et.al.|[2204.13753v1](http://arxiv.org/abs/2204.13753v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -77,6 +56,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-03**|**Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values**|Ahmed Imtiaz Humayun et.al.|[2203.01993v2](http://arxiv.org/abs/2203.01993v2)|[link](https://github.com/AhmedImtiazPrio/magnet-polarity)|
 |**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
 |**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
 |**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
@@ -91,4 +71,24 @@
 |**2020-02-24**|**xAI-GAN: Enhancing Generative Adversarial Networks via Explainable AI Systems**|Vineel Nagisetty et.al.|[2002.10438v3](http://arxiv.org/abs/2002.10438v3)|null|
 |**2021-08-02**|**PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series**|Jeha Paul et.al.|[2108.00981v3](http://arxiv.org/abs/2108.00981v3)|[link](https://github.com/awslabs/gluon-ts)|
 |**2022-03-28**|**Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation**|Naofumi Akimoto et.al.|[2203.14668v1](http://arxiv.org/abs/2203.14668v1)|null|
-|**2021-11-06**|**Parametric and nonparametric probability distribution estimators of sample maximum**|Taku Moriyama et.al.|[2111.03765v4](http://arxiv.org/abs/2111.03765v4)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-05-06**|**Differentially Private Generalized Linear Models Revisited**|Raman Arora et.al.|[2205.03014v1](http://arxiv.org/abs/2205.03014v1)|null|
+|**2021-10-04**|**Exact asymptotic solutions to nonlinear Hawkes processes: a systematic classification of the steady-state solutions**|Kiyoshi Kanazawa et.al.|[2110.01523v2](http://arxiv.org/abs/2110.01523v2)|null|
+|**2020-07-30**|**Solar: $L_0$ solution path averaging for fast and accurate variable selection in high-dimensional data**|Ning Xu et.al.|[2007.15707v3](http://arxiv.org/abs/2007.15707v3)|[link](https://github.com/isaac2math/solarpy)|
+|**2020-11-13**|**Rank Determination in Tensor Factor Model**|Yuefeng Han et.al.|[2011.07131v3](http://arxiv.org/abs/2011.07131v3)|null|
+|**2021-10-01**|**Belief propagation for permutations, rankings, and partial orders**|George T. Cantwell et.al.|[2110.00513v2](http://arxiv.org/abs/2110.00513v2)|null|
+|**2019-06-28**|**Multiple Testing and Variable Selection along the path of the Least Angle Regression**|J. -M. Azaïs et.al.|[1906.12072v5](http://arxiv.org/abs/1906.12072v5)|[link](https://github.com/ydecastro/lar_testing)|
+|**2022-05-04**|**Estimation of prediction error with known covariate shift**|Hui Xu et.al.|[2205.01849v1](http://arxiv.org/abs/2205.01849v1)|null|
+|**2022-04-28**|**A robust Bayesian analysis of variable selection under prior ignorance**|Tathagata Basu et.al.|[2204.13341v2](http://arxiv.org/abs/2204.13341v2)|null|
+|**2022-05-03**|**An R Package AZIAD for Analyzing Zero-Inflated and Zero-Altered Data**|Niloufar Dousti Mousavi et.al.|[2205.01294v1](http://arxiv.org/abs/2205.01294v1)|null|
+|**2022-05-03**|**Complementary Goodness of Fit Procedure for Crash Frequency Models**|Mohammadreza Hashemi et.al.|[2205.01279v1](http://arxiv.org/abs/2205.01279v1)|null|
+|**2017-06-24**|**High-dimensional Linear Regression for Dependent Data with Applications to Nowcasting**|Yuefeng Han et.al.|[1706.07899v3](http://arxiv.org/abs/1706.07899v3)|null|
+|**2022-05-02**|**Graphical Evidence**|Anindya Bhadra et.al.|[2205.01016v1](http://arxiv.org/abs/2205.01016v1)|[link](https://github.com/sagarknk/graphical_evidence)|
+|**2022-04-30**|**Identification of Physical Processes and Unknown Parameters of 3D Groundwater Contaminant Problems via Theory-guided U-net**|Tianhao He et.al.|[2205.00134v1](http://arxiv.org/abs/2205.00134v1)|null|
+|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v5](http://arxiv.org/abs/2110.08633v5)|[link](https://github.com/knagrecha/hydra)|
+|**2022-04-27**|**Objective crystallographic symmetry classifications of a noisy crystal pattern with strong Fedorov type pseudosymmetries and its optimal image-quality enhancement**|Peter Moeck et.al.|[2204.13107v2](http://arxiv.org/abs/2204.13107v2)|null|
