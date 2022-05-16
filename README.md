@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-16 07:30:31 Asia/Shanghai
+ Automated deployment @ 2022-05-16 19:27:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,21 +16,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-13**|**Search for nonresonant pair production of highly energetic Higgs bosons decaying to bottom quarks**|CMS Collaboration et.al.|[2205.06667v1](http://arxiv.org/abs/2205.06667v1)|null|
+|**2022-05-13**|**A Graph-based probabilistic geometric deep learning framework with online physics-based corrections to predict the criticality of defects in porous materials**|Vasilis Krokos et.al.|[2205.06562v1](http://arxiv.org/abs/2205.06562v1)|null|
+|**2020-02-11**|**Differentiable Graph Module (DGM) for Graph Convolutional Networks**|Anees Kazi et.al.|[2002.04999v4](http://arxiv.org/abs/2002.04999v4)|[link](https://github.com/lcosmo/DGM_pytorch)|
+|**2022-05-13**|**Simple and Effective Relation-based Embedding Propagation for Knowledge Representation Learning**|Huijuan Wang et.al.|[2205.06456v1](http://arxiv.org/abs/2205.06456v1)|null|
+|**2022-02-18**|**Space4HGNN: A Novel, Modularized and Reproducible Platform to Evaluate Heterogeneous Graph Neural Network**|Tianyu Zhao et.al.|[2202.09177v2](http://arxiv.org/abs/2202.09177v2)|[link](https://github.com/bupt-gamma/space4hgnn)|
+|**2021-12-04**|**A Multi-Strategy based Pre-Training Method for Cold-Start Recommendation**|Bowen Hao et.al.|[2112.02275v3](http://arxiv.org/abs/2112.02275v3)|null|
+|**2022-05-12**|**Learning Based User Scheduling in Reconfigurable Intelligent Surface Assisted Multiuser Downlink**|Zhongze Zhang et.al.|[2205.06396v1](http://arxiv.org/abs/2205.06396v1)|null|
+|**2021-06-07**|**Stability to Deformations in Manifold Neural Networks**|Zhiyang Wang et.al.|[2106.03725v2](http://arxiv.org/abs/2106.03725v2)|null|
+|**2022-05-12**|**Graph Neural Network Modeling of Grain-scale Anisotropic Elastic Behavior using Simulated and Measured Microscale Data**|Darren C. Pagan et.al.|[2205.06324v1](http://arxiv.org/abs/2205.06324v1)|null|
+|**2022-05-12**|**Distribution-Aware Graph Representation Learning for Transient Stability Assessment of Power System**|Kaixuan Chen et.al.|[2205.06576v1](http://arxiv.org/abs/2205.06576v1)|null|
 |**2022-05-12**|**Learning Generalized Policies Without Supervision Using GNNs**|Simon Ståhlberg et.al.|[2205.06002v1](http://arxiv.org/abs/2205.06002v1)|null|
 |**2022-05-12**|**GPN: A Joint Structural Learning Framework for Graph Neural Networks**|Qianggang Ding et.al.|[2205.05964v1](http://arxiv.org/abs/2205.05964v1)|null|
 |**2022-03-23**|**Ethereum Fraud Detection with Heterogeneous Graph Neural Networks**|Hiroki Kanezashi et.al.|[2203.12363v2](http://arxiv.org/abs/2203.12363v2)|null|
 |**2021-09-24**|**How Does Knowledge Graph Embedding Extrapolate to Unseen Data: A Semantic Evidence View**|Ren Li et.al.|[2109.11800v3](http://arxiv.org/abs/2109.11800v3)|[link](https://github.com/renli1024/se-gnn)|
 |**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng et.al.|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
-|**2021-12-04**|**Self-supervised Graph Learning for Occasional Group Recommendation**|Bowen Hao et.al.|[2112.02274v2](http://arxiv.org/abs/2112.02274v2)|null|
-|**2020-03-02**|**Benchmarking Graph Neural Networks**|Vijay Prakash Dwivedi et.al.|[2003.00982v4](http://arxiv.org/abs/2003.00982v4)|[link](https://github.com/graphdeeplearning/benchmarking-gnns)|
-|**2022-05-11**|**Efficient prediction of density functional theory Hamiltonian with graph neural network**|Mao Su et.al.|[2205.05475v1](http://arxiv.org/abs/2205.05475v1)|null|
-|**2022-05-11**|**NDGGNET-A Node Independent Gate based Graph Neural Networks**|Ye Tang et.al.|[2205.05348v1](http://arxiv.org/abs/2205.05348v1)|null|
-|**2022-05-11**|**Spatial-temporal associations representation and application for process monitoring using graph convolution neural network**|Hao Ren et.al.|[2205.05250v1](http://arxiv.org/abs/2205.05250v1)|null|
-|**2022-02-17**|**Learning and Evaluating Graph Neural Network Explanations based on Counterfactual and Factual Reasoning**|Juntao Tan et.al.|[2202.08816v3](http://arxiv.org/abs/2202.08816v3)|[link](https://github.com/chrisjtan/gnn_cff)|
-|**2022-05-02**|**Large Neighborhood Search based on Neural Construction Heuristics**|Jonas K. Falkner et.al.|[2205.00772v2](http://arxiv.org/abs/2205.00772v2)|[link](https://github.com/jokofa/jampr_plus)|
-|**2022-05-10**|**Flow Completion Network: Inferring the Fluid Dynamics from Incomplete Flow Information using Graph Neural Networks**|Xiaodong He et.al.|[2205.04739v1](http://arxiv.org/abs/2205.04739v1)|null|
-|**2022-05-10**|**SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures**|Yunjae Lee et.al.|[2205.04711v1](http://arxiv.org/abs/2205.04711v1)|null|
-|**2022-05-10**|**Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting**|Mingyang Chen et.al.|[2205.04692v1](http://arxiv.org/abs/2205.04692v1)|[link](https://github.com/zjukg/maker)|
 
 ## Non-Euclidean Staistics
 
