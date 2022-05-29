@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-29 07:30:33 Asia/Shanghai
+ Automated deployment @ 2022-05-29 19:26:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,28 +32,26 @@
 |**2022-05-25**|**MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose**|Chenyan Wu et.al.|[2205.12583v1](http://arxiv.org/abs/2205.12583v1)|null|
 |**2022-03-18**|**Deep Reinforcement Learning Guided Graph Neural Networks for Brain Network Analysis**|Xusheng Zhao et.al.|[2203.10093v2](http://arxiv.org/abs/2203.10093v2)|null|
 
-## Variable Selection
+## Non-Euclidean Staistics
 
-### Variable selection
+### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-05-26**|**Verifying Learning-Based Robotic Navigation Systems**|Guy Amir et.al.|[2205.13536v1](http://arxiv.org/abs/2205.13536v1)|null|
-|**2022-05-26**|**A proof of consistency and model-selection optimality on the empirical Bayes method**|Dye SK Sato et.al.|[2205.13224v1](http://arxiv.org/abs/2205.13224v1)|null|
-|**2021-09-21**|**The supremum principle selects simple, transferable models**|Cody Petrie et.al.|[2109.10449v3](http://arxiv.org/abs/2109.10449v3)|null|
-|**2021-07-08**|**Inference and forecasting for continuous-time integer-valued trawl processes**|Mikkel Bennedsen et.al.|[2107.03674v2](http://arxiv.org/abs/2107.03674v2)|[link](https://github.com/mbennedsen/Likelihood-based-IVT)|
-|**2022-05-25**|**Small domain estimation of census coverage: A case study in Bayesian analysis of complex survey data**|Joane S. Elleouet et.al.|[2205.12769v1](http://arxiv.org/abs/2205.12769v1)|null|
-|**2021-03-30**|**Controlling the False Discovery Rate in Transformational Sparsity: Split Knockoffs**|Yang Cao et.al.|[2103.16159v3](http://arxiv.org/abs/2103.16159v3)|[link](https://github.com/yao-lab/split_knockoffs)|
-|**2021-06-17**|**Taming Nonconvexity in Kernel Feature Selection -- Favorable Properties of the Laplace Kernel**|Feng Ruan et.al.|[2106.09387v3](http://arxiv.org/abs/2106.09387v3)|null|
-|**2022-05-25**|**Searching for quasi-periodic oscillations in astrophysical transients using Gaussian processes**|M. Hübner et.al.|[2205.12716v1](http://arxiv.org/abs/2205.12716v1)|[link](https://github.com/moritzthomashuebner/qpoestimation)|
-|**2022-05-25**|**Resampling-Based Multisplit Inference for High-Dimensional Regression**|Anna Vesely et.al.|[2205.12563v1](http://arxiv.org/abs/2205.12563v1)|[link](https://github.com/annavesely/splitflip)|
-|**2022-05-25**|**Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset**|Ashish V. Thapliyal et.al.|[2205.12522v1](http://arxiv.org/abs/2205.12522v1)|null|
-|**2022-05-12**|**Bayesian Physics-Informed Neural Networks for real-world nonlinear dynamical systems**|Kevin Linka et.al.|[2205.08304v2](http://arxiv.org/abs/2205.08304v2)|null|
-|**2022-05-24**|**Fairness in Selection Problems with Strategic Candidates**|Vitalii Emelianov et.al.|[2205.12204v1](http://arxiv.org/abs/2205.12204v1)|null|
-|**2021-10-21**|**Ensemble of Averages: Improving Model Selection and Boosting Performance in Domain Generalization**|Devansh Arpit et.al.|[2110.10832v3](http://arxiv.org/abs/2110.10832v3)|[link](https://github.com/salesforce/ensemble-of-averages)|
-|**2021-06-25**|**A multi-stage machine learning model on diagnosis of esophageal manometry**|Wenjun Kou et.al.|[2106.13869v2](http://arxiv.org/abs/2106.13869v2)|null|
-|**2022-05-24**|**An improved estimator of Shannon entropy with applications to systems with memory**|Juan De Gregorio et.al.|[2205.11931v1](http://arxiv.org/abs/2205.11931v1)|null|
-
-## Non-Euclidean Staistics
+|**2022-05-19**|**Non-Archimedean Fréchet Algebras and the Loop Space of a Hypersurface Complement**|Emile Bouaziz et.al.|[2205.09863v1](http://arxiv.org/abs/2205.09863v1)|null|
+|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v3](http://arxiv.org/abs/2112.13272v3)|null|
+|**2021-09-28**|**Neural Networks in Fréchet spaces**|Fred Espen Benth et.al.|[2109.13512v4](http://arxiv.org/abs/2109.13512v4)|null|
+|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
+|**2022-03-03**|**Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values**|Ahmed Imtiaz Humayun et.al.|[2203.01993v2](http://arxiv.org/abs/2203.01993v2)|[link](https://github.com/AhmedImtiazPrio/magnet-polarity)|
+|**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
+|**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
+|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
+|**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
+|**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
+|**2022-04-21**|**Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories**|Jiaxin Ding et.al.|[2204.10053v1](http://arxiv.org/abs/2204.10053v1)|null|
+|**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
+|**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
+|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
+|**2022-04-02**|**StyleWaveGAN: Style-based synthesis of drum sounds with extensive controls using generative adversarial networks**|Antoine Lavault et.al.|[2204.00907v1](http://arxiv.org/abs/2204.00907v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -74,21 +72,23 @@
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
 
-### Non Eculidean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-05-19**|**Non-Archimedean Fréchet Algebras and the Loop Space of a Hypersurface Complement**|Emile Bouaziz et.al.|[2205.09863v1](http://arxiv.org/abs/2205.09863v1)|null|
-|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v3](http://arxiv.org/abs/2112.13272v3)|null|
-|**2021-09-28**|**Neural Networks in Fréchet spaces**|Fred Espen Benth et.al.|[2109.13512v4](http://arxiv.org/abs/2109.13512v4)|null|
-|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
-|**2022-03-03**|**Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values**|Ahmed Imtiaz Humayun et.al.|[2203.01993v2](http://arxiv.org/abs/2203.01993v2)|[link](https://github.com/AhmedImtiazPrio/magnet-polarity)|
-|**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
-|**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
-|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
-|**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
-|**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
-|**2022-04-21**|**Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories**|Jiaxin Ding et.al.|[2204.10053v1](http://arxiv.org/abs/2204.10053v1)|null|
-|**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
-|**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
-|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
-|**2022-04-02**|**StyleWaveGAN: Style-based synthesis of drum sounds with extensive controls using generative adversarial networks**|Antoine Lavault et.al.|[2204.00907v1](http://arxiv.org/abs/2204.00907v1)|null|
+|**2022-05-26**|**Verifying Learning-Based Robotic Navigation Systems**|Guy Amir et.al.|[2205.13536v1](http://arxiv.org/abs/2205.13536v1)|null|
+|**2022-05-26**|**A proof of consistency and model-selection optimality on the empirical Bayes method**|Dye SK Sato et.al.|[2205.13224v1](http://arxiv.org/abs/2205.13224v1)|null|
+|**2021-09-21**|**The supremum principle selects simple, transferable models**|Cody Petrie et.al.|[2109.10449v3](http://arxiv.org/abs/2109.10449v3)|null|
+|**2021-07-08**|**Inference and forecasting for continuous-time integer-valued trawl processes**|Mikkel Bennedsen et.al.|[2107.03674v2](http://arxiv.org/abs/2107.03674v2)|[link](https://github.com/mbennedsen/Likelihood-based-IVT)|
+|**2022-05-25**|**Small domain estimation of census coverage: A case study in Bayesian analysis of complex survey data**|Joane S. Elleouet et.al.|[2205.12769v1](http://arxiv.org/abs/2205.12769v1)|null|
+|**2021-03-30**|**Controlling the False Discovery Rate in Transformational Sparsity: Split Knockoffs**|Yang Cao et.al.|[2103.16159v3](http://arxiv.org/abs/2103.16159v3)|[link](https://github.com/yao-lab/split_knockoffs)|
+|**2021-06-17**|**Taming Nonconvexity in Kernel Feature Selection -- Favorable Properties of the Laplace Kernel**|Feng Ruan et.al.|[2106.09387v3](http://arxiv.org/abs/2106.09387v3)|null|
+|**2022-05-25**|**Searching for quasi-periodic oscillations in astrophysical transients using Gaussian processes**|M. Hübner et.al.|[2205.12716v1](http://arxiv.org/abs/2205.12716v1)|[link](https://github.com/moritzthomashuebner/qpoestimation)|
+|**2022-05-25**|**Resampling-Based Multisplit Inference for High-Dimensional Regression**|Anna Vesely et.al.|[2205.12563v1](http://arxiv.org/abs/2205.12563v1)|[link](https://github.com/annavesely/splitflip)|
+|**2022-05-25**|**Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset**|Ashish V. Thapliyal et.al.|[2205.12522v1](http://arxiv.org/abs/2205.12522v1)|null|
+|**2022-05-12**|**Bayesian Physics-Informed Neural Networks for real-world nonlinear dynamical systems**|Kevin Linka et.al.|[2205.08304v2](http://arxiv.org/abs/2205.08304v2)|null|
+|**2022-05-24**|**Fairness in Selection Problems with Strategic Candidates**|Vitalii Emelianov et.al.|[2205.12204v1](http://arxiv.org/abs/2205.12204v1)|null|
+|**2021-10-21**|**Ensemble of Averages: Improving Model Selection and Boosting Performance in Domain Generalization**|Devansh Arpit et.al.|[2110.10832v3](http://arxiv.org/abs/2110.10832v3)|[link](https://github.com/salesforce/ensemble-of-averages)|
+|**2021-06-25**|**A multi-stage machine learning model on diagnosis of esophageal manometry**|Wenjun Kou et.al.|[2106.13869v2](http://arxiv.org/abs/2106.13869v2)|null|
+|**2022-05-24**|**An improved estimator of Shannon entropy with applications to systems with memory**|Juan De Gregorio et.al.|[2205.11931v1](http://arxiv.org/abs/2205.11931v1)|null|
