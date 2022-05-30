@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-05-30 07:30:19 Asia/Shanghai
+ Automated deployment @ 2022-05-30 19:28:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,42 +16,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-05-26**|**Sparse Graph Learning for Spatiotemporal Time Series**|Andrea Cini et.al.|[2205.13492v1](http://arxiv.org/abs/2205.13492v1)|null|
-|**2022-05-26**|**Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations**|Ivan Marisca et.al.|[2205.13479v1](http://arxiv.org/abs/2205.13479v1)|null|
-|**2022-05-26**|**How Powerful are K-hop Message Passing Graph Neural Networks**|Jiarui Feng et.al.|[2205.13328v1](http://arxiv.org/abs/2205.13328v1)|null|
-|**2022-05-26**|**DT+GNN: A Fully Explainable Graph Neural Network using Decision Trees**|Peter Müller et.al.|[2205.13234v1](http://arxiv.org/abs/2205.13234v1)|null|
-|**2022-05-25**|**BRIGHT -- Graph Neural Networks in Real-Time Fraud Detection**|Mingxuan Lu et.al.|[2205.13084v1](http://arxiv.org/abs/2205.13084v1)|null|
-|**2022-05-25**|**Improving Subgraph Representation Learning via Multi-View Augmentation**|Yili Shen et.al.|[2205.13038v1](http://arxiv.org/abs/2205.13038v1)|null|
-|**2021-12-15**|**Domain-informed neural networks for interaction localization within astroparticle experiments**|Shixiao Liang et.al.|[2112.07995v2](http://arxiv.org/abs/2112.07995v2)|[link](https://github.com/didactsorg/dinn)|
-|**2022-05-25**|**QGNN: Value Function Factorisation with Graph Neural Networks**|Ryan Kortvelesy et.al.|[2205.13005v1](http://arxiv.org/abs/2205.13005v1)|null|
-|**2022-05-25**|**Robust Reinforcement Learning on Graphs for Logistics optimization**|Zangir Iklassov et.al.|[2205.12888v1](http://arxiv.org/abs/2205.12888v1)|null|
-|**2022-05-25**|**TrustGNN: Graph Neural Network based Trust Evaluation via Learnable Propagative and Composable Nature**|Cuiying Huo et.al.|[2205.12784v1](http://arxiv.org/abs/2205.12784v1)|null|
-|**2022-05-25**|**Service Discovery in Social Internet of Things using Graph Neural Networks**|Aymen Hamrouni et.al.|[2205.12711v1](http://arxiv.org/abs/2205.12711v1)|null|
-|**2022-02-09**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v2](http://arxiv.org/abs/2202.04579v2)|null|
-|**2020-11-24**|**xFraud: Explainable Fraud Transaction Detection**|Susie Xi Rao et.al.|[2011.12193v3](http://arxiv.org/abs/2011.12193v3)|[link](https://github.com/eBay/xFraud)|
-|**2022-05-25**|**MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose**|Chenyan Wu et.al.|[2205.12583v1](http://arxiv.org/abs/2205.12583v1)|null|
-|**2022-03-18**|**Deep Reinforcement Learning Guided Graph Neural Networks for Brain Network Analysis**|Xusheng Zhao et.al.|[2203.10093v2](http://arxiv.org/abs/2203.10093v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-05-26**|**Verifying Learning-Based Robotic Navigation Systems**|Guy Amir et.al.|[2205.13536v1](http://arxiv.org/abs/2205.13536v1)|null|
-|**2022-05-26**|**A proof of consistency and model-selection optimality on the empirical Bayes method**|Dye SK Sato et.al.|[2205.13224v1](http://arxiv.org/abs/2205.13224v1)|null|
-|**2021-09-21**|**The supremum principle selects simple, transferable models**|Cody Petrie et.al.|[2109.10449v3](http://arxiv.org/abs/2109.10449v3)|null|
-|**2021-07-08**|**Inference and forecasting for continuous-time integer-valued trawl processes**|Mikkel Bennedsen et.al.|[2107.03674v2](http://arxiv.org/abs/2107.03674v2)|[link](https://github.com/mbennedsen/Likelihood-based-IVT)|
-|**2022-05-25**|**Small domain estimation of census coverage: A case study in Bayesian analysis of complex survey data**|Joane S. Elleouet et.al.|[2205.12769v1](http://arxiv.org/abs/2205.12769v1)|null|
-|**2021-03-30**|**Controlling the False Discovery Rate in Transformational Sparsity: Split Knockoffs**|Yang Cao et.al.|[2103.16159v3](http://arxiv.org/abs/2103.16159v3)|[link](https://github.com/yao-lab/split_knockoffs)|
-|**2021-06-17**|**Taming Nonconvexity in Kernel Feature Selection -- Favorable Properties of the Laplace Kernel**|Feng Ruan et.al.|[2106.09387v3](http://arxiv.org/abs/2106.09387v3)|null|
-|**2022-05-25**|**Searching for quasi-periodic oscillations in astrophysical transients using Gaussian processes**|M. Hübner et.al.|[2205.12716v1](http://arxiv.org/abs/2205.12716v1)|[link](https://github.com/moritzthomashuebner/qpoestimation)|
-|**2022-05-25**|**Resampling-Based Multisplit Inference for High-Dimensional Regression**|Anna Vesely et.al.|[2205.12563v1](http://arxiv.org/abs/2205.12563v1)|[link](https://github.com/annavesely/splitflip)|
-|**2022-05-25**|**Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset**|Ashish V. Thapliyal et.al.|[2205.12522v1](http://arxiv.org/abs/2205.12522v1)|null|
-|**2022-05-12**|**Bayesian Physics-Informed Neural Networks for real-world nonlinear dynamical systems**|Kevin Linka et.al.|[2205.08304v2](http://arxiv.org/abs/2205.08304v2)|null|
-|**2022-05-24**|**Fairness in Selection Problems with Strategic Candidates**|Vitalii Emelianov et.al.|[2205.12204v1](http://arxiv.org/abs/2205.12204v1)|null|
-|**2021-10-21**|**Ensemble of Averages: Improving Model Selection and Boosting Performance in Domain Generalization**|Devansh Arpit et.al.|[2110.10832v3](http://arxiv.org/abs/2110.10832v3)|[link](https://github.com/salesforce/ensemble-of-averages)|
-|**2021-06-25**|**A multi-stage machine learning model on diagnosis of esophageal manometry**|Wenjun Kou et.al.|[2106.13869v2](http://arxiv.org/abs/2106.13869v2)|null|
-|**2022-05-24**|**An improved estimator of Shannon entropy with applications to systems with memory**|Juan De Gregorio et.al.|[2205.11931v1](http://arxiv.org/abs/2205.11931v1)|null|
+|**2022-05-27**|**Bayesian Robust Graph Contrastive Learning**|Yancheng Wang et.al.|[2205.14109v1](http://arxiv.org/abs/2205.14109v1)|[link](https://github.com/brgcl-code/brgcl-code)|
+|**2022-05-27**|**Learning to Solve Combinatorial Graph Partitioning Problems via Efficient Exploration**|Thomas D. Barrett et.al.|[2205.14105v1](http://arxiv.org/abs/2205.14105v1)|[link](https://github.com/tomdbar/ecord)|
+|**2022-05-27**|**Capturing Graphs with Hypo-Elliptic Diffusions**|Csaba Toth et.al.|[2205.14092v1](http://arxiv.org/abs/2205.14092v1)|[link](https://github.com/tgcsaba/graph2tens)|
+|**2022-05-19**|**Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis**|Maciej Besta et.al.|[2205.09702v3](http://arxiv.org/abs/2205.09702v3)|null|
+|**2022-05-27**|**Deep Ensembles for Graphs with Higher-order Dependencies**|Steven J. Krieg et.al.|[2205.13988v1](http://arxiv.org/abs/2205.13988v1)|null|
+|**2022-05-27**|**Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation**|Bin Lu et.al.|[2205.13954v1](http://arxiv.org/abs/2205.13954v1)|null|
+|**2022-05-27**|**Bias Reduction via Cooperative Bargaining in Synthetic Graph Dataset Generation**|Axel Wassington et.al.|[2205.13901v1](http://arxiv.org/abs/2205.13901v1)|null|
+|**2022-05-27**|**EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks**|Runlin Lei et.al.|[2205.13892v1](http://arxiv.org/abs/2205.13892v1)|null|
+|**2022-05-27**|**Feudal Multi-Agent Reinforcement Learning with Adaptive Network Partition for Traffic Signal Control**|Jinming Ma et.al.|[2205.13836v1](http://arxiv.org/abs/2205.13836v1)|null|
+|**2022-05-27**|**DeepSAT: An EDA-Driven Learning Framework for SAT**|Min Li et.al.|[2205.13745v1](http://arxiv.org/abs/2205.13745v1)|null|
+|**2022-05-27**|**On Consistency in Graph Neural Network Interpretation**|Tianxiang Zhao et.al.|[2205.13733v1](http://arxiv.org/abs/2205.13733v1)|null|
+|**2022-05-27**|**ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting**|Jingwei Guo et.al.|[2205.13700v1](http://arxiv.org/abs/2205.13700v1)|null|
+|**2022-05-26**|**SeedGNN: Graph Neural Networks for Supervised Seeded Graph Matching**|Liren Yu et.al.|[2205.13679v1](http://arxiv.org/abs/2205.13679v1)|null|
+|**2022-05-26**|**Reinforcement Learning Approach for Mapping Applications to Dataflow-Based Coarse-Grained Reconfigurable Array**|Andre Xian Ming Chang et.al.|[2205.13675v1](http://arxiv.org/abs/2205.13675v1)|null|
+|**2022-05-26**|**Transformer for Partial Differential Equations' Operator Learning**|Zijie Li et.al.|[2205.13671v1](http://arxiv.org/abs/2205.13671v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -92,3 +71,24 @@
 |**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
 |**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
 |**2022-04-02**|**StyleWaveGAN: Style-based synthesis of drum sounds with extensive controls using generative adversarial networks**|Antoine Lavault et.al.|[2204.00907v1](http://arxiv.org/abs/2204.00907v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-15**|**Towards a Unified Framework for Uncertainty-aware Nonlinear Variable Selection with Theoretical Guarantees**|Wenying Deng et.al.|[2204.07293v2](http://arxiv.org/abs/2204.07293v2)|null|
+|**2022-03-25**|**Chaos is a Ladder: A New Theoretical Understanding of Contrastive Learning via Augmentation Overlap**|Yifei Wang et.al.|[2203.13457v2](http://arxiv.org/abs/2203.13457v2)|[link](https://github.com/zhangq327/arc)|
+|**2022-05-25**|**Small domain estimation of census coverage: A case study in Bayesian analysis of complex survey data**|Joane S. Elleouet et.al.|[2205.12769v2](http://arxiv.org/abs/2205.12769v2)|null|
+|**2022-05-26**|**Fast variable selection makes scalable Gaussian process BSS-ANOVA a speedy and accurate choice for tabular and time series regression**|David S. Mebane et.al.|[2205.13676v1](http://arxiv.org/abs/2205.13676v1)|null|
+|**2022-05-26**|**Variable Selection for Individualized Treatment Rules with Discrete Outcomes**|Zeyu Bian et.al.|[2205.13609v1](http://arxiv.org/abs/2205.13609v1)|null|
+|**2022-05-26**|**Understanding new tasks through the lens of training data via exponential tilting**|Subha Maity et.al.|[2205.13577v1](http://arxiv.org/abs/2205.13577v1)|[link](https://github.com/smaityumich/exponential-tilting)|
+|**2022-05-26**|**Verifying Learning-Based Robotic Navigation Systems**|Guy Amir et.al.|[2205.13536v1](http://arxiv.org/abs/2205.13536v1)|null|
+|**2022-05-26**|**A proof of consistency and model-selection optimality on the empirical Bayes method**|Dye SK Sato et.al.|[2205.13224v1](http://arxiv.org/abs/2205.13224v1)|null|
+|**2021-09-21**|**The supremum principle selects simple, transferable models**|Cody Petrie et.al.|[2109.10449v3](http://arxiv.org/abs/2109.10449v3)|null|
+|**2021-07-08**|**Inference and forecasting for continuous-time integer-valued trawl processes**|Mikkel Bennedsen et.al.|[2107.03674v2](http://arxiv.org/abs/2107.03674v2)|[link](https://github.com/mbennedsen/Likelihood-based-IVT)|
+|**2021-03-30**|**Controlling the False Discovery Rate in Transformational Sparsity: Split Knockoffs**|Yang Cao et.al.|[2103.16159v3](http://arxiv.org/abs/2103.16159v3)|[link](https://github.com/yao-lab/split_knockoffs)|
+|**2021-06-17**|**Taming Nonconvexity in Kernel Feature Selection -- Favorable Properties of the Laplace Kernel**|Feng Ruan et.al.|[2106.09387v3](http://arxiv.org/abs/2106.09387v3)|null|
+|**2022-05-25**|**Searching for quasi-periodic oscillations in astrophysical transients using Gaussian processes**|M. Hübner et.al.|[2205.12716v1](http://arxiv.org/abs/2205.12716v1)|[link](https://github.com/moritzthomashuebner/qpoestimation)|
+|**2022-05-25**|**Resampling-Based Multisplit Inference for High-Dimensional Regression**|Anna Vesely et.al.|[2205.12563v1](http://arxiv.org/abs/2205.12563v1)|[link](https://github.com/annavesely/splitflip)|
+|**2022-05-25**|**Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset**|Ashish V. Thapliyal et.al.|[2205.12522v1](http://arxiv.org/abs/2205.12522v1)|null|
