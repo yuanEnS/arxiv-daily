@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-04 07:27:56 Asia/Shanghai
+ Automated deployment @ 2022-06-04 19:25:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -31,6 +31,27 @@
 |**2022-06-01**|**Augmenting Message Passing by Retrieving Similar Graphs**|Dingmin Wang et.al.|[2206.00362v1](http://arxiv.org/abs/2206.00362v1)|null|
 |**2022-06-01**|**Regularized by Physics: Graph Neural Network Parametrized Potentials for the Description of Intermolecular Interactions**|Moritz Thürlemann et.al.|[2206.00355v1](http://arxiv.org/abs/2206.00355v1)|[link](https://github.com/rinikerlab/gnnparametrizedff)|
 |**2022-06-01**|**InducT-GCN: Inductive Graph Convolutional Networks for Text Classification**|Kunze Wang et.al.|[2206.00265v1](http://arxiv.org/abs/2206.00265v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-02-23**|**Bayesian Model Selection, the Marginal Likelihood, and Generalization**|Sanae Lotfi et.al.|[2202.11678v2](http://arxiv.org/abs/2202.11678v2)|[link](https://github.com/sanaelotfi/bayesian_model_comparison)|
+|**2022-06-02**|**Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm**|Maud Delattre et.al.|[2206.01012v1](http://arxiv.org/abs/2206.01012v1)|null|
+|**2019-05-25**|**Selective inference after feature selection via multiscale bootstrap**|Yoshikazu Terada et.al.|[1905.10573v5](http://arxiv.org/abs/1905.10573v5)|null|
+|**2020-06-11**|**Probabilistic Best Subset Selection via Gradient-Based Optimization**|Mingzhang Yin et.al.|[2006.06448v4](http://arxiv.org/abs/2006.06448v4)|[link](https://github.com/mingzhang-yin/Probabilistic-Best-Subset)|
+|**2022-05-31**|**Unsupervised Image Representation Learning with Deep Latent Particles**|Tal Daniel et.al.|[2205.15821v1](http://arxiv.org/abs/2205.15821v1)|[link](https://github.com/taldatech/deep-latent-particles-pytorch)|
+|**2021-08-26**|**Consistent Relative Confidence and Label-Free Model Selection for Convolutional Neural Networks**|Bin Liu et.al.|[2108.11845v9](http://arxiv.org/abs/2108.11845v9)|null|
+|**2022-03-14**|**Mixture Components Inference for Sparse Regression: Introduction and Application for Estimation of Neuronal Signal from fMRI BOLD**|Anna Pidnebesna et.al.|[2203.07209v2](http://arxiv.org/abs/2203.07209v2)|null|
+|**2021-01-09**|**Modeling and Detecting Communities in Node Attributed Networks**|Ren Ren et.al.|[2101.03280v4](http://arxiv.org/abs/2101.03280v4)|null|
+|**2022-05-19**|**Time Series Anomaly Detection via Reinforcement Learning-Based Model Selection**|Jiuqi Elise Zhang et.al.|[2205.09884v3](http://arxiv.org/abs/2205.09884v3)|[link](https://github.com/elisejiuqizhang/RLMSAD)|
+|**2022-04-15**|**Towards a Unified Framework for Uncertainty-aware Nonlinear Variable Selection with Theoretical Guarantees**|Wenying Deng et.al.|[2204.07293v2](http://arxiv.org/abs/2204.07293v2)|null|
+|**2022-03-25**|**Chaos is a Ladder: A New Theoretical Understanding of Contrastive Learning via Augmentation Overlap**|Yifei Wang et.al.|[2203.13457v2](http://arxiv.org/abs/2203.13457v2)|[link](https://github.com/zhangq327/arc)|
+|**2022-05-25**|**Small domain estimation of census coverage: A case study in Bayesian analysis of complex survey data**|Joane S. Elleouet et.al.|[2205.12769v2](http://arxiv.org/abs/2205.12769v2)|null|
+|**2022-05-26**|**Fast variable selection makes scalable Gaussian process BSS-ANOVA a speedy and accurate choice for tabular and time series regression**|David S. Mebane et.al.|[2205.13676v1](http://arxiv.org/abs/2205.13676v1)|null|
+|**2022-05-26**|**Variable Selection for Individualized Treatment Rules with Discrete Outcomes**|Zeyu Bian et.al.|[2205.13609v1](http://arxiv.org/abs/2205.13609v1)|null|
+|**2022-05-26**|**Understanding new tasks through the lens of training data via exponential tilting**|Subha Maity et.al.|[2205.13577v1](http://arxiv.org/abs/2205.13577v1)|[link](https://github.com/smaityumich/exponential-tilting)|
 
 ## Non-Euclidean Staistics
 
@@ -71,24 +92,3 @@
 |**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
 |**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
 |**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-02-23**|**Bayesian Model Selection, the Marginal Likelihood, and Generalization**|Sanae Lotfi et.al.|[2202.11678v2](http://arxiv.org/abs/2202.11678v2)|[link](https://github.com/sanaelotfi/bayesian_model_comparison)|
-|**2022-06-02**|**Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm**|Maud Delattre et.al.|[2206.01012v1](http://arxiv.org/abs/2206.01012v1)|null|
-|**2019-05-25**|**Selective inference after feature selection via multiscale bootstrap**|Yoshikazu Terada et.al.|[1905.10573v5](http://arxiv.org/abs/1905.10573v5)|null|
-|**2020-06-11**|**Probabilistic Best Subset Selection via Gradient-Based Optimization**|Mingzhang Yin et.al.|[2006.06448v4](http://arxiv.org/abs/2006.06448v4)|[link](https://github.com/mingzhang-yin/Probabilistic-Best-Subset)|
-|**2022-05-31**|**Unsupervised Image Representation Learning with Deep Latent Particles**|Tal Daniel et.al.|[2205.15821v1](http://arxiv.org/abs/2205.15821v1)|[link](https://github.com/taldatech/deep-latent-particles-pytorch)|
-|**2021-08-26**|**Consistent Relative Confidence and Label-Free Model Selection for Convolutional Neural Networks**|Bin Liu et.al.|[2108.11845v9](http://arxiv.org/abs/2108.11845v9)|null|
-|**2022-03-14**|**Mixture Components Inference for Sparse Regression: Introduction and Application for Estimation of Neuronal Signal from fMRI BOLD**|Anna Pidnebesna et.al.|[2203.07209v2](http://arxiv.org/abs/2203.07209v2)|null|
-|**2021-01-09**|**Modeling and Detecting Communities in Node Attributed Networks**|Ren Ren et.al.|[2101.03280v4](http://arxiv.org/abs/2101.03280v4)|null|
-|**2022-05-19**|**Time Series Anomaly Detection via Reinforcement Learning-Based Model Selection**|Jiuqi Elise Zhang et.al.|[2205.09884v3](http://arxiv.org/abs/2205.09884v3)|[link](https://github.com/elisejiuqizhang/RLMSAD)|
-|**2022-04-15**|**Towards a Unified Framework for Uncertainty-aware Nonlinear Variable Selection with Theoretical Guarantees**|Wenying Deng et.al.|[2204.07293v2](http://arxiv.org/abs/2204.07293v2)|null|
-|**2022-03-25**|**Chaos is a Ladder: A New Theoretical Understanding of Contrastive Learning via Augmentation Overlap**|Yifei Wang et.al.|[2203.13457v2](http://arxiv.org/abs/2203.13457v2)|[link](https://github.com/zhangq327/arc)|
-|**2022-05-25**|**Small domain estimation of census coverage: A case study in Bayesian analysis of complex survey data**|Joane S. Elleouet et.al.|[2205.12769v2](http://arxiv.org/abs/2205.12769v2)|null|
-|**2022-05-26**|**Fast variable selection makes scalable Gaussian process BSS-ANOVA a speedy and accurate choice for tabular and time series regression**|David S. Mebane et.al.|[2205.13676v1](http://arxiv.org/abs/2205.13676v1)|null|
-|**2022-05-26**|**Variable Selection for Individualized Treatment Rules with Discrete Outcomes**|Zeyu Bian et.al.|[2205.13609v1](http://arxiv.org/abs/2205.13609v1)|null|
-|**2022-05-26**|**Understanding new tasks through the lens of training data via exponential tilting**|Subha Maity et.al.|[2205.13577v1](http://arxiv.org/abs/2205.13577v1)|[link](https://github.com/smaityumich/exponential-tilting)|
