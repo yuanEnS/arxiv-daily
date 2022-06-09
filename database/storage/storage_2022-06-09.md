@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-09 07:28:44 Asia/Shanghai
+ Automated deployment @ 2022-06-09 19:25:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,21 +16,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-04-15**|**Convolutions for Spatial Interaction Modeling**|Zhaoen Su et.al.|[2104.07182v3](http://arxiv.org/abs/2104.07182v3)|null|
+|**2022-05-17**|**Generic and Trend-aware Curriculum Learning for Relation Extraction in Graph Neural Networks**|Nidhi Vakil et.al.|[2205.08625v2](http://arxiv.org/abs/2205.08625v2)|null|
+|**2022-02-07**|**Structure-Aware Transformer for Graph Representation Learning**|Dexiong Chen et.al.|[2202.03036v2](http://arxiv.org/abs/2202.03036v2)|[link](https://github.com/borgwardtlab/sat)|
+|**2022-04-01**|**Graph Enhanced Contrastive Learning for Radiology Findings Summarization**|Jinpeng Hu et.al.|[2204.00203v2](http://arxiv.org/abs/2204.00203v2)|[link](https://github.com/jinpeng01/aig_cl)|
+|**2022-06-08**|**Neural Bandit with Arm Group Graph**|Yunzhe Qi et.al.|[2206.03644v1](http://arxiv.org/abs/2206.03644v1)|null|
+|**2022-06-08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v1](http://arxiv.org/abs/2206.03638v1)|null|
+|**2022-03-07**|**Scalable Verification of GNN-based Job Schedulers**|Haoze Wu et.al.|[2203.03153v3](http://arxiv.org/abs/2203.03153v3)|null|
+|**2022-06-07**|**Decoupled Self-supervised Learning for Non-Homophilous Graphs**|Teng Xiao et.al.|[2206.03601v1](http://arxiv.org/abs/2206.03601v1)|null|
 |**2022-06-07**|**FDGNN: Fully Dynamic Graph Neural Network**|Alice Moallemy-Oureh et.al.|[2206.03469v1](http://arxiv.org/abs/2206.03469v1)|null|
 |**2022-06-07**|**Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage**|Yu Wang et.al.|[2206.03426v1](http://arxiv.org/abs/2206.03426v1)|[link](https://github.com/yuwvandy/fairvgnn)|
 |**2022-06-07**|**Utility of Equivariant Message Passing in Cortical Mesh Segmentation**|Dániel Unyi et.al.|[2206.03164v1](http://arxiv.org/abs/2206.03164v1)|[link](https://github.com/daniel-unyi-42/equivariant-cortical-mesh-segmentation)|
 |**2022-01-30**|**On Recoverability of Graph Neural Network Representations**|Maxim Fishman et.al.|[2201.12843v2](http://arxiv.org/abs/2201.12843v2)|[link](https://github.com/anonymous1252022/recoverability)|
+|**2022-06-07**|**A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential Privacy**|Yeqing Qiu et.al.|[2206.03492v1](http://arxiv.org/abs/2206.03492v1)|null|
+|**2022-06-07**|**EiX-GNN : Concept-level eigencentrality explainer for graph neural networks**|Pascal Bourdon et.al.|[2206.03491v1](http://arxiv.org/abs/2206.03491v1)|null|
 |**2022-06-06**|**Graph Rationalization with Environment-based Augmentations**|Gang Liu et.al.|[2206.02886v1](http://arxiv.org/abs/2206.02886v1)|[link](https://github.com/liugangcode/GREA)|
-|**2022-06-06**|**Efficient entity-based reinforcement learning**|Vince Jankovics et.al.|[2206.02855v1](http://arxiv.org/abs/2206.02855v1)|null|
-|**2022-06-06**|**A Bird's-Eye Tutorial of Graph Attention Architectures**|Kaustubh D. Dhole et.al.|[2206.02849v1](http://arxiv.org/abs/2206.02849v1)|null|
-|**2022-02-01**|**Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks**|Zhaoning Yu et.al.|[2202.00529v2](http://arxiv.org/abs/2202.00529v2)|[link](https://github.com/zhaoningyu1996/hm-gnn)|
-|**2022-06-06**|**Neuro CROSS exchange: Learning to CROSS exchange to solve realistic vehicle routing problems**|Minjun Kim et.al.|[2206.02771v1](http://arxiv.org/abs/2206.02771v1)|null|
-|**2022-06-06**|**Robust and Fast Data-Driven Power System State Estimator Using Graph Neural Networks**|Ognjen Kundacina et.al.|[2206.02731v1](http://arxiv.org/abs/2206.02731v1)|null|
-|**2022-06-06**|**Canonical Cortical Graph Neural Networks and its Application for Speech Enhancement in Future Audio-Visual Hearing Aids**|Leandro A. Passos et.al.|[2206.02671v1](http://arxiv.org/abs/2206.02671v1)|null|
-|**2022-06-06**|**Interpolation-based Correlation Reduction Network for Semi-Supervised Graph Learning**|Xihong Yang et.al.|[2206.02796v1](http://arxiv.org/abs/2206.02796v1)|null|
-|**2022-01-10**|**Wind Park Power Prediction: Attention-Based Graph Networks and Deep Learning to Capture Wake Losses**|Lars Ødegaard Bentsen et.al.|[2201.03229v2](http://arxiv.org/abs/2201.03229v2)|null|
-|**2022-03-15**|**Graph Neural Network Sensitivity Under Probabilistic Error Model**|Xinjue Wang et.al.|[2203.07831v2](http://arxiv.org/abs/2203.07831v2)|null|
-|**2022-06-06**|**A Simple yet Effective Method for Graph Classification**|Junran Wu et.al.|[2206.02404v1](http://arxiv.org/abs/2206.02404v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -77,6 +77,7 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-08**|**Model Selection and Inference in Variational Longitudinal Distributed Lag Models**|Mark J. Meyer et.al.|[2206.04012v1](http://arxiv.org/abs/2206.04012v1)|null|
 |**2022-06-07**|**Model selection for robust learning of mutational signatures using Negative Binomial non-negative matrix factorization**|Marta Pelizzola et.al.|[2206.03257v1](http://arxiv.org/abs/2206.03257v1)|[link](https://github.com/martapelizzola/sigmos)|
 |**2022-06-07**|**SubStrat: A Subset-Based Strategy for Faster AutoML**|Teddy Lazebnik et.al.|[2206.03070v1](http://arxiv.org/abs/2206.03070v1)|null|
 |**2022-06-06**|**Local False Discovery Rate Estimation with Competition-Based Procedures for Variable Selection**|Xiaoya Sun et.al.|[2206.02692v1](http://arxiv.org/abs/2206.02692v1)|null|
@@ -91,4 +92,3 @@
 |**2022-06-03**|**Photometric properties of nuclear star clusters and their host galaxies in the Fornax cluster**|Alan H. Su et.al.|[2206.01490v1](http://arxiv.org/abs/2206.01490v1)|null|
 |**2022-02-23**|**Bayesian Model Selection, the Marginal Likelihood, and Generalization**|Sanae Lotfi et.al.|[2202.11678v2](http://arxiv.org/abs/2202.11678v2)|[link](https://github.com/sanaelotfi/bayesian_model_comparison)|
 |**2022-06-02**|**Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm**|Maud Delattre et.al.|[2206.01012v1](http://arxiv.org/abs/2206.01012v1)|null|
-|**2019-05-25**|**Selective inference after feature selection via multiscale bootstrap**|Yoshikazu Terada et.al.|[1905.10573v5](http://arxiv.org/abs/1905.10573v5)|null|
