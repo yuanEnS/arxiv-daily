@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-11 07:28:42 Asia/Shanghai
+ Automated deployment @ 2022-06-11 19:24:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -31,6 +31,27 @@
 |**2022-05-17**|**Generic and Trend-aware Curriculum Learning for Relation Extraction in Graph Neural Networks**|Nidhi Vakil et.al.|[2205.08625v2](http://arxiv.org/abs/2205.08625v2)|null|
 |**2022-02-07**|**Structure-Aware Transformer for Graph Representation Learning**|Dexiong Chen et.al.|[2202.03036v2](http://arxiv.org/abs/2202.03036v2)|[link](https://github.com/borgwardtlab/sat)|
 |**2022-04-01**|**Graph Enhanced Contrastive Learning for Radiology Findings Summarization**|Jinpeng Hu et.al.|[2204.00203v2](http://arxiv.org/abs/2204.00203v2)|[link](https://github.com/jinpeng01/aig_cl)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-03-07**|**Evaluating State of the Art, Forecasting Ensembles- and Meta-learning Strategies for Model Fusion**|Pieter Cawood et.al.|[2203.03279v2](http://arxiv.org/abs/2203.03279v2)|null|
+|**2021-03-10**|**Analyzing cross-talk between superimposed signals: Vector norm dependent hidden Markov models and applications**|Laura Jula Vanegas et.al.|[2103.06071v2](http://arxiv.org/abs/2103.06071v2)|null|
+|**2022-06-08**|**A simple data-driven method to optimise the penalty strengths of penalised models and its application to non-parametric smoothing**|Jens Thomas et.al.|[2206.04067v1](http://arxiv.org/abs/2206.04067v1)|null|
+|**2022-06-08**|**Model Selection and Inference in Variational Longitudinal Distributed Lag Models**|Mark J. Meyer et.al.|[2206.04012v1](http://arxiv.org/abs/2206.04012v1)|null|
+|**2022-06-07**|**Model selection for robust learning of mutational signatures using Negative Binomial non-negative matrix factorization**|Marta Pelizzola et.al.|[2206.03257v1](http://arxiv.org/abs/2206.03257v1)|[link](https://github.com/martapelizzola/sigmos)|
+|**2022-06-07**|**SubStrat: A Subset-Based Strategy for Faster AutoML**|Teddy Lazebnik et.al.|[2206.03070v1](http://arxiv.org/abs/2206.03070v1)|null|
+|**2022-06-06**|**Local False Discovery Rate Estimation with Competition-Based Procedures for Variable Selection**|Xiaoya Sun et.al.|[2206.02692v1](http://arxiv.org/abs/2206.02692v1)|null|
+|**2022-06-06**|**A Regret-Variance Trade-Off in Online Learning**|Dirk van der Hoeven et.al.|[2206.02656v1](http://arxiv.org/abs/2206.02656v1)|null|
+|**2022-06-03**|**Hybrid Models for Mixed Variables in Bayesian Optimization**|Hengrui Luo et.al.|[2206.01409v2](http://arxiv.org/abs/2206.01409v2)|null|
+|**2022-06-06**|**Minimizing the Expected Posterior Entropy Yields Optimal Summary Statistics**|Till Hoffmann et.al.|[2206.02340v1](http://arxiv.org/abs/2206.02340v1)|[link](https://github.com/tillahoffmann/summaries)|
+|**2022-06-05**|**Rotation to Sparse Loadings using $L^p$ Losses and Related Inference Problems**|Xinyi Liu et.al.|[2206.02263v1](http://arxiv.org/abs/2206.02263v1)|null|
+|**2021-05-27**|**Characterizing the SLOPE Trade-off: A Variational Perspective and the Donoho-Tanner Limit**|Zhiqi Bu et.al.|[2105.13302v2](http://arxiv.org/abs/2105.13302v2)|[link](https://github.com/woodyx218/SLOPE_AMP)|
+|**2021-04-28**|**SMLSOM: The shrinking maximum likelihood self-organizing map**|Ryosuke Motegi et.al.|[2104.13971v2](http://arxiv.org/abs/2104.13971v2)|[link](https://github.com/lipryou/smlsom)|
+|**2022-06-03**|**Estimation and variable selection in joint mean and dispersion models applied to mixture experiments**|Edmilson Rodrigues Pinto et.al.|[2206.01806v1](http://arxiv.org/abs/2206.01806v1)|null|
+|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v6](http://arxiv.org/abs/2110.08633v6)|null|
 
 ## Non-Euclidean Staistics
 
@@ -71,24 +92,3 @@
 |**2022-04-21**|**Faster Approximate Covering of Subcurves under the Fréchet Distance**|Frederik Brüning et.al.|[2204.09949v1](http://arxiv.org/abs/2204.09949v1)|null|
 |**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v1](http://arxiv.org/abs/2204.05974v1)|null|
 |**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v1](http://arxiv.org/abs/2204.02482v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-03-07**|**Evaluating State of the Art, Forecasting Ensembles- and Meta-learning Strategies for Model Fusion**|Pieter Cawood et.al.|[2203.03279v2](http://arxiv.org/abs/2203.03279v2)|null|
-|**2021-03-10**|**Analyzing cross-talk between superimposed signals: Vector norm dependent hidden Markov models and applications**|Laura Jula Vanegas et.al.|[2103.06071v2](http://arxiv.org/abs/2103.06071v2)|null|
-|**2022-06-08**|**A simple data-driven method to optimise the penalty strengths of penalised models and its application to non-parametric smoothing**|Jens Thomas et.al.|[2206.04067v1](http://arxiv.org/abs/2206.04067v1)|null|
-|**2022-06-08**|**Model Selection and Inference in Variational Longitudinal Distributed Lag Models**|Mark J. Meyer et.al.|[2206.04012v1](http://arxiv.org/abs/2206.04012v1)|null|
-|**2022-06-07**|**Model selection for robust learning of mutational signatures using Negative Binomial non-negative matrix factorization**|Marta Pelizzola et.al.|[2206.03257v1](http://arxiv.org/abs/2206.03257v1)|[link](https://github.com/martapelizzola/sigmos)|
-|**2022-06-07**|**SubStrat: A Subset-Based Strategy for Faster AutoML**|Teddy Lazebnik et.al.|[2206.03070v1](http://arxiv.org/abs/2206.03070v1)|null|
-|**2022-06-06**|**Local False Discovery Rate Estimation with Competition-Based Procedures for Variable Selection**|Xiaoya Sun et.al.|[2206.02692v1](http://arxiv.org/abs/2206.02692v1)|null|
-|**2022-06-06**|**A Regret-Variance Trade-Off in Online Learning**|Dirk van der Hoeven et.al.|[2206.02656v1](http://arxiv.org/abs/2206.02656v1)|null|
-|**2022-06-03**|**Hybrid Models for Mixed Variables in Bayesian Optimization**|Hengrui Luo et.al.|[2206.01409v2](http://arxiv.org/abs/2206.01409v2)|null|
-|**2022-06-06**|**Minimizing the Expected Posterior Entropy Yields Optimal Summary Statistics**|Till Hoffmann et.al.|[2206.02340v1](http://arxiv.org/abs/2206.02340v1)|[link](https://github.com/tillahoffmann/summaries)|
-|**2022-06-05**|**Rotation to Sparse Loadings using $L^p$ Losses and Related Inference Problems**|Xinyi Liu et.al.|[2206.02263v1](http://arxiv.org/abs/2206.02263v1)|null|
-|**2021-05-27**|**Characterizing the SLOPE Trade-off: A Variational Perspective and the Donoho-Tanner Limit**|Zhiqi Bu et.al.|[2105.13302v2](http://arxiv.org/abs/2105.13302v2)|[link](https://github.com/woodyx218/SLOPE_AMP)|
-|**2021-04-28**|**SMLSOM: The shrinking maximum likelihood self-organizing map**|Ryosuke Motegi et.al.|[2104.13971v2](http://arxiv.org/abs/2104.13971v2)|[link](https://github.com/lipryou/smlsom)|
-|**2022-06-03**|**Estimation and variable selection in joint mean and dispersion models applied to mixture experiments**|Edmilson Rodrigues Pinto et.al.|[2206.01806v1](http://arxiv.org/abs/2206.01806v1)|null|
-|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v6](http://arxiv.org/abs/2110.08633v6)|null|
