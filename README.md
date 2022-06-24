@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-24 07:28:45 Asia/Shanghai
+ Automated deployment @ 2022-06-24 19:25:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-23**|**A Topological characterisation of Weisfeiler-Leman equivalence classes**|Jacob Bamberger et.al.|[2206.11876v1](http://arxiv.org/abs/2206.11876v1)|[link](https://github.com/jacobbamberger/graphcovers)|
+|**2022-06-23**|**Graph Neural Networks for Temperature-Dependent Activity Coefficient Prediction of Solutes in Ionic Liquids**|Jan G. Rittig et.al.|[2206.11776v1](http://arxiv.org/abs/2206.11776v1)|null|
+|**2021-11-14**|**$p$-Laplacian Based Graph Neural Networks**|Guoji Fu et.al.|[2111.07337v2](http://arxiv.org/abs/2111.07337v2)|[link](https://github.com/guoji-fu/pgnns)|
+|**2022-06-23**|**RetroGraph: Retrosynthetic Planning with Graph Search**|Shufang Xie et.al.|[2206.11477v1](http://arxiv.org/abs/2206.11477v1)|[link](https://github.com/binghong-ml/retro_star)|
+|**2021-06-17**|**MHNF: Multi-hop Heterogeneous Neighborhood information Fusion graph representation learning**|Yundong Sun et.al.|[2106.09289v2](http://arxiv.org/abs/2106.09289v2)|[link](https://github.com/phd-lanyu/mhnf)|
+|**2022-03-01**|**Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks**|Haorui Wang et.al.|[2203.00199v5](http://arxiv.org/abs/2203.00199v5)|[link](https://github.com/graph-com/peg)|
 |**2022-04-11**|**Graph Ordering Attention Networks**|Michail Chatzianastasis et.al.|[2204.05351v2](http://arxiv.org/abs/2204.05351v2)|[link](https://github.com/michailchatzianastasis/goat)|
 |**2022-06-22**|**Ordered Subgraph Aggregation Networks**|Chendi Qian et.al.|[2206.11168v1](http://arxiv.org/abs/2206.11168v1)|null|
 |**2022-06-22**|**Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries**|Fabrizio Frasca et.al.|[2206.11140v1](http://arxiv.org/abs/2206.11140v1)|null|
@@ -25,18 +31,13 @@
 |**2022-06-22**|**Agent-based Graph Neural Networks**|Karolis Martinkus et.al.|[2206.11010v1](http://arxiv.org/abs/2206.11010v1)|[link](https://github.com/karolismart/agentnet)|
 |**2022-06-22**|**Graph Neural Networks as Gradient Flows**|Francesco Di Giovanni et.al.|[2206.10991v1](http://arxiv.org/abs/2206.10991v1)|null|
 |**2022-06-22**|**Efficient and effective training of language and graph neural network models**|Vassilis N. Ioannidis et.al.|[2206.10781v1](http://arxiv.org/abs/2206.10781v1)|null|
-|**2022-06-18**|**Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**|Zezhi Shao et.al.|[2206.09112v2](http://arxiv.org/abs/2206.09112v2)|[link](https://github.com/zezhishao/d2stgnn)|
-|**2021-11-25**|**Learning to Search in Task and Motion Planning with Streams**|Mohamed Khodeir et.al.|[2111.13144v2](http://arxiv.org/abs/2111.13144v2)|null|
-|**2022-06-21**|**Nimble GNN Embedding with Tensor-Train Decomposition**|Chunxing Yin et.al.|[2206.10581v1](http://arxiv.org/abs/2206.10581v1)|null|
-|**2022-06-21**|**Personalized Subgraph Federated Learning**|Jinheon Baek et.al.|[2206.10206v1](http://arxiv.org/abs/2206.10206v1)|null|
-|**2022-06-14**|**FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks**|Kaituo Feng et.al.|[2206.06561v2](http://arxiv.org/abs/2206.06561v2)|null|
-|**2022-06-21**|**Benchmarking Node Outlier Detection on Graphs**|Kay Liu et.al.|[2206.10071v1](http://arxiv.org/abs/2206.10071v1)|[link](https://github.com/pygod-team/pygod)|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-22**|**Input-agnostic Certified Group Fairness via Gaussian Parameter Smoothing**|Jiayin Jin et.al.|[2206.11423v1](http://arxiv.org/abs/2206.11423v1)|null|
 |**2022-06-22**|**A Study on the Evaluation of Generative Models**|Eyal Betzalel et.al.|[2206.10935v1](http://arxiv.org/abs/2206.10935v1)|null|
 |**2022-06-21**|**Multifunctions admitting a measurable by seminorm selector in Frechet spaces**|Sokol Bush Kaliaj et.al.|[2206.10337v1](http://arxiv.org/abs/2206.10337v1)|null|
 |**2020-08-17**|**Symmetry structures and brackets for adjoint-symmetries, and their applications I: Main results**|Stephen C. Anco et.al.|[2008.07476v4](http://arxiv.org/abs/2008.07476v4)|null|
@@ -51,7 +52,6 @@
 |**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
 |**2020-11-05**|**Noncommutative $C^k$ Functions and Fréchet Derivatives of Operator Functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v2](http://arxiv.org/abs/2011.03126v2)|null|
 |**2022-04-26**|**Evaluating the Quality of a Synthesized Motion with the Fréchet Motion Distance**|Antoine Maiorca et.al.|[2204.12318v2](http://arxiv.org/abs/2204.12318v2)|[link](https://github.com/antmaio/frechetmotiondistance)|
-|**2022-04-21**|**Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories**|Jiaxin Ding et.al.|[2204.10053v1](http://arxiv.org/abs/2204.10053v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -77,9 +77,11 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2018-12-25**|**Optimal False Discovery Control of Minimax Estimator**|Qifan Song et.al.|[1812.10013v3](http://arxiv.org/abs/1812.10013v3)|null|
 |**2022-05-02**|**Graphical Evidence**|Anindya Bhadra et.al.|[2205.01016v2](http://arxiv.org/abs/2205.01016v2)|[link](https://github.com/sagarknk/graphical_evidence)|
 |**2022-02-11**|**Inference of Multiscale Gaussian Graphical Model**|Do Edmond Sanou et.al.|[2202.05775v2](http://arxiv.org/abs/2202.05775v2)|null|
 |**2022-06-22**|**Diagnostic Tool for Out-of-Sample Model Evaluation**|Ludvig Hult et.al.|[2206.10982v1](http://arxiv.org/abs/2206.10982v1)|[link](https://github.com/el-hult/lal)|
+|**2022-06-22**|**Optimally Weighted Ensembles of Regression Models: Exact Weight Optimization and Applications**|Patrick Echtenbruck et.al.|[2206.11263v1](http://arxiv.org/abs/2206.11263v1)|null|
 |**2022-06-21**|**Comment on "Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection"**|Jonte R. Hance et.al.|[2206.10619v1](http://arxiv.org/abs/2206.10619v1)|null|
 |**2022-06-21**|**Photometric Redshift Uncertainties in Weak Gravitational Lensing Shear Analysis: Models and Marginalization**|Tianqing Zhang et.al.|[2206.10169v1](http://arxiv.org/abs/2206.10169v1)|null|
 |**2021-03-15**|**Sticky PDMP samplers for sparse and local inference problems**|Joris Bierkens et.al.|[2103.08478v3](http://arxiv.org/abs/2103.08478v3)|[link](https://github.com/mschauer/ZigZagBoomerang.jl)|
@@ -90,5 +92,3 @@
 |**2022-06-18**|**Application of a General Family of Bivariate Distributions in Modelling Dependent Competing Risks Data with Associated Model Selection**|Aakash Agrawal et.al.|[2206.09138v1](http://arxiv.org/abs/2206.09138v1)|null|
 |**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v1](http://arxiv.org/abs/2206.08900v1)|null|
 |**2022-06-17**|**Robust Information Criterion for Model Selection in Sparse High-Dimensional Linear Regression Models**|Prakash B. Gohain et.al.|[2206.08731v1](http://arxiv.org/abs/2206.08731v1)|null|
-|**2022-02-24**|**Bayesian Model Averaging of Chain Event Graphs for Robust Explanatory Modelling**|Peter Strong et.al.|[2202.12352v2](http://arxiv.org/abs/2202.12352v2)|[link](https://github.com/peterrhysstrong/cegpy_BMA)|
-|**2021-06-09**|**Feature and Parameter Selection in Stochastic Linear Bandits**|Ahmadreza Moradipari et.al.|[2106.05378v3](http://arxiv.org/abs/2106.05378v3)|null|
