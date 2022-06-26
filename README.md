@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-06-26 07:27:41 Asia/Shanghai
+ Automated deployment @ 2022-06-26 19:24:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -82,6 +82,7 @@
 |**2022-02-11**|**Inference of Multiscale Gaussian Graphical Model**|Do Edmond Sanou et.al.|[2202.05775v2](http://arxiv.org/abs/2202.05775v2)|null|
 |**2022-06-22**|**Diagnostic Tool for Out-of-Sample Model Evaluation**|Ludvig Hult et.al.|[2206.10982v1](http://arxiv.org/abs/2206.10982v1)|[link](https://github.com/el-hult/lal)|
 |**2022-06-22**|**Optimally Weighted Ensembles of Regression Models: Exact Weight Optimization and Applications**|Patrick Echtenbruck et.al.|[2206.11263v1](http://arxiv.org/abs/2206.11263v1)|null|
+|**2018-07-22**|**Finite mixtures of matrix-variate Poisson-log normal distributions for three-way count data**|Anjali Silva et.al.|[1807.08380v2](http://arxiv.org/abs/1807.08380v2)|[link](https://github.com/anjalisilva/mixMVPLN)|
 |**2022-06-21**|**Comment on "Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection"**|Jonte R. Hance et.al.|[2206.10619v1](http://arxiv.org/abs/2206.10619v1)|null|
 |**2022-06-21**|**Photometric Redshift Uncertainties in Weak Gravitational Lensing Shear Analysis: Models and Marginalization**|Tianqing Zhang et.al.|[2206.10169v1](http://arxiv.org/abs/2206.10169v1)|null|
 |**2021-03-15**|**Sticky PDMP samplers for sparse and local inference problems**|Joris Bierkens et.al.|[2103.08478v3](http://arxiv.org/abs/2103.08478v3)|[link](https://github.com/mschauer/ZigZagBoomerang.jl)|
@@ -91,4 +92,3 @@
 |**2022-06-18**|**AutoGML: Fast Automatic Model Selection for Graph Machine Learning**|Namyong Park et.al.|[2206.09280v1](http://arxiv.org/abs/2206.09280v1)|null|
 |**2022-06-18**|**Application of a General Family of Bivariate Distributions in Modelling Dependent Competing Risks Data with Associated Model Selection**|Aakash Agrawal et.al.|[2206.09138v1](http://arxiv.org/abs/2206.09138v1)|null|
 |**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v1](http://arxiv.org/abs/2206.08900v1)|null|
-|**2022-06-17**|**Robust Information Criterion for Model Selection in Sparse High-Dimensional Linear Regression Models**|Prakash B. Gohain et.al.|[2206.08731v1](http://arxiv.org/abs/2206.08731v1)|null|
