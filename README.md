@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-03 07:27:15 Asia/Shanghai
+ Automated deployment @ 2022-07-03 19:25:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -31,27 +31,6 @@
 |**2022-06-28**|**Unraveling intricate processes of glassy dynamics from static structure by machine learning relative motion**|Hayato Shiba et.al.|[2206.14024v1](http://arxiv.org/abs/2206.14024v1)|[link](https://github.com/h3-Open-BDEC/pyg_botan)|
 |**2022-06-28**|**BAGEL: A Benchmark for Assessing Graph Neural Network Explanations**|Mandeep Rathee et.al.|[2206.13983v1](http://arxiv.org/abs/2206.13983v1)|[link](https://github.com/mandeep-rathee/bagel-benchmark)|
 |**2022-06-28**|**RAW-GNN: RAndom Walk Aggregation based Graph Neural Network**|Di Jin et.al.|[2206.13953v1](http://arxiv.org/abs/2206.13953v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-11-08**|**Universal and data-adaptive algorithms for model selection in linear contextual bandits**|Vidya Muthukumar et.al.|[2111.04688v2](http://arxiv.org/abs/2111.04688v2)|null|
-|**2022-06-30**|**On Bayesian Dirichlet Scores for Staged Trees and Chain Event Graphs**|Conor Hughes et.al.|[2206.15322v1](http://arxiv.org/abs/2206.15322v1)|null|
-|**2022-02-23**|**SporTran: a code to estimate transport coefficients from the cepstral analysis of (multivariate) current time series**|Loris Ercole et.al.|[2202.11571v3](http://arxiv.org/abs/2202.11571v3)|[link](https://github.com/lorisercole/sportran)|
-|**2022-06-30**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
-|**2022-06-29**|**Best of Both Worlds Model Selection**|Aldo Pacchiano et.al.|[2206.14912v1](http://arxiv.org/abs/2206.14912v1)|null|
-|**2022-06-29**|**Variable selection in high-dimensional logistic regression models using a whitening approach**|Wencan Zhu et.al.|[2206.14850v1](http://arxiv.org/abs/2206.14850v1)|null|
-|**2020-11-30**|**Phase transitions for support recovery under local differential privacy**|Cristina Butucea et.al.|[2011.14881v3](http://arxiv.org/abs/2011.14881v3)|null|
-|**2022-06-28**|**Bayesian Multi-task Variable Selection with an Application to Differential DAG Analysis**|Guanxun Li et.al.|[2206.14303v1](http://arxiv.org/abs/2206.14303v1)|null|
-|**2022-06-28**|**ABC for model selection and parameter estimation of drill-string bit-rock interaction models and stochastic stability**|Daniel A Castello et.al.|[2206.14609v1](http://arxiv.org/abs/2206.14609v1)|null|
-|**2022-06-21**|**Comment on "Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection"**|Jonte R. Hance et.al.|[2206.10619v2](http://arxiv.org/abs/2206.10619v2)|null|
-|**2022-06-28**|**Exploring linguistic feature and model combination for speech recognition based automatic AD detection**|Yi Wang et.al.|[2206.13758v1](http://arxiv.org/abs/2206.13758v1)|null|
-|**2022-06-27**|**Entropy-based Characterization of Modeling Constraints**|Orestis Loukas et.al.|[2206.14105v1](http://arxiv.org/abs/2206.14105v1)|null|
-|**2021-08-24**|**Dissipative Unified Dark Fluid: Observational Constraints**|Esraa Ali Elkhateeb et.al.|[2108.10905v2](http://arxiv.org/abs/2108.10905v2)|null|
-|**2022-06-27**|**Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift**|Christina Baek et.al.|[2206.13089v1](http://arxiv.org/abs/2206.13089v1)|null|
-|**2022-04-28**|**High Dimensional Bayesian Optimization with Kernel Principal Component Analysis**|Kirill Antonov et.al.|[2204.13753v2](http://arxiv.org/abs/2204.13753v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -92,3 +71,24 @@
 |**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
 |**2022-05-03**|**Some critical point results for Fréchet manifolds**|Kaveh Eftekharinasab et.al.|[2205.01359v1](http://arxiv.org/abs/2205.01359v1)|null|
 |**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v1](http://arxiv.org/abs/2205.01145v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2021-11-08**|**Universal and data-adaptive algorithms for model selection in linear contextual bandits**|Vidya Muthukumar et.al.|[2111.04688v2](http://arxiv.org/abs/2111.04688v2)|null|
+|**2022-06-30**|**On Bayesian Dirichlet Scores for Staged Trees and Chain Event Graphs**|Conor Hughes et.al.|[2206.15322v1](http://arxiv.org/abs/2206.15322v1)|null|
+|**2022-02-23**|**SporTran: a code to estimate transport coefficients from the cepstral analysis of (multivariate) current time series**|Loris Ercole et.al.|[2202.11571v3](http://arxiv.org/abs/2202.11571v3)|[link](https://github.com/lorisercole/sportran)|
+|**2022-06-30**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
+|**2022-06-29**|**Best of Both Worlds Model Selection**|Aldo Pacchiano et.al.|[2206.14912v1](http://arxiv.org/abs/2206.14912v1)|null|
+|**2022-06-29**|**Variable selection in high-dimensional logistic regression models using a whitening approach**|Wencan Zhu et.al.|[2206.14850v1](http://arxiv.org/abs/2206.14850v1)|null|
+|**2020-11-30**|**Phase transitions for support recovery under local differential privacy**|Cristina Butucea et.al.|[2011.14881v3](http://arxiv.org/abs/2011.14881v3)|null|
+|**2022-06-28**|**Bayesian Multi-task Variable Selection with an Application to Differential DAG Analysis**|Guanxun Li et.al.|[2206.14303v1](http://arxiv.org/abs/2206.14303v1)|null|
+|**2022-06-28**|**ABC for model selection and parameter estimation of drill-string bit-rock interaction models and stochastic stability**|Daniel A Castello et.al.|[2206.14609v1](http://arxiv.org/abs/2206.14609v1)|null|
+|**2022-06-21**|**Comment on "Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection"**|Jonte R. Hance et.al.|[2206.10619v2](http://arxiv.org/abs/2206.10619v2)|null|
+|**2022-06-28**|**Exploring linguistic feature and model combination for speech recognition based automatic AD detection**|Yi Wang et.al.|[2206.13758v1](http://arxiv.org/abs/2206.13758v1)|null|
+|**2022-06-27**|**Entropy-based Characterization of Modeling Constraints**|Orestis Loukas et.al.|[2206.14105v1](http://arxiv.org/abs/2206.14105v1)|null|
+|**2021-08-24**|**Dissipative Unified Dark Fluid: Observational Constraints**|Esraa Ali Elkhateeb et.al.|[2108.10905v2](http://arxiv.org/abs/2108.10905v2)|null|
+|**2022-06-27**|**Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift**|Christina Baek et.al.|[2206.13089v1](http://arxiv.org/abs/2206.13089v1)|null|
+|**2022-04-28**|**High Dimensional Bayesian Optimization with Kernel Principal Component Analysis**|Kirill Antonov et.al.|[2204.13753v2](http://arxiv.org/abs/2204.13753v2)|null|
