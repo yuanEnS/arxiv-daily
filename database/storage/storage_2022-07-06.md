@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-06 07:29:53 Asia/Shanghai
+ Automated deployment @ 2022-07-06 19:28:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,21 +16,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-12-04**|**Self-supervised Graph Learning for Occasional Group Recommendation**|Bowen Hao et.al.|[2112.02274v3](http://arxiv.org/abs/2112.02274v3)|null|
+|**2020-06-30**|**Graph Clustering with Graph Neural Networks**|Anton Tsitsulin et.al.|[2006.16904v2](http://arxiv.org/abs/2006.16904v2)|null|
+|**2022-07-05**|**What Do Graph Convolutional Neural Networks Learn?**|Sannat Singh Bhasin et.al.|[2207.01839v1](http://arxiv.org/abs/2207.01839v1)|null|
+|**2022-06-21**|**Transferable Graph Backdoor Attack**|Shuiqiao Yang et.al.|[2207.00425v3](http://arxiv.org/abs/2207.00425v3)|null|
+|**2021-12-17**|**Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers**|Yusra Alkendi et.al.|[2112.09685v2](http://arxiv.org/abs/2112.09685v2)|[link](https://github.com/yusra-alkendi/ed-kogtl)|
 |**2022-02-09**|**Multimodal Audio-Visual Information Fusion using Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v2](http://arxiv.org/abs/2202.04528v2)|null|
 |**2021-10-05**|**Permute Me Softly: Learning Soft Permutations for Graph Representations**|Giannis Nikolentzos et.al.|[2110.01872v2](http://arxiv.org/abs/2110.01872v2)|[link](https://github.com/giannisnik/pi-GNN)|
 |**2022-07-04**|**The Neural-Prediction based Acceleration Algorithm of Column Generation for Graph-Based Set Covering Problems**|Haofeng Yuan et.al.|[2207.01411v1](http://arxiv.org/abs/2207.01411v1)|null|
 |**2022-07-04**|**NodeTrans: A Graph Transfer Learning Approach for Traffic Prediction**|Xueyan Yin et.al.|[2207.01301v1](http://arxiv.org/abs/2207.01301v1)|null|
 |**2022-03-23**|**Ethereum Fraud Detection with Heterogeneous Graph Neural Networks**|Hiroki Kanezashi et.al.|[2203.12363v3](http://arxiv.org/abs/2203.12363v3)|null|
 |**2021-12-03**|**Joint User Scheduling and Beamforming Design for Multiuser MISO Downlink Systems**|S. He et.al.|[2112.01738v2](http://arxiv.org/abs/2112.01738v2)|null|
-|**2022-06-21**|**Transferable Graph Backdoor Attack**|Shuiqiao Yang et.al.|[2207.00425v2](http://arxiv.org/abs/2207.00425v2)|null|
 |**2022-02-03**|**Learning Mechanically Driven Emergent Behavior with Message Passing Neural Networks**|Peerasait Prachaseree et.al.|[2202.01380v3](http://arxiv.org/abs/2202.01380v3)|[link](https://github.com/pprachas/abc_dataset)|
 |**2021-10-28**|**Dist2Cycle: A Simplicial Neural Network for Homology Localization**|Alexandros Dimitrios Keros et.al.|[2110.15182v2](http://arxiv.org/abs/2110.15182v2)|[link](https://github.com/alexdkeros/Dist2Cycle)|
 |**2022-07-03**|**Scalable Polar Code Construction for Successive Cancellation List Decoding: A Graph Neural Network-Based Approach**|Yun Liao et.al.|[2207.01105v1](http://arxiv.org/abs/2207.01105v1)|null|
 |**2022-07-03**|**DiSCoMaT: Distantly Supervised Composition Extraction from Tables in Material Science Articles**|Tanishq Gupta et.al.|[2207.01079v1](http://arxiv.org/abs/2207.01079v1)|null|
-|**2022-07-03**|**A Graph Isomorphism Network with Weighted Multiple Aggregators for Speech Emotion Recognition**|Ying Hu et.al.|[2207.00940v1](http://arxiv.org/abs/2207.00940v1)|null|
-|**2022-07-02**|**Emotion Analysis using Multi-Layered Networks for Graphical Representation of Tweets**|Anna Nguyen et.al.|[2207.00907v1](http://arxiv.org/abs/2207.00907v1)|null|
-|**2022-07-02**|**Tree-constrained Pointer Generator with Graph Neural Network Encodings for Contextual Speech Recognition**|Guangzhi Sun et.al.|[2207.00857v1](http://arxiv.org/abs/2207.00857v1)|null|
-|**2020-12-31**|**Explainability in Graph Neural Networks: A Taxonomic Survey**|Hao Yuan et.al.|[2012.15445v3](http://arxiv.org/abs/2012.15445v3)|null|
 
 ## Non-Euclidean Staistics
 
@@ -77,6 +77,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-05**|**Bayesian model selection for multilevel models using marginal likelihoods**|Tom Edinburgh et.al.|[2207.02144v1](http://arxiv.org/abs/2207.02144v1)|null|
+|**2021-10-21**|**DMS, AE, DAA: methods and applications of adaptive time series model selection, ensemble, and financial evaluation**|Parley Ruogu Yang et.al.|[2110.11156v3](http://arxiv.org/abs/2110.11156v3)|[link](https://github.com/parleyyang/dms-ae-daa)|
+|**2021-12-19**|**Variational Bayes for high-dimensional proportional hazards models with applications within gene expression**|Michael Komodromos et.al.|[2112.10270v2](http://arxiv.org/abs/2112.10270v2)|[link](https://github.com/mkomod/survival.svb)|
 |**2021-05-20**|**Quantifying Topology In Pancreatic Tubular Networks From Live Imaging 3D Microscopy**|Kasra Arnavaz et.al.|[2105.09737v2](http://arxiv.org/abs/2105.09737v2)|null|
 |**2021-12-13**|**Gravelamps: Gravitational Wave Lensing Mass Profile Model Selection**|Mick Wright et.al.|[2112.07012v4](http://arxiv.org/abs/2112.07012v4)|null|
 |**2022-04-28**|**Model Selection, Adaptation, and Combination for Transfer Learning in Wind and Photovoltaic Power Forecasts**|Jens Schreiber et.al.|[2204.13293v2](http://arxiv.org/abs/2204.13293v2)|null|
@@ -89,6 +92,3 @@
 |**2022-02-23**|**SporTran: a code to estimate transport coefficients from the cepstral analysis of (multivariate) current time series**|Loris Ercole et.al.|[2202.11571v3](http://arxiv.org/abs/2202.11571v3)|[link](https://github.com/lorisercole/sportran)|
 |**2022-06-30**|**Lookback for Learning to Branch**|Prateek Gupta et.al.|[2206.14987v1](http://arxiv.org/abs/2206.14987v1)|null|
 |**2022-06-29**|**Best of Both Worlds Model Selection**|Aldo Pacchiano et.al.|[2206.14912v1](http://arxiv.org/abs/2206.14912v1)|null|
-|**2022-06-29**|**Variable selection in high-dimensional logistic regression models using a whitening approach**|Wencan Zhu et.al.|[2206.14850v1](http://arxiv.org/abs/2206.14850v1)|null|
-|**2020-11-30**|**Phase transitions for support recovery under local differential privacy**|Cristina Butucea et.al.|[2011.14881v3](http://arxiv.org/abs/2011.14881v3)|null|
-|**2022-06-28**|**Bayesian Multi-task Variable Selection with an Application to Differential DAG Analysis**|Guanxun Li et.al.|[2206.14303v1](http://arxiv.org/abs/2206.14303v1)|null|
