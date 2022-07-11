@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-11 07:29:27 Asia/Shanghai
+ Automated deployment @ 2022-07-11 19:25:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-08**|**GCN-based Multi-task Representation Learning for Anomaly Detection in Attributed Networks**|Venus Haghighi et.al.|[2207.03688v1](http://arxiv.org/abs/2207.03688v1)|null|
+|**2022-07-08**|**Stability of Aggregation Graph Neural Networks**|Alejandro Parada-Mayorga et.al.|[2207.03678v1](http://arxiv.org/abs/2207.03678v1)|null|
+|**2022-02-28**|**GraphWorld: Fake Graphs Bring Real Insights for GNNs**|John Palowitch et.al.|[2203.00112v2](http://arxiv.org/abs/2203.00112v2)|[link](https://github.com/google-research/graphworld)|
+|**2022-07-07**|**TF-GNN: Graph Neural Networks in TensorFlow**|Oleksandr Ferludin et.al.|[2207.03522v1](http://arxiv.org/abs/2207.03522v1)|null|
 |**2022-01-28**|**Directed Weight Neural Networks for Protein Structure Representation Learning**|Jiahan Li et.al.|[2201.13299v3](http://arxiv.org/abs/2201.13299v3)|null|
 |**2022-07-06**|**Text Enriched Sparse Hyperbolic Graph Convolutional Networks**|Nurendra Choudhary et.al.|[2207.02368v2](http://arxiv.org/abs/2207.02368v2)|null|
 |**2022-07-06**|**Context-aware Self-supervised Learning for Medical Images Using Graph Neural Network**|Li Sun et.al.|[2207.02957v1](http://arxiv.org/abs/2207.02957v1)|null|
@@ -27,16 +31,13 @@
 |**2021-10-16**|**A Heterogeneous Graph Based Framework for Multimodal Neuroimaging Fusion Learning**|Gen Shi et.al.|[2110.08465v4](http://arxiv.org/abs/2110.08465v4)|[link](https://github.com/shigen97/hebraingnn)|
 |**2022-07-05**|**State-Augmented Learnable Algorithms for Resource Management in Wireless Networks**|Navid NaderiAlizadeh et.al.|[2207.02242v1](http://arxiv.org/abs/2207.02242v1)|[link](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
 |**2021-12-04**|**Self-supervised Graph Learning for Occasional Group Recommendation**|Bowen Hao et.al.|[2112.02274v3](http://arxiv.org/abs/2112.02274v3)|null|
-|**2020-06-30**|**Graph Clustering with Graph Neural Networks**|Anton Tsitsulin et.al.|[2006.16904v2](http://arxiv.org/abs/2006.16904v2)|null|
-|**2022-07-05**|**What Do Graph Convolutional Neural Networks Learn?**|Sannat Singh Bhasin et.al.|[2207.01839v1](http://arxiv.org/abs/2207.01839v1)|[link](https://github.com/sannat17/csc413-project)|
-|**2022-06-21**|**Transferable Graph Backdoor Attack**|Shuiqiao Yang et.al.|[2207.00425v3](http://arxiv.org/abs/2207.00425v3)|null|
-|**2021-12-17**|**Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers**|Yusra Alkendi et.al.|[2112.09685v2](http://arxiv.org/abs/2112.09685v2)|[link](https://github.com/yusra-alkendi/ed-kogtl)|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
 |**2022-07-06**|**Text to Image Synthesis using Stacked Conditional Variational Autoencoders and Conditional Generative Adversarial Networks**|Haileleol Tibebu et.al.|[2207.03332v1](http://arxiv.org/abs/2207.03332v1)|null|
 |**2021-11-22**|**Semi-nonparametric Estimation of Operational Risk Capital with Extreme Loss Events**|Heng Z. Chen et.al.|[2111.11459v2](http://arxiv.org/abs/2111.11459v2)|null|
 |**2020-06-19**|**On affirmative solution to Michael's acclaimed problem in the theory of Fréchet algebras, with applications to automatic continuity theory**|S. R. Patel et.al.|[2006.11134v3](http://arxiv.org/abs/2006.11134v3)|null|
@@ -51,11 +52,11 @@
 |**2021-09-28**|**Neural Networks in Fréchet spaces**|Fred Espen Benth et.al.|[2109.13512v4](http://arxiv.org/abs/2109.13512v4)|null|
 |**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v3](http://arxiv.org/abs/2112.13398v3)|null|
 |**2022-03-03**|**Polarity Sampling: Quality and Diversity Control of Pre-Trained Generative Networks via Singular Values**|Ahmed Imtiaz Humayun et.al.|[2203.01993v2](http://arxiv.org/abs/2203.01993v2)|[link](https://github.com/AhmedImtiazPrio/magnet-polarity)|
-|**2022-04-19**|**Radio Galaxy Zoo: Using semi-supervised learning to leverage large unlabelled data-sets for radio galaxy classification under data-set shift**|Inigo V. Slijepcevic et.al.|[2204.08816v4](http://arxiv.org/abs/2204.08816v4)|[link](https://github.com/inigoval/fixmatch)|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
 |**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
@@ -70,13 +71,18 @@
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
 |**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
-|**2020-09-18**|**The Stein Effect for Frechet Means**|Andrew McCormack et.al.|[2009.09101v1](http://arxiv.org/abs/2009.09101v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-22**|**Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations**|Alexander Immer et.al.|[2202.10638v2](http://arxiv.org/abs/2202.10638v2)|null|
+|**2022-03-24**|**Rich Feature Construction for the Optimization-Generalization Dilemma**|Jianyu Zhang et.al.|[2203.15516v2](http://arxiv.org/abs/2203.15516v2)|[link](https://github.com/tjujianyu/rfc)|
+|**2022-06-28**|**ABC for model selection and parameter estimation of drill-string bit-rock interaction models and stochastic stability**|Daniel A Castello et.al.|[2206.14609v2](http://arxiv.org/abs/2206.14609v2)|null|
+|**2022-07-08**|**Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**|Shunyu Liu et.al.|[2207.03902v1](http://arxiv.org/abs/2207.03902v1)|null|
+|**2022-06-25**|**Bayesian Optimization Over Iterative Learners with Structured Responses: A Budget-aware Planning Approach**|Syrine Belakaria et.al.|[2206.12708v2](http://arxiv.org/abs/2206.12708v2)|null|
+|**2022-07-07**|**Transferability of Zr-Zr interatomic potentials**|Oliver G. Nicholls et.al.|[2207.03617v1](http://arxiv.org/abs/2207.03617v1)|null|
 |**2021-09-06**|**Functional additive models on manifolds of planar shapes and forms**|Almond Stöcker et.al.|[2109.02624v4](http://arxiv.org/abs/2109.02624v4)|null|
 |**2021-05-03**|**A Metropolized adaptive subspace algorithm for high-dimensional Bayesian variable selection**|Christian Staerk et.al.|[2105.01039v2](http://arxiv.org/abs/2105.01039v2)|[link](https://github.com/chstaerk/MAdaSub)|
 |**2022-07-06**|**Model Selection in Reinforcement Learning with General Function Approximations**|Avishek Ghosh et.al.|[2207.02992v1](http://arxiv.org/abs/2207.02992v1)|null|
@@ -86,9 +92,3 @@
 |**2022-07-05**|**The R Package BHAM: Fast and Scalable Bayesian Hierarchical Additive Model for High-dimensional Data**|Boyi Guo et.al.|[2207.02348v1](http://arxiv.org/abs/2207.02348v1)|[link](https://github.com/boyiguo1/bham)|
 |**2022-07-05**|**Bayesian model selection for multilevel models using marginal likelihoods**|Tom Edinburgh et.al.|[2207.02144v1](http://arxiv.org/abs/2207.02144v1)|[link](https://github.com/tedinburgh/model-evidence-with-marginal)|
 |**2021-10-21**|**DMS, AE, DAA: methods and applications of adaptive time series model selection, ensemble, and financial evaluation**|Parley Ruogu Yang et.al.|[2110.11156v3](http://arxiv.org/abs/2110.11156v3)|[link](https://github.com/parleyyang/dms-ae-daa)|
-|**2021-12-19**|**Variational Bayes for high-dimensional proportional hazards models with applications within gene expression**|Michael Komodromos et.al.|[2112.10270v2](http://arxiv.org/abs/2112.10270v2)|[link](https://github.com/mkomod/survival.svb)|
-|**2021-05-20**|**Quantifying Topology In Pancreatic Tubular Networks From Live Imaging 3D Microscopy**|Kasra Arnavaz et.al.|[2105.09737v2](http://arxiv.org/abs/2105.09737v2)|null|
-|**2021-12-13**|**Gravelamps: Gravitational Wave Lensing Mass Profile Model Selection**|Mick Wright et.al.|[2112.07012v4](http://arxiv.org/abs/2112.07012v4)|null|
-|**2022-04-28**|**Model Selection, Adaptation, and Combination for Transfer Learning in Wind and Photovoltaic Power Forecasts**|Jens Schreiber et.al.|[2204.13293v2](http://arxiv.org/abs/2204.13293v2)|null|
-|**2022-06-20**|**Double soft-thresholded model for multi-group scalar on vector-valued image regression**|Arkaprava Roy et.al.|[2206.09819v2](http://arxiv.org/abs/2206.09819v2)|null|
-|**2022-07-01**|**Rapidly Mixing Multiple-try Metropolis Algorithms for Model Selection Problems**|Hyunwoong Chang et.al.|[2207.00689v1](http://arxiv.org/abs/2207.00689v1)|null|
