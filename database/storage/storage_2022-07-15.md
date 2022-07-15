@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-15 07:31:15 Asia/Shanghai
+ Automated deployment @ 2022-07-15 19:26:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-14**|**Anomal-E: A Self-Supervised Network Intrusion Detection System based on Graph Neural Networks**|Evan Caville et.al.|[2207.06819v1](http://arxiv.org/abs/2207.06819v1)|null|
+|**2022-07-14**|**GrabQC: Graph based Query Contextualization for automated ICD coding**|Jeshuren Chelladurai et.al.|[2207.06802v1](http://arxiv.org/abs/2207.06802v1)|null|
+|**2022-07-14**|**Subgraph Frequency Distribution Estimation using Graph Neural Networks**|Zhongren Chen et.al.|[2207.06684v1](http://arxiv.org/abs/2207.06684v1)|null|
+|**2022-03-30**|**Protein 3D structure-based neural networks highly improve the accuracy in compound-protein binding affinity prediction**|Binjie Guo et.al.|[2204.12586v2](http://arxiv.org/abs/2204.12586v2)|null|
+|**2022-07-13**|**Graph Neural Network Bandits**|Parnian Kassraie et.al.|[2207.06456v1](http://arxiv.org/abs/2207.06456v1)|null|
 |**2022-07-13**|**QT-Routenet: Improved GNN generalization to larger 5G networks by fine-tuning predictions from queueing theory**|Bruno Klaus de Aquino Afonso et.al.|[2207.06336v1](http://arxiv.org/abs/2207.06336v1)|[link](https://github.com/itu-ai-ml-in-5g-challenge/itu-ml5g-ps-001-parana)|
 |**2022-06-27**|**Learning to Control Local Search for Combinatorial Optimization**|Jonas K. Falkner et.al.|[2206.13181v2](http://arxiv.org/abs/2206.13181v2)|[link](https://github.com/jokofa/neurols)|
 |**2022-07-13**|**Graph Property Prediction on Open Graph Benchmark: A Winning Solution by Graph Neural Architecture Search**|Xu Wang et.al.|[2207.06027v1](http://arxiv.org/abs/2207.06027v1)|[link](https://github.com/automl-research/pas-ogb)|
@@ -26,11 +31,6 @@
 |**2022-07-12**|**Machine Learning model for gas-liquid interface reconstruction in CFD numerical simulations**|Tamon Nakano et.al.|[2207.05684v1](http://arxiv.org/abs/2207.05684v1)|null|
 |**2022-07-12**|**Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation**|Yuhao Yang et.al.|[2207.05584v1](http://arxiv.org/abs/2207.05584v1)|[link](https://github.com/yuh-yang/mbht-kdd22)|
 |**2022-01-16**|**Understanding Political Polarization via Jointly Modeling Users, Connections and Multimodal Contents on Heterogeneous Graphs**|Hanjia Lyu et.al.|[2201.05946v2](http://arxiv.org/abs/2201.05946v2)|null|
-|**2022-07-04**|**The Neural-Prediction based Acceleration Algorithm of Column Generation for Graph-Based Set Covering Problems**|Haofeng Yuan et.al.|[2207.01411v2](http://arxiv.org/abs/2207.01411v2)|null|
-|**2022-05-30**|**CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning**|Di Jin et.al.|[2205.15083v2](http://arxiv.org/abs/2205.15083v2)|null|
-|**2022-07-12**|**A Bipartite Graph Neural Network Approach for Scalable Beamforming Optimization**|Junbeom Kim et.al.|[2207.05364v1](http://arxiv.org/abs/2207.05364v1)|null|
-|**2022-07-11**|**The Cosmic Graph: Optimal Information Extraction from Large-Scale Structure using Catalogues**|T. Lucas Makinen et.al.|[2207.05202v1](http://arxiv.org/abs/2207.05202v1)|[link](https://github.com/tlmakinen/cosmicgraphs)|
-|**2022-07-11**|**Boosting Heterogeneous Catalyst Discovery by Structurally Constrained Deep Learning Models**|Alexey N. Korovin et.al.|[2207.05013v1](http://arxiv.org/abs/2207.05013v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -77,6 +77,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-11-23**|**Trimming Stability Selection increases variable selection robustness**|Tino Werner et.al.|[2111.11818v2](http://arxiv.org/abs/2111.11818v2)|null|
+|**2022-07-14**|**Have we been Naive to Select Machine Learning Models? Noisy Data are here to Stay!**|Felipe Costa Farias et.al.|[2207.06651v1](http://arxiv.org/abs/2207.06651v1)|null|
 |**2022-07-13**|**Dynamic Selection of Perception Models for Robotic Control**|Bineet Ghosh et.al.|[2207.06390v1](http://arxiv.org/abs/2207.06390v1)|null|
 |**2022-07-13**|**Cost-Effective Online Contextual Model Selection**|Xuefeng Liu et.al.|[2207.06030v1](http://arxiv.org/abs/2207.06030v1)|null|
 |**2022-07-12**|**Functional Spherical Autocorrelation: A Robust Estimate of the Autocorrelation of a Functional Time Series**|Chi-Kuang Yeh et.al.|[2207.05806v1](http://arxiv.org/abs/2207.05806v1)|null|
@@ -90,5 +92,3 @@
 |**2022-07-10**|**Energy Trees: Regression and Classification With Structured and Mixed-Type Covariates**|Riccardo Giubilei et.al.|[2207.04430v1](http://arxiv.org/abs/2207.04430v1)|null|
 |**2022-07-09**|**Efficient Depth Selection for the Implementation of Noisy Quantum Approximate Optimization Algorithm**|Yu Pan et.al.|[2207.04263v1](http://arxiv.org/abs/2207.04263v1)|null|
 |**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v1](http://arxiv.org/abs/2207.04248v1)|null|
-|**2022-07-08**|**Sparse additive models in high dimensions with wavelets**|Sylvain Sardy et.al.|[2207.04083v1](http://arxiv.org/abs/2207.04083v1)|[link](https://github.com/statisticsl/sramlet)|
-|**2022-02-22**|**Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations**|Alexander Immer et.al.|[2202.10638v2](http://arxiv.org/abs/2202.10638v2)|null|
