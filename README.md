@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-21 07:30:27 Asia/Shanghai
+ Automated deployment @ 2022-07-21 19:26:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,9 +16,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-20**|**REFACTOR GNNS: Revisiting Factorisation-based Models from a Message-Passing Perspective**|Yihong Chen et.al.|[2207.09980v1](http://arxiv.org/abs/2207.09980v1)|null|
+|**2022-07-20**|**On a Generalized Framework for Time-Aware Knowledge Graphs**|Franz Krause et.al.|[2207.09964v1](http://arxiv.org/abs/2207.09964v1)|null|
+|**2022-07-20**|**Operation-Level Performance Benchmarking of Graph Neural Networks for Scientific Applications**|Ryien Hosseini et.al.|[2207.09955v1](http://arxiv.org/abs/2207.09955v1)|null|
+|**2022-04-11**|**Learning Object-Centered Autotelic Behaviors with Graph Neural Networks**|Ahmed Akakzia et.al.|[2204.05141v2](http://arxiv.org/abs/2204.05141v2)|[link](https://github.com/akakzia/rlgraph)|
+|**2022-07-14**|**Anomal-E: A Self-Supervised Network Intrusion Detection System based on Graph Neural Networks**|Evan Caville et.al.|[2207.06819v2](http://arxiv.org/abs/2207.06819v2)|null|
 |**2022-07-19**|**PoserNet: Refining Relative Camera Poses Exploiting Object Detections**|Matteo Taiana et.al.|[2207.09445v1](http://arxiv.org/abs/2207.09445v1)|[link](https://github.com/iit-pavis/posernet)|
 |**2022-03-02**|**GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation**|Sina Sajadmanesh et.al.|[2203.00949v2](http://arxiv.org/abs/2203.00949v2)|null|
-|**2022-07-19**|**SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization**|Ningyi Liao et.al.|[2207.09179v1](http://arxiv.org/abs/2207.09179v1)|null|
+|**2022-07-19**|**SCARA: Scalable Graph Neural Networks with Feature-Oriented Optimization**|Ningyi Liao et.al.|[2207.09179v1](http://arxiv.org/abs/2207.09179v1)|[link](https://github.com/gdmnl/scara-ppr)|
 |**2022-07-19**|**XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics**|Wai Weng Lo et.al.|[2207.09088v1](http://arxiv.org/abs/2207.09088v1)|null|
 |**2022-02-01**|**GNNRank: Learning Global Rankings from Pairwise Comparisons via Directed Graph Neural Networks**|Yixuan He et.al.|[2202.00211v3](http://arxiv.org/abs/2202.00211v3)|[link](https://github.com/sherylhyx/gnnrank)|
 |**2022-07-18**|**Comprehensive Graph Gradual Pruning for Sparse Training in Graph Neural Networks**|Chuang Liu et.al.|[2207.08629v2](http://arxiv.org/abs/2207.08629v2)|null|
@@ -26,11 +31,6 @@
 |**2022-07-15**|**Learning Long-Term Spatial-Temporal Graphs for Active Speaker Detection**|Kyle Min et.al.|[2207.07783v2](http://arxiv.org/abs/2207.07783v2)|[link](https://github.com/kylemin/SPELL)|
 |**2022-07-11**|**Interference-Limited Ultra-Reliable and Low-Latency Communications: Graph Neural Networks or Stochastic Geometry?**|Yuhong Liu et.al.|[2207.06918v2](http://arxiv.org/abs/2207.06918v2)|null|
 |**2022-02-28**|**Algorithm and System Co-design for Efficient Subgraph-based Graph Representation Learning**|Haoteng Yin et.al.|[2202.13538v2](http://arxiv.org/abs/2202.13538v2)|[link](https://github.com/graph-com/surel)|
-|**2022-07-18**|**Simplifying Clustering with Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2207.08779v1](http://arxiv.org/abs/2207.08779v1)|[link](https://github.com/filippomb/simplifying-clustering-with-graph-neural-networks)|
-|**2022-07-18**|**An Enhanced Graph Representation for Machine Learning Based Automatic Intersection Management**|Marvin Klimke et.al.|[2207.08655v1](http://arxiv.org/abs/2207.08655v1)|null|
-|**2022-07-18**|**FunQG: Molecular Representation Learning Via Quotient Graphs**|Hossein Hajiabolhassan et.al.|[2207.08597v1](http://arxiv.org/abs/2207.08597v1)|[link](https://github.com/hhaji/funqg)|
-|**2022-07-18**|**Distributed Graph Neural Networks for Optimizing Wireless Networks: Message Passing Over-the-Air**|Yifan Gu et.al.|[2207.08498v1](http://arxiv.org/abs/2207.08498v1)|null|
-|**2022-07-08**|**Physics-Informed Deep Neural Operator Networks**|Somdatta Goswami et.al.|[2207.05748v2](http://arxiv.org/abs/2207.05748v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -77,18 +77,18 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-04-17**|**How about that Bayes: Bayesian techniques and the simple pendulum**|Matthew Heffernan et.al.|[2104.08621v4](http://arxiv.org/abs/2104.08621v4)|null|
+|**2022-05-25**|**Small domain estimation of census coverage: A case study in Bayesian analysis of complex survey data**|Joane S. Elleouet et.al.|[2205.12769v3](http://arxiv.org/abs/2205.12769v3)|null|
 |**2022-03-10**|**PACTran: PAC-Bayesian Metrics for Estimating the Transferability of Pretrained Models to Classification Tasks**|Nan Ding et.al.|[2203.05126v2](http://arxiv.org/abs/2203.05126v2)|null|
 |**2022-03-07**|**Evaluating State of the Art, Forecasting Ensembles- and Meta-learning Strategies for Model Fusion**|Pieter Cawood et.al.|[2203.03279v3](http://arxiv.org/abs/2203.03279v3)|null|
 |**2022-07-19**|**TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes**|Antoine D. Meyer et.al.|[2207.09327v1](http://arxiv.org/abs/2207.09327v1)|null|
 |**2021-01-11**|**Complexity analysis of Bayesian learning of high-dimensional DAG models and their equivalence classes**|Quan Zhou et.al.|[2101.04084v2](http://arxiv.org/abs/2101.04084v2)|null|
 |**2020-06-02**|**Unsupervised Discretization by Two-dimensional MDL-based Histogram**|Lincen Yang et.al.|[2006.01893v3](http://arxiv.org/abs/2006.01893v3)|null|
 |**2022-04-28**|**Model Selection, Adaptation, and Combination for Transfer Learning in Wind and Photovoltaic Power Forecasts**|Jens Schreiber et.al.|[2204.13293v3](http://arxiv.org/abs/2204.13293v3)|null|
-|**2022-07-18**|**Boosting Multivariate Structured Additive Distributional Regression Models**|Annika Strömer et.al.|[2207.08470v1](http://arxiv.org/abs/2207.08470v1)|null|
+|**2022-07-18**|**Boosting Multivariate Structured Additive Distributional Regression Models**|Annika Strömer et.al.|[2207.08470v1](http://arxiv.org/abs/2207.08470v1)|[link](https://github.com/annikastr/distregboost)|
 |**2019-09-08**|**Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey**|Jérôme Rony et.al.|[1909.03354v6](http://arxiv.org/abs/1909.03354v6)|[link](https://github.com/jeromerony/survey_wsl_histology)|
 |**2022-07-16**|**Spatial point process via regularisation modelling of ambulance call risk**|Fekadu L. Bayisa et.al.|[2207.07814v1](http://arxiv.org/abs/2207.07814v1)|null|
 |**2021-10-25**|**Variability-selected intermediate mass black hole candidates in dwarf galaxies from ZTF and WISE**|Charlotte Ward et.al.|[2110.13098v2](http://arxiv.org/abs/2110.13098v2)|null|
 |**2021-11-23**|**Trimming Stability Selection increases variable selection robustness**|Tino Werner et.al.|[2111.11818v2](http://arxiv.org/abs/2111.11818v2)|null|
 |**2022-07-14**|**Have we been Naive to Select Machine Learning Models? Noisy Data are here to Stay!**|Felipe Costa Farias et.al.|[2207.06651v1](http://arxiv.org/abs/2207.06651v1)|null|
 |**2022-07-13**|**Dynamic Selection of Perception Models for Robotic Control**|Bineet Ghosh et.al.|[2207.06390v1](http://arxiv.org/abs/2207.06390v1)|null|
-|**2022-07-13**|**Cost-Effective Online Contextual Model Selection**|Xuefeng Liu et.al.|[2207.06030v1](http://arxiv.org/abs/2207.06030v1)|null|
-|**2022-07-12**|**Functional Spherical Autocorrelation: A Robust Estimate of the Autocorrelation of a Functional Time Series**|Chi-Kuang Yeh et.al.|[2207.05806v1](http://arxiv.org/abs/2207.05806v1)|null|
