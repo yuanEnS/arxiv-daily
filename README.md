@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-07-27 07:28:48 Asia/Shanghai
+ Automated deployment @ 2022-07-27 19:26:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -16,6 +16,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-26**|**Contextualizing Online Conversational Networks**|Thomas Magelinski et.al.|[2207.13055v1](http://arxiv.org/abs/2207.13055v1)|null|
+|**2022-02-23**|**Cooperative Behavior Planning for Automated Driving using Graph Neural Networks**|Marvin Klimke et.al.|[2202.11376v2](http://arxiv.org/abs/2202.11376v2)|null|
+|**2022-07-26**|**Graph Neural Network and Spatiotemporal Transformer Attention for 3D Video Object Detection from Point Clouds**|Junbo Yin et.al.|[2207.12659v1](http://arxiv.org/abs/2207.12659v1)|null|
+|**2022-07-26**|**A Survey of Explainable Graph Neural Networks: Taxonomy and Evaluation Metrics**|Yiqiao Li et.al.|[2207.12599v1](http://arxiv.org/abs/2207.12599v1)|null|
+|**2022-07-25**|**Rapid Prediction of Phonon Structure and Properties using an Atomistic Line Graph Neural Network (ALIGNN)**|Ramya Gurunathan et.al.|[2207.12510v1](http://arxiv.org/abs/2207.12510v1)|null|
 |**2022-07-25**|**MedML: Fusing Medical Knowledge and Machine Learning Models for Early Pediatric COVID-19 Hospitalization and Severity Prediction**|Junyi Gao et.al.|[2207.12283v1](http://arxiv.org/abs/2207.12283v1)|[link](https://github.com/v1xerunt/medml)|
 |**2022-06-07**|**EiX-GNN : Concept-level eigencentrality explainer for graph neural networks**|Adrien Raison et.al.|[2206.03491v2](http://arxiv.org/abs/2206.03491v2)|null|
 |**2022-07-25**|**Ego-graph Replay based Continual Learning for Misinformation Engagement Prediction**|Hongbo Bo et.al.|[2207.12105v1](http://arxiv.org/abs/2207.12105v1)|null|
@@ -26,11 +31,6 @@
 |**2022-07-24**|**Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications**|Xingbo Fu et.al.|[2207.11812v1](http://arxiv.org/abs/2207.11812v1)|null|
 |**2022-07-24**|**SGAT: Simplicial Graph Attention Network**|See Hian Lee et.al.|[2207.11761v1](http://arxiv.org/abs/2207.11761v1)|null|
 |**2022-07-24**|**Learning Graph Neural Networks for Image Style Transfer**|Yongcheng Jing et.al.|[2207.11681v1](http://arxiv.org/abs/2207.11681v1)|null|
-|**2022-03-18**|**Deep reinforcement learning guided graph neural networks for brain network analysis**|Xusheng Zhao et.al.|[2203.10093v5](http://arxiv.org/abs/2203.10093v5)|null|
-|**2022-07-23**|**Annealed Training for Combinatorial Optimization on Graphs**|Haoran Sun et.al.|[2207.11542v1](http://arxiv.org/abs/2207.11542v1)|null|
-|**2022-07-14**|**Anomal-E: A Self-Supervised Network Intrusion Detection System based on Graph Neural Networks**|Evan Caville et.al.|[2207.06819v4](http://arxiv.org/abs/2207.06819v4)|null|
-|**2022-07-23**|**Distributed Nonlinear State Estimation in Electric Power Systems using Graph Neural Networks**|Ognjen Kundacina et.al.|[2207.11465v1](http://arxiv.org/abs/2207.11465v1)|null|
-|**2022-06-30**|**Interpretable Graph Neural Networks for Connectome-Based Brain Disorder Analysis**|Hejie Cui et.al.|[2207.00813v2](http://arxiv.org/abs/2207.00813v2)|[link](https://github.com/hennyjie/ibgnn)|
 
 ## Non-Euclidean Staistics
 
@@ -77,6 +77,11 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-26**|**A Bayesian hierarchical framework for emulating a complex crop yield simulator**|Muhammad Mahmudul Hasan et.al.|[2207.12999v1](http://arxiv.org/abs/2207.12999v1)|null|
+|**2022-07-26**|**An Effective Method for Identifying Clusters of Robot Strengths**|Jen-Chieh Teng et.al.|[2207.12956v1](http://arxiv.org/abs/2207.12956v1)|null|
+|**2022-07-05**|**Bayesian model selection for multilevel models using marginal likelihoods**|Tom Edinburgh et.al.|[2207.02144v2](http://arxiv.org/abs/2207.02144v2)|[link](https://github.com/tedinburgh/model-evidence-with-marginal)|
+|**2022-05-31**|**Unsupervised Image Representation Learning with Deep Latent Particles**|Tal Daniel et.al.|[2205.15821v2](http://arxiv.org/abs/2205.15821v2)|[link](https://github.com/taldatech/deep-latent-particles-pytorch)|
+|**2022-07-26**|**An exhaustive variable selection study for linear models of soundscape emotions: rankings and Gibbs analysis**|R. San Millán-Castillo et.al.|[2207.12743v1](http://arxiv.org/abs/2207.12743v1)|null|
 |**2018-07-10**|**Pairwise Covariates-adjusted Block Model for Community Detection**|Sihan Huang et.al.|[1807.03469v3](http://arxiv.org/abs/1807.03469v3)|null|
 |**2022-07-25**|**SecretGen: Privacy Recovery on Pre-Trained Models via Distribution Discrimination**|Zhuowen Yuan et.al.|[2207.12263v1](http://arxiv.org/abs/2207.12263v1)|[link](https://github.com/ai-secure/secretgen)|
 |**2022-07-25**|**Sparse Bayesian State-Space and Time-Varying Parameter Models**|Sylvia Frühwirth-Schnatter et.al.|[2207.12147v1](http://arxiv.org/abs/2207.12147v1)|null|
@@ -87,8 +92,3 @@
 |**2022-07-22**|**Direct determination of optimal real-space orbitals for correlated electronic structure of molecules**|Edward F. Valeev et.al.|[2207.10841v1](http://arxiv.org/abs/2207.10841v1)|null|
 |**2022-07-21**|**Correcting Model Bias with Sparse Implicit Processes**|Simón Rodríguez Santana et.al.|[2207.10673v1](http://arxiv.org/abs/2207.10673v1)|null|
 |**2016-02-29**|**High-Dimensional $L_2$Boosting: Rate of Convergence**|Ye Luo et.al.|[1602.08927v3](http://arxiv.org/abs/1602.08927v3)|null|
-|**2021-04-17**|**How about that Bayes: Bayesian techniques and the simple pendulum**|Matthew Heffernan et.al.|[2104.08621v4](http://arxiv.org/abs/2104.08621v4)|null|
-|**2022-05-25**|**Small domain estimation of census coverage: A case study in Bayesian analysis of complex survey data**|Joane S. Elleouet et.al.|[2205.12769v3](http://arxiv.org/abs/2205.12769v3)|null|
-|**2022-03-10**|**PACTran: PAC-Bayesian Metrics for Estimating the Transferability of Pretrained Models to Classification Tasks**|Nan Ding et.al.|[2203.05126v2](http://arxiv.org/abs/2203.05126v2)|null|
-|**2022-03-07**|**Evaluating State of the Art, Forecasting Ensembles- and Meta-learning Strategies for Model Fusion**|Pieter Cawood et.al.|[2203.03279v3](http://arxiv.org/abs/2203.03279v3)|null|
-|**2022-07-19**|**TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes**|Antoine D. Meyer et.al.|[2207.09327v1](http://arxiv.org/abs/2207.09327v1)|null|
