@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-06 07:29:09 Asia/Shanghai
+ Automated deployment @ 2022-08-06 19:26:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-08-04**|**Explaining Classifiers Trained on Raw Hierarchical Multiple-Instance Data**|Tomáš Pevný et.al.|[2208.02694v1](http://arxiv.org/abs/2208.02694v1)|null|
-|**2022-08-04**|**Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification**|Yongkun Liu et.al.|[2208.02613v1](http://arxiv.org/abs/2208.02613v1)|null|
+|**2022-08-04**|**Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification**|Yongkun Liu et.al.|[2208.02613v1](http://arxiv.org/abs/2208.02613v1)|[link](https://github.com/kyle-one/signa)|
 |**2022-08-04**|**Neuro-symbolic computing with spiking neural networks**|Dominik Dold et.al.|[2208.02576v1](http://arxiv.org/abs/2208.02576v1)|null|
 |**2022-08-03**|**Graph Neural Networks Extract High-Resolution Cultivated Land Maps from Sentinel-2 Image Series**|Lukasz Tulczyjew et.al.|[2208.02349v1](http://arxiv.org/abs/2208.02349v1)|null|
 |**2022-08-03**|**HybridGNN: Learning Hybrid Representation in Multiplex Heterogeneous Networks**|Tiankai Gu et.al.|[2208.02068v1](http://arxiv.org/abs/2208.02068v1)|null|
@@ -32,46 +32,6 @@
 |**2022-06-20**|**GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks**|Kenza Amara et.al.|[2206.09677v3](http://arxiv.org/abs/2206.09677v3)|null|
 |**2022-08-02**|**Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation**|Haolun Wu et.al.|[2208.01709v1](http://arxiv.org/abs/2208.01709v1)|null|
 |**2022-08-02**|**Curvature-informed multi-task learning for graph networks**|Alexander New et.al.|[2208.01684v1](http://arxiv.org/abs/2208.01684v1)|null|
-
-## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v2](http://arxiv.org/abs/2204.05974v2)|null|
-|**2022-07-25**|**Stable Parallel Training of Wasserstein Conditional Generative Adversarial Neural Networks**|Massimiliano Lupo Pasini et.al.|[2207.12315v1](http://arxiv.org/abs/2207.12315v1)|null|
-|**2021-08-20**|**Deformation retraction of the group of strict contactomorphisms of the three-sphere to the unitary group**|Dennis DeTurck et.al.|[2108.08961v2](http://arxiv.org/abs/2108.08961v2)|null|
-|**2020-07-31**|**Photorealism in Driving Simulations: Blending Generative Adversarial Image Synthesis with Rendering**|Ekim Yurtsever et.al.|[2007.15820v2](http://arxiv.org/abs/2007.15820v2)|null|
-|**2021-10-14**|**Integrating Fréchet distance and AI reveals the evolutionary trajectory and origin of SARS-CoV-2**|Anyou Wang et.al.|[2110.07696v2](http://arxiv.org/abs/2110.07696v2)|null|
-|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v1](http://arxiv.org/abs/2207.07809v1)|null|
-|**2022-03-17**|**deepNIR: Datasets for generating synthetic NIR images and improved fruit detection system using deep learning techniques**|Inkyu Sa et.al.|[2203.09091v2](http://arxiv.org/abs/2203.09091v2)|null|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
-|**2022-07-06**|**Text to Image Synthesis using Stacked Conditional Variational Autoencoders and Conditional Generative Adversarial Networks**|Haileleol Tibebu et.al.|[2207.03332v1](http://arxiv.org/abs/2207.03332v1)|null|
-|**2021-11-22**|**Semi-nonparametric Estimation of Operational Risk Capital with Extreme Loss Events**|Heng Z. Chen et.al.|[2111.11459v2](http://arxiv.org/abs/2111.11459v2)|null|
-|**2020-06-19**|**On affirmative solution to Michael's acclaimed problem in the theory of Fréchet algebras, with applications to automatic continuity theory**|S. R. Patel et.al.|[2006.11134v3](http://arxiv.org/abs/2006.11134v3)|null|
-|**2022-02-16**|**Generic transporters for the linear time dependent quantum Harmonic oscillator on $\mathbb R$**|Alberto Maspero et.al.|[2202.07974v2](http://arxiv.org/abs/2202.07974v2)|null|
-|**2022-06-22**|**Input-agnostic Certified Group Fairness via Gaussian Parameter Smoothing**|Jiayin Jin et.al.|[2206.11423v1](http://arxiv.org/abs/2206.11423v1)|null|
-|**2022-06-22**|**A Study on the Evaluation of Generative Models**|Eyal Betzalel et.al.|[2206.10935v1](http://arxiv.org/abs/2206.10935v1)|null|
-|**2022-06-21**|**Multifunctions admitting a measurable by seminorm selector in Frechet spaces**|Sokol Bush Kaliaj et.al.|[2206.10337v1](http://arxiv.org/abs/2206.10337v1)|null|
-
-### Frechet Mean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
-|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
-|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
-|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
-|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
-|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
-|**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
-|**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
-|**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
-|**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
-|**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
-|**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
-|**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
 
 ## Variable Selection
 
@@ -93,3 +53,43 @@
 |**2020-07-28**|**The Minimum Description Length Principle for Pattern Mining: A Survey**|Esther Galbrun et.al.|[2007.14009v5](http://arxiv.org/abs/2007.14009v5)|null|
 |**2022-04-05**|**Pareto-optimal clustering with the primal deterministic information bottleneck**|Andrew K. Tan et.al.|[2204.02489v2](http://arxiv.org/abs/2204.02489v2)|[link](https://github.com/andrewktan/pareto_dib)|
 |**2022-07-27**|**Label-Only Membership Inference Attack against Node-Level Graph Neural Networks**|Mauro Conti et.al.|[2207.13766v1](http://arxiv.org/abs/2207.13766v1)|null|
+
+## Non-Euclidean Staistics
+
+### Frechet Mean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
+|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
+|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
+|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
+|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
+|**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
+|**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
+|**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
+|**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
+|**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
+|**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
+|**2020-10-06**|**Statistical monitoring of functional data using the notion of Fréchet mean combined with the framework of the deformation models**|Georgios I. Papayiannis et.al.|[2010.02968v1](http://arxiv.org/abs/2010.02968v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v2](http://arxiv.org/abs/2204.05974v2)|null|
+|**2022-07-25**|**Stable Parallel Training of Wasserstein Conditional Generative Adversarial Neural Networks**|Massimiliano Lupo Pasini et.al.|[2207.12315v1](http://arxiv.org/abs/2207.12315v1)|null|
+|**2021-08-20**|**Deformation retraction of the group of strict contactomorphisms of the three-sphere to the unitary group**|Dennis DeTurck et.al.|[2108.08961v2](http://arxiv.org/abs/2108.08961v2)|null|
+|**2020-07-31**|**Photorealism in Driving Simulations: Blending Generative Adversarial Image Synthesis with Rendering**|Ekim Yurtsever et.al.|[2007.15820v2](http://arxiv.org/abs/2007.15820v2)|null|
+|**2021-10-14**|**Integrating Fréchet distance and AI reveals the evolutionary trajectory and origin of SARS-CoV-2**|Anyou Wang et.al.|[2110.07696v2](http://arxiv.org/abs/2110.07696v2)|null|
+|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v1](http://arxiv.org/abs/2207.07809v1)|null|
+|**2022-03-17**|**deepNIR: Datasets for generating synthetic NIR images and improved fruit detection system using deep learning techniques**|Inkyu Sa et.al.|[2203.09091v2](http://arxiv.org/abs/2203.09091v2)|null|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
+|**2022-07-06**|**Text to Image Synthesis using Stacked Conditional Variational Autoencoders and Conditional Generative Adversarial Networks**|Haileleol Tibebu et.al.|[2207.03332v1](http://arxiv.org/abs/2207.03332v1)|null|
+|**2021-11-22**|**Semi-nonparametric Estimation of Operational Risk Capital with Extreme Loss Events**|Heng Z. Chen et.al.|[2111.11459v2](http://arxiv.org/abs/2111.11459v2)|null|
+|**2020-06-19**|**On affirmative solution to Michael's acclaimed problem in the theory of Fréchet algebras, with applications to automatic continuity theory**|S. R. Patel et.al.|[2006.11134v3](http://arxiv.org/abs/2006.11134v3)|null|
+|**2022-02-16**|**Generic transporters for the linear time dependent quantum Harmonic oscillator on $\mathbb R$**|Alberto Maspero et.al.|[2202.07974v2](http://arxiv.org/abs/2202.07974v2)|null|
+|**2022-06-22**|**Input-agnostic Certified Group Fairness via Gaussian Parameter Smoothing**|Jiayin Jin et.al.|[2206.11423v1](http://arxiv.org/abs/2206.11423v1)|null|
+|**2022-06-22**|**A Study on the Evaluation of Generative Models**|Eyal Betzalel et.al.|[2206.10935v1](http://arxiv.org/abs/2206.10935v1)|null|
+|**2022-06-21**|**Multifunctions admitting a measurable by seminorm selector in Frechet spaces**|Sokol Bush Kaliaj et.al.|[2206.10337v1](http://arxiv.org/abs/2206.10337v1)|null|
