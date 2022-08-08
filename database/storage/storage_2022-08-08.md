@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-08 07:29:17 Asia/Shanghai
+ Automated deployment @ 2022-08-08 19:26:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,13 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-05**|**Accelerating discrete dislocation dynamics simulations with graph neural networks**|Nicolas Bertin et.al.|[2208.03296v1](http://arxiv.org/abs/2208.03296v1)|null|
+|**2022-08-05**|**A Gaze into the Internal Logic of Graph Neural Networks, with Logic**|Paul Tarau et.al.|[2208.03093v1](http://arxiv.org/abs/2208.03093v1)|null|
+|**2022-08-05**|**PGX: A Multi-level GNN Explanation Framework Based on Separate Knowledge Distillation Processes**|Tien-Cuong Bui et.al.|[2208.03075v1](http://arxiv.org/abs/2208.03075v1)|null|
+|**2022-08-01**|**Learning to Navigate using Visual Sensor Networks**|Jan Blumenkamp et.al.|[2208.00759v2](http://arxiv.org/abs/2208.00759v2)|null|
+|**2022-05-23**|**Revisiting the role of heterophily in graph representation learning: An edge classification perspective**|Jincheng Huang et.al.|[2205.11322v2](http://arxiv.org/abs/2205.11322v2)|null|
+|**2022-08-02**|**Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation**|Haolun Wu et.al.|[2208.01709v2](http://arxiv.org/abs/2208.01709v2)|null|
+|**2022-08-04**|**GNN4REL: Graph Neural Networks for Predicting Circuit Reliability Degradation**|Lilas Alrahis et.al.|[2208.02868v1](http://arxiv.org/abs/2208.02868v1)|null|
 |**2022-08-04**|**Explaining Classifiers Trained on Raw Hierarchical Multiple-Instance Data**|Tomáš Pevný et.al.|[2208.02694v1](http://arxiv.org/abs/2208.02694v1)|null|
 |**2022-08-04**|**Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification**|Yongkun Liu et.al.|[2208.02613v1](http://arxiv.org/abs/2208.02613v1)|[link](https://github.com/kyle-one/signa)|
 |**2022-08-04**|**Neuro-symbolic computing with spiking neural networks**|Dominik Dold et.al.|[2208.02576v1](http://arxiv.org/abs/2208.02576v1)|null|
@@ -25,13 +32,6 @@
 |**2022-08-03**|**GROWN+UP: A Graph Representation Of a Webpage Network Utilizing Pre-training**|Benedict Yeoh et.al.|[2208.02252v1](http://arxiv.org/abs/2208.02252v1)|null|
 |**2022-08-03**|**PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?**|Aleksandr Kim et.al.|[2208.01957v1](http://arxiv.org/abs/2208.01957v1)|null|
 |**2021-09-10**|**ProcK: Machine Learning for Knowledge-Intensive Processes**|Tobias Jacobs et.al.|[2109.04881v2](http://arxiv.org/abs/2109.04881v2)|null|
-|**2022-08-03**|**Robust Graph Neural Networks using Weighted Graph Laplacian**|Bharat Runwal et.al.|[2208.01853v1](http://arxiv.org/abs/2208.01853v1)|[link](https://github.com/bharat-runwal/rwl-gnn)|
-|**2022-02-14**|**Laplacian Features for Learning with Hyperbolic Space**|Tao Yu et.al.|[2202.06854v2](http://arxiv.org/abs/2202.06854v2)|[link](https://github.com/ydtydr/hyla)|
-|**2022-08-03**|**Adversarial Camouflage for Node Injection Attack on Graphs**|Shuchang Tao et.al.|[2208.01819v1](http://arxiv.org/abs/2208.01819v1)|null|
-|**2022-05-19**|**Spatial Autoregressive Coding for Graph Neural Recommendation**|Jiayi Zheng et.al.|[2205.09489v2](http://arxiv.org/abs/2205.09489v2)|null|
-|**2022-06-20**|**GraphFramEx: Towards Systematic Evaluation of Explainability Methods for Graph Neural Networks**|Kenza Amara et.al.|[2206.09677v3](http://arxiv.org/abs/2206.09677v3)|null|
-|**2022-08-02**|**Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation**|Haolun Wu et.al.|[2208.01709v1](http://arxiv.org/abs/2208.01709v1)|null|
-|**2022-08-02**|**Curvature-informed multi-task learning for graph networks**|Alexander New et.al.|[2208.01684v1](http://arxiv.org/abs/2208.01684v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,7 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-05**|**On concordance indices for models with time-varying risk**|A. Gandy et.al.|[2208.03213v1](http://arxiv.org/abs/2208.03213v1)|null|
 |**2021-08-19**|**Bayesian Semiparametric Hidden Markov Tensor Partition Models for Longitudinal Data with Local Variable Selection**|Giorgio Paulon et.al.|[2108.08439v2](http://arxiv.org/abs/2108.08439v2)|null|
 |**2022-03-25**|**A Hybrid Framework for Sequential Data Prediction with End-to-End Optimization**|Mustafa E. Aydın et.al.|[2203.13787v2](http://arxiv.org/abs/2203.13787v2)|null|
 |**2022-07-28**|**Model selection with Gini indices under auto-calibration**|Mario V. Wüthrich et.al.|[2207.14372v2](http://arxiv.org/abs/2207.14372v2)|null|
@@ -92,4 +93,3 @@
 |**2022-07-27**|**The Lauritzen-Chen Likelihood For Graphical Models**|Ilya Shpitser et.al.|[2207.13794v2](http://arxiv.org/abs/2207.13794v2)|null|
 |**2020-07-28**|**The Minimum Description Length Principle for Pattern Mining: A Survey**|Esther Galbrun et.al.|[2007.14009v5](http://arxiv.org/abs/2007.14009v5)|null|
 |**2022-04-05**|**Pareto-optimal clustering with the primal deterministic information bottleneck**|Andrew K. Tan et.al.|[2204.02489v2](http://arxiv.org/abs/2204.02489v2)|[link](https://github.com/andrewktan/pareto_dib)|
-|**2022-07-27**|**Label-Only Membership Inference Attack against Node-Level Graph Neural Networks**|Mauro Conti et.al.|[2207.13766v1](http://arxiv.org/abs/2207.13766v1)|null|
