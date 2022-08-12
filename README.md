@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-12 07:30:05 Asia/Shanghai
+ Automated deployment @ 2022-08-12 19:26:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-11**|**Partition Pooling for Convolutional Graph Network Applications in Particle Physics**|M. Bachlechner et.al.|[2208.05952v1](http://arxiv.org/abs/2208.05952v1)|null|
+|**2022-08-11**|**Uncertainty Quantification of Sparse Travel Demand Prediction with Spatial-Temporal Graph Neural Networks**|Dingyi Zhuang et.al.|[2208.05908v1](http://arxiv.org/abs/2208.05908v1)|[link](https://github.com/zhuangdingyi/stzinb)|
+|**2022-08-11**|**Task Aligned Meta-learning based Augmented Graph for Cold-Start Recommendation**|Yuxiang Shi et.al.|[2208.05716v1](http://arxiv.org/abs/2208.05716v1)|null|
+|**2022-08-11**|**Embedding Compression with Hashing for Efficient Representation Learning in Large-Scale Graph**|Chin-Chia Michael Yeh et.al.|[2208.05648v1](http://arxiv.org/abs/2208.05648v1)|null|
 |**2022-07-31**|**GraphMFT: A Graph Network based Multimodal Fusion Technique for Emotion Recognition in Conversation**|Jiang Li et.al.|[2208.00339v2](http://arxiv.org/abs/2208.00339v2)|null|
 |**2022-03-16**|**Graph Neural Networks for Multiparallel Word Alignment**|Ayyoob Imani et.al.|[2203.08654v2](http://arxiv.org/abs/2203.08654v2)|null|
+|**2022-08-10**|**Path-aware Siamese Graph Neural Network for Link Prediction**|Jingsong Lv et.al.|[2208.05781v1](http://arxiv.org/abs/2208.05781v1)|null|
 |**2022-08-10**|**Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting**|Zezhi Shao et.al.|[2208.05233v1](http://arxiv.org/abs/2208.05233v1)|null|
+|**2022-08-10**|**Sequence Feature Extraction for Malware Family Analysis via Graph Neural Network**|S. W. Hsiao et.al.|[2208.05476v1](http://arxiv.org/abs/2208.05476v1)|null|
 |**2022-02-17**|**An alternative approach to train neural networks using monotone variational inequality**|Chen Xu et.al.|[2202.08876v3](http://arxiv.org/abs/2202.08876v3)|[link](https://github.com/hamrel-cxu/svi-nn-training)|
 |**2022-08-09**|**Examining graph neural networks for crystal structures: limitation on capturing periodicity**|Sheng Gong et.al.|[2208.05039v1](http://arxiv.org/abs/2208.05039v1)|null|
 |**2021-11-23**|**Subgraph Permutation Equivariant Networks**|Joshua Mitton et.al.|[2111.11840v3](http://arxiv.org/abs/2111.11840v3)|null|
 |**2022-08-09**|**Literature Review: Graph Kernels in Chemoinformatics**|James Young et.al.|[2208.04929v1](http://arxiv.org/abs/2208.04929v1)|null|
 |**2022-08-09**|**Characterizing and Understanding HGNNs on GPUs**|Mingyu Yan et.al.|[2208.04758v1](http://arxiv.org/abs/2208.04758v1)|null|
 |**2022-08-09**|**Motif-based Graph Representation Learning with Application to Chemical Molecules**|Yifei Wang et.al.|[2208.04529v1](http://arxiv.org/abs/2208.04529v1)|[link](https://github.com/yifeiwang15/motifconv)|
-|**2021-10-28**|**MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy**|Benedek Rozemberczki et.al.|[2110.15087v3](http://arxiv.org/abs/2110.15087v3)|null|
-|**2022-07-27**|**Encoding Concepts in Graph Neural Networks**|Lucie Charlotte Magister et.al.|[2207.13586v3](http://arxiv.org/abs/2207.13586v3)|null|
-|**2022-08-07**|**PhyGNNet: Solving spatiotemporal PDEs with Physics-informed Graph Neural Network**|Longxiang Jiang et.al.|[2208.04319v1](http://arxiv.org/abs/2208.04319v1)|null|
-|**2022-08-07**|**Fast Online and Relational Tracking**|Mohammad Hossein Nasseri et.al.|[2208.03659v1](http://arxiv.org/abs/2208.03659v1)|null|
-|**2022-08-06**|**Generalizability Analysis of Graph-based Trajectory Predictor with Vectorized Representation**|Juanwu Lu et.al.|[2208.03578v1](http://arxiv.org/abs/2208.03578v1)|null|
-|**2022-08-06**|**Triple Sparsification of Graph Convolutional Networks without Sacrificing the Accuracy**|Md. Khaledur Rahman et.al.|[2208.03559v1](http://arxiv.org/abs/2208.03559v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-10**|**Evaluating Generatively Synthesized Diabetic Retinopathy Imagery**|Cristina-Madalina Dragan et.al.|[2208.05593v1](http://arxiv.org/abs/2208.05593v1)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
 |**2022-04-12**|**Baire property of some function spaces**|Alexander V. Osipov et.al.|[2204.05974v2](http://arxiv.org/abs/2204.05974v2)|null|
 |**2022-07-25**|**Stable Parallel Training of Wasserstein Conditional Generative Adversarial Neural Networks**|Massimiliano Lupo Pasini et.al.|[2207.12315v1](http://arxiv.org/abs/2207.12315v1)|null|
@@ -71,13 +72,15 @@
 |**2020-06-19**|**On affirmative solution to Michael's acclaimed problem in the theory of Fréchet algebras, with applications to automatic continuity theory**|S. R. Patel et.al.|[2006.11134v3](http://arxiv.org/abs/2006.11134v3)|null|
 |**2022-02-16**|**Generic transporters for the linear time dependent quantum Harmonic oscillator on $\mathbb R$**|Alberto Maspero et.al.|[2202.07974v2](http://arxiv.org/abs/2202.07974v2)|null|
 |**2022-06-22**|**Input-agnostic Certified Group Fairness via Gaussian Parameter Smoothing**|Jiayin Jin et.al.|[2206.11423v1](http://arxiv.org/abs/2206.11423v1)|null|
-|**2022-06-22**|**A Study on the Evaluation of Generative Models**|Eyal Betzalel et.al.|[2206.10935v1](http://arxiv.org/abs/2206.10935v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v3](http://arxiv.org/abs/2010.11114v3)|null|
+|**2022-08-10**|**Adaptive LASSO estimation for functional hidden dynamic geostatistical model**|Paolo Maranzano et.al.|[2208.05528v1](http://arxiv.org/abs/2208.05528v1)|null|
+|**2022-05-26**|**Fast variable selection makes Karhunen-Loève decomposed Gaussian process BSS-ANOVA a speedy and accurate choice for dynamic systems identification**|David S. Mebane et.al.|[2205.13676v2](http://arxiv.org/abs/2205.13676v2)|null|
 |**2021-01-27**|**Predictive Quantile Regression with Mixed Roots and Increasing Dimensions: ALQR Approach**|Rui Fan et.al.|[2101.11568v3](http://arxiv.org/abs/2101.11568v3)|null|
 |**2022-07-28**|**Model selection with Gini indices under auto-calibration**|Mario V. Wüthrich et.al.|[2207.14372v3](http://arxiv.org/abs/2207.14372v3)|null|
 |**2022-08-10**|**Distribution-Free Location-Scale Regression**|Sandra Siegfried et.al.|[2208.05302v1](http://arxiv.org/abs/2208.05302v1)|null|
@@ -90,6 +93,3 @@
 |**2022-08-05**|**On concordance indices for models with time-varying risk**|A. Gandy et.al.|[2208.03213v1](http://arxiv.org/abs/2208.03213v1)|null|
 |**2021-08-19**|**Bayesian Semiparametric Hidden Markov Tensor Partition Models for Longitudinal Data with Local Variable Selection**|Giorgio Paulon et.al.|[2108.08439v2](http://arxiv.org/abs/2108.08439v2)|null|
 |**2022-03-25**|**A Hybrid Framework for Sequential Data Prediction with End-to-End Optimization**|Mustafa E. Aydın et.al.|[2203.13787v2](http://arxiv.org/abs/2203.13787v2)|null|
-|**2022-05-10**|**Serving and Optimizing Machine Learning Workflows on Heterogeneous Infrastructures**|Yongji Wu et.al.|[2205.04713v2](http://arxiv.org/abs/2205.04713v2)|null|
-|**2022-08-03**|**An Optimal Likelihood Free Method for Biological Model Selection**|Vincent D. Zaballa et.al.|[2208.02344v1](http://arxiv.org/abs/2208.02344v1)|null|
-|**2021-10-16**|**Hydra: A System for Large Multi-Model Deep Learning**|Kabir Nagrecha et.al.|[2110.08633v7](http://arxiv.org/abs/2110.08633v7)|[link](https://github.com/knagrecha/hydra)|
