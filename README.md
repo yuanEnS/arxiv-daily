@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-13 07:29:07 Asia/Shanghai
+ Automated deployment @ 2022-08-13 19:25:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2022-08-09**|**Literature Review: Graph Kernels in Chemoinformatics**|James Young et.al.|[2208.04929v1](http://arxiv.org/abs/2208.04929v1)|null|
 |**2022-08-09**|**Characterizing and Understanding HGNNs on GPUs**|Mingyu Yan et.al.|[2208.04758v1](http://arxiv.org/abs/2208.04758v1)|null|
 |**2022-08-09**|**Motif-based Graph Representation Learning with Application to Chemical Molecules**|Yifei Wang et.al.|[2208.04529v1](http://arxiv.org/abs/2208.04529v1)|[link](https://github.com/yifeiwang15/motifconv)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v3](http://arxiv.org/abs/2010.11114v3)|null|
+|**2022-08-10**|**Adaptive LASSO estimation for functional hidden dynamic geostatistical model**|Paolo Maranzano et.al.|[2208.05528v1](http://arxiv.org/abs/2208.05528v1)|null|
+|**2022-05-26**|**Fast variable selection makes Karhunen-Loève decomposed Gaussian process BSS-ANOVA a speedy and accurate choice for dynamic systems identification**|David S. Mebane et.al.|[2205.13676v2](http://arxiv.org/abs/2205.13676v2)|null|
+|**2021-01-27**|**Predictive Quantile Regression with Mixed Roots and Increasing Dimensions: ALQR Approach**|Rui Fan et.al.|[2101.11568v3](http://arxiv.org/abs/2101.11568v3)|null|
+|**2022-07-28**|**Model selection with Gini indices under auto-calibration**|Mario V. Wüthrich et.al.|[2207.14372v3](http://arxiv.org/abs/2207.14372v3)|null|
+|**2022-08-10**|**Distribution-Free Location-Scale Regression**|Sandra Siegfried et.al.|[2208.05302v1](http://arxiv.org/abs/2208.05302v1)|null|
+|**2022-08-09**|**Copulaboost: additive modeling with copula-based model components**|Simon Boge Brant et.al.|[2208.04669v1](http://arxiv.org/abs/2208.04669v1)|null|
+|**2022-05-11**|**A void in the Hubble tension? The end of the line for the Hubble bubble**|David Camarena et.al.|[2205.05422v2](http://arxiv.org/abs/2205.05422v2)|null|
+|**2022-07-21**|**Correcting Model Bias with Sparse Implicit Processes**|Simón Rodríguez Santana et.al.|[2207.10673v2](http://arxiv.org/abs/2207.10673v2)|null|
+|**2021-04-06**|**Machine learning in interpretation of electronic core-level spectra**|Johannes Niskanen et.al.|[2104.02374v3](http://arxiv.org/abs/2104.02374v3)|null|
+|**2022-06-28**|**Exploring linguistic feature and model combination for speech recognition based automatic AD detection**|Yi Wang et.al.|[2206.13758v2](http://arxiv.org/abs/2206.13758v2)|null|
+|**2021-10-23**|**Prior Intensified Information Criterion**|Yoshiyuki Ninomiya et.al.|[2110.12145v2](http://arxiv.org/abs/2110.12145v2)|null|
+|**2022-08-05**|**On concordance indices for models with time-varying risk**|A. Gandy et.al.|[2208.03213v1](http://arxiv.org/abs/2208.03213v1)|null|
+|**2021-08-19**|**Bayesian Semiparametric Hidden Markov Tensor Partition Models for Longitudinal Data with Local Variable Selection**|Giorgio Paulon et.al.|[2108.08439v2](http://arxiv.org/abs/2108.08439v2)|null|
+|**2022-03-25**|**A Hybrid Framework for Sequential Data Prediction with End-to-End Optimization**|Mustafa E. Aydın et.al.|[2203.13787v2](http://arxiv.org/abs/2203.13787v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2020-06-19**|**On affirmative solution to Michael's acclaimed problem in the theory of Fréchet algebras, with applications to automatic continuity theory**|S. R. Patel et.al.|[2006.11134v3](http://arxiv.org/abs/2006.11134v3)|null|
 |**2022-02-16**|**Generic transporters for the linear time dependent quantum Harmonic oscillator on $\mathbb R$**|Alberto Maspero et.al.|[2202.07974v2](http://arxiv.org/abs/2202.07974v2)|null|
 |**2022-06-22**|**Input-agnostic Certified Group Fairness via Gaussian Parameter Smoothing**|Jiayin Jin et.al.|[2206.11423v1](http://arxiv.org/abs/2206.11423v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v3](http://arxiv.org/abs/2010.11114v3)|null|
-|**2022-08-10**|**Adaptive LASSO estimation for functional hidden dynamic geostatistical model**|Paolo Maranzano et.al.|[2208.05528v1](http://arxiv.org/abs/2208.05528v1)|null|
-|**2022-05-26**|**Fast variable selection makes Karhunen-Loève decomposed Gaussian process BSS-ANOVA a speedy and accurate choice for dynamic systems identification**|David S. Mebane et.al.|[2205.13676v2](http://arxiv.org/abs/2205.13676v2)|null|
-|**2021-01-27**|**Predictive Quantile Regression with Mixed Roots and Increasing Dimensions: ALQR Approach**|Rui Fan et.al.|[2101.11568v3](http://arxiv.org/abs/2101.11568v3)|null|
-|**2022-07-28**|**Model selection with Gini indices under auto-calibration**|Mario V. Wüthrich et.al.|[2207.14372v3](http://arxiv.org/abs/2207.14372v3)|null|
-|**2022-08-10**|**Distribution-Free Location-Scale Regression**|Sandra Siegfried et.al.|[2208.05302v1](http://arxiv.org/abs/2208.05302v1)|null|
-|**2022-08-09**|**Copulaboost: additive modeling with copula-based model components**|Simon Boge Brant et.al.|[2208.04669v1](http://arxiv.org/abs/2208.04669v1)|null|
-|**2022-05-11**|**A void in the Hubble tension? The end of the line for the Hubble bubble**|David Camarena et.al.|[2205.05422v2](http://arxiv.org/abs/2205.05422v2)|null|
-|**2022-07-21**|**Correcting Model Bias with Sparse Implicit Processes**|Simón Rodríguez Santana et.al.|[2207.10673v2](http://arxiv.org/abs/2207.10673v2)|null|
-|**2021-04-06**|**Machine learning in interpretation of electronic core-level spectra**|Johannes Niskanen et.al.|[2104.02374v3](http://arxiv.org/abs/2104.02374v3)|null|
-|**2022-06-28**|**Exploring linguistic feature and model combination for speech recognition based automatic AD detection**|Yi Wang et.al.|[2206.13758v2](http://arxiv.org/abs/2206.13758v2)|null|
-|**2021-10-23**|**Prior Intensified Information Criterion**|Yoshiyuki Ninomiya et.al.|[2110.12145v2](http://arxiv.org/abs/2110.12145v2)|null|
-|**2022-08-05**|**On concordance indices for models with time-varying risk**|A. Gandy et.al.|[2208.03213v1](http://arxiv.org/abs/2208.03213v1)|null|
-|**2021-08-19**|**Bayesian Semiparametric Hidden Markov Tensor Partition Models for Longitudinal Data with Local Variable Selection**|Giorgio Paulon et.al.|[2108.08439v2](http://arxiv.org/abs/2108.08439v2)|null|
-|**2022-03-25**|**A Hybrid Framework for Sequential Data Prediction with End-to-End Optimization**|Mustafa E. Aydın et.al.|[2203.13787v2](http://arxiv.org/abs/2203.13787v2)|null|
