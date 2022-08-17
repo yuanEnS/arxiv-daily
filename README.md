@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-17 07:28:47 Asia/Shanghai
+ Automated deployment @ 2022-08-17 19:27:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-11-01**|**GNNear: Accelerating Full-Batch Training of Graph Neural Networks with Near-Memory Processing**|Zhe Zhou et.al.|[2111.00680v2](http://arxiv.org/abs/2111.00680v2)|null|
+|**2022-06-18**|**Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**|Zezhi Shao et.al.|[2206.09112v3](http://arxiv.org/abs/2206.09112v3)|[link](https://github.com/zezhishao/d2stgnn)|
+|**2022-06-18**|**Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting**|Zezhi Shao et.al.|[2206.09113v2](http://arxiv.org/abs/2206.09113v2)|[link](https://github.com/zezhishao/step)|
+|**2022-08-15**|**Learnable Filters for Geometric Scattering Modules**|Alexander Tong et.al.|[2208.07458v1](http://arxiv.org/abs/2208.07458v1)|null|
+|**2022-07-29**|**Face-to-Face Contrastive Learning for Social Intelligence Question-Answering**|Alex Wilf et.al.|[2208.01036v2](http://arxiv.org/abs/2208.01036v2)|null|
 |**2022-08-15**|**Signed Graph Neural Networks: A Frequency Perspective**|Rahul Singh et.al.|[2208.07323v1](http://arxiv.org/abs/2208.07323v1)|null|
 |**2022-08-15**|**ROLAND: Graph Learning Framework for Dynamic Graphs**|Jiaxuan You et.al.|[2208.07239v1](http://arxiv.org/abs/2208.07239v1)|[link](https://github.com/snap-stanford/roland)|
 |**2022-06-22**|**Graph Neural Networks as Gradient Flows**|Francesco Di Giovanni et.al.|[2206.10991v2](http://arxiv.org/abs/2206.10991v2)|null|
@@ -27,11 +32,6 @@
 |**2022-08-15**|**From Known to Unknown: Quality-aware Self-improving Graph Neural Network for Open Set Social Event Detection**|Jiaqian Ren et.al.|[2208.06973v1](http://arxiv.org/abs/2208.06973v1)|null|
 |**2022-08-15**|**STAR-GNN: Spatial-Temporal Video Representation for Content-based Retrieval**|Guoping Zhao et.al.|[2208.06966v1](http://arxiv.org/abs/2208.06966v1)|null|
 |**2022-08-15**|**Privacy-Preserving Decentralized Inference with Graph Neural Networks in Wireless Networks**|Mengyuan Lee et.al.|[2208.06963v1](http://arxiv.org/abs/2208.06963v1)|null|
-|**2022-02-05**|**A Universal Graph Deep Learning Interatomic Potential for the Periodic Table**|Chi Chen et.al.|[2202.02450v2](http://arxiv.org/abs/2202.02450v2)|[link](https://github.com/materialsvirtuallab/m3gnet)|
-|**2022-05-01**|**Heterogeneous graph neural network for power allocation in multicarrier-division duplex cell-free massive MIMO systems**|Bohan Li et.al.|[2205.00546v3](http://arxiv.org/abs/2205.00546v3)|null|
-|**2022-08-14**|**Convolutional Spiking Neural Networks for Detecting Anticipatory Brain Potentials Using Electroencephalogram**|Nathan Lutes et.al.|[2208.06900v1](http://arxiv.org/abs/2208.06900v1)|null|
-|**2022-01-22**|**Overcoming Oversmoothness in Graph Convolutional Networks via Hybrid Scattering Networks**|Frederik Wenkel et.al.|[2201.08932v2](http://arxiv.org/abs/2201.08932v2)|null|
-|**2022-08-13**|**Enhancing Graph Contrastive Learning with Node Similarity**|Hongliang Chi et.al.|[2208.06743v1](http://arxiv.org/abs/2208.06743v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-16**|**Reweighting the RCT for generalization: finite sample analysis and variable selection**|Bénédicte Colnet et.al.|[2208.07614v1](http://arxiv.org/abs/2208.07614v1)|null|
+|**2022-08-16**|**Galaxy And Mass Assembly (GAMA): Bulge-disk decomposition of KiDS data in the nearby universe**|Sarah Casura et.al.|[2208.07608v1](http://arxiv.org/abs/2208.07608v1)|null|
 |**2022-08-15**|**Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors**|Don van den Bergh et.al.|[2208.07086v1](http://arxiv.org/abs/2208.07086v1)|[link](https://github.com/vandenman/equalitysampler)|
 |**2022-02-25**|**Scalable Gaussian-process regression and variable selection using Vecchia approximations**|Jian Cao et.al.|[2202.12981v3](http://arxiv.org/abs/2202.12981v3)|[link](https://github.com/katzfuss-group/vecchia_gpr_var_select)|
 |**2020-04-24**|**Integrative Bayesian models using Post-selective Inference: a case study in Radiogenomics**|Snigdha Panigrahi et.al.|[2004.12012v4](http://arxiv.org/abs/2004.12012v4)|null|
@@ -91,5 +93,3 @@
 |**2022-08-09**|**Copulaboost: additive modeling with copula-based model components**|Simon Boge Brant et.al.|[2208.04669v1](http://arxiv.org/abs/2208.04669v1)|null|
 |**2022-05-11**|**A void in the Hubble tension? The end of the line for the Hubble bubble**|David Camarena et.al.|[2205.05422v2](http://arxiv.org/abs/2205.05422v2)|null|
 |**2022-07-21**|**Correcting Model Bias with Sparse Implicit Processes**|Simón Rodríguez Santana et.al.|[2207.10673v2](http://arxiv.org/abs/2207.10673v2)|null|
-|**2021-04-06**|**Machine learning in interpretation of electronic core-level spectra**|Johannes Niskanen et.al.|[2104.02374v3](http://arxiv.org/abs/2104.02374v3)|null|
-|**2022-06-28**|**Exploring linguistic feature and model combination for speech recognition based automatic AD detection**|Yi Wang et.al.|[2206.13758v2](http://arxiv.org/abs/2206.13758v2)|null|
