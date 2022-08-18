@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-18 07:30:11 Asia/Shanghai
+ Automated deployment @ 2022-08-18 19:27:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-17**|**Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials**|Yuge Hu et.al.|[2208.08337v1](http://arxiv.org/abs/2208.08337v1)|null|
+|**2022-05-31**|**Learning to Represent Programs with Code Hierarchies**|Minh H. Nguyen et.al.|[2205.15479v2](http://arxiv.org/abs/2205.15479v2)|null|
+|**2020-05-14**|**CoSimGNN: Towards Large-scale Graph Similarity Computation**|Haoyan Xu et.al.|[2005.07115v7](http://arxiv.org/abs/2005.07115v7)|null|
+|**2022-05-25**|**Predicting Corporate Risk by Jointly Modeling Company Networks and Dialogues in Earnings Conference Calls**|Yunxin Sang et.al.|[2206.06174v3](http://arxiv.org/abs/2206.06174v3)|null|
+|**2022-05-23**|**Deep Representations for Time-varying Brain Datasets**|Sikun Lin et.al.|[2205.11648v3](http://arxiv.org/abs/2205.11648v3)|[link](https://github.com/sklin93/rebraid)|
 |**2021-11-01**|**GNNear: Accelerating Full-Batch Training of Graph Neural Networks with Near-Memory Processing**|Zhe Zhou et.al.|[2111.00680v2](http://arxiv.org/abs/2111.00680v2)|null|
 |**2022-06-18**|**Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**|Zezhi Shao et.al.|[2206.09112v3](http://arxiv.org/abs/2206.09112v3)|[link](https://github.com/zezhishao/d2stgnn)|
 |**2022-06-18**|**Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting**|Zezhi Shao et.al.|[2206.09113v2](http://arxiv.org/abs/2206.09113v2)|[link](https://github.com/zezhishao/step)|
@@ -27,11 +32,6 @@
 |**2022-06-22**|**Graph Neural Networks as Gradient Flows**|Francesco Di Giovanni et.al.|[2206.10991v2](http://arxiv.org/abs/2206.10991v2)|null|
 |**2022-08-15**|**AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query**|Zepeng Huai et.al.|[2208.07201v1](http://arxiv.org/abs/2208.07201v1)|null|
 |**2022-05-24**|**Accelerating hydrodynamic simulations of urban drainage systems with physics-guided machine learning**|Rocco Palmitessa et.al.|[2206.01538v2](http://arxiv.org/abs/2206.01538v2)|null|
-|**2022-08-15**|**MM-GNN: Mix-Moment Graph Neural Network towards Modeling Neighborhood Feature Distribution**|Wendong Bi et.al.|[2208.07012v1](http://arxiv.org/abs/2208.07012v1)|null|
-|**2022-08-15**|**Rethinking Graph Neural Networks for the Graph Coloring Problem**|Wei Li et.al.|[2208.06975v1](http://arxiv.org/abs/2208.06975v1)|null|
-|**2022-08-15**|**From Known to Unknown: Quality-aware Self-improving Graph Neural Network for Open Set Social Event Detection**|Jiaqian Ren et.al.|[2208.06973v1](http://arxiv.org/abs/2208.06973v1)|null|
-|**2022-08-15**|**STAR-GNN: Spatial-Temporal Video Representation for Content-based Retrieval**|Guoping Zhao et.al.|[2208.06966v1](http://arxiv.org/abs/2208.06966v1)|null|
-|**2022-08-15**|**Privacy-Preserving Decentralized Inference with Graph Neural Networks in Wireless Networks**|Mengyuan Lee et.al.|[2208.06963v1](http://arxiv.org/abs/2208.06963v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-10-14**|**Quasars with Periodic Variability: Capabilities and Limitations of Bayesian Searches for Supermassive Black Hole Binaries in Time-Domain Surveys**|Caitlin A. Witt et.al.|[2110.07465v3](http://arxiv.org/abs/2110.07465v3)|null|
+|**2022-08-17**|**Two-Stage Robust and Sparse Distributed Statistical Inference for Large-Scale Data**|Emadaldin Mozafari-Majd et.al.|[2208.08230v1](http://arxiv.org/abs/2208.08230v1)|null|
+|**2022-08-17**|**Semi-supervised Learning with Deterministic Labeling and Large Margin Projection**|Ji Xu et.al.|[2208.08058v1](http://arxiv.org/abs/2208.08058v1)|[link](https://github.com/alanxuji/delala)|
+|**2022-08-16**|**Variable Selection in Latent Regression IRT Models via Knockoffs: An Application to International Large-scale Assessment in Education**|Yunxiao Chen et.al.|[2208.07959v1](http://arxiv.org/abs/2208.07959v1)|null|
 |**2022-08-16**|**Reweighting the RCT for generalization: finite sample analysis and variable selection**|Bénédicte Colnet et.al.|[2208.07614v1](http://arxiv.org/abs/2208.07614v1)|null|
 |**2022-08-16**|**Galaxy And Mass Assembly (GAMA): Bulge-disk decomposition of KiDS data in the nearby universe**|Sarah Casura et.al.|[2208.07608v1](http://arxiv.org/abs/2208.07608v1)|null|
 |**2022-08-15**|**Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors**|Don van den Bergh et.al.|[2208.07086v1](http://arxiv.org/abs/2208.07086v1)|[link](https://github.com/vandenman/equalitysampler)|
@@ -89,7 +93,3 @@
 |**2022-05-26**|**Fast variable selection makes Karhunen-Loève decomposed Gaussian process BSS-ANOVA a speedy and accurate choice for dynamic systems identification**|David S. Mebane et.al.|[2205.13676v2](http://arxiv.org/abs/2205.13676v2)|null|
 |**2021-01-27**|**Predictive Quantile Regression with Mixed Roots and Increasing Dimensions: ALQR Approach**|Rui Fan et.al.|[2101.11568v3](http://arxiv.org/abs/2101.11568v3)|null|
 |**2022-07-28**|**Model selection with Gini indices under auto-calibration**|Mario V. Wüthrich et.al.|[2207.14372v3](http://arxiv.org/abs/2207.14372v3)|null|
-|**2022-08-10**|**Distribution-Free Location-Scale Regression**|Sandra Siegfried et.al.|[2208.05302v1](http://arxiv.org/abs/2208.05302v1)|[link](https://CRAN.R-project.org/package=tram)|
-|**2022-08-09**|**Copulaboost: additive modeling with copula-based model components**|Simon Boge Brant et.al.|[2208.04669v1](http://arxiv.org/abs/2208.04669v1)|null|
-|**2022-05-11**|**A void in the Hubble tension? The end of the line for the Hubble bubble**|David Camarena et.al.|[2205.05422v2](http://arxiv.org/abs/2205.05422v2)|null|
-|**2022-07-21**|**Correcting Model Bias with Sparse Implicit Processes**|Simón Rodríguez Santana et.al.|[2207.10673v2](http://arxiv.org/abs/2207.10673v2)|null|
