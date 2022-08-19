@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-19 07:30:05 Asia/Shanghai
+ Automated deployment @ 2022-08-19 19:27:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -8,8 +8,8 @@
 ### Network Bootstrap
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-02**|**improving the Diversity of Bootstrapped DQN by Replacing Priors With Noise**|Li Meng et.al.|[2203.01004v2](http://arxiv.org/abs/2203.01004v2)|null|
 |**2022-08-03**|**One Node at a Time: Node-Level Network Classification**|Saray Shai et.al.|[2208.02162v1](http://arxiv.org/abs/2208.02162v1)|null|
-|**2022-03-02**|**Improving the Diversity of Bootstrapped DQN via Noisy Priors**|Li Meng et.al.|[2203.01004v1](http://arxiv.org/abs/2203.01004v1)|null|
 |**2020-04-14**|**Edgeworth expansions for network moments**|Yuan Zhang et.al.|[2004.06615v2](http://arxiv.org/abs/2004.06615v2)|[link](https://github.com/yzhanghf/NetworkEdgeworthExpansion)|
 |**2020-12-01**|**Fully Convolutional Network Bootstrapped by Word Encoding and Embedding for Activity Recognition in Smart Homes**|Damien Bouchabou et.al.|[2012.02300v1](http://arxiv.org/abs/2012.02300v1)|[link](https://github.com/dbouchabou/Fully-Convolutional-Network-Smart-Homes)|
 |**2013-03-18**|**Bootstrapping Trust in Online Dating: Social Verification of Online Dating Profiles**|Gregory Norcie et.al.|[1303.4155v2](http://arxiv.org/abs/1303.4155v2)|null|
@@ -17,6 +17,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-18**|**Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems**|Minseok Kim et.al.|[2208.08847v1](http://arxiv.org/abs/2208.08847v1)|null|
+|**2021-09-08**|**X-GOAL: Multiplex Heterogeneous Graph Prototypical Contrastive Learning**|Baoyu Jing et.al.|[2109.03560v3](http://arxiv.org/abs/2109.03560v3)|null|
+|**2022-08-18**|**AoI-based Temporal Attention Graph Neural Network for Popularity Prediction and Content Caching**|Jianhang Zhu et.al.|[2208.08606v1](http://arxiv.org/abs/2208.08606v1)|null|
+|**2022-08-18**|**Robust Causal Graph Representation Learning against Confounding Effects**|Hang Gao et.al.|[2208.08584v1](http://arxiv.org/abs/2208.08584v1)|null|
+|**2022-08-17**|**Embracing Graph Neural Networks for Hardware Security (Invited Paper)**|Lilas Alrahis et.al.|[2208.08554v1](http://arxiv.org/abs/2208.08554v1)|null|
+|**2022-02-03**|**Graph Coloring with Physics-Inspired Graph Neural Networks**|Martin J. A. Schuetz et.al.|[2202.01606v2](http://arxiv.org/abs/2202.01606v2)|[link](https://github.com/amazon-research/gcp-with-gnns-example)|
 |**2022-08-17**|**Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials**|Yuge Hu et.al.|[2208.08337v1](http://arxiv.org/abs/2208.08337v1)|null|
 |**2022-05-31**|**Learning to Represent Programs with Code Hierarchies**|Minh H. Nguyen et.al.|[2205.15479v2](http://arxiv.org/abs/2205.15479v2)|null|
 |**2020-05-14**|**CoSimGNN: Towards Large-scale Graph Similarity Computation**|Haoyan Xu et.al.|[2005.07115v7](http://arxiv.org/abs/2005.07115v7)|null|
@@ -26,33 +32,6 @@
 |**2022-06-18**|**Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**|Zezhi Shao et.al.|[2206.09112v3](http://arxiv.org/abs/2206.09112v3)|[link](https://github.com/zezhishao/d2stgnn)|
 |**2022-06-18**|**Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting**|Zezhi Shao et.al.|[2206.09113v2](http://arxiv.org/abs/2206.09113v2)|[link](https://github.com/zezhishao/step)|
 |**2022-08-15**|**Learnable Filters for Geometric Scattering Modules**|Alexander Tong et.al.|[2208.07458v1](http://arxiv.org/abs/2208.07458v1)|null|
-|**2022-07-29**|**Face-to-Face Contrastive Learning for Social Intelligence Question-Answering**|Alex Wilf et.al.|[2208.01036v2](http://arxiv.org/abs/2208.01036v2)|null|
-|**2022-08-15**|**Signed Graph Neural Networks: A Frequency Perspective**|Rahul Singh et.al.|[2208.07323v1](http://arxiv.org/abs/2208.07323v1)|null|
-|**2022-08-15**|**ROLAND: Graph Learning Framework for Dynamic Graphs**|Jiaxuan You et.al.|[2208.07239v1](http://arxiv.org/abs/2208.07239v1)|[link](https://github.com/snap-stanford/roland)|
-|**2022-06-22**|**Graph Neural Networks as Gradient Flows**|Francesco Di Giovanni et.al.|[2206.10991v2](http://arxiv.org/abs/2206.10991v2)|null|
-|**2022-08-15**|**AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query**|Zepeng Huai et.al.|[2208.07201v1](http://arxiv.org/abs/2208.07201v1)|null|
-|**2022-05-24**|**Accelerating hydrodynamic simulations of urban drainage systems with physics-guided machine learning**|Rocco Palmitessa et.al.|[2206.01538v2](http://arxiv.org/abs/2206.01538v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2021-10-14**|**Quasars with Periodic Variability: Capabilities and Limitations of Bayesian Searches for Supermassive Black Hole Binaries in Time-Domain Surveys**|Caitlin A. Witt et.al.|[2110.07465v3](http://arxiv.org/abs/2110.07465v3)|null|
-|**2022-08-17**|**Two-Stage Robust and Sparse Distributed Statistical Inference for Large-Scale Data**|Emadaldin Mozafari-Majd et.al.|[2208.08230v1](http://arxiv.org/abs/2208.08230v1)|null|
-|**2022-08-17**|**Semi-supervised Learning with Deterministic Labeling and Large Margin Projection**|Ji Xu et.al.|[2208.08058v1](http://arxiv.org/abs/2208.08058v1)|[link](https://github.com/alanxuji/delala)|
-|**2022-08-16**|**Variable Selection in Latent Regression IRT Models via Knockoffs: An Application to International Large-scale Assessment in Education**|Yunxiao Chen et.al.|[2208.07959v1](http://arxiv.org/abs/2208.07959v1)|null|
-|**2022-08-16**|**Reweighting the RCT for generalization: finite sample analysis and variable selection**|Bénédicte Colnet et.al.|[2208.07614v1](http://arxiv.org/abs/2208.07614v1)|null|
-|**2022-08-16**|**Galaxy And Mass Assembly (GAMA): Bulge-disk decomposition of KiDS data in the nearby universe**|Sarah Casura et.al.|[2208.07608v1](http://arxiv.org/abs/2208.07608v1)|null|
-|**2022-08-15**|**Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors**|Don van den Bergh et.al.|[2208.07086v1](http://arxiv.org/abs/2208.07086v1)|[link](https://github.com/vandenman/equalitysampler)|
-|**2022-02-25**|**Scalable Gaussian-process regression and variable selection using Vecchia approximations**|Jian Cao et.al.|[2202.12981v3](http://arxiv.org/abs/2202.12981v3)|[link](https://github.com/katzfuss-group/vecchia_gpr_var_select)|
-|**2020-04-24**|**Integrative Bayesian models using Post-selective Inference: a case study in Radiogenomics**|Snigdha Panigrahi et.al.|[2004.12012v4](http://arxiv.org/abs/2004.12012v4)|null|
-|**2022-08-12**|**Scaling and the Universality of Function Diversity Across Human Organizations**|Vicky Chuqiao Yang et.al.|[2208.06487v1](http://arxiv.org/abs/2208.06487v1)|null|
-|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v3](http://arxiv.org/abs/2010.11114v3)|null|
-|**2022-08-10**|**Adaptive LASSO estimation for functional hidden dynamic geostatistical model**|Paolo Maranzano et.al.|[2208.05528v1](http://arxiv.org/abs/2208.05528v1)|null|
-|**2022-05-26**|**Fast variable selection makes Karhunen-Loève decomposed Gaussian process BSS-ANOVA a speedy and accurate choice for dynamic systems identification**|David S. Mebane et.al.|[2205.13676v2](http://arxiv.org/abs/2205.13676v2)|null|
-|**2021-01-27**|**Predictive Quantile Regression with Mixed Roots and Increasing Dimensions: ALQR Approach**|Rui Fan et.al.|[2101.11568v3](http://arxiv.org/abs/2101.11568v3)|null|
-|**2022-07-28**|**Model selection with Gini indices under auto-calibration**|Mario V. Wüthrich et.al.|[2207.14372v3](http://arxiv.org/abs/2207.14372v3)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-08-18**|**The Atacama Cosmology Telescope: limits on dark matter-baryon interactions from DR4 power spectra**|Zack Li et.al.|[2208.08985v1](http://arxiv.org/abs/2208.08985v1)|null|
+|**2022-08-17**|**A deep, multi-epoch Chandra HETG study of the ionized outflow from NGC 4051**|A. Ogorzalek et.al.|[2208.08457v1](http://arxiv.org/abs/2208.08457v1)|null|
+|**2021-10-14**|**Quasars with Periodic Variability: Capabilities and Limitations of Bayesian Searches for Supermassive Black Hole Binaries in Time-Domain Surveys**|Caitlin A. Witt et.al.|[2110.07465v3](http://arxiv.org/abs/2110.07465v3)|null|
+|**2022-08-17**|**Two-Stage Robust and Sparse Distributed Statistical Inference for Large-Scale Data**|Emadaldin Mozafari-Majd et.al.|[2208.08230v1](http://arxiv.org/abs/2208.08230v1)|null|
+|**2022-08-17**|**Semi-supervised Learning with Deterministic Labeling and Large Margin Projection**|Ji Xu et.al.|[2208.08058v1](http://arxiv.org/abs/2208.08058v1)|[link](https://github.com/alanxuji/delala)|
+|**2022-08-16**|**Variable Selection in Latent Regression IRT Models via Knockoffs: An Application to International Large-scale Assessment in Education**|Yunxiao Chen et.al.|[2208.07959v1](http://arxiv.org/abs/2208.07959v1)|null|
+|**2022-08-16**|**Reweighting the RCT for generalization: finite sample analysis and variable selection**|Bénédicte Colnet et.al.|[2208.07614v1](http://arxiv.org/abs/2208.07614v1)|null|
+|**2022-08-16**|**Galaxy And Mass Assembly (GAMA): Bulge-disk decomposition of KiDS data in the nearby universe**|Sarah Casura et.al.|[2208.07608v1](http://arxiv.org/abs/2208.07608v1)|null|
+|**2022-08-15**|**Flexible Bayesian Multiple Comparison Adjustment Using Dirichlet Process and Beta-Binomial Model Priors**|Don van den Bergh et.al.|[2208.07086v1](http://arxiv.org/abs/2208.07086v1)|[link](https://github.com/vandenman/equalitysampler)|
+|**2022-02-25**|**Scalable Gaussian-process regression and variable selection using Vecchia approximations**|Jian Cao et.al.|[2202.12981v3](http://arxiv.org/abs/2202.12981v3)|[link](https://github.com/katzfuss-group/vecchia_gpr_var_select)|
+|**2020-04-24**|**Integrative Bayesian models using Post-selective Inference: a case study in Radiogenomics**|Snigdha Panigrahi et.al.|[2004.12012v4](http://arxiv.org/abs/2004.12012v4)|null|
+|**2022-08-12**|**Scaling and the Universality of Function Diversity Across Human Organizations**|Vicky Chuqiao Yang et.al.|[2208.06487v1](http://arxiv.org/abs/2208.06487v1)|null|
+|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v3](http://arxiv.org/abs/2010.11114v3)|null|
+|**2022-08-10**|**Adaptive LASSO estimation for functional hidden dynamic geostatistical model**|Paolo Maranzano et.al.|[2208.05528v1](http://arxiv.org/abs/2208.05528v1)|null|
+|**2022-05-26**|**Fast variable selection makes Karhunen-Loève decomposed Gaussian process BSS-ANOVA a speedy and accurate choice for dynamic systems identification**|David S. Mebane et.al.|[2205.13676v2](http://arxiv.org/abs/2205.13676v2)|null|
