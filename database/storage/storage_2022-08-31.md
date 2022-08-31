@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-08-31 07:32:51 Asia/Shanghai
+ Automated deployment @ 2022-08-31 19:27:20 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-28**|**Predicting precursors of slow glassy dynamics with high precision by machine learning relative motion**|Hayato Shiba et.al.|[2206.14024v3](http://arxiv.org/abs/2206.14024v3)|[link](https://github.com/h3-Open-BDEC/pyg_botan)|
+|**2022-06-28**|**SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving**|Prarthana Bhattacharyya et.al.|[2206.14116v2](http://arxiv.org/abs/2206.14116v2)|[link](https://github.com/autovision-cloud/ssl-lanes)|
+|**2022-08-30**|**Dynamic and adaptive mesh-based graph neural network framework for simulating displacement and crack fields in phase field models**|Roberto Perera et.al.|[2208.14364v1](http://arxiv.org/abs/2208.14364v1)|null|
+|**2022-08-01**|**Learning to Navigate using Visual Sensor Networks**|Jan Blumenkamp et.al.|[2208.00759v3](http://arxiv.org/abs/2208.00759v3)|null|
+|**2022-03-25**|**SpeqNets: Sparsity-aware Permutation-equivariant Graph Networks**|Christopher Morris et.al.|[2203.13913v3](http://arxiv.org/abs/2203.13913v3)|[link](https://github.com/chrsmrrs/speqnets)|
+|**2022-08-30**|**A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning**|Li Sun et.al.|[2208.14073v1](http://arxiv.org/abs/2208.14073v1)|null|
+|**2022-08-30**|**EchoGNN: Explainable Ejection Fraction Estimation with Graph Neural Networks**|Masoud Mokhtari et.al.|[2208.14003v1](http://arxiv.org/abs/2208.14003v1)|[link](https://github.com/masoudmo/echognn)|
+|**2022-08-30**|**HiGNN: Hierarchical Informative Graph Neural Networks for Molecular Property Prediction Equipped with Feature-Wise Attention**|Weimin Zhu et.al.|[2208.13994v1](http://arxiv.org/abs/2208.13994v1)|[link](https://github.com/idruglab/hignn)|
 |**2022-08-29**|**Machine Learning guided high-throughput search of non-oxide garnets**|Jonathan Schmidt et.al.|[2208.13742v1](http://arxiv.org/abs/2208.13742v1)|null|
 |**2021-12-01**|**Equivariant graph neural networks for fast electron density estimation of molecules, liquids, and solids**|Peter Bjørn Jørgensen et.al.|[2112.00652v2](http://arxiv.org/abs/2112.00652v2)|[link](https://github.com/peterbjorgensen/DeepDFT)|
 |**2022-08-29**|**FedEgo: Privacy-preserving Personalized Federated Graph Learning with Ego-graphs**|Taolin Zhang et.al.|[2208.13685v1](http://arxiv.org/abs/2208.13685v1)|[link](https://github.com/fedego/fedego)|
 |**2022-08-29**|**Spatio-Temporal Wind Speed Forecasting using Graph Networks and Novel Transformer Architectures**|Lars Ødegaard Bentsen et.al.|[2208.13585v1](http://arxiv.org/abs/2208.13585v1)|null|
+|**2021-08-17**|**Graph Contrastive Learning for Anomaly Detection**|Bo Chen et.al.|[2108.07516v3](http://arxiv.org/abs/2108.07516v3)|null|
 |**2022-07-01**|**TopicFM: Robust and Interpretable Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2207.00328v2](http://arxiv.org/abs/2207.00328v2)|[link](https://github.com/truongkhang/topicfm)|
 |**2022-08-28**|**Learning Heterogeneous Interaction Strengths by Trajectory Prediction with Graph Neural Network**|Seungwoong Ha et.al.|[2208.13179v1](http://arxiv.org/abs/2208.13179v1)|[link](https://github.com/nokpil/rain)|
-|**2020-04-20**|**Fine-tuning Multi-hop Question Answering with Hierarchical Graph Network**|Guanming Xiong et.al.|[2004.13821v3](http://arxiv.org/abs/2004.13821v3)|null|
-|**2022-05-27**|**Personalized PageRank Graph Attention Networks**|Julie Choi et.al.|[2205.14259v2](http://arxiv.org/abs/2205.14259v2)|[link](https://github.com/juliechoi12/pprgat)|
-|**2021-11-23**|**Node-Level Differentially Private Graph Neural Networks**|Ameya Daigavane et.al.|[2111.15521v3](http://arxiv.org/abs/2111.15521v3)|[link](https://github.com/google-research/google-research)|
-|**2022-08-26**|**Uncovering dark matter density profiles in dwarf galaxies with graph neural networks**|Tri Nguyen et.al.|[2208.12825v1](http://arxiv.org/abs/2208.12825v1)|[link](https://github.com/trivnguyen/dsph_gnn)|
-|**2022-08-09**|**Literature Review: Graph Kernels in Chemoinformatics**|James Young et.al.|[2208.04929v2](http://arxiv.org/abs/2208.04929v2)|null|
-|**2022-08-26**|**What Does the Gradient Tell When Attacking the Graph Structure**|Zihan Liu et.al.|[2208.12815v1](http://arxiv.org/abs/2208.12815v1)|null|
-|**2021-03-21**|**Deepened Graph Auto-Encoders Help Stabilize and Enhance Link Prediction**|Xinxing Wu et.al.|[2103.11414v2](http://arxiv.org/abs/2103.11414v2)|[link](https://github.com/xinxingwu-uk/dgae)|
-|**2022-08-26**|**Learning with Few Labeled Nodes via Augmented Graph Self-Training**|Kaize Ding et.al.|[2208.12422v1](http://arxiv.org/abs/2208.12422v1)|null|
-|**2022-08-25**|**Data Augmentation for Graph Data: Recent Advancements**|Maria Marrium et.al.|[2208.11973v1](http://arxiv.org/abs/2208.11973v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-30**|**Early versus Phantom Dark Energy, Self-Interacting, Extra, or Massive Neutrinos, Primordial Magnetic Fields, or a Curved Universe: An Exploration of Possible Solutions to the $H_0$ and $σ_8$ Problems**|Helena García Escudero et.al.|[2208.14435v1](http://arxiv.org/abs/2208.14435v1)|null|
+|**2022-08-30**|**Variable selection in sparse GLARMA models**|Marina Gomtsyan et.al.|[2208.14168v1](http://arxiv.org/abs/2208.14168v1)|null|
+|**2022-08-30**|**Transformers with Learnable Activation Functions**|Haishuo Fang et.al.|[2208.14111v1](http://arxiv.org/abs/2208.14111v1)|null|
+|**2021-05-18**|**Achieving Fairness with a Simple Ridge Penalty**|Marco Scutari et.al.|[2105.13817v3](http://arxiv.org/abs/2105.13817v3)|null|
 |**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v4](http://arxiv.org/abs/2010.11114v4)|null|
 |**2022-08-29**|**On the Lasso for Graphical Continuous Lyapunov Models**|Philipp Dettling et.al.|[2208.13572v1](http://arxiv.org/abs/2208.13572v1)|null|
 |**2022-08-27**|**Impact of Loss Model Selection on Power Semiconductor Lifetime Prediction in Electric Vehicles**|Hongjian Xia et.al.|[2208.13019v1](http://arxiv.org/abs/2208.13019v1)|null|
@@ -89,7 +93,3 @@
 |**2022-06-08**|**Model Selection and Inference in Variational Longitudinal Distributed Lag Models for Analyzing Post-flight Effects of In-flight Exposures**|Mark J. Meyer et.al.|[2206.04012v2](http://arxiv.org/abs/2206.04012v2)|null|
 |**2022-08-24**|**Group SLOPE Penalized CP Low-Rank Tensor Regression**|Yang Chen et.al.|[2208.11391v1](http://arxiv.org/abs/2208.11391v1)|null|
 |**2022-08-23**|**Multinomial Cluster-Weighted Models for High-Dimensional Data**|Kehinde Olobatuyi et.al.|[2208.11221v1](http://arxiv.org/abs/2208.11221v1)|null|
-|**2022-08-23**|**A reanalysis of the latest SH0ES data for $H_0$: Effects of new degrees of freedom on the Hubble tension**|Leandros Perivolaropoulos et.al.|[2208.11169v1](http://arxiv.org/abs/2208.11169v1)|[link](https://github.com/foteiniskara/a-reanalysis-of-the-sh0es-data-for-h_0)|
-|**2022-08-23**|**Building Robust Machine Learning Models for Small Chemical Science Data: The Case of Shear Viscosity**|Nikhil V. S. Avula et.al.|[2208.10784v1](http://arxiv.org/abs/2208.10784v1)|null|
-|**2022-06-18**|**AutoGML: Fast Automatic Model Selection for Graph Machine Learning**|Namyong Park et.al.|[2206.09280v2](http://arxiv.org/abs/2206.09280v2)|null|
-|**2022-08-23**|**Variable selection and basis learning for ordinal classification**|Minwoo Kim et.al.|[2208.10690v1](http://arxiv.org/abs/2208.10690v1)|null|
