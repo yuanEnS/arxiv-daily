@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-11 07:31:57 Asia/Shanghai
+ Automated deployment @ 2022-09-11 19:28:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2022-09-06**|**Being Automated or Not? Risk Identification of Occupations with Graph Neural Networks**|Dawei Xu et.al.|[2209.02182v1](http://arxiv.org/abs/2209.02182v1)|null|
 |**2022-09-05**|**SR-GNN: Spatial Relation-aware Graph Neural Network for Fine-Grained Image Categorization**|Asish Bera et.al.|[2209.02109v1](http://arxiv.org/abs/2209.02109v1)|null|
 |**2022-05-26**|**How Powerful are K-hop Message Passing Graph Neural Networks**|Jiarui Feng et.al.|[2205.13328v2](http://arxiv.org/abs/2205.13328v2)|[link](https://github.com/JiaruiFeng/KP-GNN)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-08**|**BatMan: Mitigating Batch Effects via Stratification for Survival Outcome Prediction**|Ai Ni et.al.|[2209.03902v1](http://arxiv.org/abs/2209.03902v1)|[link](https://github.com/lxqin/precision.survival)|
-|**2022-09-08**|**Bayes factors for longitudinal model assessment via power posteriors**|Gabriel Calvo et.al.|[2209.03847v1](http://arxiv.org/abs/2209.03847v1)|null|
-|**2021-10-13**|**Sparse Linear Mixed Model Selection via Streamlined Variational Bayes**|Emanuele Degani et.al.|[2110.07048v2](http://arxiv.org/abs/2110.07048v2)|[link](https://github.com/lucamaestrini/dmtwcode)|
-|**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v4](http://arxiv.org/abs/2110.12316v4)|null|
-|**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v1](http://arxiv.org/abs/2209.02757v1)|null|
-|**2021-07-14**|**Correlation scenarios and correlation stress testing**|N. Packham et.al.|[2107.06839v2](http://arxiv.org/abs/2107.06839v2)|null|
-|**2022-07-26**|**An Effective Method for Identifying Clusters of Robot Strengths**|Jen-Chieh Teng et.al.|[2207.12956v2](http://arxiv.org/abs/2207.12956v2)|[link](https://github.com/d09948011/identifying-clusters)|
-|**2022-09-05**|**Using leave-one-out cross-validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale**|Swen Kuh et.al.|[2209.01773v1](http://arxiv.org/abs/2209.01773v1)|null|
-|**2022-09-05**|**Towards Deep Learning-aided Wireless Channel Estimation and Channel State Information Feedback for 6G**|Wonjun Kim et.al.|[2209.01724v1](http://arxiv.org/abs/2209.01724v1)|null|
-|**2021-10-14**|**UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning**|Yuning Mao et.al.|[2110.07577v3](http://arxiv.org/abs/2110.07577v3)|[link](https://github.com/morningmoni/unipelt)|
-|**2021-04-06**|**A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts models**|TrungTin Nguyen et.al.|[2104.02640v3](http://arxiv.org/abs/2104.02640v3)|[link](https://github.com/Trung-TinNGUYEN/NamsGLoME-Simulation)|
-|**2022-08-23**|**A reanalysis of the latest SH0ES data for $H_0$: Effects of new degrees of freedom on the Hubble tension**|Leandros Perivolaropoulos et.al.|[2208.11169v2](http://arxiv.org/abs/2208.11169v2)|[link](https://github.com/foteiniskara/a-reanalysis-of-the-sh0es-data-for-h_0)|
-|**2022-09-04**|**Copula Entropy based Variable Selection for Survival Analysis**|Jian Ma et.al.|[2209.01561v1](http://arxiv.org/abs/2209.01561v1)|[link](https://github.com/majianthu/survival)|
-|**2021-02-22**|**Bridging factor and sparse models**|Jianqing Fan et.al.|[2102.11341v4](http://arxiv.org/abs/2102.11341v4)|null|
-|**2022-09-03**|**Model Selection in High-Dimensional Block-Sparse Linear Regression**|Prakash B. Gohain et.al.|[2209.01460v1](http://arxiv.org/abs/2209.01460v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 |**2019-08-12**|**Geometrical Smeariness -- A new Phenomenon of Fréchet Means**|Benjamin Eltzner et.al.|[1908.04233v3](http://arxiv.org/abs/1908.04233v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-08**|**BatMan: Mitigating Batch Effects via Stratification for Survival Outcome Prediction**|Ai Ni et.al.|[2209.03902v1](http://arxiv.org/abs/2209.03902v1)|[link](https://github.com/lxqin/precision.survival)|
+|**2022-09-08**|**Bayes factors for longitudinal model assessment via power posteriors**|Gabriel Calvo et.al.|[2209.03847v1](http://arxiv.org/abs/2209.03847v1)|null|
+|**2021-10-13**|**Sparse Linear Mixed Model Selection via Streamlined Variational Bayes**|Emanuele Degani et.al.|[2110.07048v2](http://arxiv.org/abs/2110.07048v2)|[link](https://github.com/lucamaestrini/dmtwcode)|
+|**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v4](http://arxiv.org/abs/2110.12316v4)|null|
+|**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v1](http://arxiv.org/abs/2209.02757v1)|null|
+|**2021-07-14**|**Correlation scenarios and correlation stress testing**|N. Packham et.al.|[2107.06839v2](http://arxiv.org/abs/2107.06839v2)|null|
+|**2022-07-26**|**An Effective Method for Identifying Clusters of Robot Strengths**|Jen-Chieh Teng et.al.|[2207.12956v2](http://arxiv.org/abs/2207.12956v2)|[link](https://github.com/d09948011/identifying-clusters)|
+|**2022-09-05**|**Using leave-one-out cross-validation (LOO) in a multilevel regression and poststratification (MRP) workflow: A cautionary tale**|Swen Kuh et.al.|[2209.01773v1](http://arxiv.org/abs/2209.01773v1)|null|
+|**2022-09-05**|**Towards Deep Learning-aided Wireless Channel Estimation and Channel State Information Feedback for 6G**|Wonjun Kim et.al.|[2209.01724v1](http://arxiv.org/abs/2209.01724v1)|null|
+|**2021-10-14**|**UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning**|Yuning Mao et.al.|[2110.07577v3](http://arxiv.org/abs/2110.07577v3)|[link](https://github.com/morningmoni/unipelt)|
+|**2021-04-06**|**A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts models**|TrungTin Nguyen et.al.|[2104.02640v3](http://arxiv.org/abs/2104.02640v3)|[link](https://github.com/Trung-TinNGUYEN/NamsGLoME-Simulation)|
+|**2022-08-23**|**A reanalysis of the latest SH0ES data for $H_0$: Effects of new degrees of freedom on the Hubble tension**|Leandros Perivolaropoulos et.al.|[2208.11169v2](http://arxiv.org/abs/2208.11169v2)|[link](https://github.com/foteiniskara/a-reanalysis-of-the-sh0es-data-for-h_0)|
+|**2022-09-04**|**Copula Entropy based Variable Selection for Survival Analysis**|Jian Ma et.al.|[2209.01561v1](http://arxiv.org/abs/2209.01561v1)|[link](https://github.com/majianthu/survival)|
+|**2021-02-22**|**Bridging factor and sparse models**|Jianqing Fan et.al.|[2102.11341v4](http://arxiv.org/abs/2102.11341v4)|null|
+|**2022-09-03**|**Model Selection in High-Dimensional Block-Sparse Linear Regression**|Prakash B. Gohain et.al.|[2209.01460v1](http://arxiv.org/abs/2209.01460v1)|null|
