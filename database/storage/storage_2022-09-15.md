@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-15 07:33:31 Asia/Shanghai
+ Automated deployment @ 2022-09-15 19:29:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-14**|**Empowering GNNs with Fine-grained Communication-Computation Pipelining on Multi-GPU Platforms**|Yuke Wang et.al.|[2209.06800v1](http://arxiv.org/abs/2209.06800v1)|null|
+|**2021-05-18**|**Graph Neural Networks for Decentralized Multi-Robot Submodular Action Selection**|Lifeng Zhou et.al.|[2105.08601v3](http://arxiv.org/abs/2105.08601v3)|[link](https://github.com/VishnuDuttSharma/deep-multirobot-task)|
+|**2022-09-14**|**Towards Better Generalization with Flexible Representation of Multi-Module Graph Neural Networks**|Hyungeun Lee et.al.|[2209.06589v1](http://arxiv.org/abs/2209.06589v1)|null|
+|**2022-09-14**|**Scalable Spatiotemporal Graph Neural Networks**|Andrea Cini et.al.|[2209.06520v1](http://arxiv.org/abs/2209.06520v1)|null|
+|**2022-09-14**|**Graph Perceiver IO: A General Architecture for Graph Structured Data**|Seyun Bae et.al.|[2209.06418v1](http://arxiv.org/abs/2209.06418v1)|null|
+|**2022-09-14**|**Tuple Packing: Efficient Batching of Small Graphs in Graph Neural Networks**|Mario Michael Krell et.al.|[2209.06354v1](http://arxiv.org/abs/2209.06354v1)|null|
 |**2022-09-13**|**Characterizing Graph Datasets for Node Classification: Beyond Homophily-Heterophily Dichotomy**|Oleg Platonov et.al.|[2209.06177v1](http://arxiv.org/abs/2209.06177v1)|null|
 |**2022-09-13**|**Investigating the Predictive Reproducibility of Federated Graph Neural Networks using Medical Datasets**|Mehmet Yigit Balik et.al.|[2209.06032v1](http://arxiv.org/abs/2209.06032v1)|[link](https://github.com/basiralab/reproduciblefedgnn)|
 |**2022-09-13**|**Predicting Brain Multigraph Population From a Single Graph Template for Boosting One-Shot Classification**|Furkan Pala et.al.|[2209.06005v1](http://arxiv.org/abs/2209.06005v1)|[link](https://github.com/basiralab/multigraphgnet)|
@@ -25,13 +31,28 @@
 |**2022-09-09**|**Simple and Powerful Architecture for Inductive Recommendation Using Knowledge Graph Convolutions**|Theis E. Jendal et.al.|[2209.04185v3](http://arxiv.org/abs/2209.04185v3)|null|
 |**2022-09-13**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
 |**2022-09-13**|**Semantic2Graph: Graph-based Multi-modal Feature for Action Segmentation in Videos**|Junbin Zhang et.al.|[2209.05653v1](http://arxiv.org/abs/2209.05653v1)|null|
-|**2022-09-12**|**Polycrystal Graph Neural Network**|Minyi Dai et.al.|[2209.05583v1](http://arxiv.org/abs/2209.05583v1)|null|
-|**2022-09-12**|**Graph Neural Networks for Molecules**|Yuyang Wang et.al.|[2209.05582v1](http://arxiv.org/abs/2209.05582v1)|null|
-|**2022-09-12**|**Unified Graph Neural Network Force-field for the Periodic Table**|Kamal Choudhary et.al.|[2209.05554v1](http://arxiv.org/abs/2209.05554v1)|null|
-|**2022-09-12**|**Elastic Context: Encoding Elasticity for Data-driven Models of Textiles**|Alberta Longhini et.al.|[2209.05428v1](http://arxiv.org/abs/2209.05428v1)|null|
-|**2022-09-12**|**Landmark Enhanced Multimodal Graph Learning for Deepfake Video Detection**|Zhiyuan Yan et.al.|[2209.05419v1](http://arxiv.org/abs/2209.05419v1)|null|
-|**2022-09-02**|**Representing Social Networks as Dynamic Heterogeneous Graphs**|Negar Maleki et.al.|[2209.03144v2](http://arxiv.org/abs/2209.03144v2)|null|
-|**2022-09-12**|**Graph Neural Modeling of Network Flows**|Victor-Alexandru Darvariu et.al.|[2209.05208v1](http://arxiv.org/abs/2209.05208v1)|null|
+|**2022-09-12**|**Polycrystal Graph Neural Network**|Minyi Dai et.al.|[2209.05583v1](http://arxiv.org/abs/2209.05583v1)|[link](https://github.com/mdai26/pgnn)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-01-23**|**On the Hauck-Donner Effect in Wald Tests: Detection, Tipping Points, and Parameter Space Characterization**|Thomas William Yee et.al.|[2001.08431v2](http://arxiv.org/abs/2001.08431v2)|null|
+|**2022-03-24**|**Kepler-1708 b-i is likely undetectable with HST**|Ben Cassese et.al.|[2203.13290v2](http://arxiv.org/abs/2203.13290v2)|[link](https://github.com/ben-cassese/kep-1708b-i_detectability)|
+|**2022-09-13**|**Using the bayesmeta R package for Bayesian random-effects meta-regression**|Christian Röver et.al.|[2209.06004v1](http://arxiv.org/abs/2209.06004v1)|null|
+|**2021-06-28**|**Fast Bayesian Variable Selection in Binomial and Negative Binomial Regression**|Martin Jankowiak et.al.|[2106.14981v2](http://arxiv.org/abs/2106.14981v2)|null|
+|**2021-12-15**|**Informed Bayesian survival analysis**|František Bartoš et.al.|[2112.08311v2](http://arxiv.org/abs/2112.08311v2)|[link](https://github.com/fbartos/robsa)|
+|**2021-05-12**|**Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization**|Damien Teney et.al.|[2105.05612v3](http://arxiv.org/abs/2105.05612v3)|[link](https://github.com/dteney/collages-dataset)|
+|**2022-01-05**|**High-dimensional variable selection with heterogeneous signals: A precise asymptotic perspective**|Saptarshi Roy et.al.|[2201.01508v2](http://arxiv.org/abs/2201.01508v2)|null|
+|**2021-06-07**|**Proximal nested sampling for high-dimensional Bayesian model selection**|Xiaohao Cai et.al.|[2106.03646v3](http://arxiv.org/abs/2106.03646v3)|[link](https://github.com/astro-informatics/proxnest)|
+|**2022-09-09**|**clusterBMA: Bayesian model averaging for clustering**|Owen Forbes et.al.|[2209.04117v1](http://arxiv.org/abs/2209.04117v1)|[link](https://github.com/of2/clusterbma)|
+|**2022-09-08**|**BatMan: Mitigating Batch Effects via Stratification for Survival Outcome Prediction**|Ai Ni et.al.|[2209.03902v1](http://arxiv.org/abs/2209.03902v1)|[link](https://github.com/lxqin/precision.survival)|
+|**2022-09-08**|**Majority Vote for Distributed Differentially Private Sign Selection**|Weidong Liu et.al.|[2209.04419v1](http://arxiv.org/abs/2209.04419v1)|null|
+|**2022-09-08**|**Bayes factors for longitudinal model assessment via power posteriors**|Gabriel Calvo et.al.|[2209.03847v1](http://arxiv.org/abs/2209.03847v1)|null|
+|**2021-10-13**|**Sparse Linear Mixed Model Selection via Streamlined Variational Bayes**|Emanuele Degani et.al.|[2110.07048v2](http://arxiv.org/abs/2110.07048v2)|[link](https://github.com/lucamaestrini/dmtwcode)|
+|**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v4](http://arxiv.org/abs/2110.12316v4)|null|
+|**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v1](http://arxiv.org/abs/2209.02757v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-03-24**|**Kepler-1708 b-i is likely undetectable with HST**|Ben Cassese et.al.|[2203.13290v2](http://arxiv.org/abs/2203.13290v2)|[link](https://github.com/ben-cassese/kep-1708b-i_detectability)|
-|**2022-09-13**|**Using the bayesmeta R package for Bayesian random-effects meta-regression**|Christian Röver et.al.|[2209.06004v1](http://arxiv.org/abs/2209.06004v1)|null|
-|**2021-06-28**|**Fast Bayesian Variable Selection in Binomial and Negative Binomial Regression**|Martin Jankowiak et.al.|[2106.14981v2](http://arxiv.org/abs/2106.14981v2)|null|
-|**2021-12-15**|**Informed Bayesian survival analysis**|František Bartoš et.al.|[2112.08311v2](http://arxiv.org/abs/2112.08311v2)|[link](https://github.com/fbartos/robsa)|
-|**2021-05-12**|**Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization**|Damien Teney et.al.|[2105.05612v3](http://arxiv.org/abs/2105.05612v3)|[link](https://github.com/dteney/collages-dataset)|
-|**2022-01-05**|**High-dimensional variable selection with heterogeneous signals: A precise asymptotic perspective**|Saptarshi Roy et.al.|[2201.01508v2](http://arxiv.org/abs/2201.01508v2)|null|
-|**2021-06-07**|**Proximal nested sampling for high-dimensional Bayesian model selection**|Xiaohao Cai et.al.|[2106.03646v3](http://arxiv.org/abs/2106.03646v3)|[link](https://github.com/astro-informatics/proxnest)|
-|**2022-09-09**|**clusterBMA: Bayesian model averaging for clustering**|Owen Forbes et.al.|[2209.04117v1](http://arxiv.org/abs/2209.04117v1)|[link](https://github.com/of2/clusterbma)|
-|**2022-09-08**|**BatMan: Mitigating Batch Effects via Stratification for Survival Outcome Prediction**|Ai Ni et.al.|[2209.03902v1](http://arxiv.org/abs/2209.03902v1)|[link](https://github.com/lxqin/precision.survival)|
-|**2022-09-08**|**Majority Vote for Distributed Differentially Private Sign Selection**|Weidong Liu et.al.|[2209.04419v1](http://arxiv.org/abs/2209.04419v1)|null|
-|**2022-09-08**|**Bayes factors for longitudinal model assessment via power posteriors**|Gabriel Calvo et.al.|[2209.03847v1](http://arxiv.org/abs/2209.03847v1)|null|
-|**2021-10-13**|**Sparse Linear Mixed Model Selection via Streamlined Variational Bayes**|Emanuele Degani et.al.|[2110.07048v2](http://arxiv.org/abs/2110.07048v2)|[link](https://github.com/lucamaestrini/dmtwcode)|
-|**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v4](http://arxiv.org/abs/2110.12316v4)|null|
-|**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v1](http://arxiv.org/abs/2209.02757v1)|null|
-|**2021-07-14**|**Correlation scenarios and correlation stress testing**|N. Packham et.al.|[2107.06839v2](http://arxiv.org/abs/2107.06839v2)|null|
