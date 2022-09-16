@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-16 07:35:37 Asia/Shanghai
+ Automated deployment @ 2022-09-16 19:29:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-15**|**DiP-GNN: Discriminative Pre-Training of Graph Neural Networks**|Simiao Zuo et.al.|[2209.07499v1](http://arxiv.org/abs/2209.07499v1)|null|
+|**2022-09-15**|**Overhead-Free Blockage Detection and Precoding Through Physics-Based Graph Neural Networks: LIDAR Data Meets Ray Tracing**|Matteo Nerini et.al.|[2209.07350v1](http://arxiv.org/abs/2209.07350v1)|null|
+|**2022-09-15**|**Multi-Task Mixture Density Graph Neural Networks for Predicting Cu-based Single-Atom Alloy Catalysts for CO2 Reduction Reaction**|Chen Liang et.al.|[2209.07300v1](http://arxiv.org/abs/2209.07300v1)|null|
+|**2022-09-15**|**Earthquake Phase Association with Graph Neural Networks**|Ian W. McBrearty et.al.|[2209.07086v1](http://arxiv.org/abs/2209.07086v1)|null|
+|**2022-09-15**|**Fixed-Point Centrality for Networks**|Shuang Gao et.al.|[2209.07070v1](http://arxiv.org/abs/2209.07070v1)|null|
+|**2022-09-15**|**A semantic hierarchical graph neural network for text classification**|Shuai Hua et.al.|[2209.07031v1](http://arxiv.org/abs/2209.07031v1)|null|
+|**2022-05-30**|**OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs**|Yangze Zhou et.al.|[2205.15117v4](http://arxiv.org/abs/2205.15117v4)|null|
+|**2022-09-14**|**Robust field-level inference with dark matter halos**|Helen Shao et.al.|[2209.06843v1](http://arxiv.org/abs/2209.06843v1)|null|
 |**2022-09-14**|**Empowering GNNs with Fine-grained Communication-Computation Pipelining on Multi-GPU Platforms**|Yuke Wang et.al.|[2209.06800v1](http://arxiv.org/abs/2209.06800v1)|null|
 |**2021-05-18**|**Graph Neural Networks for Decentralized Multi-Robot Submodular Action Selection**|Lifeng Zhou et.al.|[2105.08601v3](http://arxiv.org/abs/2105.08601v3)|[link](https://github.com/VishnuDuttSharma/deep-multirobot-task)|
 |**2022-09-14**|**Towards Better Generalization with Flexible Representation of Multi-Module Graph Neural Networks**|Hyungeun Lee et.al.|[2209.06589v1](http://arxiv.org/abs/2209.06589v1)|null|
@@ -24,14 +32,6 @@
 |**2022-09-14**|**Graph Perceiver IO: A General Architecture for Graph Structured Data**|Seyun Bae et.al.|[2209.06418v1](http://arxiv.org/abs/2209.06418v1)|null|
 |**2022-09-14**|**Tuple Packing: Efficient Batching of Small Graphs in Graph Neural Networks**|Mario Michael Krell et.al.|[2209.06354v1](http://arxiv.org/abs/2209.06354v1)|null|
 |**2022-09-13**|**Characterizing Graph Datasets for Node Classification: Beyond Homophily-Heterophily Dichotomy**|Oleg Platonov et.al.|[2209.06177v1](http://arxiv.org/abs/2209.06177v1)|null|
-|**2022-09-13**|**Investigating the Predictive Reproducibility of Federated Graph Neural Networks using Medical Datasets**|Mehmet Yigit Balik et.al.|[2209.06032v1](http://arxiv.org/abs/2209.06032v1)|[link](https://github.com/basiralab/reproduciblefedgnn)|
-|**2022-09-13**|**Predicting Brain Multigraph Population From a Single Graph Template for Boosting One-Shot Classification**|Furkan Pala et.al.|[2209.06005v1](http://arxiv.org/abs/2209.06005v1)|[link](https://github.com/basiralab/multigraphgnet)|
-|**2022-09-13**|**Adversarial Inter-Group Link Injection Degrades the Fairness of Graph Neural Networks**|Hussain Hussain et.al.|[2209.05957v1](http://arxiv.org/abs/2209.05957v1)|[link](https://github.com/mengcao327/attack-gnn-fairness)|
-|**2022-03-17**|**Behavior-aware Account De-anonymization on Ethereum Interaction Graph**|Jiajun Zhou et.al.|[2203.09360v3](http://arxiv.org/abs/2203.09360v3)|[link](https://github.com/jjzhou012/Ethident)|
-|**2022-09-09**|**Simple and Powerful Architecture for Inductive Recommendation Using Knowledge Graph Convolutions**|Theis E. Jendal et.al.|[2209.04185v3](http://arxiv.org/abs/2209.04185v3)|null|
-|**2022-09-13**|**GrASPE: Graph based Multimodal Fusion for Robot Navigation in Unstructured Outdoor Environments**|Kasun Weerakoon et.al.|[2209.05722v1](http://arxiv.org/abs/2209.05722v1)|null|
-|**2022-09-13**|**Semantic2Graph: Graph-based Multi-modal Feature for Action Segmentation in Videos**|Junbin Zhang et.al.|[2209.05653v1](http://arxiv.org/abs/2209.05653v1)|null|
-|**2022-09-12**|**Polycrystal Graph Neural Network**|Minyi Dai et.al.|[2209.05583v1](http://arxiv.org/abs/2209.05583v1)|[link](https://github.com/mdai26/pgnn)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-04**|**Carbon Footprint of Selecting and Training Deep Learning Models for Medical Image Analysis**|Raghavendra Selvan et.al.|[2203.02202v2](http://arxiv.org/abs/2203.02202v2)|null|
+|**2021-01-11**|**Statistical Methods for cis-Mendelian Randomization with Two-sample Summary-level Data**|Apostolos Gkatzionis et.al.|[2101.04081v2](http://arxiv.org/abs/2101.04081v2)|null|
+|**2022-09-14**|**ViscoelasticNet: A physics informed neural network framework for stress discovery and model selection**|Sukirt Thakur et.al.|[2209.06972v1](http://arxiv.org/abs/2209.06972v1)|null|
 |**2020-01-23**|**On the Hauck-Donner Effect in Wald Tests: Detection, Tipping Points, and Parameter Space Characterization**|Thomas William Yee et.al.|[2001.08431v2](http://arxiv.org/abs/2001.08431v2)|null|
 |**2022-03-24**|**Kepler-1708 b-i is likely undetectable with HST**|Ben Cassese et.al.|[2203.13290v2](http://arxiv.org/abs/2203.13290v2)|[link](https://github.com/ben-cassese/kep-1708b-i_detectability)|
 |**2022-09-13**|**Using the bayesmeta R package for Bayesian random-effects meta-regression**|Christian Röver et.al.|[2209.06004v1](http://arxiv.org/abs/2209.06004v1)|null|
@@ -90,6 +93,3 @@
 |**2022-09-08**|**BatMan: Mitigating Batch Effects via Stratification for Survival Outcome Prediction**|Ai Ni et.al.|[2209.03902v1](http://arxiv.org/abs/2209.03902v1)|[link](https://github.com/lxqin/precision.survival)|
 |**2022-09-08**|**Majority Vote for Distributed Differentially Private Sign Selection**|Weidong Liu et.al.|[2209.04419v1](http://arxiv.org/abs/2209.04419v1)|null|
 |**2022-09-08**|**Bayes factors for longitudinal model assessment via power posteriors**|Gabriel Calvo et.al.|[2209.03847v1](http://arxiv.org/abs/2209.03847v1)|null|
-|**2021-10-13**|**Sparse Linear Mixed Model Selection via Streamlined Variational Bayes**|Emanuele Degani et.al.|[2110.07048v2](http://arxiv.org/abs/2110.07048v2)|[link](https://github.com/lucamaestrini/dmtwcode)|
-|**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v4](http://arxiv.org/abs/2110.12316v4)|null|
-|**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v1](http://arxiv.org/abs/2209.02757v1)|null|
