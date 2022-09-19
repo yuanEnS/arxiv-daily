@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-19 07:33:02 Asia/Shanghai
+ Automated deployment @ 2022-09-19 19:29:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,44 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-12-16**|**Two-view Graph Neural Networks for Knowledge Graph Completion**|Vinh Tong et.al.|[2112.09231v2](http://arxiv.org/abs/2112.09231v2)|null|
+|**2022-02-09**|**Multimodal Audio-Visual Information Fusion using Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v3](http://arxiv.org/abs/2202.04528v3)|null|
+|**2022-09-16**|**Explainability in subgraphs-enhanced Graph Neural Networks**|Michele Guerra et.al.|[2209.07926v1](http://arxiv.org/abs/2209.07926v1)|null|
+|**2022-09-16**|**LogGD:Detecting Anomalies from System Logs by Graph Neural Networks**|Yongzheng Xie et.al.|[2209.07869v1](http://arxiv.org/abs/2209.07869v1)|null|
+|**2022-09-12**|**Unified Graph Neural Network Force-field for the Periodic Table**|Kamal Choudhary et.al.|[2209.05554v2](http://arxiv.org/abs/2209.05554v2)|null|
+|**2022-09-16**|**SPGP: Structure Prototype Guided Graph Pooling**|Sangseon Lee et.al.|[2209.07817v1](http://arxiv.org/abs/2209.07817v1)|null|
+|**2022-09-16**|**Model Inversion Attacks against Graph Neural Networks**|Zaixi Zhang et.al.|[2209.07807v1](http://arxiv.org/abs/2209.07807v1)|null|
+|**2022-09-16**|**On the Robustness of Graph Neural Diffusion to Topology Perturbations**|Yang Song et.al.|[2209.07754v1](http://arxiv.org/abs/2209.07754v1)|[link](https://github.com/zknus/robustness-of-graph-neural-diffusion)|
+|**2022-03-07**|**Scalable Verification of GNN-based Job Schedulers**|Haoze Wu et.al.|[2203.03153v4](http://arxiv.org/abs/2203.03153v4)|[link](https://github.com/anwu1219/vegas)|
 |**2022-09-15**|**DiP-GNN: Discriminative Pre-Training of Graph Neural Networks**|Simiao Zuo et.al.|[2209.07499v1](http://arxiv.org/abs/2209.07499v1)|null|
 |**2022-09-15**|**Overhead-Free Blockage Detection and Precoding Through Physics-Based Graph Neural Networks: LIDAR Data Meets Ray Tracing**|Matteo Nerini et.al.|[2209.07350v1](http://arxiv.org/abs/2209.07350v1)|null|
 |**2022-09-15**|**Multi-Task Mixture Density Graph Neural Networks for Predicting Cu-based Single-Atom Alloy Catalysts for CO2 Reduction Reaction**|Chen Liang et.al.|[2209.07300v1](http://arxiv.org/abs/2209.07300v1)|null|
+|**2022-09-15**|**GNNInterpreter: A Probabilistic Generative Model-Level Explanation for Graph Neural Networks**|Xiaoqi Wang et.al.|[2209.07924v1](http://arxiv.org/abs/2209.07924v1)|null|
 |**2022-09-15**|**Earthquake Phase Association with Graph Neural Networks**|Ian W. McBrearty et.al.|[2209.07086v1](http://arxiv.org/abs/2209.07086v1)|null|
 |**2022-09-15**|**Fixed-Point Centrality for Networks**|Shuang Gao et.al.|[2209.07070v1](http://arxiv.org/abs/2209.07070v1)|null|
-|**2022-09-15**|**A semantic hierarchical graph neural network for text classification**|Shuai Hua et.al.|[2209.07031v1](http://arxiv.org/abs/2209.07031v1)|null|
-|**2022-05-30**|**OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs**|Yangze Zhou et.al.|[2205.15117v4](http://arxiv.org/abs/2205.15117v4)|null|
-|**2022-09-14**|**Robust field-level inference with dark matter halos**|Helen Shao et.al.|[2209.06843v1](http://arxiv.org/abs/2209.06843v1)|null|
-|**2022-09-14**|**Empowering GNNs with Fine-grained Communication-Computation Pipelining on Multi-GPU Platforms**|Yuke Wang et.al.|[2209.06800v1](http://arxiv.org/abs/2209.06800v1)|null|
-|**2021-05-18**|**Graph Neural Networks for Decentralized Multi-Robot Submodular Action Selection**|Lifeng Zhou et.al.|[2105.08601v3](http://arxiv.org/abs/2105.08601v3)|[link](https://github.com/VishnuDuttSharma/deep-multirobot-task)|
-|**2022-09-14**|**Towards Better Generalization with Flexible Representation of Multi-Module Graph Neural Networks**|Hyungeun Lee et.al.|[2209.06589v1](http://arxiv.org/abs/2209.06589v1)|null|
-|**2022-09-14**|**Scalable Spatiotemporal Graph Neural Networks**|Andrea Cini et.al.|[2209.06520v1](http://arxiv.org/abs/2209.06520v1)|null|
-|**2022-09-14**|**Graph Perceiver IO: A General Architecture for Graph Structured Data**|Seyun Bae et.al.|[2209.06418v1](http://arxiv.org/abs/2209.06418v1)|null|
-|**2022-09-14**|**Tuple Packing: Efficient Batching of Small Graphs in Graph Neural Networks**|Mario Michael Krell et.al.|[2209.06354v1](http://arxiv.org/abs/2209.06354v1)|null|
-|**2022-09-13**|**Characterizing Graph Datasets for Node Classification: Beyond Homophily-Heterophily Dichotomy**|Oleg Platonov et.al.|[2209.06177v1](http://arxiv.org/abs/2209.06177v1)|null|
 
-## Non-Euclidean Staistics
+## Variable Selection
 
-### Non Eculidean
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v1](http://arxiv.org/abs/2209.05676v1)|null|
-|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
-|**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v2](http://arxiv.org/abs/2203.06026v2)|[link](https://github.com/kynkaat/role-of-imagenet-classes-in-fid)|
-|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v2](http://arxiv.org/abs/2207.07809v2)|null|
-|**2022-09-06**|**Caracterisation d'une norme Frechet differentiable pour les duaux Banach complexes**|Daher Mohammad et.al.|[2209.02773v1](http://arxiv.org/abs/2209.02773v1)|null|
-|**2022-09-02**|**SIAN: Style-Guided Instance-Adaptive Normalization for Multi-Organ Histopathology Image Synthesis**|Haotian Wang et.al.|[2209.02412v1](http://arxiv.org/abs/2209.02412v1)|null|
-|**2022-09-01**|**A Hahn-Jordan decomposition and Riesz-Frechet representation theorem in Riesz spaces**|Anke Kalauch et.al.|[2209.00715v1](http://arxiv.org/abs/2209.00715v1)|null|
-|**2013-07-15**|**Global Fukaya category I**|Yasha Savelyev et.al.|[1307.3991v6](http://arxiv.org/abs/1307.3991v6)|null|
-|**2022-01-04**|**Local Noether theorem for quantum lattice systems and topological invariants of gapped states**|Anton Kapustin et.al.|[2201.01327v3](http://arxiv.org/abs/2201.01327v3)|null|
-|**2022-08-26**|**A Subquadratic $n^ε$-approximation for the Continuous Fréchet Distance**|Thijs van der Horst et.al.|[2208.12721v1](http://arxiv.org/abs/2208.12721v1)|null|
-|**2020-08-17**|**Symmetry actions and brackets for adjoint-symmetries. I: Main results and applications**|Stephen C. Anco et.al.|[2008.07476v5](http://arxiv.org/abs/2008.07476v5)|null|
-|**2022-07-06**|**Text to Image Synthesis using Stacked Conditional Variational Autoencoders and Conditional Generative Adversarial Networks**|Haileleol Tibebu et.al.|[2207.03332v2](http://arxiv.org/abs/2207.03332v2)|null|
-|**2022-08-12**|**Non-Autoregressive Sign Language Production via Knowledge Distillation**|Eui Jun Hwang et.al.|[2208.06183v1](http://arxiv.org/abs/2208.06183v1)|null|
-|**2022-08-10**|**Evaluating Generatively Synthesized Diabetic Retinopathy Imagery**|Cristina-Madalina Dragan et.al.|[2208.05593v1](http://arxiv.org/abs/2208.05593v1)|null|
-|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
+|**2022-09-16**|**IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective**|Li Yang et.al.|[2209.08018v1](http://arxiv.org/abs/2209.08018v1)|[link](https://github.com/western-oc2-lab/automl-implementation-for-static-and-dynamic-data-analytics)|
+|**2022-09-03**|**Model Selection in High-Dimensional Block-Sparse Linear Regression**|Prakash B. Gohain et.al.|[2209.01460v2](http://arxiv.org/abs/2209.01460v2)|null|
+|**2022-09-16**|**Dynamics-informed deconvolutional neural networks for super-resolution identification of regime changes in epidemiological time series**|Jose M. G. Vilar et.al.|[2209.07802v1](http://arxiv.org/abs/2209.07802v1)|null|
+|**2022-03-04**|**Carbon Footprint of Selecting and Training Deep Learning Models for Medical Image Analysis**|Raghavendra Selvan et.al.|[2203.02202v2](http://arxiv.org/abs/2203.02202v2)|null|
+|**2021-01-11**|**Statistical Methods for cis-Mendelian Randomization with Two-sample Summary-level Data**|Apostolos Gkatzionis et.al.|[2101.04081v2](http://arxiv.org/abs/2101.04081v2)|null|
+|**2022-09-14**|**ViscoelasticNet: A physics informed neural network framework for stress discovery and model selection**|Sukirt Thakur et.al.|[2209.06972v1](http://arxiv.org/abs/2209.06972v1)|null|
+|**2020-01-23**|**On the Hauck-Donner Effect in Wald Tests: Detection, Tipping Points, and Parameter Space Characterization**|Thomas William Yee et.al.|[2001.08431v2](http://arxiv.org/abs/2001.08431v2)|null|
+|**2022-03-24**|**Kepler-1708 b-i is likely undetectable with HST**|Ben Cassese et.al.|[2203.13290v2](http://arxiv.org/abs/2203.13290v2)|[link](https://github.com/ben-cassese/kep-1708b-i_detectability)|
+|**2022-09-13**|**Using the bayesmeta R package for Bayesian random-effects meta-regression**|Christian Röver et.al.|[2209.06004v1](http://arxiv.org/abs/2209.06004v1)|null|
+|**2021-06-28**|**Fast Bayesian Variable Selection in Binomial and Negative Binomial Regression**|Martin Jankowiak et.al.|[2106.14981v2](http://arxiv.org/abs/2106.14981v2)|null|
+|**2021-12-15**|**Informed Bayesian survival analysis**|František Bartoš et.al.|[2112.08311v2](http://arxiv.org/abs/2112.08311v2)|[link](https://github.com/fbartos/robsa)|
+|**2021-05-12**|**Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization**|Damien Teney et.al.|[2105.05612v3](http://arxiv.org/abs/2105.05612v3)|[link](https://github.com/dteney/collages-dataset)|
+|**2022-01-05**|**High-dimensional variable selection with heterogeneous signals: A precise asymptotic perspective**|Saptarshi Roy et.al.|[2201.01508v2](http://arxiv.org/abs/2201.01508v2)|null|
+|**2021-06-07**|**Proximal nested sampling for high-dimensional Bayesian model selection**|Xiaohao Cai et.al.|[2106.03646v3](http://arxiv.org/abs/2106.03646v3)|[link](https://github.com/astro-informatics/proxnest)|
+|**2022-09-09**|**clusterBMA: Bayesian model averaging for clustering**|Owen Forbes et.al.|[2209.04117v1](http://arxiv.org/abs/2209.04117v1)|[link](https://github.com/of2/clusterbma)|
+
+## Non-Euclidean Staistics
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,23 +75,21 @@
 |**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 
-## Variable Selection
-
-### Variable selection
+### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-03-04**|**Carbon Footprint of Selecting and Training Deep Learning Models for Medical Image Analysis**|Raghavendra Selvan et.al.|[2203.02202v2](http://arxiv.org/abs/2203.02202v2)|null|
-|**2021-01-11**|**Statistical Methods for cis-Mendelian Randomization with Two-sample Summary-level Data**|Apostolos Gkatzionis et.al.|[2101.04081v2](http://arxiv.org/abs/2101.04081v2)|null|
-|**2022-09-14**|**ViscoelasticNet: A physics informed neural network framework for stress discovery and model selection**|Sukirt Thakur et.al.|[2209.06972v1](http://arxiv.org/abs/2209.06972v1)|null|
-|**2020-01-23**|**On the Hauck-Donner Effect in Wald Tests: Detection, Tipping Points, and Parameter Space Characterization**|Thomas William Yee et.al.|[2001.08431v2](http://arxiv.org/abs/2001.08431v2)|null|
-|**2022-03-24**|**Kepler-1708 b-i is likely undetectable with HST**|Ben Cassese et.al.|[2203.13290v2](http://arxiv.org/abs/2203.13290v2)|[link](https://github.com/ben-cassese/kep-1708b-i_detectability)|
-|**2022-09-13**|**Using the bayesmeta R package for Bayesian random-effects meta-regression**|Christian Röver et.al.|[2209.06004v1](http://arxiv.org/abs/2209.06004v1)|null|
-|**2021-06-28**|**Fast Bayesian Variable Selection in Binomial and Negative Binomial Regression**|Martin Jankowiak et.al.|[2106.14981v2](http://arxiv.org/abs/2106.14981v2)|null|
-|**2021-12-15**|**Informed Bayesian survival analysis**|František Bartoš et.al.|[2112.08311v2](http://arxiv.org/abs/2112.08311v2)|[link](https://github.com/fbartos/robsa)|
-|**2021-05-12**|**Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization**|Damien Teney et.al.|[2105.05612v3](http://arxiv.org/abs/2105.05612v3)|[link](https://github.com/dteney/collages-dataset)|
-|**2022-01-05**|**High-dimensional variable selection with heterogeneous signals: A precise asymptotic perspective**|Saptarshi Roy et.al.|[2201.01508v2](http://arxiv.org/abs/2201.01508v2)|null|
-|**2021-06-07**|**Proximal nested sampling for high-dimensional Bayesian model selection**|Xiaohao Cai et.al.|[2106.03646v3](http://arxiv.org/abs/2106.03646v3)|[link](https://github.com/astro-informatics/proxnest)|
-|**2022-09-09**|**clusterBMA: Bayesian model averaging for clustering**|Owen Forbes et.al.|[2209.04117v1](http://arxiv.org/abs/2209.04117v1)|[link](https://github.com/of2/clusterbma)|
-|**2022-09-08**|**BatMan: Mitigating Batch Effects via Stratification for Survival Outcome Prediction**|Ai Ni et.al.|[2209.03902v1](http://arxiv.org/abs/2209.03902v1)|[link](https://github.com/lxqin/precision.survival)|
-|**2022-09-08**|**Majority Vote for Distributed Differentially Private Sign Selection**|Weidong Liu et.al.|[2209.04419v1](http://arxiv.org/abs/2209.04419v1)|null|
-|**2022-09-08**|**Bayes factors for longitudinal model assessment via power posteriors**|Gabriel Calvo et.al.|[2209.03847v1](http://arxiv.org/abs/2209.03847v1)|null|
+|**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v1](http://arxiv.org/abs/2209.05676v1)|null|
+|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
+|**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v2](http://arxiv.org/abs/2203.06026v2)|[link](https://github.com/kynkaat/role-of-imagenet-classes-in-fid)|
+|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v2](http://arxiv.org/abs/2207.07809v2)|null|
+|**2022-09-06**|**Caracterisation d'une norme Frechet differentiable pour les duaux Banach complexes**|Daher Mohammad et.al.|[2209.02773v1](http://arxiv.org/abs/2209.02773v1)|null|
+|**2022-09-02**|**SIAN: Style-Guided Instance-Adaptive Normalization for Multi-Organ Histopathology Image Synthesis**|Haotian Wang et.al.|[2209.02412v1](http://arxiv.org/abs/2209.02412v1)|null|
+|**2022-09-01**|**A Hahn-Jordan decomposition and Riesz-Frechet representation theorem in Riesz spaces**|Anke Kalauch et.al.|[2209.00715v1](http://arxiv.org/abs/2209.00715v1)|null|
+|**2013-07-15**|**Global Fukaya category I**|Yasha Savelyev et.al.|[1307.3991v6](http://arxiv.org/abs/1307.3991v6)|null|
+|**2022-01-04**|**Local Noether theorem for quantum lattice systems and topological invariants of gapped states**|Anton Kapustin et.al.|[2201.01327v3](http://arxiv.org/abs/2201.01327v3)|null|
+|**2022-08-26**|**A Subquadratic $n^ε$-approximation for the Continuous Fréchet Distance**|Thijs van der Horst et.al.|[2208.12721v1](http://arxiv.org/abs/2208.12721v1)|null|
+|**2020-08-17**|**Symmetry actions and brackets for adjoint-symmetries. I: Main results and applications**|Stephen C. Anco et.al.|[2008.07476v5](http://arxiv.org/abs/2008.07476v5)|null|
+|**2022-07-06**|**Text to Image Synthesis using Stacked Conditional Variational Autoencoders and Conditional Generative Adversarial Networks**|Haileleol Tibebu et.al.|[2207.03332v2](http://arxiv.org/abs/2207.03332v2)|null|
+|**2022-08-12**|**Non-Autoregressive Sign Language Production via Knowledge Distillation**|Eui Jun Hwang et.al.|[2208.06183v1](http://arxiv.org/abs/2208.06183v1)|null|
+|**2022-08-10**|**Evaluating Generatively Synthesized Diabetic Retinopathy Imagery**|Cristina-Madalina Dragan et.al.|[2208.05593v1](http://arxiv.org/abs/2208.05593v1)|null|
+|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
