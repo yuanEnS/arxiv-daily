@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-20 07:38:29 Asia/Shanghai
+ Automated deployment @ 2022-09-20 19:30:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,28 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-12-16**|**Two-view Graph Neural Networks for Knowledge Graph Completion**|Vinh Tong et.al.|[2112.09231v2](http://arxiv.org/abs/2112.09231v2)|null|
-|**2022-02-09**|**Multimodal Audio-Visual Information Fusion using Canonical-Correlated Graph Neural Network for Energy-Efficient Speech Enhancement**|Leandro Aparecido Passos et.al.|[2202.04528v3](http://arxiv.org/abs/2202.04528v3)|null|
-|**2022-09-16**|**Explainability in subgraphs-enhanced Graph Neural Networks**|Michele Guerra et.al.|[2209.07926v1](http://arxiv.org/abs/2209.07926v1)|null|
-|**2022-09-16**|**LogGD:Detecting Anomalies from System Logs by Graph Neural Networks**|Yongzheng Xie et.al.|[2209.07869v1](http://arxiv.org/abs/2209.07869v1)|null|
-|**2022-09-12**|**Unified Graph Neural Network Force-field for the Periodic Table**|Kamal Choudhary et.al.|[2209.05554v2](http://arxiv.org/abs/2209.05554v2)|[link](https://github.com/usnistgov/alignn)|
-|**2022-09-16**|**SPGP: Structure Prototype Guided Graph Pooling**|Sangseon Lee et.al.|[2209.07817v1](http://arxiv.org/abs/2209.07817v1)|null|
-|**2022-09-16**|**Model Inversion Attacks against Graph Neural Networks**|Zaixi Zhang et.al.|[2209.07807v1](http://arxiv.org/abs/2209.07807v1)|null|
-|**2022-09-16**|**On the Robustness of Graph Neural Diffusion to Topology Perturbations**|Yang Song et.al.|[2209.07754v1](http://arxiv.org/abs/2209.07754v1)|[link](https://github.com/zknus/robustness-of-graph-neural-diffusion)|
-|**2022-03-07**|**Scalable Verification of GNN-based Job Schedulers**|Haoze Wu et.al.|[2203.03153v4](http://arxiv.org/abs/2203.03153v4)|[link](https://github.com/anwu1219/vegas)|
-|**2022-09-15**|**DiP-GNN: Discriminative Pre-Training of Graph Neural Networks**|Simiao Zuo et.al.|[2209.07499v1](http://arxiv.org/abs/2209.07499v1)|null|
-|**2022-09-15**|**Overhead-Free Blockage Detection and Precoding Through Physics-Based Graph Neural Networks: LIDAR Data Meets Ray Tracing**|Matteo Nerini et.al.|[2209.07350v1](http://arxiv.org/abs/2209.07350v1)|null|
-|**2022-09-15**|**Multi-Task Mixture Density Graph Neural Networks for Predicting Cu-based Single-Atom Alloy Catalysts for CO2 Reduction Reaction**|Chen Liang et.al.|[2209.07300v1](http://arxiv.org/abs/2209.07300v1)|null|
-|**2022-09-15**|**GNNInterpreter: A Probabilistic Generative Model-Level Explanation for Graph Neural Networks**|Xiaoqi Wang et.al.|[2209.07924v1](http://arxiv.org/abs/2209.07924v1)|null|
-|**2022-09-15**|**Earthquake Phase Association with Graph Neural Networks**|Ian W. McBrearty et.al.|[2209.07086v1](http://arxiv.org/abs/2209.07086v1)|null|
-|**2022-09-15**|**Fixed-Point Centrality for Networks**|Shuang Gao et.al.|[2209.07070v1](http://arxiv.org/abs/2209.07070v1)|null|
+|**2022-06-22**|**Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries**|Fabrizio Frasca et.al.|[2206.11140v2](http://arxiv.org/abs/2206.11140v2)|null|
+|**2022-09-19**|**Gradual Weisfeiler-Leman: Slow and Steady Wins the Race**|Franka Bause et.al.|[2209.09048v1](http://arxiv.org/abs/2209.09048v1)|null|
+|**2022-09-12**|**Elastic Context: Encoding Elasticity for Data-driven Models of Textiles**|Alberta Longhini et.al.|[2209.05428v2](http://arxiv.org/abs/2209.05428v2)|null|
+|**2022-09-19**|**One Network, Many Robot: Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2209.08812v1](http://arxiv.org/abs/2209.08812v1)|null|
+|**2022-01-22**|**HiSTGNN: Hierarchical Spatio-temporal Graph Neural Networks for Weather Forecasting**|Minbo Ma et.al.|[2201.09101v2](http://arxiv.org/abs/2201.09101v2)|null|
+|**2022-03-03**|**Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph**|Shuijing Liu et.al.|[2203.01821v2](http://arxiv.org/abs/2203.01821v2)|null|
+|**2021-05-18**|**StackVAE-G: An efficient and interpretable model for time series anomaly detection**|Wenkai Li et.al.|[2105.08397v2](http://arxiv.org/abs/2105.08397v2)|null|
+|**2022-09-16**|**Model Inversion Attacks against Graph Neural Networks**|Zaixi Zhang et.al.|[2209.07807v2](http://arxiv.org/abs/2209.07807v2)|null|
+|**2022-02-22**|**PyTorch Geometric Signed Directed: A Software Package on Graph Neural Networks for Signed and Directed Graphs**|Yixuan He et.al.|[2202.10793v3](http://arxiv.org/abs/2202.10793v3)|[link](https://github.com/sherylhyx/pytorch_geometric_signed_directed)|
+|**2021-06-09**|**DIGRAC: Digraph Clustering Based on Flow Imbalance**|Yixuan He et.al.|[2106.05194v7](http://arxiv.org/abs/2106.05194v7)|null|
+|**2022-09-14**|**Tuple Packing: Efficient Batching of Small Graphs in Graph Neural Networks**|Mario Michael Krell et.al.|[2209.06354v2](http://arxiv.org/abs/2209.06354v2)|null|
+|**2022-09-01**|**MSGNN: A Spectral Graph Neural Network Based on a Novel Magnetic Signed Laplacian**|Yixuan He et.al.|[2209.00546v2](http://arxiv.org/abs/2209.00546v2)|null|
+|**2022-09-18**|**Imbalanced Nodes Classification for Graph Neural Networks Based on Valuable Sample Mining**|Min Liu et.al.|[2209.08514v1](http://arxiv.org/abs/2209.08514v1)|null|
+|**2022-06-17**|**ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs**|Limei Wang et.al.|[2206.08515v2](http://arxiv.org/abs/2206.08515v2)|[link](https://github.com/divelab/DIG)|
+|**2021-09-29**|**Distribution Knowledge Embedding for Graph Pooling**|Kaixuan Chen et.al.|[2109.14333v4](http://arxiv.org/abs/2109.14333v4)|[link](https://github.com/chenchkx/dkepool)|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-13**|**Isometric embedding of a weighted Fermat-Frechet multitree for isoperimetric deformations of the boundary of a simplex to a Frechet multisimplex in the $K$-Space**|Anastasios N. Zachos et.al.|[2209.09192v1](http://arxiv.org/abs/2209.09192v1)|null|
 |**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v1](http://arxiv.org/abs/2209.05676v1)|null|
 |**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
 |**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v2](http://arxiv.org/abs/2203.06026v2)|[link](https://github.com/kynkaat/role-of-imagenet-classes-in-fid)|
@@ -52,7 +53,6 @@
 |**2022-07-06**|**Text to Image Synthesis using Stacked Conditional Variational Autoencoders and Conditional Generative Adversarial Networks**|Haileleol Tibebu et.al.|[2207.03332v2](http://arxiv.org/abs/2207.03332v2)|null|
 |**2022-08-12**|**Non-Autoregressive Sign Language Production via Knowledge Distillation**|Eui Jun Hwang et.al.|[2208.06183v1](http://arxiv.org/abs/2208.06183v1)|null|
 |**2022-08-10**|**Evaluating Generatively Synthesized Diabetic Retinopathy Imagery**|Cristina-Madalina Dragan et.al.|[2208.05593v1](http://arxiv.org/abs/2208.05593v1)|null|
-|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +78,12 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-23**|**A reanalysis of the latest SH0ES data for $H_0$: Effects of new degrees of freedom on the Hubble tension**|Leandros Perivolaropoulos et.al.|[2208.11169v3](http://arxiv.org/abs/2208.11169v3)|[link](https://github.com/foteiniskara/a-reanalysis-of-the-sh0es-data-for-h_0)|
+|**2021-11-30**|**A Convex-Nonconvex Strategy for Grouped Variable Selection**|Xiaoqian Liu et.al.|[2111.15075v3](http://arxiv.org/abs/2111.15075v3)|null|
+|**2022-09-17**|**De Bruijn goes Neural: Causality-Aware Graph Neural Networks for Time Series Data on Dynamic Graphs**|Lisi Qarkaxhija et.al.|[2209.08311v1](http://arxiv.org/abs/2209.08311v1)|null|
+|**2022-09-17**|**Gradient Properties of Hard Thresholding Operator**|Saeed Damadi et.al.|[2209.08247v1](http://arxiv.org/abs/2209.08247v1)|null|
+|**2022-09-17**|**Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior**|Zijian Zeng et.al.|[2209.08234v1](http://arxiv.org/abs/2209.08234v1)|null|
+|**2022-09-16**|**Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Alexander C. McLain et.al.|[2209.08139v1](http://arxiv.org/abs/2209.08139v1)|null|
 |**2022-09-16**|**IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective**|Li Yang et.al.|[2209.08018v1](http://arxiv.org/abs/2209.08018v1)|[link](https://github.com/western-oc2-lab/automl-implementation-for-static-and-dynamic-data-analytics)|
 |**2022-09-03**|**Model Selection in High-Dimensional Block-Sparse Linear Regression**|Prakash B. Gohain et.al.|[2209.01460v2](http://arxiv.org/abs/2209.01460v2)|null|
 |**2022-09-16**|**Dynamics-informed deconvolutional neural networks for super-resolution identification of regime changes in epidemiological time series**|Jose M. G. Vilar et.al.|[2209.07802v1](http://arxiv.org/abs/2209.07802v1)|null|
@@ -87,9 +93,3 @@
 |**2020-01-23**|**On the Hauck-Donner Effect in Wald Tests: Detection, Tipping Points, and Parameter Space Characterization**|Thomas William Yee et.al.|[2001.08431v2](http://arxiv.org/abs/2001.08431v2)|null|
 |**2022-03-24**|**Kepler-1708 b-i is likely undetectable with HST**|Ben Cassese et.al.|[2203.13290v2](http://arxiv.org/abs/2203.13290v2)|[link](https://github.com/ben-cassese/kep-1708b-i_detectability)|
 |**2022-09-13**|**Using the bayesmeta R package for Bayesian random-effects meta-regression**|Christian Röver et.al.|[2209.06004v1](http://arxiv.org/abs/2209.06004v1)|null|
-|**2021-06-28**|**Fast Bayesian Variable Selection in Binomial and Negative Binomial Regression**|Martin Jankowiak et.al.|[2106.14981v2](http://arxiv.org/abs/2106.14981v2)|null|
-|**2021-12-15**|**Informed Bayesian survival analysis**|František Bartoš et.al.|[2112.08311v2](http://arxiv.org/abs/2112.08311v2)|[link](https://github.com/fbartos/robsa)|
-|**2021-05-12**|**Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions with Superior OOD Generalization**|Damien Teney et.al.|[2105.05612v3](http://arxiv.org/abs/2105.05612v3)|[link](https://github.com/dteney/collages-dataset)|
-|**2022-01-05**|**High-dimensional variable selection with heterogeneous signals: A precise asymptotic perspective**|Saptarshi Roy et.al.|[2201.01508v2](http://arxiv.org/abs/2201.01508v2)|null|
-|**2021-06-07**|**Proximal nested sampling for high-dimensional Bayesian model selection**|Xiaohao Cai et.al.|[2106.03646v3](http://arxiv.org/abs/2106.03646v3)|[link](https://github.com/astro-informatics/proxnest)|
-|**2022-09-09**|**clusterBMA: Bayesian model averaging for clustering**|Owen Forbes et.al.|[2209.04117v1](http://arxiv.org/abs/2209.04117v1)|[link](https://github.com/of2/clusterbma)|
