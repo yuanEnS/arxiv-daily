@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-23 07:35:00 Asia/Shanghai
+ Automated deployment @ 2022-09-23 19:30:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**A Generalist Neural Algorithmic Learner**|Borja Ibarz et.al.|[2209.11142v1](http://arxiv.org/abs/2209.11142v1)|null|
+|**2022-03-15**|**Variational inference of fractional Brownian motion with linear computational complexity**|Hippolyte Verdier et.al.|[2203.07961v3](http://arxiv.org/abs/2203.07961v3)|null|
+|**2022-09-22**|**Beyond Voxel Prediction Uncertainty: Identifying brain lesions you can trust**|Benjamin Lambert et.al.|[2209.10877v1](http://arxiv.org/abs/2209.10877v1)|null|
+|**2022-09-22**|**Memory-Augmented Graph Neural Networks: A Neuroscience Perspective**|Guixiang Ma et.al.|[2209.10818v1](http://arxiv.org/abs/2209.10818v1)|null|
+|**2022-09-22**|**SR-GCL: Session-Based Recommendation with Global Context Enhanced Augmentation in Contrastive Learning**|Eunkyu Oh et.al.|[2209.10807v1](http://arxiv.org/abs/2209.10807v1)|null|
+|**2022-09-19**|**One Network, Many Robots: Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2209.08812v2](http://arxiv.org/abs/2209.08812v2)|null|
+|**2022-09-21**|**DeepGraphONet: A Deep Graph Operator Network to Learn and Zero-shot Transfer the Dynamic Response of Networked Systems**|Yixuan Sun et.al.|[2209.10622v1](http://arxiv.org/abs/2209.10622v1)|null|
 |**2022-02-16**|**Data Augmentation for Deep Graph Learning: A Survey**|Kaize Ding et.al.|[2202.08235v2](http://arxiv.org/abs/2202.08235v2)|[link](https://github.com/kaize0409/awesome-graph-data-augmentaion)|
 |**2022-09-21**|**Fast Traffic Engineering by Gradient Descent with Learned Differentiable Routing**|Krzysztof Rusek et.al.|[2209.10380v1](http://arxiv.org/abs/2209.10380v1)|null|
 |**2022-09-19**|**Revisiting Embeddings for Graph Neural Networks**|S. Purchase et.al.|[2209.09338v2](http://arxiv.org/abs/2209.09338v2)|null|
+|**2022-07-06**|**Graph Trees with Attention**|Maya Bechler-Speicher et.al.|[2207.02760v2](http://arxiv.org/abs/2207.02760v2)|null|
 |**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
 |**2022-09-20**|**Neural Graph Databases**|Maciej Besta et.al.|[2209.09732v1](http://arxiv.org/abs/2209.09732v1)|null|
 |**2022-09-20**|**Sparse Vicious Attacks on Graph Neural Networks**|Giovanni Trappolini et.al.|[2209.09688v1](http://arxiv.org/abs/2209.09688v1)|[link](https://github.com/giovannitra/savage)|
 |**2022-09-20**|**A Simple Temporal Information Matching Mechanism for Entity Alignment Between Temporal Knowledge Graphs**|Li Cai et.al.|[2209.09677v1](http://arxiv.org/abs/2209.09677v1)|null|
-|**2022-09-13**|**Semantic2Graph: Graph-based Multi-modal Feature for Action Segmentation in Videos**|Junbin Zhang et.al.|[2209.05653v2](http://arxiv.org/abs/2209.05653v2)|null|
-|**2022-07-12**|**Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation**|Yuhao Yang et.al.|[2207.05584v2](http://arxiv.org/abs/2207.05584v2)|[link](https://github.com/yuh-yang/mbht-kdd22)|
-|**2022-06-22**|**Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries**|Fabrizio Frasca et.al.|[2206.11140v2](http://arxiv.org/abs/2206.11140v2)|null|
-|**2022-09-19**|**Gradual Weisfeiler-Leman: Slow and Steady Wins the Race**|Franka Bause et.al.|[2209.09048v1](http://arxiv.org/abs/2209.09048v1)|null|
-|**2022-09-19**|**Interpreting mechanism of Synergism of drug combinations using attention based hierarchical graph pooling**|Zehao Dong et.al.|[2209.09245v1](http://arxiv.org/abs/2209.09245v1)|null|
-|**2022-09-12**|**Elastic Context: Encoding Elasticity for Data-driven Models of Textiles**|Alberta Longhini et.al.|[2209.05428v2](http://arxiv.org/abs/2209.05428v2)|null|
-|**2022-09-19**|**One Network, Many Robot: Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2209.08812v1](http://arxiv.org/abs/2209.08812v1)|null|
-|**2022-01-22**|**HiSTGNN: Hierarchical Spatio-temporal Graph Neural Networks for Weather Forecasting**|Minbo Ma et.al.|[2201.09101v2](http://arxiv.org/abs/2201.09101v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing**|Alexandre Zouaoui et.al.|[2209.11002v1](http://arxiv.org/abs/2209.11002v1)|[link](https://github.com/inria-thoth/edaa)|
+|**2021-10-14**|**Asymptotic Distribution-Free Independence Test for High Dimension Data**|Zhanrui Cai et.al.|[2110.07652v3](http://arxiv.org/abs/2110.07652v3)|null|
+|**2022-09-21**|**Relaxation Methods for Feature Selection in Mixed Effects Models**|Aleksandr Aravkin et.al.|[2209.10575v1](http://arxiv.org/abs/2209.10575v1)|null|
 |**2022-07-27**|**Graphical Gaussian models associated to a homogeneous graph with permutation symmetries**|Piotr Graczyk et.al.|[2207.13330v2](http://arxiv.org/abs/2207.13330v2)|null|
 |**2022-09-16**|**Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Alexander C. McLain et.al.|[2209.08139v2](http://arxiv.org/abs/2209.08139v2)|null|
 |**2022-09-20**|**Effects of Influential Points and Sample Size on the Selection and Replicability of Multivariable Fractional Polynomial Models**|Willi Sauerbrei et.al.|[2209.09586v1](http://arxiv.org/abs/2209.09586v1)|null|
@@ -90,6 +93,3 @@
 |**2022-09-17**|**Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior**|Zijian Zeng et.al.|[2209.08234v1](http://arxiv.org/abs/2209.08234v1)|null|
 |**2022-09-16**|**IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective**|Li Yang et.al.|[2209.08018v1](http://arxiv.org/abs/2209.08018v1)|[link](https://github.com/western-oc2-lab/automl-implementation-for-static-and-dynamic-data-analytics)|
 |**2022-09-03**|**Model Selection in High-Dimensional Block-Sparse Linear Regression**|Prakash B. Gohain et.al.|[2209.01460v2](http://arxiv.org/abs/2209.01460v2)|null|
-|**2022-09-16**|**Dynamics-informed deconvolutional neural networks for super-resolution identification of regime changes in epidemiological time series**|Jose M. G. Vilar et.al.|[2209.07802v1](http://arxiv.org/abs/2209.07802v1)|null|
-|**2022-03-04**|**Carbon Footprint of Selecting and Training Deep Learning Models for Medical Image Analysis**|Raghavendra Selvan et.al.|[2203.02202v2](http://arxiv.org/abs/2203.02202v2)|null|
-|**2021-01-11**|**Statistical Methods for cis-Mendelian Randomization with Two-sample Summary-level Data**|Apostolos Gkatzionis et.al.|[2101.04081v2](http://arxiv.org/abs/2101.04081v2)|null|
