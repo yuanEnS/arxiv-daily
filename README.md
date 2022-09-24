@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-24 07:35:46 Asia/Shanghai
+ Automated deployment @ 2022-09-24 19:29:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -25,13 +25,34 @@
 |**2022-09-19**|**One Network, Many Robots: Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2209.08812v2](http://arxiv.org/abs/2209.08812v2)|null|
 |**2022-09-21**|**DeepGraphONet: A Deep Graph Operator Network to Learn and Zero-shot Transfer the Dynamic Response of Networked Systems**|Yixuan Sun et.al.|[2209.10622v1](http://arxiv.org/abs/2209.10622v1)|null|
 |**2022-02-16**|**Data Augmentation for Deep Graph Learning: A Survey**|Kaize Ding et.al.|[2202.08235v2](http://arxiv.org/abs/2202.08235v2)|[link](https://github.com/kaize0409/awesome-graph-data-augmentaion)|
-|**2022-09-21**|**Fast Traffic Engineering by Gradient Descent with Learned Differentiable Routing**|Krzysztof Rusek et.al.|[2209.10380v1](http://arxiv.org/abs/2209.10380v1)|null|
+|**2022-09-21**|**Fast Traffic Engineering by Gradient Descent with Learned Differentiable Routing**|Krzysztof Rusek et.al.|[2209.10380v1](http://arxiv.org/abs/2209.10380v1)|[link](https://github.com/krzysztofrusek/net2vec)|
 |**2022-09-19**|**Revisiting Embeddings for Graph Neural Networks**|S. Purchase et.al.|[2209.09338v2](http://arxiv.org/abs/2209.09338v2)|null|
 |**2022-07-06**|**Graph Trees with Attention**|Maya Bechler-Speicher et.al.|[2207.02760v2](http://arxiv.org/abs/2207.02760v2)|null|
 |**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
 |**2022-09-20**|**Neural Graph Databases**|Maciej Besta et.al.|[2209.09732v1](http://arxiv.org/abs/2209.09732v1)|null|
 |**2022-09-20**|**Sparse Vicious Attacks on Graph Neural Networks**|Giovanni Trappolini et.al.|[2209.09688v1](http://arxiv.org/abs/2209.09688v1)|[link](https://github.com/giovannitra/savage)|
 |**2022-09-20**|**A Simple Temporal Information Matching Mechanism for Entity Alignment Between Temporal Knowledge Graphs**|Li Cai et.al.|[2209.09677v1](http://arxiv.org/abs/2209.09677v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-22**|**Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing**|Alexandre Zouaoui et.al.|[2209.11002v1](http://arxiv.org/abs/2209.11002v1)|[link](https://github.com/inria-thoth/edaa)|
+|**2021-10-14**|**Asymptotic Distribution-Free Independence Test for High Dimension Data**|Zhanrui Cai et.al.|[2110.07652v3](http://arxiv.org/abs/2110.07652v3)|null|
+|**2022-09-21**|**Relaxation Methods for Feature Selection in Mixed Effects Models**|Aleksandr Aravkin et.al.|[2209.10575v1](http://arxiv.org/abs/2209.10575v1)|null|
+|**2022-07-27**|**Graphical Gaussian models associated to a homogeneous graph with permutation symmetries**|Piotr Graczyk et.al.|[2207.13330v2](http://arxiv.org/abs/2207.13330v2)|null|
+|**2022-09-16**|**Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Alexander C. McLain et.al.|[2209.08139v2](http://arxiv.org/abs/2209.08139v2)|null|
+|**2022-09-20**|**Effects of Influential Points and Sample Size on the Selection and Replicability of Multivariable Fractional Polynomial Models**|Willi Sauerbrei et.al.|[2209.09586v1](http://arxiv.org/abs/2209.09586v1)|null|
+|**2022-09-20**|**Partial sequence labeling with structured Gaussian Processes**|Xiaolei Lu et.al.|[2209.09397v1](http://arxiv.org/abs/2209.09397v1)|null|
+|**2022-09-19**|**Finite- and Large- Sample Inference for Model and Coefficients in High-dimensional Linear Regression with Repro Samples**|Peng Wang et.al.|[2209.09299v1](http://arxiv.org/abs/2209.09299v1)|null|
+|**2022-08-23**|**A reanalysis of the latest SH0ES data for $H_0$: Effects of new degrees of freedom on the Hubble tension**|Leandros Perivolaropoulos et.al.|[2208.11169v3](http://arxiv.org/abs/2208.11169v3)|[link](https://github.com/foteiniskara/a-reanalysis-of-the-sh0es-data-for-h_0)|
+|**2021-11-30**|**A Convex-Nonconvex Strategy for Grouped Variable Selection**|Xiaoqian Liu et.al.|[2111.15075v3](http://arxiv.org/abs/2111.15075v3)|null|
+|**2022-09-17**|**De Bruijn goes Neural: Causality-Aware Graph Neural Networks for Time Series Data on Dynamic Graphs**|Lisi Qarkaxhija et.al.|[2209.08311v1](http://arxiv.org/abs/2209.08311v1)|null|
+|**2022-09-17**|**Gradient Properties of Hard Thresholding Operator**|Saeed Damadi et.al.|[2209.08247v1](http://arxiv.org/abs/2209.08247v1)|null|
+|**2022-09-17**|**Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior**|Zijian Zeng et.al.|[2209.08234v1](http://arxiv.org/abs/2209.08234v1)|null|
+|**2022-09-16**|**IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective**|Li Yang et.al.|[2209.08018v1](http://arxiv.org/abs/2209.08018v1)|[link](https://github.com/western-oc2-lab/automl-implementation-for-static-and-dynamic-data-analytics)|
+|**2022-09-03**|**Model Selection in High-Dimensional Block-Sparse Linear Regression**|Prakash B. Gohain et.al.|[2209.01460v2](http://arxiv.org/abs/2209.01460v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-22**|**Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing**|Alexandre Zouaoui et.al.|[2209.11002v1](http://arxiv.org/abs/2209.11002v1)|[link](https://github.com/inria-thoth/edaa)|
-|**2021-10-14**|**Asymptotic Distribution-Free Independence Test for High Dimension Data**|Zhanrui Cai et.al.|[2110.07652v3](http://arxiv.org/abs/2110.07652v3)|null|
-|**2022-09-21**|**Relaxation Methods for Feature Selection in Mixed Effects Models**|Aleksandr Aravkin et.al.|[2209.10575v1](http://arxiv.org/abs/2209.10575v1)|null|
-|**2022-07-27**|**Graphical Gaussian models associated to a homogeneous graph with permutation symmetries**|Piotr Graczyk et.al.|[2207.13330v2](http://arxiv.org/abs/2207.13330v2)|null|
-|**2022-09-16**|**Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Alexander C. McLain et.al.|[2209.08139v2](http://arxiv.org/abs/2209.08139v2)|null|
-|**2022-09-20**|**Effects of Influential Points and Sample Size on the Selection and Replicability of Multivariable Fractional Polynomial Models**|Willi Sauerbrei et.al.|[2209.09586v1](http://arxiv.org/abs/2209.09586v1)|null|
-|**2022-09-20**|**Partial sequence labeling with structured Gaussian Processes**|Xiaolei Lu et.al.|[2209.09397v1](http://arxiv.org/abs/2209.09397v1)|null|
-|**2022-09-19**|**Finite- and Large- Sample Inference for Model and Coefficients in High-dimensional Linear Regression with Repro Samples**|Peng Wang et.al.|[2209.09299v1](http://arxiv.org/abs/2209.09299v1)|null|
-|**2022-08-23**|**A reanalysis of the latest SH0ES data for $H_0$: Effects of new degrees of freedom on the Hubble tension**|Leandros Perivolaropoulos et.al.|[2208.11169v3](http://arxiv.org/abs/2208.11169v3)|[link](https://github.com/foteiniskara/a-reanalysis-of-the-sh0es-data-for-h_0)|
-|**2021-11-30**|**A Convex-Nonconvex Strategy for Grouped Variable Selection**|Xiaoqian Liu et.al.|[2111.15075v3](http://arxiv.org/abs/2111.15075v3)|null|
-|**2022-09-17**|**De Bruijn goes Neural: Causality-Aware Graph Neural Networks for Time Series Data on Dynamic Graphs**|Lisi Qarkaxhija et.al.|[2209.08311v1](http://arxiv.org/abs/2209.08311v1)|null|
-|**2022-09-17**|**Gradient Properties of Hard Thresholding Operator**|Saeed Damadi et.al.|[2209.08247v1](http://arxiv.org/abs/2209.08247v1)|null|
-|**2022-09-17**|**Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior**|Zijian Zeng et.al.|[2209.08234v1](http://arxiv.org/abs/2209.08234v1)|null|
-|**2022-09-16**|**IoT Data Analytics in Dynamic Environments: From An Automated Machine Learning Perspective**|Li Yang et.al.|[2209.08018v1](http://arxiv.org/abs/2209.08018v1)|[link](https://github.com/western-oc2-lab/automl-implementation-for-static-and-dynamic-data-analytics)|
-|**2022-09-03**|**Model Selection in High-Dimensional Block-Sparse Linear Regression**|Prakash B. Gohain et.al.|[2209.01460v2](http://arxiv.org/abs/2209.01460v2)|null|
