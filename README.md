@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-26 07:34:56 Asia/Shanghai
+ Automated deployment @ 2022-09-26 19:30:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-23**|**Learning Rigid Body Dynamics with Lagrangian Graph Neural Network**|Ravinder Bhattoo et.al.|[2209.11588v1](http://arxiv.org/abs/2209.11588v1)|null|
+|**2022-09-23**|**Multi-Granularity Graph Pooling for Video-based Person Re-Identification**|Honghu Pan et.al.|[2209.11584v1](http://arxiv.org/abs/2209.11584v1)|null|
+|**2021-02-18**|**Combinatorial optimization and reasoning with graph neural networks**|Quentin Cappart et.al.|[2102.09544v3](http://arxiv.org/abs/2102.09544v3)|null|
+|**2022-09-23**|**Spatio-Temporal Contrastive Learning Enhanced GNNs for Session-based Recommendation**|Zhongwei Wan et.al.|[2209.11461v1](http://arxiv.org/abs/2209.11461v1)|null|
+|**2022-03-15**|**Variational inference of fractional Brownian motion with linear computational complexity**|Hippolyte Verdier et.al.|[2203.07961v4](http://arxiv.org/abs/2203.07961v4)|null|
+|**2022-09-23**|**Relation Embedding based Graph Neural Networks for Handling Heterogeneous Graph**|Junfu Wang et.al.|[2209.11414v1](http://arxiv.org/abs/2209.11414v1)|null|
+|**2022-09-22**|**SR-GCL: Session-Based Recommendation with Global Context Enhanced Augmentation in Contrastive Learning**|Eunkyu Oh et.al.|[2209.10807v2](http://arxiv.org/abs/2209.10807v2)|null|
+|**2022-09-23**|**Convolutional Learning on Multigraphs**|Landon Butler et.al.|[2209.11354v1](http://arxiv.org/abs/2209.11354v1)|null|
 |**2022-09-22**|**A Generalist Neural Algorithmic Learner**|Borja Ibarz et.al.|[2209.11142v1](http://arxiv.org/abs/2209.11142v1)|null|
-|**2022-03-15**|**Variational inference of fractional Brownian motion with linear computational complexity**|Hippolyte Verdier et.al.|[2203.07961v3](http://arxiv.org/abs/2203.07961v3)|null|
 |**2022-09-22**|**Beyond Voxel Prediction Uncertainty: Identifying brain lesions you can trust**|Benjamin Lambert et.al.|[2209.10877v1](http://arxiv.org/abs/2209.10877v1)|null|
 |**2022-09-22**|**Memory-Augmented Graph Neural Networks: A Neuroscience Perspective**|Guixiang Ma et.al.|[2209.10818v1](http://arxiv.org/abs/2209.10818v1)|null|
-|**2022-09-22**|**SR-GCL: Session-Based Recommendation with Global Context Enhanced Augmentation in Contrastive Learning**|Eunkyu Oh et.al.|[2209.10807v1](http://arxiv.org/abs/2209.10807v1)|null|
 |**2022-09-19**|**One Network, Many Robots: Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2209.08812v2](http://arxiv.org/abs/2209.08812v2)|null|
 |**2022-09-21**|**DeepGraphONet: A Deep Graph Operator Network to Learn and Zero-shot Transfer the Dynamic Response of Networked Systems**|Yixuan Sun et.al.|[2209.10622v1](http://arxiv.org/abs/2209.10622v1)|null|
 |**2022-02-16**|**Data Augmentation for Deep Graph Learning: A Survey**|Kaize Ding et.al.|[2202.08235v2](http://arxiv.org/abs/2202.08235v2)|[link](https://github.com/kaize0409/awesome-graph-data-augmentaion)|
 |**2022-09-21**|**Fast Traffic Engineering by Gradient Descent with Learned Differentiable Routing**|Krzysztof Rusek et.al.|[2209.10380v1](http://arxiv.org/abs/2209.10380v1)|[link](https://github.com/krzysztofrusek/net2vec)|
-|**2022-09-19**|**Revisiting Embeddings for Graph Neural Networks**|S. Purchase et.al.|[2209.09338v2](http://arxiv.org/abs/2209.09338v2)|null|
-|**2022-07-06**|**Graph Trees with Attention**|Maya Bechler-Speicher et.al.|[2207.02760v2](http://arxiv.org/abs/2207.02760v2)|null|
-|**2022-09-20**|**Dynamic Relevance Graph Network for Knowledge-Aware Question Answering**|Chen Zheng et.al.|[2209.09947v1](http://arxiv.org/abs/2209.09947v1)|[link](https://github.com/hlr/drgn)|
-|**2022-09-20**|**Neural Graph Databases**|Maciej Besta et.al.|[2209.09732v1](http://arxiv.org/abs/2209.09732v1)|null|
-|**2022-09-20**|**Sparse Vicious Attacks on Graph Neural Networks**|Giovanni Trappolini et.al.|[2209.09688v1](http://arxiv.org/abs/2209.09688v1)|[link](https://github.com/giovannitra/savage)|
-|**2022-09-20**|**A Simple Temporal Information Matching Mechanism for Entity Alignment Between Temporal Knowledge Graphs**|Li Cai et.al.|[2209.09677v1](http://arxiv.org/abs/2209.09677v1)|null|
 
 ## Non-Euclidean Staistics
 
