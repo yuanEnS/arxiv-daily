@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-09-30 07:44:55 Asia/Shanghai
+ Automated deployment @ 2022-09-30 19:32:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2020-11-06**|**Single-Node Attacks for Fooling Graph Neural Networks**|Ben Finkelshtein et.al.|[2011.03574v2](http://arxiv.org/abs/2011.03574v2)|[link](https://github.com/benfinkelshtein/SINGLE)|
+|**2022-09-29**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and Challenges**|Hwan Kim et.al.|[2209.14930v1](http://arxiv.org/abs/2209.14930v1)|null|
+|**2022-03-21**|**STCGAT: A Spatio-temporal Causal Graph Attention Network for traffic flow prediction in Intelligent Transportation Systems**|Wei Zhao et.al.|[2203.10749v3](http://arxiv.org/abs/2203.10749v3)|null|
+|**2022-09-19**|**Revisiting Embeddings for Graph Neural Networks**|S. Purchase et.al.|[2209.09338v3](http://arxiv.org/abs/2209.09338v3)|null|
+|**2022-09-29**|**How Powerful is Implicit Denoising in Graph Neural Networks**|Songtao Liu et.al.|[2209.14514v1](http://arxiv.org/abs/2209.14514v1)|null|
+|**2022-06-17**|**ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs**|Limei Wang et.al.|[2206.08515v3](http://arxiv.org/abs/2206.08515v3)|[link](https://github.com/divelab/DIG)|
+|**2021-12-22**|**D-HYPR: Harnessing Neighborhood Modeling and Asymmetry Preservation for Digraph Representation Learning**|Honglu Zhou et.al.|[2112.11734v2](http://arxiv.org/abs/2112.11734v2)|null|
+|**2022-04-06**|**GemNet-OC: Developing Graph Neural Networks for Large and Diverse Molecular Simulation Datasets**|Johannes Gasteiger et.al.|[2204.02782v2](http://arxiv.org/abs/2204.02782v2)|[link](https://github.com/Open-Catalyst-Project/ocp)|
+|**2022-09-28**|**Learning to Explain Graph Neural Networks**|Giuseppe Serra et.al.|[2209.14402v1](http://arxiv.org/abs/2209.14402v1)|null|
+|**2022-09-28**|**Pareto Actor-Critic for Equilibrium Selection in Multi-Agent Reinforcement Learning**|Filippos Christianos et.al.|[2209.14344v1](http://arxiv.org/abs/2209.14344v1)|null|
 |**2021-12-01**|**Imbalanced Graph Classification via Graph-of-Graph Neural Networks**|Yu Wang et.al.|[2112.00238v2](http://arxiv.org/abs/2112.00238v2)|[link](https://github.com/submissionconff/g2gnn)|
 |**2022-09-28**|**A Multi-scale Graph Signature for Persistence Diagrams based on Return Probabilities of Random Walks**|Chau Pham et.al.|[2209.14264v1](http://arxiv.org/abs/2209.14264v1)|null|
 |**2022-07-03**|**Collaboration-Aware Graph Convolutional Network for Recommender Systems**|Yu Wang et.al.|[2207.06221v2](http://arxiv.org/abs/2207.06221v2)|[link](https://github.com/yuwvandy/cagcn)|
 |**2022-09-28**|**Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure**|Shaohua Fan et.al.|[2209.14107v1](http://arxiv.org/abs/2209.14107v1)|[link](https://github.com/googlebaba/disc)|
 |**2022-09-28**|**LL-GNN: Low Latency Graph Neural Networks on FPGAs for Particle Detectors**|Zhiqiang Que et.al.|[2209.14065v1](http://arxiv.org/abs/2209.14065v1)|[link](https://github.com/walkieq/gnn-jedinet-fpga)|
-|**2022-09-28**|**On semi shift invariant graph filters**|Feng Ji et.al.|[2209.13909v1](http://arxiv.org/abs/2209.13909v1)|null|
-|**2022-06-18**|**Beyond Real-world Benchmark Datasets: An Empirical Study of Node Classification with GNNs**|Seiji Maekawa et.al.|[2206.09144v3](http://arxiv.org/abs/2206.09144v3)|[link](https://github.com/seijimaekawa/empirical-study-of-gnns)|
-|**2021-10-14**|**Graph Condensation for Graph Neural Networks**|Wei Jin et.al.|[2110.07580v4](http://arxiv.org/abs/2110.07580v4)|[link](https://github.com/chandlerbang/gcond)|
-|**2022-09-27**|**Polymer informatics at-scale with multitask graph neural networks**|Rishi Gurnani et.al.|[2209.13557v1](http://arxiv.org/abs/2209.13557v1)|[link](https://github.com/ramprasad-group/polygnn)|
-|**2022-09-27**|**DBGSL: Dynamic Brain Graph Structure Learning**|Alexander Campbell et.al.|[2209.13513v1](http://arxiv.org/abs/2209.13513v1)|null|
-|**2022-06-15**|**DiffWire: Inductive Graph Rewiring via the Lovász Bound**|Adrian Arnaiz-Rodriguez et.al.|[2206.07369v2](http://arxiv.org/abs/2206.07369v2)|null|
-|**2022-06-30**|**Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN**|Kuan Li et.al.|[2207.00012v3](http://arxiv.org/abs/2207.00012v3)|[link](https://github.com/likuanppd/stable)|
-|**2022-03-21**|**STCGAT: A Spatio-temporal Causal Graph Attention Network for traffic flow prediction**|Wei Zhao et.al.|[2203.10749v2](http://arxiv.org/abs/2203.10749v2)|null|
-|**2022-09-27**|**A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective**|Chaoqi Chen et.al.|[2209.13232v1](http://arxiv.org/abs/2209.13232v1)|null|
-|**2022-09-27**|**Explainable Graph Pyramid Autoformer for Long-Term Traffic Forecasting**|Weiheng Zhong et.al.|[2209.13123v1](http://arxiv.org/abs/2209.13123v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v1](http://arxiv.org/abs/2209.14509v1)|null|
+|**2022-05-04**|**Estimation of prediction error with known covariate shift**|Hui Xu et.al.|[2205.01849v2](http://arxiv.org/abs/2205.01849v2)|null|
+|**2022-09-28**|**Government Spending and Money Supply Roles in Alleviating Poverty in Africa**|Gbatsoron Anjande et.al.|[2209.14443v1](http://arxiv.org/abs/2209.14443v1)|null|
 |**2021-11-29**|**Reconstructing AGN X-ray spectral parameter distributions with Bayesian methods I: Spectral analysis**|Lingsong Ge et.al.|[2111.14925v2](http://arxiv.org/abs/2111.14925v2)|null|
 |**2022-09-17**|**Gradient Properties of Hard Thresholding Operator**|Saeed Damadi et.al.|[2209.08247v2](http://arxiv.org/abs/2209.08247v2)|null|
 |**2022-09-19**|**Finite- and Large- Sample Inference for Model and Coefficients in High-dimensional Linear Regression with Repro Samples**|Peng Wang et.al.|[2209.09299v2](http://arxiv.org/abs/2209.09299v2)|null|
@@ -90,6 +93,3 @@
 |**2022-09-22**|**Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing**|Alexandre Zouaoui et.al.|[2209.11002v2](http://arxiv.org/abs/2209.11002v2)|[link](https://github.com/inria-thoth/edaa)|
 |**2022-09-26**|**Feature-based model selection for object detection from point cloud data**|Kairi Tokuda et.al.|[2209.12419v1](http://arxiv.org/abs/2209.12419v1)|null|
 |**2022-03-27**|**Interpretable Machine Learning Models for Modal Split Prediction in Transportation Systems**|Aron Brenner et.al.|[2203.14191v2](http://arxiv.org/abs/2203.14191v2)|null|
-|**2021-10-14**|**Asymptotic Distribution-Free Independence Test for High Dimension Data**|Zhanrui Cai et.al.|[2110.07652v3](http://arxiv.org/abs/2110.07652v3)|null|
-|**2022-07-27**|**Graphical Gaussian models associated to a homogeneous graph with permutation symmetries**|Piotr Graczyk et.al.|[2207.13330v2](http://arxiv.org/abs/2207.13330v2)|null|
-|**2022-09-20**|**Compressive-sensing-assisted mixed integer optimization for dynamical system discovery with highly noisy data**|Zhongshun Shi et.al.|[2209.12663v1](http://arxiv.org/abs/2209.12663v1)|[link](https://github.com/utk-ideas-lab/cs-mio)|
