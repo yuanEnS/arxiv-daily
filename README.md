@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-01 07:40:35 Asia/Shanghai
+ Automated deployment @ 2022-10-01 19:30:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -33,28 +33,26 @@
 |**2022-09-28**|**Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure**|Shaohua Fan et.al.|[2209.14107v1](http://arxiv.org/abs/2209.14107v1)|[link](https://github.com/googlebaba/disc)|
 |**2022-09-28**|**LL-GNN: Low Latency Graph Neural Networks on FPGAs for Particle Detectors**|Zhiqiang Que et.al.|[2209.14065v1](http://arxiv.org/abs/2209.14065v1)|[link](https://github.com/walkieq/gnn-jedinet-fpga)|
 
-## Variable Selection
+## Non-Euclidean Staistics
 
-### Variable selection
+### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v1](http://arxiv.org/abs/2209.14509v1)|null|
-|**2022-05-04**|**Estimation of prediction error with known covariate shift**|Hui Xu et.al.|[2205.01849v2](http://arxiv.org/abs/2205.01849v2)|null|
-|**2022-09-28**|**Government Spending and Money Supply Roles in Alleviating Poverty in Africa**|Gbatsoron Anjande et.al.|[2209.14443v1](http://arxiv.org/abs/2209.14443v1)|null|
-|**2021-11-29**|**Reconstructing AGN X-ray spectral parameter distributions with Bayesian methods I: Spectral analysis**|Lingsong Ge et.al.|[2111.14925v2](http://arxiv.org/abs/2111.14925v2)|null|
-|**2022-09-17**|**Gradient Properties of Hard Thresholding Operator**|Saeed Damadi et.al.|[2209.08247v2](http://arxiv.org/abs/2209.08247v2)|null|
-|**2022-09-19**|**Finite- and Large- Sample Inference for Model and Coefficients in High-dimensional Linear Regression with Repro Samples**|Peng Wang et.al.|[2209.09299v2](http://arxiv.org/abs/2209.09299v2)|null|
-|**2022-09-27**|**Wilcoxon-type Multivariate Cluster Elastic Net**|Mayu Hiraishi et.al.|[2209.13354v1](http://arxiv.org/abs/2209.13354v1)|null|
-|**2022-09-27**|**Monte-Carlo Sampling Approach to Model Selection: A Primer**|Petre Stoica et.al.|[2209.13203v1](http://arxiv.org/abs/2209.13203v1)|null|
-|**2021-12-07**|**Some Strongly Polynomially Solvable Convex Quadratic Programs with Bounded Variables**|Jong-Shi Pang et.al.|[2112.03886v2](http://arxiv.org/abs/2112.03886v2)|null|
-|**2022-09-26**|**A Bayesian constitutive model selection framework for biaxial mechanical testing of planar soft tissues: application to porcine aortic valves**|Ankush Aggarwal et.al.|[2209.13038v1](http://arxiv.org/abs/2209.13038v1)|null|
-|**2022-09-21**|**Analysis of Relaxation Methods for Feature Selection in Mixed Effects Models**|Aleksandr Aravkin et.al.|[2209.10575v2](http://arxiv.org/abs/2209.10575v2)|null|
-|**2022-02-04**|**Self-Adaptive Forecasting for Improved Deep Learning on Non-Stationary Time-Series**|Sercan O. Arik et.al.|[2202.02403v3](http://arxiv.org/abs/2202.02403v3)|null|
-|**2022-09-22**|**Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing**|Alexandre Zouaoui et.al.|[2209.11002v2](http://arxiv.org/abs/2209.11002v2)|[link](https://github.com/inria-thoth/edaa)|
-|**2022-09-26**|**Feature-based model selection for object detection from point cloud data**|Kairi Tokuda et.al.|[2209.12419v1](http://arxiv.org/abs/2209.12419v1)|null|
-|**2022-03-27**|**Interpretable Machine Learning Models for Modal Split Prediction in Transportation Systems**|Aron Brenner et.al.|[2203.14191v2](http://arxiv.org/abs/2203.14191v2)|null|
-
-## Non-Euclidean Staistics
+|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
+|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
+|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
+|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
+|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
+|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
+|**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
+|**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
+|**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
+|**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
+|**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,21 +73,23 @@
 |**2013-07-15**|**Global Fukaya category I**|Yasha Savelyev et.al.|[1307.3991v6](http://arxiv.org/abs/1307.3991v6)|null|
 |**2022-01-04**|**Local Noether theorem for quantum lattice systems and topological invariants of gapped states**|Anton Kapustin et.al.|[2201.01327v3](http://arxiv.org/abs/2201.01327v3)|null|
 
-### Frechet Mean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
-|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
-|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
-|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
-|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
-|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
-|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
-|**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
-|**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
-|**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
-|**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
-|**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
+|**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v1](http://arxiv.org/abs/2209.14509v1)|null|
+|**2022-05-04**|**Estimation of prediction error with known covariate shift**|Hui Xu et.al.|[2205.01849v2](http://arxiv.org/abs/2205.01849v2)|null|
+|**2022-09-28**|**Government Spending and Money Supply Roles in Alleviating Poverty in Africa**|Gbatsoron Anjande et.al.|[2209.14443v1](http://arxiv.org/abs/2209.14443v1)|null|
+|**2021-11-29**|**Reconstructing AGN X-ray spectral parameter distributions with Bayesian methods I: Spectral analysis**|Lingsong Ge et.al.|[2111.14925v2](http://arxiv.org/abs/2111.14925v2)|null|
+|**2022-09-17**|**Gradient Properties of Hard Thresholding Operator**|Saeed Damadi et.al.|[2209.08247v2](http://arxiv.org/abs/2209.08247v2)|null|
+|**2022-09-19**|**Finite- and Large- Sample Inference for Model and Coefficients in High-dimensional Linear Regression with Repro Samples**|Peng Wang et.al.|[2209.09299v2](http://arxiv.org/abs/2209.09299v2)|null|
+|**2022-09-27**|**Wilcoxon-type Multivariate Cluster Elastic Net**|Mayu Hiraishi et.al.|[2209.13354v1](http://arxiv.org/abs/2209.13354v1)|null|
+|**2022-09-27**|**Monte-Carlo Sampling Approach to Model Selection: A Primer**|Petre Stoica et.al.|[2209.13203v1](http://arxiv.org/abs/2209.13203v1)|null|
+|**2021-12-07**|**Some Strongly Polynomially Solvable Convex Quadratic Programs with Bounded Variables**|Jong-Shi Pang et.al.|[2112.03886v2](http://arxiv.org/abs/2112.03886v2)|null|
+|**2022-09-26**|**A Bayesian constitutive model selection framework for biaxial mechanical testing of planar soft tissues: application to porcine aortic valves**|Ankush Aggarwal et.al.|[2209.13038v1](http://arxiv.org/abs/2209.13038v1)|null|
+|**2022-09-21**|**Analysis of Relaxation Methods for Feature Selection in Mixed Effects Models**|Aleksandr Aravkin et.al.|[2209.10575v2](http://arxiv.org/abs/2209.10575v2)|null|
+|**2022-02-04**|**Self-Adaptive Forecasting for Improved Deep Learning on Non-Stationary Time-Series**|Sercan O. Arik et.al.|[2202.02403v3](http://arxiv.org/abs/2202.02403v3)|null|
+|**2022-09-22**|**Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing**|Alexandre Zouaoui et.al.|[2209.11002v2](http://arxiv.org/abs/2209.11002v2)|[link](https://github.com/inria-thoth/edaa)|
+|**2022-09-26**|**Feature-based model selection for object detection from point cloud data**|Kairi Tokuda et.al.|[2209.12419v1](http://arxiv.org/abs/2209.12419v1)|null|
+|**2022-03-27**|**Interpretable Machine Learning Models for Modal Split Prediction in Transportation Systems**|Aron Brenner et.al.|[2203.14191v2](http://arxiv.org/abs/2203.14191v2)|null|
