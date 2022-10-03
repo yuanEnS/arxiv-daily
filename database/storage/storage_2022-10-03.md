@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-03 07:37:51 Asia/Shanghai
+ Automated deployment @ 2022-10-03 19:32:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-06**|**GemNet-OC: Developing Graph Neural Networks for Large and Diverse Molecular Simulation Datasets**|Johannes Gasteiger et.al.|[2204.02782v3](http://arxiv.org/abs/2204.02782v3)|[link](https://github.com/Open-Catalyst-Project/ocp)|
+|**2022-06-18**|**Beyond Real-world Benchmark Datasets: An Empirical Study of Node Classification with GNNs**|Seiji Maekawa et.al.|[2206.09144v4](http://arxiv.org/abs/2206.09144v4)|[link](https://github.com/seijimaekawa/empirical-study-of-gnns)|
+|**2022-09-30**|**Graph Neural Networks for Link Prediction with Subgraph Sketching**|Benjamin Paul Chamberlain et.al.|[2209.15486v1](http://arxiv.org/abs/2209.15486v1)|null|
+|**2022-09-30**|**GPNet: Simplifying Graph Neural Networks via Multi-channel Geometric Polynomials**|Xun Liu et.al.|[2209.15454v1](http://arxiv.org/abs/2209.15454v1)|null|
+|**2022-04-04**|**End-to-end multi-particle reconstruction in high occupancy imaging calorimeters with graph neural networks**|Shah Rukh Qasim et.al.|[2204.01681v3](http://arxiv.org/abs/2204.01681v3)|null|
+|**2022-09-30**|**Prompt Tuning for Graph Neural Networks**|Taoran Fang et.al.|[2209.15240v1](http://arxiv.org/abs/2209.15240v1)|null|
+|**2022-09-29**|**Dynamic Inference on Graphs using Structured Transition Models**|Saumya Saxena et.al.|[2209.15132v1](http://arxiv.org/abs/2209.15132v1)|null|
+|**2022-09-29**|**Graph Attention Network for Camera Relocalization on Dynamic Scenes**|Mohamed Amine Ouali et.al.|[2209.15056v1](http://arxiv.org/abs/2209.15056v1)|null|
 |**2020-11-06**|**Single-Node Attacks for Fooling Graph Neural Networks**|Ben Finkelshtein et.al.|[2011.03574v2](http://arxiv.org/abs/2011.03574v2)|[link](https://github.com/benfinkelshtein/SINGLE)|
 |**2022-09-29**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and Challenges**|Hwan Kim et.al.|[2209.14930v1](http://arxiv.org/abs/2209.14930v1)|null|
 |**2022-03-21**|**STCGAT: A Spatio-temporal Causal Graph Attention Network for traffic flow prediction in Intelligent Transportation Systems**|Wei Zhao et.al.|[2203.10749v3](http://arxiv.org/abs/2203.10749v3)|null|
@@ -24,37 +32,27 @@
 |**2022-09-29**|**How Powerful is Implicit Denoising in Graph Neural Networks**|Songtao Liu et.al.|[2209.14514v1](http://arxiv.org/abs/2209.14514v1)|null|
 |**2022-06-17**|**ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs**|Limei Wang et.al.|[2206.08515v3](http://arxiv.org/abs/2206.08515v3)|[link](https://github.com/divelab/DIG)|
 |**2021-12-22**|**D-HYPR: Harnessing Neighborhood Modeling and Asymmetry Preservation for Digraph Representation Learning**|Honglu Zhou et.al.|[2112.11734v2](http://arxiv.org/abs/2112.11734v2)|null|
-|**2022-04-06**|**GemNet-OC: Developing Graph Neural Networks for Large and Diverse Molecular Simulation Datasets**|Johannes Gasteiger et.al.|[2204.02782v2](http://arxiv.org/abs/2204.02782v2)|[link](https://github.com/Open-Catalyst-Project/ocp)|
-|**2022-09-28**|**Learning to Explain Graph Neural Networks**|Giuseppe Serra et.al.|[2209.14402v1](http://arxiv.org/abs/2209.14402v1)|[link](https://github.com/giuseppeserra93/l2xgnn)|
-|**2022-09-28**|**Pareto Actor-Critic for Equilibrium Selection in Multi-Agent Reinforcement Learning**|Filippos Christianos et.al.|[2209.14344v1](http://arxiv.org/abs/2209.14344v1)|null|
-|**2021-12-01**|**Imbalanced Graph Classification via Graph-of-Graph Neural Networks**|Yu Wang et.al.|[2112.00238v2](http://arxiv.org/abs/2112.00238v2)|[link](https://github.com/submissionconff/g2gnn)|
-|**2022-09-28**|**A Multi-scale Graph Signature for Persistence Diagrams based on Return Probabilities of Random Walks**|Chau Pham et.al.|[2209.14264v1](http://arxiv.org/abs/2209.14264v1)|null|
-|**2022-07-03**|**Collaboration-Aware Graph Convolutional Network for Recommender Systems**|Yu Wang et.al.|[2207.06221v2](http://arxiv.org/abs/2207.06221v2)|[link](https://github.com/yuwvandy/cagcn)|
-|**2022-09-28**|**Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure**|Shaohua Fan et.al.|[2209.14107v1](http://arxiv.org/abs/2209.14107v1)|[link](https://github.com/googlebaba/disc)|
-|**2022-09-28**|**LL-GNN: Low Latency Graph Neural Networks on FPGAs for Particle Detectors**|Zhiqiang Que et.al.|[2209.14065v1](http://arxiv.org/abs/2209.14065v1)|[link](https://github.com/walkieq/gnn-jedinet-fpga)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v1](http://arxiv.org/abs/2209.14509v1)|null|
-|**2022-05-04**|**Estimation of prediction error with known covariate shift**|Hui Xu et.al.|[2205.01849v2](http://arxiv.org/abs/2205.01849v2)|null|
-|**2022-09-28**|**Government Spending and Money Supply Roles in Alleviating Poverty in Africa**|Gbatsoron Anjande et.al.|[2209.14443v1](http://arxiv.org/abs/2209.14443v1)|null|
-|**2021-11-29**|**Reconstructing AGN X-ray spectral parameter distributions with Bayesian methods I: Spectral analysis**|Lingsong Ge et.al.|[2111.14925v2](http://arxiv.org/abs/2111.14925v2)|null|
-|**2022-09-17**|**Gradient Properties of Hard Thresholding Operator**|Saeed Damadi et.al.|[2209.08247v2](http://arxiv.org/abs/2209.08247v2)|null|
-|**2022-09-19**|**Finite- and Large- Sample Inference for Model and Coefficients in High-dimensional Linear Regression with Repro Samples**|Peng Wang et.al.|[2209.09299v2](http://arxiv.org/abs/2209.09299v2)|null|
-|**2022-09-27**|**Wilcoxon-type Multivariate Cluster Elastic Net**|Mayu Hiraishi et.al.|[2209.13354v1](http://arxiv.org/abs/2209.13354v1)|null|
-|**2022-09-27**|**Monte-Carlo Sampling Approach to Model Selection: A Primer**|Petre Stoica et.al.|[2209.13203v1](http://arxiv.org/abs/2209.13203v1)|null|
-|**2021-12-07**|**Some Strongly Polynomially Solvable Convex Quadratic Programs with Bounded Variables**|Jong-Shi Pang et.al.|[2112.03886v2](http://arxiv.org/abs/2112.03886v2)|null|
-|**2022-09-26**|**A Bayesian constitutive model selection framework for biaxial mechanical testing of planar soft tissues: application to porcine aortic valves**|Ankush Aggarwal et.al.|[2209.13038v1](http://arxiv.org/abs/2209.13038v1)|null|
-|**2022-09-21**|**Analysis of Relaxation Methods for Feature Selection in Mixed Effects Models**|Aleksandr Aravkin et.al.|[2209.10575v2](http://arxiv.org/abs/2209.10575v2)|null|
-|**2022-02-04**|**Self-Adaptive Forecasting for Improved Deep Learning on Non-Stationary Time-Series**|Sercan O. Arik et.al.|[2202.02403v3](http://arxiv.org/abs/2202.02403v3)|null|
-|**2022-09-22**|**Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing**|Alexandre Zouaoui et.al.|[2209.11002v2](http://arxiv.org/abs/2209.11002v2)|[link](https://github.com/inria-thoth/edaa)|
-|**2022-09-26**|**Feature-based model selection for object detection from point cloud data**|Kairi Tokuda et.al.|[2209.12419v1](http://arxiv.org/abs/2209.12419v1)|null|
-|**2022-03-27**|**Interpretable Machine Learning Models for Modal Split Prediction in Transportation Systems**|Aron Brenner et.al.|[2203.14191v2](http://arxiv.org/abs/2203.14191v2)|null|
 
 ## Non-Euclidean Staistics
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-27**|**A Derivation of Feedforward Neural Network Gradients Using Fréchet Calculus**|Thomas Hamm et.al.|[2209.13234v1](http://arxiv.org/abs/2209.13234v1)|null|
+|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v4](http://arxiv.org/abs/2112.13272v4)|null|
+|**2022-09-26**|**Frechet differentiability via partial Frechet differentiability**|Ludek Zajicek et.al.|[2209.12679v1](http://arxiv.org/abs/2209.12679v1)|null|
+|**2022-03-08**|**Integral representations for higher-order Fréchet derivatives of matrix functions: Quadrature algorithms and new results on the level-2 condition number**|Marcel Schweitzer et.al.|[2203.03930v2](http://arxiv.org/abs/2203.03930v2)|null|
+|**2022-03-09**|**On Flipping the Fréchet distance**|Omrit Filtser et.al.|[2203.04548v2](http://arxiv.org/abs/2203.04548v2)|null|
+|**2022-09-13**|**Isometric embedding of a weighted Fermat-Frechet multitree for isoperimetric deformations of the boundary of a simplex to a Frechet multisimplex in the $K$-Space**|Anastasios N. Zachos et.al.|[2209.09192v1](http://arxiv.org/abs/2209.09192v1)|null|
+|**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v1](http://arxiv.org/abs/2209.05676v1)|null|
+|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
+|**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v2](http://arxiv.org/abs/2203.06026v2)|[link](https://github.com/kynkaat/role-of-imagenet-classes-in-fid)|
+|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v2](http://arxiv.org/abs/2207.07809v2)|null|
+|**2022-09-06**|**Caracterisation d'une norme Frechet differentiable pour les duaux Banach complexes**|Daher Mohammad et.al.|[2209.02773v1](http://arxiv.org/abs/2209.02773v1)|null|
+|**2022-09-02**|**SIAN: Style-Guided Instance-Adaptive Normalization for Multi-Organ Histopathology Image Synthesis**|Haotian Wang et.al.|[2209.02412v1](http://arxiv.org/abs/2209.02412v1)|null|
+|**2022-09-01**|**A Hahn-Jordan decomposition and Riesz-Frechet representation theorem in Riesz spaces**|Anke Kalauch et.al.|[2209.00715v1](http://arxiv.org/abs/2209.00715v1)|null|
+|**2013-07-15**|**Global Fukaya category I**|Yasha Savelyev et.al.|[1307.3991v6](http://arxiv.org/abs/1307.3991v6)|null|
+|**2022-01-04**|**Local Noether theorem for quantum lattice systems and topological invariants of gapped states**|Anton Kapustin et.al.|[2201.01327v3](http://arxiv.org/abs/2201.01327v3)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,21 +73,23 @@
 |**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
 |**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 
-### Non Eculidean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-27**|**A Derivation of Feedforward Neural Network Gradients Using Fréchet Calculus**|Thomas Hamm et.al.|[2209.13234v1](http://arxiv.org/abs/2209.13234v1)|null|
-|**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v4](http://arxiv.org/abs/2112.13272v4)|null|
-|**2022-09-26**|**Frechet differentiability via partial Frechet differentiability**|Ludek Zajicek et.al.|[2209.12679v1](http://arxiv.org/abs/2209.12679v1)|null|
-|**2022-03-08**|**Integral representations for higher-order Fréchet derivatives of matrix functions: Quadrature algorithms and new results on the level-2 condition number**|Marcel Schweitzer et.al.|[2203.03930v2](http://arxiv.org/abs/2203.03930v2)|null|
-|**2022-03-09**|**On Flipping the Fréchet distance**|Omrit Filtser et.al.|[2203.04548v2](http://arxiv.org/abs/2203.04548v2)|null|
-|**2022-09-13**|**Isometric embedding of a weighted Fermat-Frechet multitree for isoperimetric deformations of the boundary of a simplex to a Frechet multisimplex in the $K$-Space**|Anastasios N. Zachos et.al.|[2209.09192v1](http://arxiv.org/abs/2209.09192v1)|null|
-|**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v1](http://arxiv.org/abs/2209.05676v1)|null|
-|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
-|**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v2](http://arxiv.org/abs/2203.06026v2)|[link](https://github.com/kynkaat/role-of-imagenet-classes-in-fid)|
-|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v2](http://arxiv.org/abs/2207.07809v2)|null|
-|**2022-09-06**|**Caracterisation d'une norme Frechet differentiable pour les duaux Banach complexes**|Daher Mohammad et.al.|[2209.02773v1](http://arxiv.org/abs/2209.02773v1)|null|
-|**2022-09-02**|**SIAN: Style-Guided Instance-Adaptive Normalization for Multi-Organ Histopathology Image Synthesis**|Haotian Wang et.al.|[2209.02412v1](http://arxiv.org/abs/2209.02412v1)|null|
-|**2022-09-01**|**A Hahn-Jordan decomposition and Riesz-Frechet representation theorem in Riesz spaces**|Anke Kalauch et.al.|[2209.00715v1](http://arxiv.org/abs/2209.00715v1)|null|
-|**2013-07-15**|**Global Fukaya category I**|Yasha Savelyev et.al.|[1307.3991v6](http://arxiv.org/abs/1307.3991v6)|null|
-|**2022-01-04**|**Local Noether theorem for quantum lattice systems and topological invariants of gapped states**|Anton Kapustin et.al.|[2201.01327v3](http://arxiv.org/abs/2201.01327v3)|null|
+|**2022-09-30**|**Experts in the Loop: Conditional Variable Selection for Accelerating Post-Silicon Analysis Based on Deep Learning**|Yiwen Liao et.al.|[2209.15249v1](http://arxiv.org/abs/2209.15249v1)|null|
+|**2022-04-20**|**Improved Group Robustness via Classifier Retraining on Independent Splits**|Thien Hang Nguyen et.al.|[2204.09583v2](http://arxiv.org/abs/2204.09583v2)|null|
+|**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v1](http://arxiv.org/abs/2209.14509v1)|null|
+|**2022-05-04**|**Estimation of prediction error with known covariate shift**|Hui Xu et.al.|[2205.01849v2](http://arxiv.org/abs/2205.01849v2)|null|
+|**2022-09-28**|**Government Spending and Money Supply Roles in Alleviating Poverty in Africa**|Gbatsoron Anjande et.al.|[2209.14443v1](http://arxiv.org/abs/2209.14443v1)|null|
+|**2021-11-29**|**Reconstructing AGN X-ray spectral parameter distributions with Bayesian methods I: Spectral analysis**|Lingsong Ge et.al.|[2111.14925v2](http://arxiv.org/abs/2111.14925v2)|null|
+|**2022-09-17**|**Gradient Properties of Hard Thresholding Operator**|Saeed Damadi et.al.|[2209.08247v2](http://arxiv.org/abs/2209.08247v2)|null|
+|**2022-09-19**|**Finite- and Large- Sample Inference for Model and Coefficients in High-dimensional Linear Regression with Repro Samples**|Peng Wang et.al.|[2209.09299v2](http://arxiv.org/abs/2209.09299v2)|null|
+|**2022-09-27**|**Wilcoxon-type Multivariate Cluster Elastic Net**|Mayu Hiraishi et.al.|[2209.13354v1](http://arxiv.org/abs/2209.13354v1)|null|
+|**2022-09-27**|**Monte-Carlo Sampling Approach to Model Selection: A Primer**|Petre Stoica et.al.|[2209.13203v1](http://arxiv.org/abs/2209.13203v1)|null|
+|**2021-12-07**|**Some Strongly Polynomially Solvable Convex Quadratic Programs with Bounded Variables**|Jong-Shi Pang et.al.|[2112.03886v2](http://arxiv.org/abs/2112.03886v2)|null|
+|**2022-09-26**|**A Bayesian constitutive model selection framework for biaxial mechanical testing of planar soft tissues: application to porcine aortic valves**|Ankush Aggarwal et.al.|[2209.13038v1](http://arxiv.org/abs/2209.13038v1)|null|
+|**2022-09-21**|**Analysis of Relaxation Methods for Feature Selection in Mixed Effects Models**|Aleksandr Aravkin et.al.|[2209.10575v2](http://arxiv.org/abs/2209.10575v2)|null|
+|**2022-02-04**|**Self-Adaptive Forecasting for Improved Deep Learning on Non-Stationary Time-Series**|Sercan O. Arik et.al.|[2202.02403v3](http://arxiv.org/abs/2202.02403v3)|null|
+|**2022-09-22**|**Entropic Descent Archetypal Analysis for Blind Hyperspectral Unmixing**|Alexandre Zouaoui et.al.|[2209.11002v2](http://arxiv.org/abs/2209.11002v2)|[link](https://github.com/inria-thoth/edaa)|
