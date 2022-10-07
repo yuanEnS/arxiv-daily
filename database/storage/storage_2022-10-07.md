@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-07 07:43:28 Asia/Shanghai
+ Automated deployment @ 2022-10-07 19:34:12 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,13 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-06**|**Edge-Varying Fourier Graph Networks for Multivariate Time Series Forecasting**|Kun Yi et.al.|[2210.03093v1](http://arxiv.org/abs/2210.03093v1)|null|
+|**2022-10-06**|**Expander Graph Propagation**|Andreea Deac et.al.|[2210.02997v1](http://arxiv.org/abs/2210.02997v1)|null|
+|**2022-10-06**|**Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering**|Mingxuan Ju et.al.|[2210.02933v1](http://arxiv.org/abs/2210.02933v1)|[link](https://github.com/jumxglhf/grape)|
+|**2022-09-27**|**A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective**|Chaoqi Chen et.al.|[2209.13232v2](http://arxiv.org/abs/2209.13232v2)|null|
+|**2022-02-22**|**Structured Multi-task Learning for Molecular Property Prediction**|Shengchao Liu et.al.|[2203.04695v2](http://arxiv.org/abs/2203.04695v2)|[link](https://github.com/chao1224/sgnn-ebm)|
+|**2022-10-06**|**Geodesic Graph Neural Network for Efficient Graph Representation Learning**|Lecheng Kong et.al.|[2210.02636v1](http://arxiv.org/abs/2210.02636v1)|null|
+|**2022-10-05**|**Bi-Stride Multi-Scale Graph Neural Network for Mesh-Based Physical Simulation**|Yadi Cao et.al.|[2210.02573v1](http://arxiv.org/abs/2210.02573v1)|null|
 |**2022-06-07**|**EiX-GNN : Concept-level eigencentrality explainer for graph neural networks**|Adrien Raison et.al.|[2206.03491v3](http://arxiv.org/abs/2206.03491v3)|null|
 |**2022-10-05**|**Teaching Yourself:c Graph Self-Distillation on Neighborhood for Node Classification**|Lirong Wu et.al.|[2210.02097v1](http://arxiv.org/abs/2210.02097v1)|null|
 |**2022-10-05**|**Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization**|Mingxuan Ju et.al.|[2210.02016v1](http://arxiv.org/abs/2210.02016v1)|null|
@@ -25,13 +32,27 @@
 |**2022-05-31**|**coVariance Neural Networks**|Saurabh Sihag et.al.|[2205.15856v2](http://arxiv.org/abs/2205.15856v2)|[link](https://github.com/pennbindlab/vnn)|
 |**2021-10-26**|**Does your graph need a confidence boost? Convergent boosted smoothing on graphs with tabular node features**|Jiuhai Chen et.al.|[2110.13413v2](http://arxiv.org/abs/2110.13413v2)|[link](https://github.com/JiuhaiChen/EBBS)|
 |**2022-09-29**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and Challenges**|Hwan Kim et.al.|[2209.14930v2](http://arxiv.org/abs/2209.14930v2)|null|
-|**2022-05-31**|**Strategic Classification with Graph Neural Networks**|Itay Eilat et.al.|[2205.15765v2](http://arxiv.org/abs/2205.15765v2)|[link](https://github.com/strategicgnns/code)|
-|**2022-06-10**|**Fundamental Limits in Formal Verification of Message-Passing Neural Networks**|Marco Sälzer et.al.|[2206.05070v2](http://arxiv.org/abs/2206.05070v2)|null|
-|**2022-10-03**|**TPGNN: Learning High-order Information in Dynamic Graphs via Temporal Propagation**|Zehong Wang et.al.|[2210.01171v1](http://arxiv.org/abs/2210.01171v1)|null|
-|**2022-01-29**|**Rewiring with Positional Encodings for Graph Neural Networks**|Rickard Brüel-Gabrielsson et.al.|[2201.12674v3](http://arxiv.org/abs/2201.12674v3)|null|
-|**2022-09-30**|**Graph Neural Networks for Link Prediction with Subgraph Sketching**|Benjamin Paul Chamberlain et.al.|[2209.15486v2](http://arxiv.org/abs/2209.15486v2)|null|
-|**2022-10-03**|**ASGNN: Graph Neural Networks with Adaptive Structure**|Zepeng Zhang et.al.|[2210.01002v1](http://arxiv.org/abs/2210.01002v1)|null|
-|**2022-01-30**|**Graph Representation Learning Through Recoverability**|Maxim Fishman et.al.|[2201.12843v3](http://arxiv.org/abs/2201.12843v3)|[link](https://github.com/anonymous1252022/recoverability)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v5](http://arxiv.org/abs/2010.11114v5)|null|
+|**2022-10-05**|**Modelling tree survival for investigating climate change effects**|Nicole N. Augustin et.al.|[2210.02247v1](http://arxiv.org/abs/2210.02247v1)|null|
+|**2022-02-07**|**Dependence model assessment and selection with DecoupleNets**|Marius Hofert et.al.|[2202.03406v2](http://arxiv.org/abs/2202.03406v2)|null|
+|**2022-10-05**|**DEGAN: Time Series Anomaly Detection using Generative Adversarial Network Discriminators and Density Estimation**|Yueyan Gu et.al.|[2210.02449v1](http://arxiv.org/abs/2210.02449v1)|null|
+|**2022-10-04**|**Evaluating Disentanglement in Generative Models Without Knowledge of Latent Factors**|Chester Holtz et.al.|[2210.01760v1](http://arxiv.org/abs/2210.01760v1)|null|
+|**2022-10-04**|**MEDFAIR: Benchmarking Fairness for Medical Imaging**|Yongshuo Zong et.al.|[2210.01725v1](http://arxiv.org/abs/2210.01725v1)|[link](https://github.com/ys-zong/medfair)|
+|**2022-10-04**|**Detection and Evaluation of Clusters within Sequential Data**|Alexander Van Werde et.al.|[2210.01679v1](http://arxiv.org/abs/2210.01679v1)|null|
+|**2022-10-04**|**Monte Carlo Tree Search based Variable Selection for High Dimensional Bayesian Optimization**|Lei Song et.al.|[2210.01628v1](http://arxiv.org/abs/2210.01628v1)|[link](https://github.com/lamda-bbo/mcts-vs)|
+|**2022-05-26**|**Fast Dynamic System Identification with Karhunen-Loève Decomposed Gaussian Processes**|Kyle Hayes et.al.|[2205.13676v3](http://arxiv.org/abs/2205.13676v3)|null|
+|**2022-10-03**|**A Reproducible and Realistic Evaluation of Partial Domain Adaptation Methods**|Tiago Salvador et.al.|[2210.01210v1](http://arxiv.org/abs/2210.01210v1)|null|
+|**2022-10-03**|**Unsupervised Model Selection for Time-series Anomaly Detection**|Mononito Goswami et.al.|[2210.01078v1](http://arxiv.org/abs/2210.01078v1)|null|
+|**2022-10-03**|**Factor-Augmented Regularized Model for Hazard Regression**|Pierre Bayle et.al.|[2210.01067v1](http://arxiv.org/abs/2210.01067v1)|null|
+|**2022-10-03**|**Process Modeling, Hidden Markov Models, and Non-negative Tensor Factorization with Model Selection**|Erik Skau et.al.|[2210.01060v1](http://arxiv.org/abs/2210.01060v1)|null|
+|**2021-06-24**|**FDR Controlled Multiple Testing for Union Null Hypotheses: A Knockoff-based Approach**|Ran Dai et.al.|[2106.12719v3](http://arxiv.org/abs/2106.12719v3)|null|
+|**2021-04-28**|**SMLSOM: The shrinking maximum likelihood self-organizing map**|Ryosuke Motegi et.al.|[2104.13971v3](http://arxiv.org/abs/2104.13971v3)|[link](https://github.com/lipryou/smlsom)|
 
 ## Non-Euclidean Staistics
 
@@ -58,6 +79,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-05**|**Transformer-based conditional generative adversarial network for multivariate time series generation**|Abdellah Madane et.al.|[2210.02089v1](http://arxiv.org/abs/2210.02089v1)|null|
+|**2022-10-04**|**Generalized Hukuhara Hadamard Derivative of Interval-valued Functions and Its Applications to Interval Optimization**|Ram Surat Chauhan et.al.|[2210.02852v1](http://arxiv.org/abs/2210.02852v1)|null|
 |**2021-12-13**|**Hallucinating Pose-Compatible Scenes**|Tim Brooks et.al.|[2112.06909v2](http://arxiv.org/abs/2112.06909v2)|null|
 |**2022-09-27**|**A Derivation of Feedforward Neural Network Gradients Using Fréchet Calculus**|Thomas Hamm et.al.|[2209.13234v1](http://arxiv.org/abs/2209.13234v1)|null|
 |**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v4](http://arxiv.org/abs/2112.13272v4)|null|
@@ -71,25 +93,3 @@
 |**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v2](http://arxiv.org/abs/2207.07809v2)|null|
 |**2022-09-06**|**Caracterisation d'une norme Frechet differentiable pour les duaux Banach complexes**|Daher Mohammad et.al.|[2209.02773v1](http://arxiv.org/abs/2209.02773v1)|null|
 |**2022-09-02**|**SIAN: Style-Guided Instance-Adaptive Normalization for Multi-Organ Histopathology Image Synthesis**|Haotian Wang et.al.|[2209.02412v1](http://arxiv.org/abs/2209.02412v1)|null|
-|**2022-09-01**|**A Hahn-Jordan decomposition and Riesz-Frechet representation theorem in Riesz spaces**|Anke Kalauch et.al.|[2209.00715v1](http://arxiv.org/abs/2209.00715v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-10-05**|**Modelling tree survival for investigating climate change effects**|Nicole N. Augustin et.al.|[2210.02247v1](http://arxiv.org/abs/2210.02247v1)|null|
-|**2022-02-07**|**Dependence model assessment and selection with DecoupleNets**|Marius Hofert et.al.|[2202.03406v2](http://arxiv.org/abs/2202.03406v2)|null|
-|**2022-10-04**|**Evaluating Disentanglement in Generative Models Without Knowledge of Latent Factors**|Chester Holtz et.al.|[2210.01760v1](http://arxiv.org/abs/2210.01760v1)|null|
-|**2022-10-04**|**MEDFAIR: Benchmarking Fairness for Medical Imaging**|Yongshuo Zong et.al.|[2210.01725v1](http://arxiv.org/abs/2210.01725v1)|[link](https://github.com/ys-zong/medfair)|
-|**2022-10-04**|**Detection and Evaluation of Clusters within Sequential Data**|Alexander Van Werde et.al.|[2210.01679v1](http://arxiv.org/abs/2210.01679v1)|null|
-|**2022-10-04**|**Monte Carlo Tree Search based Variable Selection for High Dimensional Bayesian Optimization**|Lei Song et.al.|[2210.01628v1](http://arxiv.org/abs/2210.01628v1)|[link](https://github.com/lamda-bbo/mcts-vs)|
-|**2022-05-26**|**Fast Dynamic System Identification with Karhunen-Loève Decomposed Gaussian Processes**|Kyle Hayes et.al.|[2205.13676v3](http://arxiv.org/abs/2205.13676v3)|null|
-|**2022-10-03**|**A Reproducible and Realistic Evaluation of Partial Domain Adaptation Methods**|Tiago Salvador et.al.|[2210.01210v1](http://arxiv.org/abs/2210.01210v1)|null|
-|**2022-10-03**|**Unsupervised Model Selection for Time-series Anomaly Detection**|Mononito Goswami et.al.|[2210.01078v1](http://arxiv.org/abs/2210.01078v1)|null|
-|**2022-10-03**|**Factor-Augmented Regularized Model for Hazard Regression**|Pierre Bayle et.al.|[2210.01067v1](http://arxiv.org/abs/2210.01067v1)|null|
-|**2022-10-03**|**Process Modeling, Hidden Markov Models, and Non-negative Tensor Factorization with Model Selection**|Erik Skau et.al.|[2210.01060v1](http://arxiv.org/abs/2210.01060v1)|null|
-|**2021-06-24**|**FDR Controlled Multiple Testing for Union Null Hypotheses: A Knockoff-based Approach**|Ran Dai et.al.|[2106.12719v3](http://arxiv.org/abs/2106.12719v3)|null|
-|**2021-04-28**|**SMLSOM: The shrinking maximum likelihood self-organizing map**|Ryosuke Motegi et.al.|[2104.13971v3](http://arxiv.org/abs/2104.13971v3)|[link](https://github.com/lipryou/smlsom)|
-|**2022-02-14**|**DermX: an end-to-end framework for explainable automated dermatological diagnosis**|Raluca Jalaboi et.al.|[2202.06956v2](http://arxiv.org/abs/2202.06956v2)|[link](https://github.com/ralucaj/dermx)|
-|**2021-11-15**|**A Statistical Approach to Surface Metrology for 3D-Printed Stainless Steel**|Chris. J. Oates et.al.|[2111.07745v2](http://arxiv.org/abs/2111.07745v2)|null|
