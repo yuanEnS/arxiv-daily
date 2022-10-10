@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-10 07:38:42 Asia/Shanghai
+ Automated deployment @ 2022-10-10 19:31:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-07**|**CommsVAE: Learning the brain's macroscale communication dynamics using coupled sequential VAEs**|Eloy Geenjaar et.al.|[2210.03667v1](http://arxiv.org/abs/2210.03667v1)|null|
+|**2022-10-07**|**Machine Learning Meets The Herbrand Universe**|Jelle Piepenbrock et.al.|[2210.03590v1](http://arxiv.org/abs/2210.03590v1)|null|
+|**2022-10-07**|**Empowering Graph Representation Learning with Test-Time Graph Transformation**|Wei Jin et.al.|[2210.03561v1](http://arxiv.org/abs/2210.03561v1)|null|
+|**2022-10-07**|**Towards Multi-Modal Sarcasm Detection via Hierarchical Congruity Modeling with Knowledge Enhancement**|Hui Liu et.al.|[2210.03501v1](http://arxiv.org/abs/2210.03501v1)|[link](https://github.com/less-and-less-bugs/hkemodel)|
+|**2019-10-16**|**Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case**|Paul Almasan et.al.|[1910.07421v3](http://arxiv.org/abs/1910.07421v3)|[link](https://github.com/knowledgedefinednetworking/DRL-GNN)|
+|**2022-02-21**|**Degree-Preserving Randomized Response for Graph Neural Networks under Local Differential Privacy**|Seira Hidano et.al.|[2202.10209v2](http://arxiv.org/abs/2202.10209v2)|[link](https://github.com/dprr-gnn/dprr-gnn)|
+|**2022-10-07**|**Unsupervised Semantic Representation Learning of Scientific Literature Based on Graph Attention Mechanism and Maximum Mutual Information**|Hongrui Gao et.al.|[2210.03292v1](http://arxiv.org/abs/2210.03292v1)|null|
+|**2022-10-07**|**Scientific Paper Classification Based on Graph Neural Network with Hypergraph Self-attention Mechanism**|Jiashun Liu et.al.|[2210.03288v1](http://arxiv.org/abs/2210.03288v1)|null|
 |**2022-10-06**|**Edge-Varying Fourier Graph Networks for Multivariate Time Series Forecasting**|Kun Yi et.al.|[2210.03093v1](http://arxiv.org/abs/2210.03093v1)|null|
 |**2022-10-06**|**Expander Graph Propagation**|Andreea Deac et.al.|[2210.02997v1](http://arxiv.org/abs/2210.02997v1)|null|
+|**2022-10-06**|**Enhancing Mixup-Based Graph Learning for Language Processing via Hybrid Pooling**|Zeming Dong et.al.|[2210.03123v1](http://arxiv.org/abs/2210.03123v1)|null|
 |**2022-10-06**|**Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering**|Mingxuan Ju et.al.|[2210.02933v1](http://arxiv.org/abs/2210.02933v1)|[link](https://github.com/jumxglhf/grape)|
 |**2022-09-27**|**A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective**|Chaoqi Chen et.al.|[2209.13232v2](http://arxiv.org/abs/2209.13232v2)|null|
 |**2022-02-22**|**Structured Multi-task Learning for Molecular Property Prediction**|Shengchao Liu et.al.|[2203.04695v2](http://arxiv.org/abs/2203.04695v2)|[link](https://github.com/chao1224/sgnn-ebm)|
 |**2022-10-06**|**Geodesic Graph Neural Network for Efficient Graph Representation Learning**|Lecheng Kong et.al.|[2210.02636v1](http://arxiv.org/abs/2210.02636v1)|null|
-|**2022-10-05**|**Bi-Stride Multi-Scale Graph Neural Network for Mesh-Based Physical Simulation**|Yadi Cao et.al.|[2210.02573v1](http://arxiv.org/abs/2210.02573v1)|null|
-|**2022-06-07**|**EiX-GNN : Concept-level eigencentrality explainer for graph neural networks**|Adrien Raison et.al.|[2206.03491v3](http://arxiv.org/abs/2206.03491v3)|null|
-|**2022-10-05**|**Teaching Yourself:c Graph Self-Distillation on Neighborhood for Node Classification**|Lirong Wu et.al.|[2210.02097v1](http://arxiv.org/abs/2210.02097v1)|null|
-|**2022-10-05**|**Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization**|Mingxuan Ju et.al.|[2210.02016v1](http://arxiv.org/abs/2210.02016v1)|null|
-|**2022-10-05**|**Towards Prototype-Based Self-Explainable Graph Neural Network**|Enyan Dai et.al.|[2210.01974v1](http://arxiv.org/abs/2210.01974v1)|null|
-|**2022-10-04**|**Tree Mover's Distance: Bridging Graph Metrics and Stability of Graph Neural Networks**|Ching-Yao Chuang et.al.|[2210.01906v1](http://arxiv.org/abs/2210.01906v1)|[link](https://github.com/chingyaoc/tmd)|
-|**2022-05-31**|**coVariance Neural Networks**|Saurabh Sihag et.al.|[2205.15856v2](http://arxiv.org/abs/2205.15856v2)|[link](https://github.com/pennbindlab/vnn)|
-|**2021-10-26**|**Does your graph need a confidence boost? Convergent boosted smoothing on graphs with tabular node features**|Jiuhai Chen et.al.|[2110.13413v2](http://arxiv.org/abs/2110.13413v2)|[link](https://github.com/JiuhaiChen/EBBS)|
-|**2022-09-29**|**Graph Anomaly Detection with Graph Neural Networks: Current Status and Challenges**|Hwan Kim et.al.|[2209.14930v2](http://arxiv.org/abs/2209.14930v2)|null|
 
 ## Non-Euclidean Staistics
-
-### Frechet Mean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
-|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
-|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
-|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
-|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
-|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
-|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
-|**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
-|**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
-|**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
-|**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
-|**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,11 +54,34 @@
 |**2022-09-06**|**Caracterisation d'une norme Frechet differentiable pour les duaux Banach complexes**|Daher Mohammad et.al.|[2209.02773v1](http://arxiv.org/abs/2209.02773v1)|null|
 |**2022-09-02**|**SIAN: Style-Guided Instance-Adaptive Normalization for Multi-Organ Histopathology Image Synthesis**|Haotian Wang et.al.|[2209.02412v1](http://arxiv.org/abs/2209.02412v1)|null|
 
+### Frechet Mean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
+|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
+|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
+|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
+|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
+|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
+|**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
+|**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
+|**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
+|**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2021-04-07**|**Equivariant Estimation of Fréchet Means**|Andrew McCormack et.al.|[2104.03397v1](http://arxiv.org/abs/2104.03397v1)|null|
+|**2020-12-23**|**Strong laws of large numbers for Fréchet means**|Steven N. Evans et.al.|[2012.12859v1](http://arxiv.org/abs/2012.12859v1)|null|
+
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-03-15**|**Sticky PDMP samplers for sparse and local inference problems**|Joris Bierkens et.al.|[2103.08478v4](http://arxiv.org/abs/2103.08478v4)|[link](https://github.com/mschauer/ZigZagBoomerang.jl)|
+|**2022-10-07**|**To tree or not to tree? Assessing the impact of smoothing the decision boundaries**|Anthea Mérida et.al.|[2210.03672v1](http://arxiv.org/abs/2210.03672v1)|null|
+|**2022-10-07**|**PARAGEN : A Parallel Generation Toolkit**|Jiangtao Feng et.al.|[2210.03405v1](http://arxiv.org/abs/2210.03405v1)|[link](https://github.com/bytedance/paragen)|
+|**2022-08-16**|**Reweighting the RCT for generalization: finite sample analysis and variable selection**|Bénédicte Colnet et.al.|[2208.07614v2](http://arxiv.org/abs/2208.07614v2)|null|
 |**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v5](http://arxiv.org/abs/2010.11114v5)|null|
 |**2022-10-05**|**Modelling tree survival for investigating climate change effects**|Nicole N. Augustin et.al.|[2210.02247v1](http://arxiv.org/abs/2210.02247v1)|null|
 |**2022-02-07**|**Dependence model assessment and selection with DecoupleNets**|Marius Hofert et.al.|[2202.03406v2](http://arxiv.org/abs/2202.03406v2)|null|
@@ -89,7 +93,3 @@
 |**2022-05-26**|**Fast Dynamic System Identification with Karhunen-Loève Decomposed Gaussian Processes**|Kyle Hayes et.al.|[2205.13676v3](http://arxiv.org/abs/2205.13676v3)|null|
 |**2022-10-03**|**A Reproducible and Realistic Evaluation of Partial Domain Adaptation Methods**|Tiago Salvador et.al.|[2210.01210v1](http://arxiv.org/abs/2210.01210v1)|null|
 |**2022-10-03**|**Unsupervised Model Selection for Time-series Anomaly Detection**|Mononito Goswami et.al.|[2210.01078v1](http://arxiv.org/abs/2210.01078v1)|null|
-|**2022-10-03**|**Factor-Augmented Regularized Model for Hazard Regression**|Pierre Bayle et.al.|[2210.01067v1](http://arxiv.org/abs/2210.01067v1)|null|
-|**2022-10-03**|**Process Modeling, Hidden Markov Models, and Non-negative Tensor Factorization with Model Selection**|Erik Skau et.al.|[2210.01060v1](http://arxiv.org/abs/2210.01060v1)|null|
-|**2021-06-24**|**FDR Controlled Multiple Testing for Union Null Hypotheses: A Knockoff-based Approach**|Ran Dai et.al.|[2106.12719v3](http://arxiv.org/abs/2106.12719v3)|null|
-|**2021-04-28**|**SMLSOM: The shrinking maximum likelihood self-organizing map**|Ryosuke Motegi et.al.|[2104.13971v3](http://arxiv.org/abs/2104.13971v3)|[link](https://github.com/lipryou/smlsom)|
