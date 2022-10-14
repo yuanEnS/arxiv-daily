@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-14 07:42:53 Asia/Shanghai
+ Automated deployment @ 2022-10-14 19:32:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,29 +17,34 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-10-12**|**Relational Graph Convolutional Neural Networks for Multihop Reasoning: A Comparative Study**|Ieva Staliūnaitė et.al.|[2210.06418v1](http://arxiv.org/abs/2210.06418v1)|null|
+|**2022-10-13**|**Behavioral graph fraud detection in E-commerce**|Hang Yin et.al.|[2210.06968v1](http://arxiv.org/abs/2210.06968v1)|null|
+|**2022-10-13**|**Learning Physical Dynamics with Subequivariant Graph Neural Networks**|Jiaqi Han et.al.|[2210.06876v1](http://arxiv.org/abs/2210.06876v1)|null|
+|**2022-10-12**|**Relational Graph Convolutional Neural Networks for Multihop Reasoning: A Comparative Study**|Ieva Staliūnaitė et.al.|[2210.06418v2](http://arxiv.org/abs/2210.06418v2)|null|
+|**2022-01-28**|**Explaining Graph Neural Networks with Structure-Aware Cooperative Games**|Shichang Zhang et.al.|[2201.12380v4](http://arxiv.org/abs/2201.12380v4)|[link](https://github.com/shichangzh/gstarx)|
+|**2022-03-03**|**Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks**|Minji Yoon et.al.|[2203.02018v4](http://arxiv.org/abs/2203.02018v4)|[link](https://github.com/minjiyoon/ktn)|
 |**2022-10-12**|**Graph Neural Network Surrogate for seismic reliability analysis of highway bridge system**|Tong Liu et.al.|[2210.06404v1](http://arxiv.org/abs/2210.06404v1)|null|
 |**2022-10-12**|**What Makes Graph Neural Networks Miscalibrated?**|Hans Hao-Hsun Hsu et.al.|[2210.06391v1](http://arxiv.org/abs/2210.06391v1)|[link](https://github.com/hans66hsu/gats)|
 |**2022-10-12**|**Self-Attention Message Passing for Contrastive Few-Shot Learning**|Ojas Kishorkumar Shirekar et.al.|[2210.06339v1](http://arxiv.org/abs/2210.06339v1)|[link](https://github.com/ojss/samptransfer)|
 |**2022-10-05**|**Teaching Yourself:Graph Self-Distillation on Neighborhood for Node Classification**|Lirong Wu et.al.|[2210.02097v2](http://arxiv.org/abs/2210.02097v2)|null|
 |**2022-07-29**|**Graph Neural Networks for Channel Decoding**|Sebastian Cammerer et.al.|[2207.14742v2](http://arxiv.org/abs/2207.14742v2)|[link](https://github.com/nvlabs/gnn-decoder)|
 |**2022-07-15**|**Learning Long-Term Spatial-Temporal Graphs for Active Speaker Detection**|Kyle Min et.al.|[2207.07783v3](http://arxiv.org/abs/2207.07783v3)|[link](https://github.com/sra2/spell)|
-|**2022-01-28**|**Neural Approximation of Graph Topological Features**|Zuoyu Yan et.al.|[2201.12032v3](http://arxiv.org/abs/2201.12032v3)|null|
+|**2022-01-28**|**Neural Approximation of Graph Topological Features**|Zuoyu Yan et.al.|[2201.12032v3](http://arxiv.org/abs/2201.12032v3)|[link](https://github.com/pkuyzy/TLC-GNN)|
 |**2022-04-18**|**GNN-encoder: Learning a Dual-encoder Architecture via Graph Neural Networks for Dense Passage Retrieval**|Jiduan Liu et.al.|[2204.08241v2](http://arxiv.org/abs/2204.08241v2)|null|
 |**2022-10-12**|**Boosting Graph Neural Networks via Adaptive Knowledge Distillation**|Zhichun Guo et.al.|[2210.05920v1](http://arxiv.org/abs/2210.05920v1)|null|
 |**2022-06-10**|**NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs**|Jinsong Chen et.al.|[2206.04910v2](http://arxiv.org/abs/2206.04910v2)|null|
-|**2022-10-12**|**Travel the Same Path: A Novel TSP Solving Strategy**|Pingbang Hu et.al.|[2210.05906v1](http://arxiv.org/abs/2210.05906v1)|[link](https://github.com/sleepymalc/Travel-the-Same-Path)|
-|**2022-09-18**|**Imbalanced Node Processing Method in Graph Neural Network Classification Task**|Min Liu et.al.|[2209.08514v3](http://arxiv.org/abs/2209.08514v3)|null|
-|**2022-07-10**|**Scalable and Privacy-enhanced Graph Generative Model for Graph Neural Networks**|Minji Yoon et.al.|[2207.04396v2](http://arxiv.org/abs/2207.04396v2)|[link](https://github.com/minjiyoon/cgt)|
-|**2022-05-03**|**DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks**|Shih-Yang Su et.al.|[2205.01666v2](http://arxiv.org/abs/2205.01666v2)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-02-22**|**Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations**|Alexander Immer et.al.|[2202.10638v3](http://arxiv.org/abs/2202.10638v3)|[link](https://github.com/tychovdo/lila)|
+|**2022-04-22**|**Sequential Learning and Economic Benefits from Dynamic Term Structure Models**|Tomasz Dubiel-Teleszynski et.al.|[2204.10658v2](http://arxiv.org/abs/2204.10658v2)|null|
+|**2022-07-11**|**Sparse Dynamic Factor Models with Loading Selection by Variational Inference**|Erik Spånberg et.al.|[2207.05111v2](http://arxiv.org/abs/2207.05111v2)|null|
+|**2022-10-13**|**Prediction can be safely used as a proxy for explanation in causally consistent Bayesian generalized linear models**|Maximilian Scholz et.al.|[2210.06927v1](http://arxiv.org/abs/2210.06927v1)|null|
+|**2022-10-13**|**On the calibration of underrepresented classes in LiDAR-based semantic segmentation**|Mariella Dreissig et.al.|[2210.06811v1](http://arxiv.org/abs/2210.06811v1)|null|
 |**2022-10-12**|**Bregman Divergence-Based Data Integration with Application to Polygenic Risk Score (PRS) Heterogeneity Adjustment**|Qinmengge Li et.al.|[2210.06025v1](http://arxiv.org/abs/2210.06025v1)|null|
-|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v1](http://arxiv.org/abs/2210.05983v1)|null|
+|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v1](http://arxiv.org/abs/2210.05983v1)|[link](https://github.com/lb1304/hypersbm)|
 |**2022-10-11**|**Synthetic Model Combination: An Instance-wise Approach to Unsupervised Ensemble Learning**|Alex J. Chan et.al.|[2210.05320v1](http://arxiv.org/abs/2210.05320v1)|[link](https://github.com/xanderjc/synthetic-model-combination)|
 |**2022-10-10**|**Bayesian Sparse Regression for Mixed Multi-Responses with Application to Runtime Metrics Prediction in Fog Manufacturing**|Xiaoyu Chen et.al.|[2210.04811v2](http://arxiv.org/abs/2210.04811v2)|null|
 |**2021-10-21**|**Ensemble of Averages: Improving Model Selection and Boosting Performance in Domain Generalization**|Devansh Arpit et.al.|[2110.10832v4](http://arxiv.org/abs/2110.10832v4)|[link](https://github.com/salesforce/ensemble-of-averages)|
@@ -48,11 +53,6 @@
 |**2021-11-15**|**ELBD: Efficient score algorithm for feature selection on latent variables of VAE**|Yiran Dong et.al.|[2111.08493v3](http://arxiv.org/abs/2111.08493v3)|null|
 |**2022-05-25**|**Crossmodal-3600: A Massively Multilingual Multimodal Evaluation Dataset**|Ashish V. Thapliyal et.al.|[2205.12522v2](http://arxiv.org/abs/2205.12522v2)|null|
 |**2022-08-17**|**Semi-supervised Learning with Deterministic Labeling and Large Margin Projection**|Ji Xu et.al.|[2208.08058v2](http://arxiv.org/abs/2208.08058v2)|[link](https://github.com/alanxuji/delala)|
-|**2017-12-24**|**Nearly optimal Bayesian Shrinkage for High Dimensional Regression**|Qifan Song et.al.|[1712.08964v2](http://arxiv.org/abs/1712.08964v2)|null|
-|**2021-03-15**|**Sticky PDMP samplers for sparse and local inference problems**|Joris Bierkens et.al.|[2103.08478v4](http://arxiv.org/abs/2103.08478v4)|[link](https://github.com/mschauer/ZigZagBoomerang.jl)|
-|**2022-10-07**|**To tree or not to tree? Assessing the impact of smoothing the decision boundaries**|Anthea Mérida et.al.|[2210.03672v1](http://arxiv.org/abs/2210.03672v1)|null|
-|**2022-10-07**|**PARAGEN : A Parallel Generation Toolkit**|Jiangtao Feng et.al.|[2210.03405v1](http://arxiv.org/abs/2210.03405v1)|[link](https://github.com/bytedance/paragen)|
-|**2022-08-16**|**Reweighting the RCT for generalization: finite sample analysis and variable selection**|Bénédicte Colnet et.al.|[2208.07614v2](http://arxiv.org/abs/2208.07614v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2020-06-21**|**On the Theoretical Equivalence of Several Trade-Off Curves Assessing Statistical Proximity**|Rodrigue Siry et.al.|[2006.11809v3](http://arxiv.org/abs/2006.11809v3)|null|
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v1](http://arxiv.org/abs/2210.05509v1)|null|
 |**2022-10-09**|**A Self-attention Guided Multi-scale Gradient GAN for Diversified X-ray Image Synthesis**|Muhammad Muneeb Saad et.al.|[2210.06334v1](http://arxiv.org/abs/2210.06334v1)|null|
 |**2021-12-25**|**Smooth simplicial sets and universal Chern-Weil homomorphism**|Yasha Savelyev et.al.|[2112.13272v5](http://arxiv.org/abs/2112.13272v5)|null|
@@ -92,4 +93,3 @@
 |**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v1](http://arxiv.org/abs/2209.05676v1)|null|
 |**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
 |**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v2](http://arxiv.org/abs/2203.06026v2)|[link](https://github.com/kynkaat/role-of-imagenet-classes-in-fid)|
-|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v2](http://arxiv.org/abs/2207.07809v2)|null|
