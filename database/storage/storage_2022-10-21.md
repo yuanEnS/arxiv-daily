@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-21 07:43:47 Asia/Shanghai
+ Automated deployment @ 2022-10-21 19:33:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-16**|**SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks**|Davide Buffelli et.al.|[2207.07888v2](http://arxiv.org/abs/2207.07888v2)|[link](https://github.com/DavideBuffelli/SizeShiftReg)|
+|**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v2](http://arxiv.org/abs/2210.09535v2)|[link](https://github.com/lingxiaoshawn/glam)|
+|**2022-01-27**|**FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification**|Sean Current et.al.|[2201.11596v2](http://arxiv.org/abs/2201.11596v2)|null|
+|**2022-05-19**|**Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation**|Zhiqiang Zhong et.al.|[2205.09389v2](http://arxiv.org/abs/2205.09389v2)|[link](https://github.com/zhiqiangzhongddu/tmlr-clp)|
+|**2021-06-10**|**Graph Neural Networks for Natural Language Processing: A Survey**|Lingfei Wu et.al.|[2106.06090v2](http://arxiv.org/abs/2106.06090v2)|[link](https://github.com/graph4ai/graph4nlp)|
+|**2022-07-22**|**Understanding Non-linearity in Graph Neural Networks from the Bayesian-Inference Perspective**|Rongzhe Wei et.al.|[2207.11311v3](http://arxiv.org/abs/2207.11311v3)|[link](https://github.com/graph-com/bayesian_inference_based_gnn)|
+|**2022-06-22**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v3](http://arxiv.org/abs/2206.11081v3)|[link](https://github.com/hongjoon0805/halo)|
+|**2022-10-20**|**Graph Neural Networks with Trainable Adjacency Matrices for Fault Diagnosis on Multivariate Sensor Data**|Alexander Kovalenko et.al.|[2210.11164v1](http://arxiv.org/abs/2210.11164v1)|null|
+|**2022-10-20**|**Toward Multiple Specialty Learners for Explaining GNNs via Online Knowledge Distillation**|Tien-Cuong Bui et.al.|[2210.11094v1](http://arxiv.org/abs/2210.11094v1)|null|
+|**2022-05-24**|**High-Order Pooling for Graph Neural Networks with Tensor Decomposition**|Chenqing Hua et.al.|[2205.11691v2](http://arxiv.org/abs/2205.11691v2)|null|
+|**2022-01-20**|**LOSTIN: Logic Optimization via Spatio-Temporal Information with Hybrid Graph Models**|Nan Wu et.al.|[2201.08455v2](http://arxiv.org/abs/2201.08455v2)|[link](https://github.com/lydiawunan/lostin)|
 |**2022-10-19**|**On Representing Mixed-Integer Linear Programs by Graph Neural Networks**|Ziang Chen et.al.|[2210.10759v1](http://arxiv.org/abs/2210.10759v1)|null|
 |**2022-10-19**|**GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs**|Xin Liu et.al.|[2210.10758v1](http://arxiv.org/abs/2210.10758v1)|[link](https://github.com/xinliu20/graphcspn_eccv2022)|
 |**2022-10-19**|**RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations**|Zirui Liu et.al.|[2210.10737v1](http://arxiv.org/abs/2210.10737v1)|null|
 |**2022-04-27**|**FlowGNN: A Dataflow Architecture for Real-Time Workload-Agnostic Graph Neural Network Inference**|Rishov Sarkar et.al.|[2204.13103v2](http://arxiv.org/abs/2204.13103v2)|[link](https://github.com/sharc-lab/flowgnn)|
-|**2022-10-11**|**Linkless Link Prediction via Relational Distillation**|Zhichun Guo et.al.|[2210.05801v2](http://arxiv.org/abs/2210.05801v2)|null|
-|**2022-10-19**|**Extending Graph Transformers with Quantum Computed Aggregation**|Slimane Thabet et.al.|[2210.10610v1](http://arxiv.org/abs/2210.10610v1)|null|
-|**2022-10-19**|**Self-supervised Heterogeneous Graph Pre-training Based on Structural Clustering**|Yaming Yang et.al.|[2210.10462v1](http://arxiv.org/abs/2210.10462v1)|[link](https://github.com/kepsail/SHGP)|
-|**2022-10-19**|**EGG-GAE: scalable graph neural networks for tabular data imputation**|Lev Telyatnikov et.al.|[2210.10446v1](http://arxiv.org/abs/2210.10446v1)|null|
-|**2022-01-21**|**Learning Two-Step Hybrid Policy for Graph-Based Interpretable Reinforcement Learning**|Tongzhou Mu et.al.|[2201.08520v2](http://arxiv.org/abs/2201.08520v2)|null|
-|**2022-10-18**|**Granger causal inference on DAGs identifies genomic loci regulating transcription**|Rohit Singh et.al.|[2210.10168v1](http://arxiv.org/abs/2210.10168v1)|[link](https://github.com/alexw16/gridnet)|
-|**2022-10-18**|**On Classification Thresholds for Graph Attention with Edge Features**|Kimon Fountoulakis et.al.|[2210.10014v1](http://arxiv.org/abs/2210.10014v1)|null|
-|**2021-12-09**|**Transferability Properties of Graph Neural Networks**|Luana Ruiz et.al.|[2112.04629v3](http://arxiv.org/abs/2112.04629v3)|null|
-|**2021-09-08**|**X-GOAL: Multiplex Heterogeneous Graph Prototypical Contrastive Learning**|Baoyu Jing et.al.|[2109.03560v5](http://arxiv.org/abs/2109.03560v5)|null|
-|**2022-10-18**|**Predicting Winning Regions in Parity Games via Graph Neural Networks (Extended Abstract)**|Tobias Hecking et.al.|[2210.09924v1](http://arxiv.org/abs/2210.09924v1)|null|
-|**2022-10-18**|**Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging**|Ayyoob Imani et.al.|[2210.09840v1](http://arxiv.org/abs/2210.09840v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,8 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v2](http://arxiv.org/abs/2203.12996v2)|null|
+|**2021-12-13**|**On using the complex step method for the approximation of Fréchet derivatives of matrix functions in automorphism groups**|Tom Werner et.al.|[2112.06786v2](http://arxiv.org/abs/2112.06786v2)|null|
 |**2022-10-19**|**Autoregressive Generative Modeling with Noise Conditional Maximum Likelihood Estimation**|Henry Li et.al.|[2210.10715v1](http://arxiv.org/abs/2210.10715v1)|null|
 |**2022-10-18**|**IF-GAN: A Novel Generator Architecture with Information Feedback**|Seung Park et.al.|[2210.09638v1](http://arxiv.org/abs/2210.09638v1)|null|
 |**2022-10-17**|**Multiplicity Theorems for Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2210.09270v1](http://arxiv.org/abs/2210.09270v1)|null|
@@ -70,26 +72,24 @@
 |**2022-10-04**|**Generalized Hukuhara Hadamard Derivative of Interval-valued Functions and Its Applications to Interval Optimization**|Ram Surat Chauhan et.al.|[2210.02852v1](http://arxiv.org/abs/2210.02852v1)|null|
 |**2021-12-13**|**Hallucinating Pose-Compatible Scenes**|Tim Brooks et.al.|[2112.06909v2](http://arxiv.org/abs/2112.06909v2)|null|
 |**2022-09-27**|**A Derivation of Feedforward Neural Network Gradients Using Fréchet Calculus**|Thomas Hamm et.al.|[2209.13234v1](http://arxiv.org/abs/2209.13234v1)|null|
-|**2022-09-26**|**Frechet differentiability via partial Frechet differentiability**|Ludek Zajicek et.al.|[2209.12679v1](http://arxiv.org/abs/2209.12679v1)|null|
-|**2022-03-08**|**Integral representations for higher-order Fréchet derivatives of matrix functions: Quadrature algorithms and new results on the level-2 condition number**|Marcel Schweitzer et.al.|[2203.03930v2](http://arxiv.org/abs/2203.03930v2)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v2](http://arxiv.org/abs/2210.09535v2)|[link](https://github.com/lingxiaoshawn/glam)|
+|**2022-10-20**|**Bayesian Tensor-on-Tensor Regression with Efficient Computation**|Kunbo Wang et.al.|[2210.11363v1](http://arxiv.org/abs/2210.11363v1)|null|
+|**2022-10-20**|**Vine copula based knockoff generation for high-dimensional controlled variable selection**|Malte S. Kurz et.al.|[2210.11196v1](http://arxiv.org/abs/2210.11196v1)|null|
+|**2022-10-20**|**Scalable Bayesian Transformed Gaussian Processes**|Xinran Zhu et.al.|[2210.10973v1](http://arxiv.org/abs/2210.10973v1)|null|
+|**2022-10-20**|**Adaptive greedy forward variable selection for linear regression models with incomplete data using multiple imputation**|Yong-Shiuan Lee et.al.|[2210.10967v1](http://arxiv.org/abs/2210.10967v1)|null|
+|**2022-09-16**|**Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Alexander C. McLain et.al.|[2209.08139v3](http://arxiv.org/abs/2209.08139v3)|null|
 |**2022-10-17**|**Measures of Information Reflect Memorization Patterns**|Rachit Bansal et.al.|[2210.09404v2](http://arxiv.org/abs/2210.09404v2)|null|
 |**2021-05-23**|**Robust Bayesian Nonparametric Variable Selection for Linear Regression**|Alberto Cabezas et.al.|[2105.11022v2](http://arxiv.org/abs/2105.11022v2)|[link](https://github.com/albcab/RobustVariableSelection)|
 |**2022-06-15**|**Hyperparameter Sensitivity in Deep Outlier Detection: Analysis and a Scalable Hyper-Ensemble Solution**|Xueying Ding et.al.|[2206.07647v2](http://arxiv.org/abs/2206.07647v2)|[link](https://github.com/xyvivian/robod)|
 |**2022-10-19**|**Measuring the giant radio galaxy length distribution with the LoTSS DR2**|Martijn S. S. L. Oei et.al.|[2210.10234v1](http://arxiv.org/abs/2210.10234v1)|null|
 |**2020-08-25**|**Inference for parameters identified by conditional moment restrictions using a penalized Bierens maximum statistic**|Xiaohong Chen et.al.|[2008.11140v4](http://arxiv.org/abs/2008.11140v4)|null|
 |**2022-02-13**|**Scaling Laws Under the Microscope: Predicting Transformer Performance from Small Scale Experiments**|Maor Ivgi et.al.|[2202.06387v2](http://arxiv.org/abs/2202.06387v2)|null|
-|**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v1](http://arxiv.org/abs/2210.09535v1)|[link](https://github.com/lingxiaoshawn/glam)|
 |**2021-10-12**|**The Terminating-Random Experiments Selector: Fast High-Dimensional Variable Selection with False Discovery Rate Control**|Jasin Machkour et.al.|[2110.06048v5](http://arxiv.org/abs/2110.06048v5)|null|
 |**2022-10-17**|**Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures**|Shounak Chattopadhyay et.al.|[2210.09279v1](http://arxiv.org/abs/2210.09279v1)|null|
 |**2022-10-16**|**Data-Efficient Pipeline for Offline Reinforcement Learning with Limited Data**|Allen Nie et.al.|[2210.08642v1](http://arxiv.org/abs/2210.08642v1)|null|
-|**2022-10-16**|**Anytime-Valid F-Tests for Faster Sequential Experimentation Through Covariate Adjustment**|Michael Lindon et.al.|[2210.08589v1](http://arxiv.org/abs/2210.08589v1)|null|
-|**2021-10-16**|**On Model Selection Consistency of Lasso for High-Dimensional Ising Models**|Xiangming Meng et.al.|[2110.08500v3](http://arxiv.org/abs/2110.08500v3)|null|
-|**2022-10-03**|**Unsupervised Model Selection for Time-series Anomaly Detection**|Mononito Goswami et.al.|[2210.01078v2](http://arxiv.org/abs/2210.01078v2)|null|
-|**2022-10-14**|**Early stopping for $ L^2 $-boosting in high-dimensional linear models**|Bernhard Stankewitz et.al.|[2210.07850v1](http://arxiv.org/abs/2210.07850v1)|null|
-|**2022-10-14**|**LEATHER: A Framework for Learning to Generate Human-like Text in Dialogue**|Anthony Sicilia et.al.|[2210.07777v1](http://arxiv.org/abs/2210.07777v1)|[link](https://github.com/anthonysicilia/leather-aacl2022)|
