@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-22 07:41:28 Asia/Shanghai
+ Automated deployment @ 2022-10-22 19:30:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -20,7 +20,7 @@
 |**2022-07-16**|**SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks**|Davide Buffelli et.al.|[2207.07888v2](http://arxiv.org/abs/2207.07888v2)|[link](https://github.com/DavideBuffelli/SizeShiftReg)|
 |**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v2](http://arxiv.org/abs/2210.09535v2)|[link](https://github.com/lingxiaoshawn/glam)|
 |**2022-01-27**|**FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification**|Sean Current et.al.|[2201.11596v2](http://arxiv.org/abs/2201.11596v2)|null|
-|**2022-05-19**|**Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation**|Zhiqiang Zhong et.al.|[2205.09389v2](http://arxiv.org/abs/2205.09389v2)|[link](https://github.com/zhiqiangzhongddu/tmlr-clp)|
+|**2022-05-19**|**Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation**|Zhiqiang Zhong et.al.|[2205.09389v2](http://arxiv.org/abs/2205.09389v2)|null|
 |**2021-06-10**|**Graph Neural Networks for Natural Language Processing: A Survey**|Lingfei Wu et.al.|[2106.06090v2](http://arxiv.org/abs/2106.06090v2)|[link](https://github.com/graph4ai/graph4nlp)|
 |**2022-07-22**|**Understanding Non-linearity in Graph Neural Networks from the Bayesian-Inference Perspective**|Rongzhe Wei et.al.|[2207.11311v3](http://arxiv.org/abs/2207.11311v3)|[link](https://github.com/graph-com/bayesian_inference_based_gnn)|
 |**2022-06-22**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v3](http://arxiv.org/abs/2206.11081v3)|[link](https://github.com/hongjoon0805/halo)|
