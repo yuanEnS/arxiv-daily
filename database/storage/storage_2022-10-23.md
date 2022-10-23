@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-23 07:40:09 Asia/Shanghai
+ Automated deployment @ 2022-10-23 19:30:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -80,7 +80,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v2](http://arxiv.org/abs/2210.09535v2)|[link](https://github.com/lingxiaoshawn/glam)|
 |**2022-10-20**|**Bayesian Tensor-on-Tensor Regression with Efficient Computation**|Kunbo Wang et.al.|[2210.11363v1](http://arxiv.org/abs/2210.11363v1)|null|
-|**2022-10-20**|**Vine copula based knockoff generation for high-dimensional controlled variable selection**|Malte S. Kurz et.al.|[2210.11196v1](http://arxiv.org/abs/2210.11196v1)|null|
+|**2022-10-20**|**Vine copula based knockoff generation for high-dimensional controlled variable selection**|Malte S. Kurz et.al.|[2210.11196v1](http://arxiv.org/abs/2210.11196v1)|[link](https://github.com/maltekurz/vineknockoffs)|
 |**2022-10-20**|**Scalable Bayesian Transformed Gaussian Processes**|Xinran Zhu et.al.|[2210.10973v1](http://arxiv.org/abs/2210.10973v1)|null|
 |**2022-10-20**|**Adaptive greedy forward variable selection for linear regression models with incomplete data using multiple imputation**|Yong-Shiuan Lee et.al.|[2210.10967v1](http://arxiv.org/abs/2210.10967v1)|null|
 |**2022-09-16**|**Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Alexander C. McLain et.al.|[2209.08139v3](http://arxiv.org/abs/2209.08139v3)|null|
