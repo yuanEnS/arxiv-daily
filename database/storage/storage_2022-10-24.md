@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-24 07:40:48 Asia/Shanghai
+ Automated deployment @ 2022-10-24 19:35:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-21**|**Graph Few-shot Learning with Task-specific Structures**|Song Wang et.al.|[2210.12130v1](http://arxiv.org/abs/2210.12130v1)|null|
+|**2022-10-21**|**A Survey on Graph Counterfactual Explanations: Definitions, Methods, Evaluation**|Mario Alfonso Prado-Romero et.al.|[2210.12089v1](http://arxiv.org/abs/2210.12089v1)|null|
+|**2022-02-09**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v3](http://arxiv.org/abs/2202.04579v3)|[link](https://github.com/twitter-research/neural-sheaf-diffusion)|
+|**2022-10-21**|**GLCC: A General Framework for Graph-level Clustering**|Wei Ju et.al.|[2210.11879v1](http://arxiv.org/abs/2210.11879v1)|null|
+|**2022-10-21**|**Unsupervised Image Semantic Segmentation through Superpixels and Graph Neural Networks**|Moshe Eliasof et.al.|[2210.11810v1](http://arxiv.org/abs/2210.11810v1)|null|
+|**2022-10-21**|**FoSR: First-order spectral rewiring for addressing oversquashing in GNNs**|Kedar Karhadkar et.al.|[2210.11790v1](http://arxiv.org/abs/2210.11790v1)|null|
+|**2022-10-21**|**Global Counterfactual Explainer for Graph Neural Networks**|Mert Kosan et.al.|[2210.11695v1](http://arxiv.org/abs/2210.11695v1)|[link](https://github.com/mertkosan/GCFExplainer)|
+|**2022-06-22**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v4](http://arxiv.org/abs/2206.11081v4)|[link](https://github.com/hongjoon0805/halo)|
+|**2022-10-20**|**gSuite: A Flexible and Framework Independent Benchmark Suite for Graph Neural Network Inference on GPUs**|Taha Tekdoğan et.al.|[2210.11601v1](http://arxiv.org/abs/2210.11601v1)|null|
+|**2022-10-20**|**New applications of Graph Neural Networks in Cosmology**|Farida Farsian et.al.|[2210.11487v1](http://arxiv.org/abs/2210.11487v1)|null|
 |**2022-07-16**|**SizeShiftReg: a Regularization Method for Improving Size-Generalization in Graph Neural Networks**|Davide Buffelli et.al.|[2207.07888v2](http://arxiv.org/abs/2207.07888v2)|[link](https://github.com/DavideBuffelli/SizeShiftReg)|
 |**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v2](http://arxiv.org/abs/2210.09535v2)|[link](https://github.com/lingxiaoshawn/glam)|
 |**2022-01-27**|**FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification**|Sean Current et.al.|[2201.11596v2](http://arxiv.org/abs/2201.11596v2)|null|
 |**2022-05-19**|**Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation**|Zhiqiang Zhong et.al.|[2205.09389v2](http://arxiv.org/abs/2205.09389v2)|null|
 |**2021-06-10**|**Graph Neural Networks for Natural Language Processing: A Survey**|Lingfei Wu et.al.|[2106.06090v2](http://arxiv.org/abs/2106.06090v2)|[link](https://github.com/graph4ai/graph4nlp)|
-|**2022-07-22**|**Understanding Non-linearity in Graph Neural Networks from the Bayesian-Inference Perspective**|Rongzhe Wei et.al.|[2207.11311v3](http://arxiv.org/abs/2207.11311v3)|[link](https://github.com/graph-com/bayesian_inference_based_gnn)|
-|**2022-06-22**|**Descent Steps of a Relation-Aware Energy Produce Heterogeneous Graph Neural Networks**|Hongjoon Ahn et.al.|[2206.11081v3](http://arxiv.org/abs/2206.11081v3)|[link](https://github.com/hongjoon0805/halo)|
-|**2022-10-20**|**Graph Neural Networks with Trainable Adjacency Matrices for Fault Diagnosis on Multivariate Sensor Data**|Alexander Kovalenko et.al.|[2210.11164v1](http://arxiv.org/abs/2210.11164v1)|null|
-|**2022-10-20**|**Toward Multiple Specialty Learners for Explaining GNNs via Online Knowledge Distillation**|Tien-Cuong Bui et.al.|[2210.11094v1](http://arxiv.org/abs/2210.11094v1)|null|
-|**2022-05-24**|**High-Order Pooling for Graph Neural Networks with Tensor Decomposition**|Chenqing Hua et.al.|[2205.11691v2](http://arxiv.org/abs/2205.11691v2)|null|
-|**2022-01-20**|**LOSTIN: Logic Optimization via Spatio-Temporal Information with Hybrid Graph Models**|Nan Wu et.al.|[2201.08455v2](http://arxiv.org/abs/2201.08455v2)|[link](https://github.com/lydiawunan/lostin)|
-|**2022-10-19**|**On Representing Mixed-Integer Linear Programs by Graph Neural Networks**|Ziang Chen et.al.|[2210.10759v1](http://arxiv.org/abs/2210.10759v1)|null|
-|**2022-10-19**|**GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs**|Xin Liu et.al.|[2210.10758v1](http://arxiv.org/abs/2210.10758v1)|[link](https://github.com/xinliu20/graphcspn_eccv2022)|
-|**2022-10-19**|**RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations**|Zirui Liu et.al.|[2210.10737v1](http://arxiv.org/abs/2210.10737v1)|null|
-|**2022-04-27**|**FlowGNN: A Dataflow Architecture for Real-Time Workload-Agnostic Graph Neural Network Inference**|Rishov Sarkar et.al.|[2204.13103v2](http://arxiv.org/abs/2204.13103v2)|[link](https://github.com/sharc-lab/flowgnn)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,11 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-21**|**Towards transparent ANN wind turbine power curve models**|Simon Letzgus et.al.|[2210.12104v1](http://arxiv.org/abs/2210.12104v1)|null|
+|**2022-10-21**|**Structural Kernel Search via Bayesian Optimization and Symbolical Optimal Transport**|Matthias Bitzer et.al.|[2210.11836v1](http://arxiv.org/abs/2210.11836v1)|[link](https://github.com/boschresearch/bosot)|
+|**2022-10-21**|**Evidence of Vocal Tract Articulation in Self-Supervised Learning of Speech**|Cheol Jun Cho et.al.|[2210.11723v1](http://arxiv.org/abs/2210.11723v1)|null|
+|**2022-10-20**|**Predicting school transition rates in Austria with classification trees**|Annette Möller et.al.|[2210.11580v1](http://arxiv.org/abs/2210.11580v1)|null|
+|**2022-03-14**|**Bayesian-EUCLID: discovering hyperelastic material laws with uncertainties**|Akshay Joshi et.al.|[2203.07422v2](http://arxiv.org/abs/2203.07422v2)|null|
 |**2022-10-18**|**Graph Anomaly Detection with Unsupervised GNNs**|Lingxiao Zhao et.al.|[2210.09535v2](http://arxiv.org/abs/2210.09535v2)|[link](https://github.com/lingxiaoshawn/glam)|
 |**2022-10-20**|**Bayesian Tensor-on-Tensor Regression with Efficient Computation**|Kunbo Wang et.al.|[2210.11363v1](http://arxiv.org/abs/2210.11363v1)|null|
 |**2022-10-20**|**Vine copula based knockoff generation for high-dimensional controlled variable selection**|Malte S. Kurz et.al.|[2210.11196v1](http://arxiv.org/abs/2210.11196v1)|[link](https://github.com/maltekurz/vineknockoffs)|
@@ -88,8 +93,3 @@
 |**2021-05-23**|**Robust Bayesian Nonparametric Variable Selection for Linear Regression**|Alberto Cabezas et.al.|[2105.11022v2](http://arxiv.org/abs/2105.11022v2)|[link](https://github.com/albcab/RobustVariableSelection)|
 |**2022-06-15**|**Hyperparameter Sensitivity in Deep Outlier Detection: Analysis and a Scalable Hyper-Ensemble Solution**|Xueying Ding et.al.|[2206.07647v2](http://arxiv.org/abs/2206.07647v2)|[link](https://github.com/xyvivian/robod)|
 |**2022-10-19**|**Measuring the giant radio galaxy length distribution with the LoTSS DR2**|Martijn S. S. L. Oei et.al.|[2210.10234v1](http://arxiv.org/abs/2210.10234v1)|null|
-|**2020-08-25**|**Inference for parameters identified by conditional moment restrictions using a penalized Bierens maximum statistic**|Xiaohong Chen et.al.|[2008.11140v4](http://arxiv.org/abs/2008.11140v4)|null|
-|**2022-02-13**|**Scaling Laws Under the Microscope: Predicting Transformer Performance from Small Scale Experiments**|Maor Ivgi et.al.|[2202.06387v2](http://arxiv.org/abs/2202.06387v2)|null|
-|**2021-10-12**|**The Terminating-Random Experiments Selector: Fast High-Dimensional Variable Selection with False Discovery Rate Control**|Jasin Machkour et.al.|[2110.06048v5](http://arxiv.org/abs/2110.06048v5)|null|
-|**2022-10-17**|**Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures**|Shounak Chattopadhyay et.al.|[2210.09279v1](http://arxiv.org/abs/2210.09279v1)|null|
-|**2022-10-16**|**Data-Efficient Pipeline for Offline Reinforcement Learning with Limited Data**|Allen Nie et.al.|[2210.08642v1](http://arxiv.org/abs/2210.08642v1)|null|
