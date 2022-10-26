@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-26 07:35:39 Asia/Shanghai
+ Automated deployment @ 2022-10-26 19:28:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,28 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-10-24**|**(LA)yer-neigh(BOR) Sampling: Defusing Neighborhood Explosion in GNNs**|Muhammed Fatih Balın et.al.|[2210.13339v1](http://arxiv.org/abs/2210.13339v1)|[link](https://github.com/dmlc/dgl)|
-|**2022-10-24**|**Binary Graph Convolutional Network with Capacity Exploration**|Junfu Wang et.al.|[2210.13149v1](http://arxiv.org/abs/2210.13149v1)|[link](https://github.com/bywmm/Bi-GCN)|
-|**2022-10-24**|**DAGformer: Directed Acyclic Graph Transformer**|Yuankai Luo et.al.|[2210.13148v1](http://arxiv.org/abs/2210.13148v1)|[link](https://github.com/luoyk1999/dagformer)|
-|**2022-07-11**|**The Cosmic Graph: Optimal Information Extraction from Large-Scale Structure using Catalogues**|T. Lucas Makinen et.al.|[2207.05202v2](http://arxiv.org/abs/2207.05202v2)|[link](https://github.com/tlmakinen/cosmicgraphs)|
-|**2022-10-24**|**Track reconstruction at the LUXE experiment using quantum algorithms**|Arianna Crippa et.al.|[2210.13021v1](http://arxiv.org/abs/2210.13021v1)|null|
-|**2022-10-24**|**Geometric Knowledge Distillation: Topology Compression for Graph Neural Networks**|Chenxiao Yang et.al.|[2210.13014v1](http://arxiv.org/abs/2210.13014v1)|null|
-|**2022-09-27**|**A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective**|Chaoqi Chen et.al.|[2209.13232v3](http://arxiv.org/abs/2209.13232v3)|null|
-|**2022-10-23**|**GANI: Global Attacks on Graph Neural Networks via Imperceptible Node Injections**|Junyuan Fang et.al.|[2210.12598v1](http://arxiv.org/abs/2210.12598v1)|[link](https://github.com/alexfanjn/gani)|
-|**2022-10-22**|**Self-supervised Graph-based Point-of-interest Recommendation**|Yang Li et.al.|[2210.12506v1](http://arxiv.org/abs/2210.12506v1)|null|
-|**2022-07-06**|**Pure Transformers are Powerful Graph Learners**|Jinwoo Kim et.al.|[2207.02505v2](http://arxiv.org/abs/2207.02505v2)|[link](https://github.com/jw9730/tokengt)|
-|**2022-08-18**|**GraTO: Graph Neural Network Framework Tackling Over-smoothing with Neural Architecture Search**|Xinshun Feng et.al.|[2208.09027v2](http://arxiv.org/abs/2208.09027v2)|[link](https://github.com/fxsxjtu/grato)|
-|**2022-10-22**|**The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection**|Zhixun Li et.al.|[2210.12384v1](http://arxiv.org/abs/2210.12384v1)|null|
-|**2022-10-21**|**Efficient Automatic Machine Learning via Design Graphs**|Shirley Wu et.al.|[2210.12257v1](http://arxiv.org/abs/2210.12257v1)|null|
-|**2022-10-21**|**Benchmarking GPU and TPU Performance with Graph Neural Networks**|xiangyang Ju et.al.|[2210.12247v1](http://arxiv.org/abs/2210.12247v1)|null|
-|**2022-10-21**|**GraphNeT: Graph neural networks for neutrino telescope event reconstruction**|Andreas Søgaard et.al.|[2210.12194v1](http://arxiv.org/abs/2210.12194v1)|[link](https://github.com/graphnet-team/graphnet)|
+|**2022-10-25**|**Benchmarking Graph Neural Networks for Internet Routing Data**|Dimitrios Panteleimon Giakatos et.al.|[2210.14189v1](http://arxiv.org/abs/2210.14189v1)|null|
+|**2021-11-03**|**Graph Neural Networks for Nomination and Representation Learning of Web Elements**|Alexandra Hotti et.al.|[2111.02168v3](http://arxiv.org/abs/2111.02168v3)|[link](https://github.com/klarna/product-page-dataset)|
+|**2022-10-25**|**A jet tagging algorithm of graph network with HaarPooling message passing**|Fei Ma et.al.|[2210.13869v1](http://arxiv.org/abs/2210.13869v1)|null|
+|**2022-10-25**|**FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**|Yulin Zhu et.al.|[2210.13815v1](http://arxiv.org/abs/2210.13815v1)|null|
+|**2021-04-19**|**SAS: A Simple, Accurate and Scalable Node Classification Algorithm**|Ziyuan Wang et.al.|[2104.09120v2](http://arxiv.org/abs/2104.09120v2)|null|
+|**2022-10-24**|**DAGformer: Directed Acyclic Graph Transformer**|Yuankai Luo et.al.|[2210.13148v2](http://arxiv.org/abs/2210.13148v2)|[link](https://github.com/luoyk1999/dagformer)|
+|**2021-10-26**|**Deeper-GXX: Deepening Arbitrary GNNs**|Lecheng Zheng et.al.|[2110.13798v3](http://arxiv.org/abs/2110.13798v3)|null|
+|**2022-10-25**|**Teal: Learning-Accelerated Optimization of Traffic Engineering**|Zhiying Xu et.al.|[2210.13763v1](http://arxiv.org/abs/2210.13763v1)|null|
+|**2022-10-25**|**Online Cross-Layer Knowledge Distillation on Graph Neural Networks with Deep Supervision**|Jiongyu Guo et.al.|[2210.13743v1](http://arxiv.org/abs/2210.13743v1)|null|
+|**2022-10-25**|**Multi-modal Dynamic Graph Network: Coupling Structural and Functional Connectome for Disease Diagnosis and Classification**|Yanwu Yang et.al.|[2210.13721v1](http://arxiv.org/abs/2210.13721v1)|null|
+|**2022-10-25**|**Motif-Backdoor: Rethinking the Backdoor Attack on Graph Neural Networks via Motifs**|Haibin Zheng et.al.|[2210.13710v1](http://arxiv.org/abs/2210.13710v1)|null|
+|**2022-05-20**|**DELATOR: Money Laundering Detection via Multi-Task Learning on Large Transaction Graphs**|Henrique S. Assumpção et.al.|[2205.10293v2](http://arxiv.org/abs/2205.10293v2)|null|
+|**2022-10-24**|**ReaRev: Adaptive Reasoning for Question Answering over Knowledge Graphs**|Costas Mavromatis et.al.|[2210.13650v1](http://arxiv.org/abs/2210.13650v1)|null|
+|**2022-10-24**|**A critical examination of robustness and generalizability of machine learning prediction of materials properties**|Kangming Li et.al.|[2210.13597v1](http://arxiv.org/abs/2210.13597v1)|null|
+|**2022-10-24**|**$\texttt{Mangrove}$: Learning Galaxy Properties from Merger Trees**|Christian Kragh Jespersen et.al.|[2210.13473v1](http://arxiv.org/abs/2210.13473v1)|[link](https://github.com/astrockragh/Mangrove)|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-24**|**On Power Series Subspaces of Certain Nuclear Frechet Spaces**|Nazlı Doğan et.al.|[2210.13593v1](http://arxiv.org/abs/2210.13593v1)|null|
 |**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v2](http://arxiv.org/abs/2203.12996v2)|null|
 |**2021-12-13**|**On using the complex step method for the approximation of Fréchet derivatives of matrix functions in automorphism groups**|Tom Werner et.al.|[2112.06786v2](http://arxiv.org/abs/2112.06786v2)|null|
 |**2022-10-19**|**Autoregressive Generative Modeling with Noise Conditional Maximum Likelihood Estimation**|Henry Li et.al.|[2210.10715v1](http://arxiv.org/abs/2210.10715v1)|null|
@@ -52,7 +53,6 @@
 |**2022-10-05**|**Transformer-based conditional generative adversarial network for multivariate time series generation**|Abdellah Madane et.al.|[2210.02089v1](http://arxiv.org/abs/2210.02089v1)|null|
 |**2022-10-04**|**Generalized Hukuhara Hadamard Derivative of Interval-valued Functions and Its Applications to Interval Optimization**|Ram Surat Chauhan et.al.|[2210.02852v1](http://arxiv.org/abs/2210.02852v1)|null|
 |**2021-12-13**|**Hallucinating Pose-Compatible Scenes**|Tim Brooks et.al.|[2112.06909v2](http://arxiv.org/abs/2112.06909v2)|null|
-|**2022-09-27**|**A Derivation of Feedforward Neural Network Gradients Using Fréchet Calculus**|Thomas Hamm et.al.|[2209.13234v1](http://arxiv.org/abs/2209.13234v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-25**|**Improving Group Lasso for high-dimensional categorical data**|Szymon Nowakowski et.al.|[2210.14021v1](http://arxiv.org/abs/2210.14021v1)|null|
+|**2022-03-30**|**Monitored Distillation for Positive Congruent Depth Completion**|Tian Yu Liu et.al.|[2203.16034v2](http://arxiv.org/abs/2203.16034v2)|[link](https://github.com/alexklwong/mondi-python)|
+|**2022-07-13**|**Cost-Effective Online Contextual Model Selection**|Xuefeng Liu et.al.|[2207.06030v2](http://arxiv.org/abs/2207.06030v2)|null|
+|**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v2](http://arxiv.org/abs/2207.04248v2)|null|
 |**2022-02-01**|**Penalized Estimation of Frailty-Based Illness-Death Models for Semi-Competing Risks**|Harrison T. Reeder et.al.|[2202.00618v2](http://arxiv.org/abs/2202.00618v2)|null|
 |**2022-10-24**|**Multiplicity-adjusted bootstrap tilting lower confidence bounds for conditional prediction performance measures**|Pascal Rink et.al.|[2210.13206v1](http://arxiv.org/abs/2210.13206v1)|[link](https://github.com/pascalrink/mabt-experiments)|
 |**2022-10-24**|**Data-IQ: Characterizing subgroups with heterogeneous outcomes in tabular data**|Nabeel Seedat et.al.|[2210.13043v1](http://arxiv.org/abs/2210.13043v1)|[link](https://github.com/seedatnabeel/data-iq)|
@@ -89,7 +93,3 @@
 |**2018-08-23**|**On model selection criteria for climate change impact studies**|Xiaomeng Cui et.al.|[1808.07861v3](http://arxiv.org/abs/1808.07861v3)|null|
 |**2018-09-14**|**Automatic Debiased Machine Learning of Causal and Structural Effects**|Victor Chernozhukov et.al.|[1809.05224v5](http://arxiv.org/abs/1809.05224v5)|null|
 |**2022-09-15**|**A new family of Constitutive Artificial Neural Networks towards automated model discovery**|Kevin Linka et.al.|[2210.02202v2](http://arxiv.org/abs/2210.02202v2)|[link](https://github.com/livingmatterlab/cann)|
-|**2022-10-21**|**Towards transparent ANN wind turbine power curve models**|Simon Letzgus et.al.|[2210.12104v1](http://arxiv.org/abs/2210.12104v1)|null|
-|**2022-10-21**|**Structural Kernel Search via Bayesian Optimization and Symbolical Optimal Transport**|Matthias Bitzer et.al.|[2210.11836v1](http://arxiv.org/abs/2210.11836v1)|[link](https://github.com/boschresearch/bosot)|
-|**2022-10-21**|**Evidence of Vocal Tract Articulation in Self-Supervised Learning of Speech**|Cheol Jun Cho et.al.|[2210.11723v1](http://arxiv.org/abs/2210.11723v1)|null|
-|**2022-10-20**|**Predicting school transition rates in Austria with classification trees**|Annette Möller et.al.|[2210.11580v1](http://arxiv.org/abs/2210.11580v1)|null|
