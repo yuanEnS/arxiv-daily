@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-27 07:35:03 Asia/Shanghai
+ Automated deployment @ 2022-10-27 19:28:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-23**|**FlexER: Flexible Entity Resolution for Multiple Intents**|Bar Genossar et.al.|[2209.07569v2](http://arxiv.org/abs/2209.07569v2)|[link](https://github.com/bargenossar/flexer)|
+|**2022-10-26**|**TuneUp: A Training Strategy for Improving Generalization of Graph Neural Networks**|Weihua Hu et.al.|[2210.14843v1](http://arxiv.org/abs/2210.14843v1)|null|
+|**2022-10-26**|**Learning on Large-scale Text-attributed Graphs via Variational Inference**|Jianan Zhao et.al.|[2210.14709v1](http://arxiv.org/abs/2210.14709v1)|[link](https://github.com/andyjzhao/glem)|
+|**2020-09-08**|**Hierarchical Message-Passing Graph Neural Networks**|Zhiqiang Zhong et.al.|[2009.03717v3](http://arxiv.org/abs/2009.03717v3)|[link](https://github.com/zhiqiangzhongddu/hc-gnn)|
+|**2022-10-26**|**Discourse-Aware Emotion Cause Extraction in Conversations**|Dexin Kong et.al.|[2210.14419v1](http://arxiv.org/abs/2210.14419v1)|null|
+|**2022-10-25**|**Fusing Modalities by Multiplexed Graph Neural Networks for Outcome Prediction in Tuberculosis**|Niharika S. D'Souza et.al.|[2210.14377v1](http://arxiv.org/abs/2210.14377v1)|null|
+|**2022-10-25**|**LaundroGraph: Self-Supervised Graph Representation Learning for Anti-Money Laundering**|Mário Cardoso et.al.|[2210.14360v1](http://arxiv.org/abs/2210.14360v1)|null|
+|**2022-10-18**|**A Practical, Progressively-Expressive GNN**|Lingxiao Zhao et.al.|[2210.09521v2](http://arxiv.org/abs/2210.09521v2)|[link](https://github.com/lingxiaoshawn/kcsetgnn)|
 |**2022-10-25**|**Benchmarking Graph Neural Networks for Internet Routing Data**|Dimitrios Panteleimon Giakatos et.al.|[2210.14189v1](http://arxiv.org/abs/2210.14189v1)|null|
 |**2021-11-03**|**Graph Neural Networks for Nomination and Representation Learning of Web Elements**|Alexandra Hotti et.al.|[2111.02168v3](http://arxiv.org/abs/2111.02168v3)|[link](https://github.com/klarna/product-page-dataset)|
 |**2022-10-25**|**A jet tagging algorithm of graph network with HaarPooling message passing**|Fei Ma et.al.|[2210.13869v1](http://arxiv.org/abs/2210.13869v1)|null|
@@ -24,14 +32,27 @@
 |**2021-04-19**|**SAS: A Simple, Accurate and Scalable Node Classification Algorithm**|Ziyuan Wang et.al.|[2104.09120v2](http://arxiv.org/abs/2104.09120v2)|null|
 |**2022-10-24**|**DAGformer: Directed Acyclic Graph Transformer**|Yuankai Luo et.al.|[2210.13148v2](http://arxiv.org/abs/2210.13148v2)|null|
 |**2021-10-26**|**Deeper-GXX: Deepening Arbitrary GNNs**|Lecheng Zheng et.al.|[2110.13798v3](http://arxiv.org/abs/2110.13798v3)|null|
-|**2022-10-25**|**Teal: Learning-Accelerated Optimization of Traffic Engineering**|Zhiying Xu et.al.|[2210.13763v1](http://arxiv.org/abs/2210.13763v1)|null|
-|**2022-10-25**|**Online Cross-Layer Knowledge Distillation on Graph Neural Networks with Deep Supervision**|Jiongyu Guo et.al.|[2210.13743v1](http://arxiv.org/abs/2210.13743v1)|null|
-|**2022-10-25**|**Multi-modal Dynamic Graph Network: Coupling Structural and Functional Connectome for Disease Diagnosis and Classification**|Yanwu Yang et.al.|[2210.13721v1](http://arxiv.org/abs/2210.13721v1)|null|
-|**2022-10-25**|**Motif-Backdoor: Rethinking the Backdoor Attack on Graph Neural Networks via Motifs**|Haibin Zheng et.al.|[2210.13710v1](http://arxiv.org/abs/2210.13710v1)|null|
-|**2022-05-20**|**DELATOR: Money Laundering Detection via Multi-Task Learning on Large Transaction Graphs**|Henrique S. Assumpção et.al.|[2205.10293v2](http://arxiv.org/abs/2205.10293v2)|null|
-|**2022-10-24**|**ReaRev: Adaptive Reasoning for Question Answering over Knowledge Graphs**|Costas Mavromatis et.al.|[2210.13650v1](http://arxiv.org/abs/2210.13650v1)|[link](https://github.com/cmavro/rearev_kgqa)|
-|**2022-10-24**|**A critical examination of robustness and generalizability of machine learning prediction of materials properties**|Kangming Li et.al.|[2210.13597v1](http://arxiv.org/abs/2210.13597v1)|null|
-|**2022-10-24**|**$\texttt{Mangrove}$: Learning Galaxy Properties from Merger Trees**|Christian Kragh Jespersen et.al.|[2210.13473v1](http://arxiv.org/abs/2210.13473v1)|[link](https://github.com/astrockragh/Mangrove)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-10-26**|**Which is the best model for my data?**|Gonzalo Nápoles et.al.|[2210.14687v1](http://arxiv.org/abs/2210.14687v1)|null|
+|**2022-10-21**|**Evidence of Vocal Tract Articulation in Self-Supervised Learning of Speech**|Cheol Jun Cho et.al.|[2210.11723v2](http://arxiv.org/abs/2210.11723v2)|null|
+|**2022-06-05**|**A weighted average distributed estimator for high dimensional parameter**|Jun Lu et.al.|[2206.02204v2](http://arxiv.org/abs/2206.02204v2)|null|
+|**2022-10-25**|**Improving Group Lasso for high-dimensional categorical data**|Szymon Nowakowski et.al.|[2210.14021v1](http://arxiv.org/abs/2210.14021v1)|null|
+|**2022-03-30**|**Monitored Distillation for Positive Congruent Depth Completion**|Tian Yu Liu et.al.|[2203.16034v2](http://arxiv.org/abs/2203.16034v2)|[link](https://github.com/alexklwong/mondi-python)|
+|**2022-07-13**|**Cost-Effective Online Contextual Model Selection**|Xuefeng Liu et.al.|[2207.06030v2](http://arxiv.org/abs/2207.06030v2)|null|
+|**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v2](http://arxiv.org/abs/2207.04248v2)|null|
+|**2022-02-01**|**Penalized Estimation of Frailty-Based Illness-Death Models for Semi-Competing Risks**|Harrison T. Reeder et.al.|[2202.00618v2](http://arxiv.org/abs/2202.00618v2)|null|
+|**2022-10-24**|**Multiplicity-adjusted bootstrap tilting lower confidence bounds for conditional prediction performance measures**|Pascal Rink et.al.|[2210.13206v1](http://arxiv.org/abs/2210.13206v1)|[link](https://github.com/pascalrink/mabt-experiments)|
+|**2022-10-24**|**Data-IQ: Characterizing subgroups with heterogeneous outcomes in tabular data**|Nabeel Seedat et.al.|[2210.13043v1](http://arxiv.org/abs/2210.13043v1)|[link](https://github.com/seedatnabeel/data-iq)|
+|**2022-10-24**|**360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning**|Bolivar Solarte et.al.|[2210.12935v1](http://arxiv.org/abs/2210.12935v1)|null|
+|**2021-10-12**|**The Terminating-Random Experiments Selector: Fast High-Dimensional Variable Selection with False Discovery Rate Control**|Jasin Machkour et.al.|[2110.06048v6](http://arxiv.org/abs/2110.06048v6)|null|
+|**2022-10-22**|**Partially Constrained Group Variable Selection to Adjust for Complementary Unit Performance in American College Football**|Andrey Skripnikov et.al.|[2210.12519v1](http://arxiv.org/abs/2210.12519v1)|null|
+|**2022-10-22**|**Model-free variable selection in sufficient dimension reduction via FDR control**|Yixin Han et.al.|[2210.12382v1](http://arxiv.org/abs/2210.12382v1)|null|
+|**2022-05-22**|**Fast Instrument Learning with Faster Rates**|Ziyu Wang et.al.|[2205.10772v2](http://arxiv.org/abs/2205.10772v2)|[link](https://github.com/meta-inf/fil)|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
 |**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
 |**2021-05-10**|**Approximate Fréchet Mean for Data Sets of Sparse Graphs**|Daniel Ferguson et.al.|[2105.04062v2](http://arxiv.org/abs/2105.04062v2)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-10-25**|**Improving Group Lasso for high-dimensional categorical data**|Szymon Nowakowski et.al.|[2210.14021v1](http://arxiv.org/abs/2210.14021v1)|null|
-|**2022-03-30**|**Monitored Distillation for Positive Congruent Depth Completion**|Tian Yu Liu et.al.|[2203.16034v2](http://arxiv.org/abs/2203.16034v2)|[link](https://github.com/alexklwong/mondi-python)|
-|**2022-07-13**|**Cost-Effective Online Contextual Model Selection**|Xuefeng Liu et.al.|[2207.06030v2](http://arxiv.org/abs/2207.06030v2)|null|
-|**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v2](http://arxiv.org/abs/2207.04248v2)|null|
-|**2022-02-01**|**Penalized Estimation of Frailty-Based Illness-Death Models for Semi-Competing Risks**|Harrison T. Reeder et.al.|[2202.00618v2](http://arxiv.org/abs/2202.00618v2)|null|
-|**2022-10-24**|**Multiplicity-adjusted bootstrap tilting lower confidence bounds for conditional prediction performance measures**|Pascal Rink et.al.|[2210.13206v1](http://arxiv.org/abs/2210.13206v1)|[link](https://github.com/pascalrink/mabt-experiments)|
-|**2022-10-24**|**Data-IQ: Characterizing subgroups with heterogeneous outcomes in tabular data**|Nabeel Seedat et.al.|[2210.13043v1](http://arxiv.org/abs/2210.13043v1)|[link](https://github.com/seedatnabeel/data-iq)|
-|**2022-10-24**|**360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning**|Bolivar Solarte et.al.|[2210.12935v1](http://arxiv.org/abs/2210.12935v1)|null|
-|**2021-10-12**|**The Terminating-Random Experiments Selector: Fast High-Dimensional Variable Selection with False Discovery Rate Control**|Jasin Machkour et.al.|[2110.06048v6](http://arxiv.org/abs/2110.06048v6)|null|
-|**2022-10-22**|**Partially Constrained Group Variable Selection to Adjust for Complementary Unit Performance in American College Football**|Andrey Skripnikov et.al.|[2210.12519v1](http://arxiv.org/abs/2210.12519v1)|null|
-|**2022-10-22**|**Model-free variable selection in sufficient dimension reduction via FDR control**|Yixin Han et.al.|[2210.12382v1](http://arxiv.org/abs/2210.12382v1)|null|
-|**2022-05-22**|**Fast Instrument Learning with Faster Rates**|Ziyu Wang et.al.|[2205.10772v2](http://arxiv.org/abs/2205.10772v2)|[link](https://github.com/meta-inf/fil)|
-|**2018-08-23**|**On model selection criteria for climate change impact studies**|Xiaomeng Cui et.al.|[1808.07861v3](http://arxiv.org/abs/1808.07861v3)|null|
-|**2018-09-14**|**Automatic Debiased Machine Learning of Causal and Structural Effects**|Victor Chernozhukov et.al.|[1809.05224v5](http://arxiv.org/abs/1809.05224v5)|null|
-|**2022-09-15**|**A new family of Constitutive Artificial Neural Networks towards automated model discovery**|Kevin Linka et.al.|[2210.02202v2](http://arxiv.org/abs/2210.02202v2)|[link](https://github.com/livingmatterlab/cann)|
