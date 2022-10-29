@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-10-29 07:35:20 Asia/Shanghai
+ Automated deployment @ 2022-10-29 19:27:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2020-09-08**|**Hierarchical Message-Passing Graph Neural Networks**|Zhiqiang Zhong et.al.|[2009.03717v3](http://arxiv.org/abs/2009.03717v3)|[link](https://github.com/zhiqiangzhongddu/hc-gnn)|
 |**2022-10-26**|**Discourse-Aware Emotion Cause Extraction in Conversations**|Dexin Kong et.al.|[2210.14419v1](http://arxiv.org/abs/2210.14419v1)|null|
 |**2022-10-25**|**Fusing Modalities by Multiplexed Graph Neural Networks for Outcome Prediction in Tuberculosis**|Niharika S. D'Souza et.al.|[2210.14377v1](http://arxiv.org/abs/2210.14377v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-10-27**|**Exhuming nonnegative garrote from oblivion using suitable initial estimates- illustration in low and high-dimensional real data**|Edwin Kipruto et.al.|[2210.15592v1](http://arxiv.org/abs/2210.15592v1)|null|
-|**2022-10-24**|**Post-Selection Confidence Bounds for Prediction Performance**|Pascal Rink et.al.|[2210.13206v2](http://arxiv.org/abs/2210.13206v2)|[link](https://github.com/pascalrink/mabt-experiments)|
-|**2021-03-21**|**A Powerful Subvector Anderson Rubin Test in Linear Instrumental Variables Regression with Conditional Heteroskedasticity**|Patrik Guggenberger et.al.|[2103.11371v4](http://arxiv.org/abs/2103.11371v4)|null|
-|**2022-10-25**|**Improving Group Lasso for high-dimensional categorical data**|Szymon Nowakowski et.al.|[2210.14021v2](http://arxiv.org/abs/2210.14021v2)|null|
-|**2022-10-27**|**TRScore: A Novel GPT-based Readability Scorer for ASR Segmentation and Punctuation model evaluation and selection**|Piyush Behre et.al.|[2210.15104v1](http://arxiv.org/abs/2210.15104v1)|null|
-|**2022-10-26**|**Which is the best model for my data?**|Gonzalo Nápoles et.al.|[2210.14687v1](http://arxiv.org/abs/2210.14687v1)|null|
-|**2022-10-21**|**Evidence of Vocal Tract Articulation in Self-Supervised Learning of Speech**|Cheol Jun Cho et.al.|[2210.11723v2](http://arxiv.org/abs/2210.11723v2)|null|
-|**2022-06-05**|**A weighted average distributed estimator for high dimensional parameter**|Jun Lu et.al.|[2206.02204v2](http://arxiv.org/abs/2206.02204v2)|null|
-|**2022-03-30**|**Monitored Distillation for Positive Congruent Depth Completion**|Tian Yu Liu et.al.|[2203.16034v2](http://arxiv.org/abs/2203.16034v2)|[link](https://github.com/alexklwong/mondi-python)|
-|**2022-07-13**|**Cost-Effective Online Contextual Model Selection**|Xuefeng Liu et.al.|[2207.06030v2](http://arxiv.org/abs/2207.06030v2)|null|
-|**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v2](http://arxiv.org/abs/2207.04248v2)|null|
-|**2022-02-01**|**Penalized Estimation of Frailty-Based Illness-Death Models for Semi-Competing Risks**|Harrison T. Reeder et.al.|[2202.00618v2](http://arxiv.org/abs/2202.00618v2)|null|
-|**2022-10-24**|**Data-IQ: Characterizing subgroups with heterogeneous outcomes in tabular data**|Nabeel Seedat et.al.|[2210.13043v1](http://arxiv.org/abs/2210.13043v1)|[link](https://github.com/seedatnabeel/data-iq)|
-|**2022-10-24**|**360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning**|Bolivar Solarte et.al.|[2210.12935v1](http://arxiv.org/abs/2210.12935v1)|null|
-|**2021-10-12**|**The Terminating-Random Experiments Selector: Fast High-Dimensional Variable Selection with False Discovery Rate Control**|Jasin Machkour et.al.|[2110.06048v6](http://arxiv.org/abs/2110.06048v6)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2022-10-05**|**Transformer-based conditional generative adversarial network for multivariate time series generation**|Abdellah Madane et.al.|[2210.02089v1](http://arxiv.org/abs/2210.02089v1)|null|
 |**2022-10-04**|**Generalized Hukuhara Hadamard Derivative of Interval-valued Functions and Its Applications to Interval Optimization**|Ram Surat Chauhan et.al.|[2210.02852v1](http://arxiv.org/abs/2210.02852v1)|null|
 |**2021-12-13**|**Hallucinating Pose-Compatible Scenes**|Tim Brooks et.al.|[2112.06909v2](http://arxiv.org/abs/2112.06909v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-10-27**|**Exhuming nonnegative garrote from oblivion using suitable initial estimates- illustration in low and high-dimensional real data**|Edwin Kipruto et.al.|[2210.15592v1](http://arxiv.org/abs/2210.15592v1)|null|
+|**2022-10-24**|**Post-Selection Confidence Bounds for Prediction Performance**|Pascal Rink et.al.|[2210.13206v2](http://arxiv.org/abs/2210.13206v2)|[link](https://github.com/pascalrink/mabt-experiments)|
+|**2021-03-21**|**A Powerful Subvector Anderson Rubin Test in Linear Instrumental Variables Regression with Conditional Heteroskedasticity**|Patrik Guggenberger et.al.|[2103.11371v4](http://arxiv.org/abs/2103.11371v4)|null|
+|**2022-10-25**|**Improving Group Lasso for high-dimensional categorical data**|Szymon Nowakowski et.al.|[2210.14021v2](http://arxiv.org/abs/2210.14021v2)|null|
+|**2022-10-27**|**TRScore: A Novel GPT-based Readability Scorer for ASR Segmentation and Punctuation model evaluation and selection**|Piyush Behre et.al.|[2210.15104v1](http://arxiv.org/abs/2210.15104v1)|null|
+|**2022-10-26**|**Which is the best model for my data?**|Gonzalo Nápoles et.al.|[2210.14687v1](http://arxiv.org/abs/2210.14687v1)|null|
+|**2022-10-21**|**Evidence of Vocal Tract Articulation in Self-Supervised Learning of Speech**|Cheol Jun Cho et.al.|[2210.11723v2](http://arxiv.org/abs/2210.11723v2)|null|
+|**2022-06-05**|**A weighted average distributed estimator for high dimensional parameter**|Jun Lu et.al.|[2206.02204v2](http://arxiv.org/abs/2206.02204v2)|null|
+|**2022-03-30**|**Monitored Distillation for Positive Congruent Depth Completion**|Tian Yu Liu et.al.|[2203.16034v2](http://arxiv.org/abs/2203.16034v2)|[link](https://github.com/alexklwong/mondi-python)|
+|**2022-07-13**|**Cost-Effective Online Contextual Model Selection**|Xuefeng Liu et.al.|[2207.06030v2](http://arxiv.org/abs/2207.06030v2)|null|
+|**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v2](http://arxiv.org/abs/2207.04248v2)|null|
+|**2022-02-01**|**Penalized Estimation of Frailty-Based Illness-Death Models for Semi-Competing Risks**|Harrison T. Reeder et.al.|[2202.00618v2](http://arxiv.org/abs/2202.00618v2)|null|
+|**2022-10-24**|**Data-IQ: Characterizing subgroups with heterogeneous outcomes in tabular data**|Nabeel Seedat et.al.|[2210.13043v1](http://arxiv.org/abs/2210.13043v1)|[link](https://github.com/seedatnabeel/data-iq)|
+|**2022-10-24**|**360-MLC: Multi-view Layout Consistency for Self-training and Hyper-parameter Tuning**|Bolivar Solarte et.al.|[2210.12935v1](http://arxiv.org/abs/2210.12935v1)|null|
+|**2021-10-12**|**The Terminating-Random Experiments Selector: Fast High-Dimensional Variable Selection with False Discovery Rate Control**|Jasin Machkour et.al.|[2110.06048v6](http://arxiv.org/abs/2110.06048v6)|null|
