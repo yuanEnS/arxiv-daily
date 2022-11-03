@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-03 07:34:56 Asia/Shanghai
+ Automated deployment @ 2022-11-03 19:26:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-02**|**Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning**|Jong-whi Lee et.al.|[2211.01214v1](http://arxiv.org/abs/2211.01214v1)|null|
+|**2022-02-25**|**Projective Ranking-based GNN Evasion Attacks**|He Zhang et.al.|[2202.12993v2](http://arxiv.org/abs/2202.12993v2)|null|
+|**2022-07-13**|**Does GNN Pretraining Help Molecular Representation?**|Ruoxi Sun et.al.|[2207.06010v2](http://arxiv.org/abs/2207.06010v2)|null|
+|**2022-11-02**|**DeepTrace: Learning to Optimize Contact Tracing in Epidemic Networks with Graph Neural Networks**|Siya Chen et.al.|[2211.00880v1](http://arxiv.org/abs/2211.00880v1)|null|
+|**2022-07-25**|**Analysis and Optimization of GNN-Based Recommender Systems on Persistent Memory**|Yuwei Hu et.al.|[2207.11918v2](http://arxiv.org/abs/2207.11918v2)|null|
+|**2022-05-16**|**Topology-aware Graph Neural Networks for Learning Feasible and Adaptive ac-OPF Solutions**|Shaohui Liu et.al.|[2205.10129v2](http://arxiv.org/abs/2205.10129v2)|[link](https://github.com/ShaohuiLiu/GNN_OPF_electricity_market)|
+|**2022-01-18**|**A Short Tutorial on The Weisfeiler-Lehman Test And Its Variants**|Ningyuan Huang et.al.|[2201.07083v2](http://arxiv.org/abs/2201.07083v2)|null|
+|**2022-11-01**|**Towards Better Out-of-Distribution Generalization of Neural Algorithmic Reasoning Tasks**|Sadegh Mahdavi et.al.|[2211.00692v1](http://arxiv.org/abs/2211.00692v1)|[link](https://github.com/smahdavi4/clrs)|
 |**2022-11-01**|**Leveraging commonsense for object localisation in partial scenes**|Francesco Giuliari et.al.|[2211.00562v1](http://arxiv.org/abs/2211.00562v1)|null|
 |**2022-11-01**|**Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation**|Jiangbin Zheng et.al.|[2211.00526v1](http://arxiv.org/abs/2211.00526v1)|null|
 |**2022-11-01**|**Efficient Graph Neural Network Inference at Large Scale**|Xinyi Gao et.al.|[2211.00495v1](http://arxiv.org/abs/2211.00495v1)|[link](https://github.com/xygaog/nai)|
@@ -24,14 +32,6 @@
 |**2021-11-30**|**Neuron with Steady Response Leads to Better Generalization**|Qiang Fu et.al.|[2111.15414v3](http://arxiv.org/abs/2111.15414v3)|null|
 |**2022-11-01**|**Learning Task-Aware Effective Brain Connectivity for fMRI Analysis with Graph Neural Networks**|Yue Yu et.al.|[2211.00261v1](http://arxiv.org/abs/2211.00261v1)|[link](https://github.com/yueyu1030/tbds)|
 |**2022-11-01**|**Distributed Graph Neural Network Training: A Survey**|Yingxia Shao et.al.|[2211.00216v1](http://arxiv.org/abs/2211.00216v1)|null|
-|**2022-01-03**|**Graph Neural Networks for Multivariate Time Series Regression with Application to Seismic Data**|Stefan Bloemheuvel et.al.|[2201.00818v3](http://arxiv.org/abs/2201.00818v3)|[link](https://github.com/stefanbloemheuvel/gcntimeseriesregression)|
-|**2022-10-31**|**Learning Modular Robot Locomotion from Demonstrations**|Julian Whitman et.al.|[2210.17491v1](http://arxiv.org/abs/2210.17491v1)|null|
-|**2022-10-31**|**The Open MatSci ML Toolkit: A Flexible Framework for Machine Learning in Materials Science**|Santiago Miret et.al.|[2210.17484v1](http://arxiv.org/abs/2210.17484v1)|[link](https://github.com/intellabs/matsciml)|
-|**2022-02-22**|**PyTorch Geometric Signed Directed: A Software Package on Graph Neural Networks for Signed and Directed Graphs**|Yixuan He et.al.|[2202.10793v4](http://arxiv.org/abs/2202.10793v4)|[link](https://github.com/sherylhyx/pytorch_geometric_signed_directed)|
-|**2022-09-01**|**MSGNN: A Spectral Graph Neural Network Based on a Novel Magnetic Signed Laplacian**|Yixuan He et.al.|[2209.00546v3](http://arxiv.org/abs/2209.00546v3)|null|
-|**2022-10-31**|**Agglomeration of Polygonal Grids using Graph Neural Networks with applications to Multigrid solvers**|P. F. Antonietti et.al.|[2210.17457v1](http://arxiv.org/abs/2210.17457v1)|null|
-|**2022-06-03**|**A Deep Reinforcement Learning Framework For Column Generation**|Cheng Chi et.al.|[2206.02568v2](http://arxiv.org/abs/2206.02568v2)|null|
-|**2022-10-18**|**Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging**|Ayyoob Imani et.al.|[2210.09840v2](http://arxiv.org/abs/2210.09840v2)|[link](https://github.com/ayyoobimani/glp-pos)|
 
 ## Non-Euclidean Staistics
 
@@ -78,12 +78,14 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-10-25**|**mlr3spatiotempcv: Spatiotemporal resampling methods for machine learning in R**|Patrick Schratz et.al.|[2110.12674v2](http://arxiv.org/abs/2110.12674v2)|[link](https://github.com/mlr-org/mlr3spatiotempcv)|
+|**2022-11-02**|**An Information-Theoretic Approach for Estimating Scenario Generalization in Crowd Motion Prediction**|Gang Qiao et.al.|[2211.00817v1](http://arxiv.org/abs/2211.00817v1)|null|
+|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v2](http://arxiv.org/abs/2210.17299v2)|[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
 |**2022-09-02**|**When Bioprocess Engineering Meets Machine Learning: A Survey from the Perspective of Automated Bioprocess Development**|Nghia Duong-Trung et.al.|[2209.01083v2](http://arxiv.org/abs/2209.01083v2)|null|
 |**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v2](http://arxiv.org/abs/2209.14509v2)|null|
 |**2022-06-07**|**Model selection and robust inference of mutational signatures using Negative Binomial non-negative matrix factorization**|Marta Pelizzola et.al.|[2206.03257v2](http://arxiv.org/abs/2206.03257v2)|[link](https://github.com/martapelizzola/sigmos)|
 |**2022-11-01**|**Bayesian Structural Identification using Gaussian Process Discrepancy Models**|Antonina M. Kosikova et.al.|[2211.00204v1](http://arxiv.org/abs/2211.00204v1)|null|
 |**2022-10-31**|**Variable Selection for Multiply-imputed Data: A Bayesian Framework**|Jungang Zou et.al.|[2211.00114v1](http://arxiv.org/abs/2211.00114v1)|null|
-|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v1](http://arxiv.org/abs/2210.17299v1)|[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
 |**2022-10-27**|**Exhuming nonnegative garrote from oblivion using suitable initial estimates- illustration in low and high-dimensional real data**|Edwin Kipruto et.al.|[2210.15592v1](http://arxiv.org/abs/2210.15592v1)|null|
 |**2022-10-24**|**Post-Selection Confidence Bounds for Prediction Performance**|Pascal Rink et.al.|[2210.13206v2](http://arxiv.org/abs/2210.13206v2)|[link](https://github.com/pascalrink/mabt-experiments)|
 |**2021-03-21**|**A Powerful Subvector Anderson Rubin Test in Linear Instrumental Variables Regression with Conditional Heteroskedasticity**|Patrik Guggenberger et.al.|[2103.11371v4](http://arxiv.org/abs/2103.11371v4)|null|
@@ -91,5 +93,3 @@
 |**2022-10-27**|**TRScore: A Novel GPT-based Readability Scorer for ASR Segmentation and Punctuation model evaluation and selection**|Piyush Behre et.al.|[2210.15104v1](http://arxiv.org/abs/2210.15104v1)|null|
 |**2022-10-26**|**Which is the best model for my data?**|Gonzalo Nápoles et.al.|[2210.14687v1](http://arxiv.org/abs/2210.14687v1)|null|
 |**2022-10-21**|**Evidence of Vocal Tract Articulation in Self-Supervised Learning of Speech**|Cheol Jun Cho et.al.|[2210.11723v2](http://arxiv.org/abs/2210.11723v2)|null|
-|**2022-06-05**|**A weighted average distributed estimator for high dimensional parameter**|Jun Lu et.al.|[2206.02204v2](http://arxiv.org/abs/2206.02204v2)|null|
-|**2022-03-30**|**Monitored Distillation for Positive Congruent Depth Completion**|Tian Yu Liu et.al.|[2203.16034v2](http://arxiv.org/abs/2203.16034v2)|[link](https://github.com/alexklwong/mondi-python)|
