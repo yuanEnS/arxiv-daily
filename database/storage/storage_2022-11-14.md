@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-14 07:32:16 Asia/Shanghai
+ Automated deployment @ 2022-11-14 19:27:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-10**|**Heterogeneous Randomized Response for Differential Privacy in Graph Neural Networks**|Khang Tran et.al.|[2211.05766v1](http://arxiv.org/abs/2211.05766v1)|[link](https://github.com/khangtran2020/dpgnn)|
-|**2022-11-06**|**Graph Neural Networks for Community Detection on Sparse Graphs**|Luana Ruiz et.al.|[2211.03231v2](http://arxiv.org/abs/2211.03231v2)|[link](https://github.com/nhuang37/gnn_community_detection)|
-|**2022-03-08**|**Few-Sample Traffic Prediction with Graph Networks using Locale as Relational Inductive Biases**|Mingxi Li et.al.|[2203.03965v2](http://arxiv.org/abs/2203.03965v2)|[link](https://github.com/mingxilii/localegn)|
-|**2022-11-10**|**GREENER: Graph Neural Networks for News Media Profiling**|Panayot Panayotov et.al.|[2211.05533v1](http://arxiv.org/abs/2211.05533v1)|null|
-|**2022-11-10**|**Unravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems**|Abishek Thangamuthu et.al.|[2211.05520v1](http://arxiv.org/abs/2211.05520v1)|null|
-|**2022-04-03**|**VRKG4Rec: Virtual Relational Knowledge Graphs for Recommendation**|Lingyun Lu et.al.|[2204.01089v2](http://arxiv.org/abs/2204.01089v2)|[link](https://github.com/lulu0913/vrkg4rec)|
-|**2022-10-28**|**Generalized Laplacian Positional Encoding for Graph Representation Learning**|Sohir Maskey et.al.|[2210.15956v2](http://arxiv.org/abs/2210.15956v2)|null|
-|**2022-11-10**|**A Comprehensive Survey on Distributed Training of Graph Neural Networks**|Haiyang Lin et.al.|[2211.05368v1](http://arxiv.org/abs/2211.05368v1)|null|
-|**2022-11-10**|**Contrastive Self-Supervised Learning for Skeleton Representations**|Nico Lingg et.al.|[2211.05304v1](http://arxiv.org/abs/2211.05304v1)|null|
-|**2022-11-09**|**Flaky Performances when Pretraining on Relational Databases**|Shengchao Liu et.al.|[2211.05213v1](http://arxiv.org/abs/2211.05213v1)|null|
-|**2022-11-09**|**Are All Edges Necessary? A Unified Framework for Graph Purification**|Zishan Gu et.al.|[2211.05184v1](http://arxiv.org/abs/2211.05184v1)|null|
-|**2022-11-09**|**Climbing four tops with graph networks, transformers and pairwise features**|Luc Builtjes et.al.|[2211.05143v1](http://arxiv.org/abs/2211.05143v1)|null|
-|**2022-09-29**|**Predicting CO$_2$ Absorption in Ionic Liquids with Molecular Descriptors and Explainable Graph Neural Networks**|Yue Jian et.al.|[2210.01120v2](http://arxiv.org/abs/2210.01120v2)|[link](https://github.com/ftyuejian/predicting-co2-absorption-in-ionic-liquid-with-molecular-descriptors-and-explainable-gnn)|
-|**2022-11-09**|**Hyper-GST: Predict Metro Passenger Flow Incorporating GraphSAGE, Hypergraph, Social-meaningful Edge Weights and Temporal Exploitation**|Yuyang Miao et.al.|[2211.04988v1](http://arxiv.org/abs/2211.04988v1)|null|
-|**2022-11-09**|**Graph Neural Networks with Adaptive Readouts**|David Buterez et.al.|[2211.04952v1](http://arxiv.org/abs/2211.04952v1)|[link](https://github.com/davidbuterez/gnn-neural-readouts)|
+|**2022-11-11**|**Conditional Generative Modelling of Reconstructed Particles at Collider Experiments**|Francesco Armando Di Bello et.al.|[2211.06406v1](http://arxiv.org/abs/2211.06406v1)|null|
+|**2022-11-11**|**DistGNN-MB: Distributed Large-Scale Graph Neural Network Training on x86 via Minibatch Sampling**|Md Vasimuddin et.al.|[2211.06385v1](http://arxiv.org/abs/2211.06385v1)|null|
+|**2022-11-11**|**Intent-aware Multi-source Contrastive Alignment for Tag-enhanced Recommendation**|Haolun Wu et.al.|[2211.06370v1](http://arxiv.org/abs/2211.06370v1)|null|
+|**2022-11-11**|**Graph-Conditioned MLP for High-Dimensional Tabular Biomedical Data**|Andrei Margeloiu et.al.|[2211.06302v1](http://arxiv.org/abs/2211.06302v1)|null|
+|**2022-11-11**|**A New Graph Node Classification Benchmark: Learning Structure from Histology Cell Graphs**|Claudia Vanea et.al.|[2211.06292v1](http://arxiv.org/abs/2211.06292v1)|[link](https://github.com/nellaker-group/placenta)|
+|**2022-11-11**|**Clustering with Total Variation Graph Neural Networks**|Jonas Berg Hansen et.al.|[2211.06218v1](http://arxiv.org/abs/2211.06218v1)|null|
+|**2022-11-11**|**Spatial Temporal Graph Convolution with Graph Structure Self-learning for Early MCI Detection**|Yunpeng Zhao et.al.|[2211.06161v1](http://arxiv.org/abs/2211.06161v1)|null|
+|**2022-06-16**|**Long Range Graph Benchmark**|Vijay Prakash Dwivedi et.al.|[2206.08164v2](http://arxiv.org/abs/2206.08164v2)|[link](https://github.com/vijaydwivedi75/lrgb)|
+|**2022-07-19**|**XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics**|Wai Weng Lo et.al.|[2207.09088v3](http://arxiv.org/abs/2207.09088v3)|null|
+|**2022-09-23**|**Learning Articulated Rigid Body Dynamics with Lagrangian Graph Neural Network**|Ravinder Bhattoo et.al.|[2209.11588v2](http://arxiv.org/abs/2209.11588v2)|[link](https://github.com/m3rg-iitd/rigid_body_dynamics_graph)|
+|**2022-11-08**|**GENIUS: A Novel Solution for Subteam Replacement with Clustering-based Graph Neural Network**|Chuxuan Hu et.al.|[2211.04100v2](http://arxiv.org/abs/2211.04100v2)|null|
+|**2022-11-04**|**Materials Property Prediction with Uncertainty Quantification: A Benchmark Study**|Daniel Varivoda et.al.|[2211.02235v2](http://arxiv.org/abs/2211.02235v2)|[link](https://github.com/usccolumbia/materialsuq)|
+|**2022-11-10**|**A Comprehensive Survey on Distributed Training of Graph Neural Networks**|Haiyang Lin et.al.|[2211.05368v2](http://arxiv.org/abs/2211.05368v2)|null|
+|**2022-10-17**|**Anisotropic Multi-Scale Graph Convolutional Network for Dense Shape Correspondence**|Mohammad Farazi et.al.|[2210.09466v2](http://arxiv.org/abs/2210.09466v2)|null|
+|**2022-10-21**|**Global Counterfactual Explainer for Graph Neural Networks**|Mert Kosan et.al.|[2210.11695v2](http://arxiv.org/abs/2210.11695v2)|[link](https://github.com/mertkosan/GCFExplainer)|
 
 ## Non-Euclidean Staistics
 
@@ -78,7 +78,11 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-11**|**RFFNet: Scalable and interpretable kernel methods via Random Fourier Features**|Mateus P. Otto et.al.|[2211.06410v1](http://arxiv.org/abs/2211.06410v1)|null|
+|**2022-10-25**|**Improving Group Lasso for high-dimensional categorical data**|Szymon Nowakowski et.al.|[2210.14021v3](http://arxiv.org/abs/2210.14021v3)|null|
+|**2022-11-11**|**Streaming Sparse Linear Regression**|Shuoguang Yang et.al.|[2211.06039v1](http://arxiv.org/abs/2211.06039v1)|null|
 |**2022-11-10**|**Robust Model Selection of Non Tree-Structured Gaussian Graphical Models**|Abrar Zahin et.al.|[2211.05690v1](http://arxiv.org/abs/2211.05690v1)|null|
+|**2022-11-10**|**MGTCOM: Community Detection in Multimodal Graphs**|E. Dmitriev et.al.|[2211.06331v1](http://arxiv.org/abs/2211.06331v1)|null|
 |**2022-11-09**|**Enhanced Bayesian Neural Networks for Macroeconomics and Finance**|Niko Hauzenberger et.al.|[2211.04752v2](http://arxiv.org/abs/2211.04752v2)|null|
 |**2022-11-10**|**Fairness and bias correction in machine learning for depression prediction: results from four different study populations**|Vien Ngoc Dang et.al.|[2211.05321v1](http://arxiv.org/abs/2211.05321v1)|[link](https://github.com/ngoc-vien-dang/fairml-depression)|
 |**2022-05-11**|**Tuning Parameter Selection for Penalized Estimation via $R^2$**|Julia Holter et.al.|[2205.05654v2](http://arxiv.org/abs/2205.05654v2)|null|
@@ -89,7 +93,3 @@
 |**2022-11-08**|**A generalized AIC for models with singularities and boundaries**|Jonathan D. Mitchell et.al.|[2211.04136v1](http://arxiv.org/abs/2211.04136v1)|null|
 |**2022-11-07**|**Beyond Conjugacy for Chain Event Graph Model Selection**|Aditi Shenvi et.al.|[2211.03427v1](http://arxiv.org/abs/2211.03427v1)|null|
 |**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v3](http://arxiv.org/abs/2207.04248v3)|null|
-|**2022-06-22**|**Diagnostic Tool for Out-of-Sample Model Evaluation**|Ludvig Hult et.al.|[2206.10982v2](http://arxiv.org/abs/2206.10982v2)|[link](https://github.com/el-hult/lal)|
-|**2022-11-06**|**Iterative variable selection for high-dimensional data with binary outcomes**|Nilotpal Sanyal et.al.|[2211.03190v1](http://arxiv.org/abs/2211.03190v1)|null|
-|**2022-11-06**|**Collaborative Video Analytics on Distributed Edges with Multiagent Deep Reinforcement Learning**|Yuqi Dong et.al.|[2211.03102v1](http://arxiv.org/abs/2211.03102v1)|null|
-|**2022-03-16**|**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again**|Bernal Jiménez Gutiérrez et.al.|[2203.08410v3](http://arxiv.org/abs/2203.08410v3)|[link](https://github.com/dki-lab/few-shot-bioie)|
