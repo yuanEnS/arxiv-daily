@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-15 07:29:27 Asia/Shanghai
+ Automated deployment @ 2022-11-15 19:25:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,44 +17,63 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-11**|**Conditional Generative Modelling of Reconstructed Particles at Collider Experiments**|Francesco Armando Di Bello et.al.|[2211.06406v1](http://arxiv.org/abs/2211.06406v1)|null|
-|**2022-11-11**|**DistGNN-MB: Distributed Large-Scale Graph Neural Network Training on x86 via Minibatch Sampling**|Md Vasimuddin et.al.|[2211.06385v1](http://arxiv.org/abs/2211.06385v1)|null|
-|**2022-11-11**|**Intent-aware Multi-source Contrastive Alignment for Tag-enhanced Recommendation**|Haolun Wu et.al.|[2211.06370v1](http://arxiv.org/abs/2211.06370v1)|null|
-|**2022-11-11**|**Graph-Conditioned MLP for High-Dimensional Tabular Biomedical Data**|Andrei Margeloiu et.al.|[2211.06302v1](http://arxiv.org/abs/2211.06302v1)|null|
-|**2022-11-11**|**A New Graph Node Classification Benchmark: Learning Structure from Histology Cell Graphs**|Claudia Vanea et.al.|[2211.06292v1](http://arxiv.org/abs/2211.06292v1)|[link](https://github.com/nellaker-group/placenta)|
-|**2022-11-11**|**Clustering with Total Variation Graph Neural Networks**|Jonas Berg Hansen et.al.|[2211.06218v1](http://arxiv.org/abs/2211.06218v1)|null|
-|**2022-11-11**|**Spatial Temporal Graph Convolution with Graph Structure Self-learning for Early MCI Detection**|Yunpeng Zhao et.al.|[2211.06161v1](http://arxiv.org/abs/2211.06161v1)|null|
-|**2022-06-16**|**Long Range Graph Benchmark**|Vijay Prakash Dwivedi et.al.|[2206.08164v2](http://arxiv.org/abs/2206.08164v2)|[link](https://github.com/vijaydwivedi75/lrgb)|
-|**2022-07-19**|**XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics**|Wai Weng Lo et.al.|[2207.09088v3](http://arxiv.org/abs/2207.09088v3)|null|
-|**2022-09-23**|**Learning Articulated Rigid Body Dynamics with Lagrangian Graph Neural Network**|Ravinder Bhattoo et.al.|[2209.11588v2](http://arxiv.org/abs/2209.11588v2)|[link](https://github.com/m3rg-iitd/rigid_body_dynamics_graph)|
-|**2022-11-08**|**GENIUS: A Novel Solution for Subteam Replacement with Clustering-based Graph Neural Network**|Chuxuan Hu et.al.|[2211.04100v2](http://arxiv.org/abs/2211.04100v2)|null|
-|**2022-11-04**|**Materials Property Prediction with Uncertainty Quantification: A Benchmark Study**|Daniel Varivoda et.al.|[2211.02235v2](http://arxiv.org/abs/2211.02235v2)|[link](https://github.com/usccolumbia/materialsuq)|
-|**2022-11-10**|**A Comprehensive Survey on Distributed Training of Graph Neural Networks**|Haiyang Lin et.al.|[2211.05368v2](http://arxiv.org/abs/2211.05368v2)|null|
-|**2022-10-17**|**Anisotropic Multi-Scale Graph Convolutional Network for Dense Shape Correspondence**|Mohammad Farazi et.al.|[2210.09466v2](http://arxiv.org/abs/2210.09466v2)|null|
-|**2022-10-21**|**Global Counterfactual Explainer for Graph Neural Networks**|Mert Kosan et.al.|[2210.11695v2](http://arxiv.org/abs/2210.11695v2)|[link](https://github.com/mertkosan/GCFExplainer)|
+|**2021-11-29**|**Prediction of Large Magnetic Moment Materials With Graph Neural Networks and Random Forests**|Sékou-Oumar Kaba et.al.|[2111.14712v3](http://arxiv.org/abs/2111.14712v3)|null|
+|**2022-03-21**|**Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis**|Nicolás Gaggion et.al.|[2203.10977v3](http://arxiv.org/abs/2203.10977v3)|[link](https://github.com/ngaggion/HybridGNet)|
+|**2022-10-25**|**A jet tagging algorithm of graph network with HaarPooling message passing**|Fei Ma et.al.|[2210.13869v3](http://arxiv.org/abs/2210.13869v3)|null|
+|**2022-11-13**|**Similarity-based Feature Extraction for Large-scale Sparse Traffic Forecasting**|Xinhua Wu et.al.|[2211.07031v1](http://arxiv.org/abs/2211.07031v1)|[link](https://github.com/c-lyu/traffic4cast2022-tse)|
+|**2022-11-13**|**Learning Stable Graph Neural Networks via Spectral Regularization**|Zhan Gao et.al.|[2211.06966v1](http://arxiv.org/abs/2211.06966v1)|null|
+|**2022-11-13**|**A Scalable Graph Neural Network Decoder for Short Block Codes**|Kou Tian et.al.|[2211.06962v1](http://arxiv.org/abs/2211.06962v1)|null|
+|**2021-10-21**|**Watermarking Graph Neural Networks based on Backdoor Attacks**|Jing Xu et.al.|[2110.11024v5](http://arxiv.org/abs/2110.11024v5)|null|
+|**2022-05-07**|**SHAP Interpretable Machine learning and 3D Graph Neural Networks based XANES analysis**|Fei Zhan et.al.|[2205.04463v5](http://arxiv.org/abs/2205.04463v5)|null|
+|**2022-11-13**|**FedRule: Federated Rule Recommendation System with Graph Neural Networks**|Yuhang Yao et.al.|[2211.06812v1](http://arxiv.org/abs/2211.06812v1)|null|
+|**2022-06-13**|**Superiority of GNN over NN in generalizing bandlimited functions**|A. Martina Neuman et.al.|[2206.05904v4](http://arxiv.org/abs/2206.05904v4)|null|
+|**2021-07-05**|**PPGN: Physics-Preserved Graph Networks for Real-Time Fault Location in Distribution Systems with Limited Observation and Labels**|Wenting Li et.al.|[2107.02275v3](http://arxiv.org/abs/2107.02275v3)|null|
+|**2021-11-29**|**Understanding over-squashing and bottlenecks on graphs via curvature**|Jake Topping et.al.|[2111.14522v3](http://arxiv.org/abs/2111.14522v3)|[link](https://github.com/jctops/understanding-oversquashing)|
+|**2022-11-12**|**Robust Training of Graph Neural Networks via Noise Governance**|Siyi Qian et.al.|[2211.06614v1](http://arxiv.org/abs/2211.06614v1)|null|
+|**2022-11-12**|**Analysis of Graph Neural Networks with Theory of Markov Chains**|Weichen Zhao et.al.|[2211.06605v1](http://arxiv.org/abs/2211.06605v1)|null|
+|**2022-11-12**|**Significant Ties Graph Neural Networks for Continuous-Time Temporal Networks Modeling**|Jiayun Wu et.al.|[2211.06590v1](http://arxiv.org/abs/2211.06590v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-05**|**Bayesian model selection for multilevel models using integrated likelihoods**|Tom Edinburgh et.al.|[2207.02144v3](http://arxiv.org/abs/2207.02144v3)|[link](https://github.com/tedinburgh/model-evidence-with-marginal)|
+|**2022-11-14**|**Additive Covariance Matrix Models: Modelling Regional Electricity Net-Demand in Great Britain**|V. Gioia et.al.|[2211.07451v1](http://arxiv.org/abs/2211.07451v1)|null|
+|**2022-11-14**|**The Best Path Algorithm automatic variables selection via High Dimensional Graphical Models**|Consuelo R. Nava et.al.|[2211.07267v1](http://arxiv.org/abs/2211.07267v1)|null|
+|**2022-11-14**|**Inconsistency identification in network meta-analysis via stochastic search variable selection**|Georgios Seitidis et.al.|[2211.07258v1](http://arxiv.org/abs/2211.07258v1)|null|
+|**2022-11-14**|**Scalable Model Selection for Staged Trees: Mean-posterior Clustering and Binary Trees**|Peter Strong et.al.|[2211.07228v1](http://arxiv.org/abs/2211.07228v1)|null|
+|**2022-02-23**|**Efficient Distributed DNNs in the Mobile-edge-cloud Continuum**|Francesco Malandrino et.al.|[2202.11349v2](http://arxiv.org/abs/2202.11349v2)|null|
+|**2022-07-26**|**An Effective Method for Identifying Clusters of Robot Strengths**|Jen-Chieh Teng et.al.|[2207.12956v3](http://arxiv.org/abs/2207.12956v3)|[link](https://github.com/d09948011/identifying-clusters)|
+|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v3](http://arxiv.org/abs/2210.17299v3)|[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|**2022-09-02**|**EPA Particulate Matter Data -- Analyses using Local Control Strategy**|Robert L. Obenchain et.al.|[2209.05461v2](http://arxiv.org/abs/2209.05461v2)|null|
 |**2022-11-11**|**RFFNet: Scalable and interpretable kernel methods via Random Fourier Features**|Mateus P. Otto et.al.|[2211.06410v1](http://arxiv.org/abs/2211.06410v1)|[link](https://github.com/mpotto/pyselect)|
 |**2022-10-25**|**Improving Group Lasso for high-dimensional categorical data**|Szymon Nowakowski et.al.|[2210.14021v3](http://arxiv.org/abs/2210.14021v3)|null|
 |**2022-11-11**|**Streaming Sparse Linear Regression**|Shuoguang Yang et.al.|[2211.06039v1](http://arxiv.org/abs/2211.06039v1)|null|
 |**2022-11-10**|**Robust Model Selection of Non Tree-Structured Gaussian Graphical Models**|Abrar Zahin et.al.|[2211.05690v1](http://arxiv.org/abs/2211.05690v1)|null|
 |**2022-11-10**|**MGTCOM: Community Detection in Multimodal Graphs**|E. Dmitriev et.al.|[2211.06331v1](http://arxiv.org/abs/2211.06331v1)|[link](https://github.com/egordm/mgtcom)|
 |**2022-11-09**|**Enhanced Bayesian Neural Networks for Macroeconomics and Finance**|Niko Hauzenberger et.al.|[2211.04752v2](http://arxiv.org/abs/2211.04752v2)|null|
-|**2022-11-10**|**Fairness and bias correction in machine learning for depression prediction: results from four different study populations**|Vien Ngoc Dang et.al.|[2211.05321v1](http://arxiv.org/abs/2211.05321v1)|[link](https://github.com/ngoc-vien-dang/fairml-depression)|
-|**2022-05-11**|**Tuning Parameter Selection for Penalized Estimation via $R^2$**|Julia Holter et.al.|[2205.05654v2](http://arxiv.org/abs/2205.05654v2)|null|
-|**2018-05-28**|**Bayesian Learning with Wasserstein Barycenters**|Julio Backhoff-Veraguas et.al.|[1805.10833v5](http://arxiv.org/abs/1805.10833v5)|null|
-|**2022-02-25**|**Flexible variable selection in the presence of missing data**|B. D. Williamson et.al.|[2202.12989v3](http://arxiv.org/abs/2202.12989v3)|[link](https://github.com/bdwilliamson/flevr_supplementary)|
-|**2021-02-17**|**Joint Continuous and Discrete Model Selection via Submodularity**|Jonathan Bunton et.al.|[2102.09029v3](http://arxiv.org/abs/2102.09029v3)|null|
-|**2022-11-08**|**Non-Stationary Large-Scale Statistics of Precipitation Extremes in Central Europe**|Felix S. Fauer et.al.|[2211.04140v1](http://arxiv.org/abs/2211.04140v1)|null|
-|**2022-11-08**|**A generalized AIC for models with singularities and boundaries**|Jonathan D. Mitchell et.al.|[2211.04136v1](http://arxiv.org/abs/2211.04136v1)|null|
-|**2022-11-07**|**Beyond Conjugacy for Chain Event Graph Model Selection**|Aditi Shenvi et.al.|[2211.03427v1](http://arxiv.org/abs/2211.03427v1)|null|
-|**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v3](http://arxiv.org/abs/2207.04248v3)|null|
 
 ## Non-Euclidean Staistics
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-10-09**|**A Self-attention Guided Multi-scale Gradient GAN for Diversified X-ray Image Synthesis**|Muhammad Muneeb Saad et.al.|[2210.06334v2](http://arxiv.org/abs/2210.06334v2)|null|
+|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v1](http://arxiv.org/abs/2211.06627v1)|[link](https://github.com/ControlNet/MARLIN)|
+|**2022-11-08**|**LGSQE: Lightweight Generated Sample Quality Evaluatoin**|Ganning Zhao et.al.|[2211.04590v1](http://arxiv.org/abs/2211.04590v1)|null|
+|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v3](http://arxiv.org/abs/2207.07809v3)|null|
+|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v1](http://arxiv.org/abs/2211.02951v1)|null|
+|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
+|**2022-10-28**|**Latent Space is Feature Space: Regularization Term for GANs Training on Limited Dataset**|Pengwei Wang et.al.|[2210.16251v1](http://arxiv.org/abs/2210.16251v1)|[link](https://github.com/penway/lfm)|
+|**2022-10-24**|**On Power Series Subspaces of Certain Nuclear Frechet Spaces**|Nazlı Doğan et.al.|[2210.13593v1](http://arxiv.org/abs/2210.13593v1)|null|
+|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v2](http://arxiv.org/abs/2203.12996v2)|null|
+|**2021-12-13**|**On using the complex step method for the approximation of Fréchet derivatives of matrix functions in automorphism groups**|Tom Werner et.al.|[2112.06786v2](http://arxiv.org/abs/2112.06786v2)|null|
+|**2022-10-19**|**Autoregressive Generative Modeling with Noise Conditional Maximum Likelihood Estimation**|Henry Li et.al.|[2210.10715v1](http://arxiv.org/abs/2210.10715v1)|null|
+|**2022-10-18**|**IF-GAN: A Novel Generator Architecture with Information Feedback**|Seung Park et.al.|[2210.09638v1](http://arxiv.org/abs/2210.09638v1)|null|
+|**2022-10-17**|**Multiplicity Theorems for Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2210.09270v1](http://arxiv.org/abs/2210.09270v1)|null|
+|**2022-10-14**|**Quantifying Quality of Class-Conditional Generative Models in Time-Series Domain**|Alireza Koochali et.al.|[2210.07617v1](http://arxiv.org/abs/2210.07617v1)|null|
+|**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -74,22 +93,3 @@
 |**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
 |**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
 |**2021-06-04**|**Statistical summaries of unlabelled evolutionary trees and ranked hierarchical clustering trees**|Samyak Rajanala et.al.|[2106.02724v1](http://arxiv.org/abs/2106.02724v1)|[link](https://github.com/RSamyak/fmatrix)|
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-08**|**LGSQE: Lightweight Generated Sample Quality Evaluatoin**|Ganning Zhao et.al.|[2211.04590v1](http://arxiv.org/abs/2211.04590v1)|null|
-|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v3](http://arxiv.org/abs/2207.07809v3)|null|
-|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v1](http://arxiv.org/abs/2211.02951v1)|null|
-|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
-|**2022-10-28**|**Latent Space is Feature Space: Regularization Term for GANs Training on Limited Dataset**|Pengwei Wang et.al.|[2210.16251v1](http://arxiv.org/abs/2210.16251v1)|[link](https://github.com/penway/lfm)|
-|**2022-10-24**|**On Power Series Subspaces of Certain Nuclear Frechet Spaces**|Nazlı Doğan et.al.|[2210.13593v1](http://arxiv.org/abs/2210.13593v1)|null|
-|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v2](http://arxiv.org/abs/2203.12996v2)|null|
-|**2021-12-13**|**On using the complex step method for the approximation of Fréchet derivatives of matrix functions in automorphism groups**|Tom Werner et.al.|[2112.06786v2](http://arxiv.org/abs/2112.06786v2)|null|
-|**2022-10-19**|**Autoregressive Generative Modeling with Noise Conditional Maximum Likelihood Estimation**|Henry Li et.al.|[2210.10715v1](http://arxiv.org/abs/2210.10715v1)|null|
-|**2022-10-18**|**IF-GAN: A Novel Generator Architecture with Information Feedback**|Seung Park et.al.|[2210.09638v1](http://arxiv.org/abs/2210.09638v1)|null|
-|**2022-10-17**|**Multiplicity Theorems for Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2210.09270v1](http://arxiv.org/abs/2210.09270v1)|null|
-|**2022-10-14**|**Quantifying Quality of Class-Conditional Generative Models in Time-Series Domain**|Alireza Koochali et.al.|[2210.07617v1](http://arxiv.org/abs/2210.07617v1)|null|
-|**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
-|**2020-06-21**|**On the Theoretical Equivalence of Several Trade-Off Curves Assessing Statistical Proximity**|Rodrigue Siry et.al.|[2006.11809v3](http://arxiv.org/abs/2006.11809v3)|null|
-|**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v1](http://arxiv.org/abs/2210.05509v1)|null|
