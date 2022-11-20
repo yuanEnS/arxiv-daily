@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-20 07:28:28 Asia/Shanghai
+ Automated deployment @ 2022-11-20 19:24:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -33,28 +33,26 @@
 |**2022-05-19**|**The Minimal Feature Removal Problem in Neural Networks**|Ouns El Harzli et.al.|[2205.09901v2](http://arxiv.org/abs/2205.09901v2)|null|
 |**2022-11-15**|**Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems**|Qian Li et.al.|[2211.08168v1](http://arxiv.org/abs/2211.08168v1)|null|
 
-## Variable Selection
+## Non-Euclidean Staistics
 
-### Variable selection
+### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-11-17**|**GRASMOS: Graph Signage Model Selection for Gene Regulatory Networks**|Angelina Brilliantova et.al.|[2211.09642v1](http://arxiv.org/abs/2211.09642v1)|null|
-|**2022-11-17**|**Transfer learning for tensor Gaussian graphical models**|Mingyang Ren et.al.|[2211.09391v1](http://arxiv.org/abs/2211.09391v1)|null|
-|**2022-11-17**|**Execution-based Evaluation for Data Science Code Generation Models**|Junjie Huang et.al.|[2211.09374v1](http://arxiv.org/abs/2211.09374v1)|null|
-|**2021-08-28**|**Feature Extraction for Machine Learning-based Intrusion Detection in IoT Networks**|Mohanad Sarhan et.al.|[2108.12722v2](http://arxiv.org/abs/2108.12722v2)|null|
-|**2022-11-17**|**Variable selection for nonlinear Cox regression model via deep learning**|Kexuan Li et.al.|[2211.09287v1](http://arxiv.org/abs/2211.09287v1)|null|
-|**2019-11-02**|**Global Adaptive Generative Adjustment**|Bin Wang et.al.|[1911.00658v3](http://arxiv.org/abs/1911.00658v3)|null|
-|**2022-10-04**|**Monte Carlo Tree Search based Variable Selection for High Dimensional Bayesian Optimization**|Lei Song et.al.|[2210.01628v2](http://arxiv.org/abs/2210.01628v2)|[link](https://github.com/lamda-bbo/mcts-vs)|
-|**2022-11-15**|**Control in triphasic rhythmic neural systems: a comparative mechanistic analysis via infinitesimal local timing response curves**|Zhuojun Yu et.al.|[2211.07834v1](http://arxiv.org/abs/2211.07834v1)|[link](https://github.com/zhuojunyu-appliedmath/triphasic-control)|
-|**2022-08-30**|**Early or phantom dark energy, self-interacting, extra, or massive neutrinos, primordial magnetic fields, or a curved universe: An exploration of possible solutions to the $H_0$ and $σ_8$ problems**|Helena García Escudero et.al.|[2208.14435v2](http://arxiv.org/abs/2208.14435v2)|null|
-|**2022-07-05**|**Bayesian model selection for multilevel models using integrated likelihoods**|Tom Edinburgh et.al.|[2207.02144v3](http://arxiv.org/abs/2207.02144v3)|[link](https://github.com/tedinburgh/model-evidence-with-integrated-likelihood)|
-|**2022-11-14**|**Additive Covariance Matrix Models: Modelling Regional Electricity Net-Demand in Great Britain**|V. Gioia et.al.|[2211.07451v1](http://arxiv.org/abs/2211.07451v1)|null|
-|**2022-11-14**|**The Best Path Algorithm automatic variables selection via High Dimensional Graphical Models**|Consuelo R. Nava et.al.|[2211.07267v1](http://arxiv.org/abs/2211.07267v1)|null|
-|**2022-11-14**|**Inconsistency identification in network meta-analysis via stochastic search variable selection**|Georgios Seitidis et.al.|[2211.07258v1](http://arxiv.org/abs/2211.07258v1)|null|
-|**2022-11-14**|**Scalable Model Selection for Staged Trees: Mean-posterior Clustering and Binary Trees**|Peter Strong et.al.|[2211.07228v1](http://arxiv.org/abs/2211.07228v1)|null|
-|**2022-02-23**|**Efficient Distributed DNNs in the Mobile-edge-cloud Continuum**|Francesco Malandrino et.al.|[2202.11349v2](http://arxiv.org/abs/2202.11349v2)|null|
-
-## Non-Euclidean Staistics
+|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
+|**2022-10-28**|**Latent Space is Feature Space: Regularization Term for GANs Training on Limited Dataset**|Pengwei Wang et.al.|[2210.16251v2](http://arxiv.org/abs/2210.16251v2)|[link](https://github.com/penway/lfm)|
+|**2021-05-29**|**Optimality conditions for robust nonsmooth multiobjective optimization problems in Asplund spaces**|Maryam Saadati et.al.|[2105.14366v2](http://arxiv.org/abs/2105.14366v2)|null|
+|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v2](http://arxiv.org/abs/2205.01145v2)|null|
+|**2022-10-09**|**A Self-attention Guided Multi-scale Gradient GAN for Diversified X-ray Image Synthesis**|Muhammad Muneeb Saad et.al.|[2210.06334v2](http://arxiv.org/abs/2210.06334v2)|null|
+|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v1](http://arxiv.org/abs/2211.06627v1)|[link](https://github.com/ControlNet/MARLIN)|
+|**2022-11-08**|**LGSQE: Lightweight Generated Sample Quality Evaluatoin**|Ganning Zhao et.al.|[2211.04590v1](http://arxiv.org/abs/2211.04590v1)|null|
+|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v3](http://arxiv.org/abs/2207.07809v3)|null|
+|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v1](http://arxiv.org/abs/2211.02951v1)|null|
+|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
+|**2022-10-24**|**On Power Series Subspaces of Certain Nuclear Frechet Spaces**|Nazlı Doğan et.al.|[2210.13593v1](http://arxiv.org/abs/2210.13593v1)|null|
+|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v2](http://arxiv.org/abs/2203.12996v2)|null|
+|**2021-12-13**|**On using the complex step method for the approximation of Fréchet derivatives of matrix functions in automorphism groups**|Tom Werner et.al.|[2112.06786v2](http://arxiv.org/abs/2112.06786v2)|null|
+|**2022-10-19**|**Autoregressive Generative Modeling with Noise Conditional Maximum Likelihood Estimation**|Henry Li et.al.|[2210.10715v1](http://arxiv.org/abs/2210.10715v1)|null|
+|**2022-10-18**|**IF-GAN: A Novel Generator Architecture with Information Feedback**|Seung Park et.al.|[2210.09638v1](http://arxiv.org/abs/2210.09638v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,21 +73,23 @@
 |**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
 |**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
 
-### Non Eculidean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
-|**2022-10-28**|**Latent Space is Feature Space: Regularization Term for GANs Training on Limited Dataset**|Pengwei Wang et.al.|[2210.16251v2](http://arxiv.org/abs/2210.16251v2)|[link](https://github.com/penway/lfm)|
-|**2021-05-29**|**Optimality conditions for robust nonsmooth multiobjective optimization problems in Asplund spaces**|Maryam Saadati et.al.|[2105.14366v2](http://arxiv.org/abs/2105.14366v2)|null|
-|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v2](http://arxiv.org/abs/2205.01145v2)|null|
-|**2022-10-09**|**A Self-attention Guided Multi-scale Gradient GAN for Diversified X-ray Image Synthesis**|Muhammad Muneeb Saad et.al.|[2210.06334v2](http://arxiv.org/abs/2210.06334v2)|null|
-|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v1](http://arxiv.org/abs/2211.06627v1)|[link](https://github.com/ControlNet/MARLIN)|
-|**2022-11-08**|**LGSQE: Lightweight Generated Sample Quality Evaluatoin**|Ganning Zhao et.al.|[2211.04590v1](http://arxiv.org/abs/2211.04590v1)|null|
-|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v3](http://arxiv.org/abs/2207.07809v3)|null|
-|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v1](http://arxiv.org/abs/2211.02951v1)|null|
-|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
-|**2022-10-24**|**On Power Series Subspaces of Certain Nuclear Frechet Spaces**|Nazlı Doğan et.al.|[2210.13593v1](http://arxiv.org/abs/2210.13593v1)|null|
-|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v2](http://arxiv.org/abs/2203.12996v2)|null|
-|**2021-12-13**|**On using the complex step method for the approximation of Fréchet derivatives of matrix functions in automorphism groups**|Tom Werner et.al.|[2112.06786v2](http://arxiv.org/abs/2112.06786v2)|null|
-|**2022-10-19**|**Autoregressive Generative Modeling with Noise Conditional Maximum Likelihood Estimation**|Henry Li et.al.|[2210.10715v1](http://arxiv.org/abs/2210.10715v1)|null|
-|**2022-10-18**|**IF-GAN: A Novel Generator Architecture with Information Feedback**|Seung Park et.al.|[2210.09638v1](http://arxiv.org/abs/2210.09638v1)|null|
+|**2022-11-17**|**GRASMOS: Graph Signage Model Selection for Gene Regulatory Networks**|Angelina Brilliantova et.al.|[2211.09642v1](http://arxiv.org/abs/2211.09642v1)|null|
+|**2022-11-17**|**Transfer learning for tensor Gaussian graphical models**|Mingyang Ren et.al.|[2211.09391v1](http://arxiv.org/abs/2211.09391v1)|null|
+|**2022-11-17**|**Execution-based Evaluation for Data Science Code Generation Models**|Junjie Huang et.al.|[2211.09374v1](http://arxiv.org/abs/2211.09374v1)|null|
+|**2021-08-28**|**Feature Extraction for Machine Learning-based Intrusion Detection in IoT Networks**|Mohanad Sarhan et.al.|[2108.12722v2](http://arxiv.org/abs/2108.12722v2)|null|
+|**2022-11-17**|**Variable selection for nonlinear Cox regression model via deep learning**|Kexuan Li et.al.|[2211.09287v1](http://arxiv.org/abs/2211.09287v1)|null|
+|**2019-11-02**|**Global Adaptive Generative Adjustment**|Bin Wang et.al.|[1911.00658v3](http://arxiv.org/abs/1911.00658v3)|null|
+|**2022-10-04**|**Monte Carlo Tree Search based Variable Selection for High Dimensional Bayesian Optimization**|Lei Song et.al.|[2210.01628v2](http://arxiv.org/abs/2210.01628v2)|[link](https://github.com/lamda-bbo/mcts-vs)|
+|**2022-11-15**|**Control in triphasic rhythmic neural systems: a comparative mechanistic analysis via infinitesimal local timing response curves**|Zhuojun Yu et.al.|[2211.07834v1](http://arxiv.org/abs/2211.07834v1)|[link](https://github.com/zhuojunyu-appliedmath/triphasic-control)|
+|**2022-08-30**|**Early or phantom dark energy, self-interacting, extra, or massive neutrinos, primordial magnetic fields, or a curved universe: An exploration of possible solutions to the $H_0$ and $σ_8$ problems**|Helena García Escudero et.al.|[2208.14435v2](http://arxiv.org/abs/2208.14435v2)|null|
+|**2022-07-05**|**Bayesian model selection for multilevel models using integrated likelihoods**|Tom Edinburgh et.al.|[2207.02144v3](http://arxiv.org/abs/2207.02144v3)|[link](https://github.com/tedinburgh/model-evidence-with-integrated-likelihood)|
+|**2022-11-14**|**Additive Covariance Matrix Models: Modelling Regional Electricity Net-Demand in Great Britain**|V. Gioia et.al.|[2211.07451v1](http://arxiv.org/abs/2211.07451v1)|null|
+|**2022-11-14**|**The Best Path Algorithm automatic variables selection via High Dimensional Graphical Models**|Consuelo R. Nava et.al.|[2211.07267v1](http://arxiv.org/abs/2211.07267v1)|null|
+|**2022-11-14**|**Inconsistency identification in network meta-analysis via stochastic search variable selection**|Georgios Seitidis et.al.|[2211.07258v1](http://arxiv.org/abs/2211.07258v1)|null|
+|**2022-11-14**|**Scalable Model Selection for Staged Trees: Mean-posterior Clustering and Binary Trees**|Peter Strong et.al.|[2211.07228v1](http://arxiv.org/abs/2211.07228v1)|null|
+|**2022-02-23**|**Efficient Distributed DNNs in the Mobile-edge-cloud Continuum**|Francesco Malandrino et.al.|[2202.11349v2](http://arxiv.org/abs/2202.11349v2)|null|
