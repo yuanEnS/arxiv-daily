@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-21 07:29:48 Asia/Shanghai
+ Automated deployment @ 2022-11-21 19:25:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,31 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-08**|**Graph Neural Networks as Multi-view Learning**|Haoyu Han et.al.|[2206.03638v2](http://arxiv.org/abs/2206.03638v2)|null|
+|**2022-11-18**|**GNS: A generalizable Graph Neural Network-based simulator for particulate and fluid modeling**|Krishna Kumar et.al.|[2211.10228v1](http://arxiv.org/abs/2211.10228v1)|[link](https://github.com/geoelements/gns)|
+|**2022-05-24**|**Graph Neural Networks Intersect Probabilistic Graphical Models: A Survey**|Chenqing Hua et.al.|[2206.06089v2](http://arxiv.org/abs/2206.06089v2)|null|
+|**2022-10-08**|**SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success**|Jaemin Yoo et.al.|[2210.04081v3](http://arxiv.org/abs/2210.04081v3)|null|
+|**2022-11-18**|**Multi-task Learning for Sparse Traffic Forecasting**|Jiezhang Li et.al.|[2211.09984v1](http://arxiv.org/abs/2211.09984v1)|[link](https://github.com/octopusli/neurips2022-traffic4cast)|
+|**2022-11-18**|**Learning on Health Fairness and Environmental Justice via Interactive Visualization**|Abdullah-Al-Raihan Nayeem et.al.|[2211.09967v1](http://arxiv.org/abs/2211.09967v1)|null|
+|**2022-02-22**|**Learning Dynamics and Structure of Complex Systems Using Graph Neural Networks**|Zhe Li et.al.|[2202.10996v2](http://arxiv.org/abs/2202.10996v2)|null|
+|**2022-11-17**|**FairMILE: A Multi-Level Framework for Fair and Scalable Graph Representation Learning**|Yuntian He et.al.|[2211.09925v1](http://arxiv.org/abs/2211.09925v1)|null|
+|**2022-11-17**|**Do graph neural networks learn traditional jet substructure?**|Farouk Mokhtar et.al.|[2211.09912v1](http://arxiv.org/abs/2211.09912v1)|null|
+|**2022-07-27**|**Learning Hyper Label Model for Programmatic Weak Supervision**|Renzhi Wu et.al.|[2207.13545v2](http://arxiv.org/abs/2207.13545v2)|null|
 |**2022-11-17**|**Spatial Graph Convolution Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2211.09587v1](http://arxiv.org/abs/2211.09587v1)|null|
 |**2022-11-17**|**Abstractive Summarization Guided by Latent Hierarchical Document Structure**|Yifu Qiu et.al.|[2211.09458v1](http://arxiv.org/abs/2211.09458v1)|[link](https://github.com/yfqiu-nlp/hiergnn)|
 |**2022-08-10**|**Path-aware Siamese Graph Neural Network for Link Prediction**|Jingsong Lv et.al.|[2208.05781v2](http://arxiv.org/abs/2208.05781v2)|null|
 |**2022-11-17**|**Graph Neural Network-based Surrogate Models for Finite Element Analysis**|Meduri Venkata Shivadity et.al.|[2211.09373v1](http://arxiv.org/abs/2211.09373v1)|null|
 |**2021-05-20**|**Towards Quantized Model Parallelism for Graph-Augmented MLPs Based on Gradient-Free ADMM Framework**|Junxiang Wang et.al.|[2105.09837v2](http://arxiv.org/abs/2105.09837v2)|[link](https://github.com/xianggebenben/pdADMM-G)|
-|**2022-11-16**|**Benchmarking Graph Neural Networks for FMRI analysis**|Ahmed ElGazzar et.al.|[2211.08927v1](http://arxiv.org/abs/2211.08927v1)|[link](https://github.com/elgazzarr/fmri-gnns)|
-|**2022-11-16**|**Cross-Mode Knowledge Adaptation for Bike Sharing Demand Prediction using Domain-Adversarial Graph Neural Networks**|Yuebing Liang et.al.|[2211.08903v1](http://arxiv.org/abs/2211.08903v1)|null|
-|**2022-09-13**|**Semantic2Graph: Graph-based Multi-modal Feature Fusion for Action Segmentation in Videos**|Junbin Zhang et.al.|[2209.05653v3](http://arxiv.org/abs/2209.05653v3)|null|
-|**2022-11-16**|**Graph Filters for Signal Processing and Machine Learning on Graphs**|Elvin Isufi et.al.|[2211.08854v1](http://arxiv.org/abs/2211.08854v1)|null|
-|**2022-08-03**|**Adversarial Camouflage for Node Injection Attack on Graphs**|Shuchang Tao et.al.|[2208.01819v2](http://arxiv.org/abs/2208.01819v2)|null|
-|**2022-11-02**|**Ranking-based Group Identification via Factorized Attention on Social Tripartite Graph**|Mingdai Yang et.al.|[2211.01830v2](http://arxiv.org/abs/2211.01830v2)|[link](https://github.com/mdyfrank/cfag)|
-|**2021-11-09**|**On Representation Knowledge Distillation for Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2111.04964v3](http://arxiv.org/abs/2111.04964v3)|null|
-|**2022-11-15**|**Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs**|Linhao Luo et.al.|[2211.08568v1](http://arxiv.org/abs/2211.08568v1)|[link](https://github.com/rmanluo/gsnop)|
-|**2022-05-19**|**The Minimal Feature Removal Problem in Neural Networks**|Ouns El Harzli et.al.|[2205.09901v2](http://arxiv.org/abs/2205.09901v2)|null|
-|**2022-11-15**|**Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems**|Qian Li et.al.|[2211.08168v1](http://arxiv.org/abs/2211.08168v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-18**|**Understanding the double descent curve in Machine Learning**|Luis Sa-Couto et.al.|[2211.10322v1](http://arxiv.org/abs/2211.10322v1)|null|
+|**2022-05-24**|**An improved estimator of Shannon entropy with applications to systems with memory**|Juan De Gregorio et.al.|[2205.11931v2](http://arxiv.org/abs/2205.11931v2)|null|
+|**2021-07-14**|**On sure early selection of the best subset**|Ziwei Zhu et.al.|[2107.06939v2](http://arxiv.org/abs/2107.06939v2)|null|
+|**2022-11-17**|**Penalized Variable Selection with Broken Adaptive Ridge Regression for Semi-competing Risks Data**|Fatemeh Mahmoudi et.al.|[2211.09895v1](http://arxiv.org/abs/2211.09895v1)|null|
 |**2022-11-17**|**GRASMOS: Graph Signage Model Selection for Gene Regulatory Networks**|Angelina Brilliantova et.al.|[2211.09642v1](http://arxiv.org/abs/2211.09642v1)|null|
 |**2022-11-17**|**Transfer learning for tensor Gaussian graphical models**|Mingyang Ren et.al.|[2211.09391v1](http://arxiv.org/abs/2211.09391v1)|null|
 |**2022-11-17**|**Execution-based Evaluation for Data Science Code Generation Models**|Junjie Huang et.al.|[2211.09374v1](http://arxiv.org/abs/2211.09374v1)|null|
@@ -49,10 +53,6 @@
 |**2022-08-30**|**Early or phantom dark energy, self-interacting, extra, or massive neutrinos, primordial magnetic fields, or a curved universe: An exploration of possible solutions to the $H_0$ and $σ_8$ problems**|Helena García Escudero et.al.|[2208.14435v2](http://arxiv.org/abs/2208.14435v2)|null|
 |**2022-07-05**|**Bayesian model selection for multilevel models using integrated likelihoods**|Tom Edinburgh et.al.|[2207.02144v3](http://arxiv.org/abs/2207.02144v3)|[link](https://github.com/tedinburgh/model-evidence-with-integrated-likelihood)|
 |**2022-11-14**|**Additive Covariance Matrix Models: Modelling Regional Electricity Net-Demand in Great Britain**|V. Gioia et.al.|[2211.07451v1](http://arxiv.org/abs/2211.07451v1)|null|
-|**2022-11-14**|**The Best Path Algorithm automatic variables selection via High Dimensional Graphical Models**|Consuelo R. Nava et.al.|[2211.07267v1](http://arxiv.org/abs/2211.07267v1)|null|
-|**2022-11-14**|**Inconsistency identification in network meta-analysis via stochastic search variable selection**|Georgios Seitidis et.al.|[2211.07258v1](http://arxiv.org/abs/2211.07258v1)|null|
-|**2022-11-14**|**Scalable Model Selection for Staged Trees: Mean-posterior Clustering and Binary Trees**|Peter Strong et.al.|[2211.07228v1](http://arxiv.org/abs/2211.07228v1)|null|
-|**2022-02-23**|**Efficient Distributed DNNs in the Mobile-edge-cloud Continuum**|Francesco Malandrino et.al.|[2202.11349v2](http://arxiv.org/abs/2202.11349v2)|null|
 
 ## Non-Euclidean Staistics
 
