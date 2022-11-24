@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-11-24 07:27:11 Asia/Shanghai
+ Automated deployment @ 2022-11-24 19:23:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,13 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-23**|**Federated Learning on Non-IID Graphs via Structural Knowledge Sharing**|Yue Tan et.al.|[2211.13009v1](http://arxiv.org/abs/2211.13009v1)|[link](https://github.com/yuetan031/fedstar)|
+|**2022-11-23**|**Geometry-enhanced graph neural network for glassy dynamics prediction**|Xiao Jiang et.al.|[2211.12832v1](http://arxiv.org/abs/2211.12832v1)|null|
+|**2022-11-23**|**MECCH: Metapath Context Convolution-based Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2211.12792v1](http://arxiv.org/abs/2211.12792v1)|[link](https://github.com/cynricfu/mecch)|
+|**2022-11-23**|**An ensemble of VisNet, Transformer-M, and pretraining models for molecular property prediction in OGB Large-Scale Challenge @ NeurIPS 2022**|Yusong Wang et.al.|[2211.12791v1](http://arxiv.org/abs/2211.12791v1)|null|
+|**2022-05-04**|**Multi-subgoal Robot Navigation in Crowds with History Information and Interactions**|Xinyi Yu et.al.|[2205.02003v2](http://arxiv.org/abs/2205.02003v2)|null|
+|**2022-06-15**|**Region-enhanced Deep Graph Convolutional Networks for Rumor Detection**|Ge Wang et.al.|[2206.07665v3](http://arxiv.org/abs/2206.07665v3)|null|
+|**2022-11-23**|**Scalable Predictive Beamforming for IRS-Assisted Multi-User Communications: A Deep Learning Approach**|Chang Liu et.al.|[2211.12644v1](http://arxiv.org/abs/2211.12644v1)|null|
 |**2022-11-22**|**A generalized machine learning framework for brittle crack problems using transfer learning and graph neural networks**|Roberto Perera et.al.|[2211.12459v1](http://arxiv.org/abs/2211.12459v1)|null|
 |**2022-11-22**|**Pushing the Limits of Asynchronous Graph-based Object Detection with Event Cameras**|Daniel Gehrig et.al.|[2211.12324v1](http://arxiv.org/abs/2211.12324v1)|null|
 |**2021-08-07**|**Jointly Attacking Graph Neural Network and its Explanations**|Wenqi Fan et.al.|[2108.03388v2](http://arxiv.org/abs/2108.03388v2)|null|
@@ -25,13 +32,27 @@
 |**2022-11-21**|**Learnable Graph Convolutional Attention Networks**|Adrián Javaloy et.al.|[2211.11853v1](http://arxiv.org/abs/2211.11853v1)|[link](https://github.com/psanch21/l-cat)|
 |**2022-10-11**|**Relational Attention: Generalizing Transformers for Graph-Structured Tasks**|Cameron Diao et.al.|[2210.05062v2](http://arxiv.org/abs/2210.05062v2)|null|
 |**2022-08-17**|**Robust and scalable uncertainty estimation with conformal prediction for machine-learned interatomic potentials**|Yuge Hu et.al.|[2208.08337v2](http://arxiv.org/abs/2208.08337v2)|null|
-|**2022-09-30**|**A graph neural network approach to automated model building in cryo-EM maps**|Kiarash Jamali et.al.|[2210.00006v2](http://arxiv.org/abs/2210.00006v2)|[link](https://github.com/3dem/model-angelo)|
-|**2022-10-21**|**GLCC: A General Framework for Graph-level Clustering**|Wei Ju et.al.|[2210.11879v2](http://arxiv.org/abs/2210.11879v2)|null|
-|**2022-11-21**|**DS-GPS : A Deep Statistical Graph Poisson Solver (for faster CFD simulations)**|Matthieu Nastorg et.al.|[2211.11763v1](http://arxiv.org/abs/2211.11763v1)|null|
-|**2022-11-21**|**Forecasting Unobserved Node States with spatio-temporal Graph Neural Networks**|Andreas Roth et.al.|[2211.11596v1](http://arxiv.org/abs/2211.11596v1)|null|
-|**2022-11-21**|**Hierarchical Graph Structures for Congestion and ETA Prediction**|Florian Grötschla et.al.|[2211.11762v1](http://arxiv.org/abs/2211.11762v1)|[link](https://github.com/iarai/neurips2022-traffic4cast)|
-|**2021-11-20**|**Towards Graph Self-Supervised Learning with Contrastive Adjusted Zooming**|Yizhen Zheng et.al.|[2111.10698v2](http://arxiv.org/abs/2111.10698v2)|null|
-|**2022-11-21**|**From Node Interaction to Hop Interaction: New Effective and Scalable Graph Learning Paradigm**|Jie Chen et.al.|[2211.11761v1](http://arxiv.org/abs/2211.11761v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-23**|**BiasBed -- Rigorous Texture Bias Evaluation**|Nikolai Kalischek et.al.|[2211.13190v1](http://arxiv.org/abs/2211.13190v1)|null|
+|**2022-11-23**|**A Latent Shrinkage Position Model for Binary and Count Network Data**|Xian Yao Gwee et.al.|[2211.13034v1](http://arxiv.org/abs/2211.13034v1)|null|
+|**2021-08-29**|**Feature Analysis for Machine Learning-based IoT Intrusion Detection**|Mohanad Sarhan et.al.|[2108.12732v2](http://arxiv.org/abs/2108.12732v2)|null|
+|**2022-06-02**|**Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm**|Marion Naveau et.al.|[2206.01012v2](http://arxiv.org/abs/2206.01012v2)|[link](https://github.com/marion-naveau/supp_information_saemvs)|
+|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v1](http://arxiv.org/abs/2211.11383v1)|null|
+|**2022-11-21**|**cegpy: Modelling with Chain Event Graphs in Python**|Gareth Walley et.al.|[2211.11366v1](http://arxiv.org/abs/2211.11366v1)|[link](https://github.com/g-walley/cegpy)|
+|**2022-11-20**|**MEESO: A Multi-objective End-to-End Self-Optimized Approach for Automatically Building Deep Learning Models**|Thanh Phuong Pham et.al.|[2211.10921v1](http://arxiv.org/abs/2211.10921v1)|null|
+|**2022-02-21**|**The Mathematics of Evolution: The Price Equation, Natural Selection, and Environmental Change**|Tom LaGatta et.al.|[2202.10289v3](http://arxiv.org/abs/2202.10289v3)|null|
+|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v1](http://arxiv.org/abs/2211.10776v1)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
+|**2022-11-19**|**Towards good validation metrics for generative models in offline model-based optimisation**|Christopher Beckham et.al.|[2211.10747v1](http://arxiv.org/abs/2211.10747v1)|null|
+|**2022-11-18**|**Understanding the double descent curve in Machine Learning**|Luis Sa-Couto et.al.|[2211.10322v1](http://arxiv.org/abs/2211.10322v1)|null|
+|**2022-05-24**|**An improved estimator of Shannon entropy with applications to systems with memory**|Juan De Gregorio et.al.|[2205.11931v2](http://arxiv.org/abs/2205.11931v2)|null|
+|**2021-07-14**|**On sure early selection of the best subset**|Ziwei Zhu et.al.|[2107.06939v2](http://arxiv.org/abs/2107.06939v2)|null|
+|**2022-11-17**|**Penalized Variable Selection with Broken Adaptive Ridge Regression for Semi-competing Risks Data**|Fatemeh Mahmoudi et.al.|[2211.09895v1](http://arxiv.org/abs/2211.09895v1)|null|
+|**2022-11-17**|**GRASMOS: Graph Signage Model Selection for Gene Regulatory Networks**|Angelina Brilliantova et.al.|[2211.09642v1](http://arxiv.org/abs/2211.09642v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
 |**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
 |**2020-02-29**|**Differentiating through the Fréchet Mean**|Aaron Lou et.al.|[2003.00335v4](http://arxiv.org/abs/2003.00335v4)|[link](https://github.com/CUAI/Differentiable-Frechet-Mean)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-06-02**|**Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm**|Marion Naveau et.al.|[2206.01012v2](http://arxiv.org/abs/2206.01012v2)|[link](https://github.com/marion-naveau/supp_information_saemvs)|
-|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v1](http://arxiv.org/abs/2211.11383v1)|null|
-|**2022-11-21**|**cegpy: Modelling with Chain Event Graphs in Python**|Gareth Walley et.al.|[2211.11366v1](http://arxiv.org/abs/2211.11366v1)|[link](https://github.com/g-walley/cegpy)|
-|**2022-11-20**|**MEESO: A Multi-objective End-to-End Self-Optimized Approach for Automatically Building Deep Learning Models**|Thanh Phuong Pham et.al.|[2211.10921v1](http://arxiv.org/abs/2211.10921v1)|null|
-|**2022-02-21**|**The Mathematics of Evolution: The Price Equation, Natural Selection, and Environmental Change**|Tom LaGatta et.al.|[2202.10289v3](http://arxiv.org/abs/2202.10289v3)|null|
-|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v1](http://arxiv.org/abs/2211.10776v1)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
-|**2022-11-19**|**Towards good validation metrics for generative models in offline model-based optimisation**|Christopher Beckham et.al.|[2211.10747v1](http://arxiv.org/abs/2211.10747v1)|null|
-|**2022-11-18**|**Understanding the double descent curve in Machine Learning**|Luis Sa-Couto et.al.|[2211.10322v1](http://arxiv.org/abs/2211.10322v1)|null|
-|**2022-05-24**|**An improved estimator of Shannon entropy with applications to systems with memory**|Juan De Gregorio et.al.|[2205.11931v2](http://arxiv.org/abs/2205.11931v2)|null|
-|**2021-07-14**|**On sure early selection of the best subset**|Ziwei Zhu et.al.|[2107.06939v2](http://arxiv.org/abs/2107.06939v2)|null|
-|**2022-11-17**|**Penalized Variable Selection with Broken Adaptive Ridge Regression for Semi-competing Risks Data**|Fatemeh Mahmoudi et.al.|[2211.09895v1](http://arxiv.org/abs/2211.09895v1)|null|
-|**2022-11-17**|**GRASMOS: Graph Signage Model Selection for Gene Regulatory Networks**|Angelina Brilliantova et.al.|[2211.09642v1](http://arxiv.org/abs/2211.09642v1)|null|
-|**2022-11-17**|**Transfer learning for tensor Gaussian graphical models**|Mingyang Ren et.al.|[2211.09391v1](http://arxiv.org/abs/2211.09391v1)|null|
-|**2022-11-17**|**Execution-based Evaluation for Data Science Code Generation Models**|Junjie Huang et.al.|[2211.09374v1](http://arxiv.org/abs/2211.09374v1)|[link](https://github.com/jun-jie-huang/exeds)|
-|**2021-08-28**|**Feature Extraction for Machine Learning-based Intrusion Detection in IoT Networks**|Mohanad Sarhan et.al.|[2108.12722v2](http://arxiv.org/abs/2108.12722v2)|null|
