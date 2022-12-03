@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-03 07:25:42 Asia/Shanghai
+ Automated deployment @ 2022-12-03 19:21:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
-|**2022-11-25**|**PaCMO: Partner Dependent Human Motion Generation in Dyadic Human Activity using Neural Operators**|Md Ashiqur Rahman et.al.|[2211.16210v1](http://arxiv.org/abs/2211.16210v1)|null|
-|**2022-11-19**|**On Baire property, compactness and completeness properties of spaces of Baire functions**|Alexander V. Osipov et.al.|[2211.10765v1](http://arxiv.org/abs/2211.10765v1)|null|
-|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
-|**2022-10-28**|**Latent Space is Feature Space: Regularization Term for GANs Training on Limited Dataset**|Pengwei Wang et.al.|[2210.16251v2](http://arxiv.org/abs/2210.16251v2)|[link](https://github.com/penway/lfm)|
-|**2021-05-29**|**Optimality conditions for robust nonsmooth multiobjective optimization problems in Asplund spaces**|Maryam Saadati et.al.|[2105.14366v2](http://arxiv.org/abs/2105.14366v2)|null|
-|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v2](http://arxiv.org/abs/2205.01145v2)|null|
-|**2022-10-09**|**A Self-attention Guided Multi-scale Gradient GAN for Diversified X-ray Image Synthesis**|Muhammad Muneeb Saad et.al.|[2210.06334v2](http://arxiv.org/abs/2210.06334v2)|null|
-|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v1](http://arxiv.org/abs/2211.06627v1)|[link](https://github.com/ControlNet/MARLIN)|
-|**2022-11-08**|**LGSQE: Lightweight Generated Sample Quality Evaluatoin**|Ganning Zhao et.al.|[2211.04590v1](http://arxiv.org/abs/2211.04590v1)|null|
-|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v3](http://arxiv.org/abs/2207.07809v3)|null|
-|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v1](http://arxiv.org/abs/2211.02951v1)|null|
-|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
-|**2022-10-24**|**On Power Series Subspaces of Certain Nuclear Frechet Spaces**|Nazlı Doğan et.al.|[2210.13593v1](http://arxiv.org/abs/2210.13593v1)|null|
-|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v2](http://arxiv.org/abs/2203.12996v2)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -72,6 +53,25 @@
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
 |**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
 |**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
+|**2022-11-25**|**PaCMO: Partner Dependent Human Motion Generation in Dyadic Human Activity using Neural Operators**|Md Ashiqur Rahman et.al.|[2211.16210v1](http://arxiv.org/abs/2211.16210v1)|null|
+|**2022-11-19**|**On Baire property, compactness and completeness properties of spaces of Baire functions**|Alexander V. Osipov et.al.|[2211.10765v1](http://arxiv.org/abs/2211.10765v1)|null|
+|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
+|**2022-10-28**|**Latent Space is Feature Space: Regularization Term for GANs Training on Limited Dataset**|Pengwei Wang et.al.|[2210.16251v2](http://arxiv.org/abs/2210.16251v2)|[link](https://github.com/penway/lfm)|
+|**2021-05-29**|**Optimality conditions for robust nonsmooth multiobjective optimization problems in Asplund spaces**|Maryam Saadati et.al.|[2105.14366v2](http://arxiv.org/abs/2105.14366v2)|null|
+|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v2](http://arxiv.org/abs/2205.01145v2)|null|
+|**2022-10-09**|**A Self-attention Guided Multi-scale Gradient GAN for Diversified X-ray Image Synthesis**|Muhammad Muneeb Saad et.al.|[2210.06334v2](http://arxiv.org/abs/2210.06334v2)|null|
+|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v1](http://arxiv.org/abs/2211.06627v1)|[link](https://github.com/ControlNet/MARLIN)|
+|**2022-11-08**|**LGSQE: Lightweight Generated Sample Quality Evaluatoin**|Ganning Zhao et.al.|[2211.04590v1](http://arxiv.org/abs/2211.04590v1)|null|
+|**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v3](http://arxiv.org/abs/2207.07809v3)|null|
+|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v1](http://arxiv.org/abs/2211.02951v1)|null|
+|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
+|**2022-10-24**|**On Power Series Subspaces of Certain Nuclear Frechet Spaces**|Nazlı Doğan et.al.|[2210.13593v1](http://arxiv.org/abs/2210.13593v1)|null|
+|**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v2](http://arxiv.org/abs/2203.12996v2)|null|
 
 ## Variable Selection
 
