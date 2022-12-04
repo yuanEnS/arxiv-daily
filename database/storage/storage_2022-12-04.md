@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-04 07:25:03 Asia/Shanghai
+ Automated deployment @ 2022-12-04 19:21:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2022-11-30**|**Generating Realistic Synthetic Relational Data through Graph Variational Autoencoders**|Ciro Antonio Mami et.al.|[2211.16889v1](http://arxiv.org/abs/2211.16889v1)|null|
 |**2022-11-30**|**A Deep Learning Approach to the Prediction of Drug Side-Effects on Molecular Graphs**|Pietro Bongini et.al.|[2211.16871v1](http://arxiv.org/abs/2211.16871v1)|null|
 |**2022-04-21**|**DropMessage: Unifying Random Dropping for Graph Neural Networks**|Taoran Fang et.al.|[2204.10037v2](http://arxiv.org/abs/2204.10037v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-12-01**|**Robust multi-outcome regression with correlated covariate blocks using fused LAD-lasso**|Jyrki Möttönen et.al.|[2212.00461v1](http://arxiv.org/abs/2212.00461v1)|null|
-|**2022-11-23**|**BiasBed -- Rigorous Texture Bias Evaluation**|Nikolai Kalischek et.al.|[2211.13190v2](http://arxiv.org/abs/2211.13190v2)|null|
-|**2021-06-23**|**The SKIM-FA Kernel: High-Dimensional Variable Selection and Nonlinear Interaction Discovery in Linear Time**|Raj Agrawal et.al.|[2106.12408v4](http://arxiv.org/abs/2106.12408v4)|[link](https://github.com/agrawalraj/skimfapaper)|
-|**2022-04-27**|**On the statistical role of inexact matching in observational studies**|Kevin Guo et.al.|[2204.13193v2](http://arxiv.org/abs/2204.13193v2)|null|
-|**2022-11-30**|**Newton Method with Variable Selection by the Proximal Gradient Method**|Ryosuke Shimmura et.al.|[2211.16804v1](http://arxiv.org/abs/2211.16804v1)|null|
-|**2022-11-30**|**Rethinking Out-of-Distribution Detection From a Human-Centric Perspective**|Yao Zhu et.al.|[2211.16778v1](http://arxiv.org/abs/2211.16778v1)|null|
-|**2022-11-29**|**Variable selection and covariance structure identification using sparse principal loading analysis**|Jan O. Bauer et.al.|[2211.16155v1](http://arxiv.org/abs/2211.16155v1)|null|
-|**2022-11-24**|**Design and Prototyping Distributed CNN Inference Acceleration in Edge Computing**|Zhongtian Dong et.al.|[2211.13778v2](http://arxiv.org/abs/2211.13778v2)|null|
-|**2022-11-28**|**Hierarchy-guided Model Selection for Time Series Forecasting**|Arindam Jati et.al.|[2211.15092v1](http://arxiv.org/abs/2211.15092v1)|null|
-|**2022-11-26**|**Direct-Effect Risk Minimization for Domain Generalization**|Yuhui Li et.al.|[2211.14594v1](http://arxiv.org/abs/2211.14594v1)|null|
-|**2022-01-02**|**Deep Learning and Linear Programming for Automated Ensemble Forecasting and Interpretation**|Lars Lien Ankile et.al.|[2201.00426v2](http://arxiv.org/abs/2201.00426v2)|[link](https://github.com/krankile/ensemble_forecasting)|
-|**2022-11-25**|**The smooth output assumption, and why deep networks are better than wide ones**|Luis Sa-Couto et.al.|[2211.14347v1](http://arxiv.org/abs/2211.14347v1)|null|
-|**2022-11-25**|**A Survey of Learning Curves with Bad Behavior: or How More Data Need Not Lead to Better Performance**|Marco Loog et.al.|[2211.14061v1](http://arxiv.org/abs/2211.14061v1)|null|
-|**2022-09-13**|**Using the bayesmeta R package for Bayesian random-effects meta-regression**|Christian Röver et.al.|[2209.06004v2](http://arxiv.org/abs/2209.06004v2)|null|
-|**2022-11-25**|**Can Knowledge of End-to-End Text-to-Speech Models Improve Neural MIDI-to-Audio Synthesis Systems?**|Xuan Shi et.al.|[2211.13868v1](http://arxiv.org/abs/2211.13868v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
 |**2022-10-24**|**On Power Series Subspaces of Certain Nuclear Frechet Spaces**|Nazlı Doğan et.al.|[2210.13593v1](http://arxiv.org/abs/2210.13593v1)|null|
 |**2022-03-24**|**A Note on Existence of Solutions to Control Problems of Semilinear Partial Differential Equations**|Eduardo Casas et.al.|[2203.12996v2](http://arxiv.org/abs/2203.12996v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-12-01**|**Robust multi-outcome regression with correlated covariate blocks using fused LAD-lasso**|Jyrki Möttönen et.al.|[2212.00461v1](http://arxiv.org/abs/2212.00461v1)|null|
+|**2022-11-23**|**BiasBed -- Rigorous Texture Bias Evaluation**|Nikolai Kalischek et.al.|[2211.13190v2](http://arxiv.org/abs/2211.13190v2)|null|
+|**2021-06-23**|**The SKIM-FA Kernel: High-Dimensional Variable Selection and Nonlinear Interaction Discovery in Linear Time**|Raj Agrawal et.al.|[2106.12408v4](http://arxiv.org/abs/2106.12408v4)|[link](https://github.com/agrawalraj/skimfapaper)|
+|**2022-04-27**|**On the statistical role of inexact matching in observational studies**|Kevin Guo et.al.|[2204.13193v2](http://arxiv.org/abs/2204.13193v2)|null|
+|**2022-11-30**|**Newton Method with Variable Selection by the Proximal Gradient Method**|Ryosuke Shimmura et.al.|[2211.16804v1](http://arxiv.org/abs/2211.16804v1)|null|
+|**2022-11-30**|**Rethinking Out-of-Distribution Detection From a Human-Centric Perspective**|Yao Zhu et.al.|[2211.16778v1](http://arxiv.org/abs/2211.16778v1)|null|
+|**2022-11-29**|**Variable selection and covariance structure identification using sparse principal loading analysis**|Jan O. Bauer et.al.|[2211.16155v1](http://arxiv.org/abs/2211.16155v1)|null|
+|**2022-11-24**|**Design and Prototyping Distributed CNN Inference Acceleration in Edge Computing**|Zhongtian Dong et.al.|[2211.13778v2](http://arxiv.org/abs/2211.13778v2)|null|
+|**2022-11-28**|**Hierarchy-guided Model Selection for Time Series Forecasting**|Arindam Jati et.al.|[2211.15092v1](http://arxiv.org/abs/2211.15092v1)|null|
+|**2022-11-26**|**Direct-Effect Risk Minimization for Domain Generalization**|Yuhui Li et.al.|[2211.14594v1](http://arxiv.org/abs/2211.14594v1)|null|
+|**2022-01-02**|**Deep Learning and Linear Programming for Automated Ensemble Forecasting and Interpretation**|Lars Lien Ankile et.al.|[2201.00426v2](http://arxiv.org/abs/2201.00426v2)|[link](https://github.com/krankile/ensemble_forecasting)|
+|**2022-11-25**|**The smooth output assumption, and why deep networks are better than wide ones**|Luis Sa-Couto et.al.|[2211.14347v1](http://arxiv.org/abs/2211.14347v1)|null|
+|**2022-11-25**|**A Survey of Learning Curves with Bad Behavior: or How More Data Need Not Lead to Better Performance**|Marco Loog et.al.|[2211.14061v1](http://arxiv.org/abs/2211.14061v1)|null|
+|**2022-09-13**|**Using the bayesmeta R package for Bayesian random-effects meta-regression**|Christian Röver et.al.|[2209.06004v2](http://arxiv.org/abs/2209.06004v2)|null|
+|**2022-11-25**|**Can Knowledge of End-to-End Text-to-Speech Models Improve Neural MIDI-to-Audio Synthesis Systems?**|Xuan Shi et.al.|[2211.13868v1](http://arxiv.org/abs/2211.13868v1)|null|
