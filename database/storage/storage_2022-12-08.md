@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-08 07:25:58 Asia/Shanghai
+ Automated deployment @ 2022-12-08 19:22:55 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-19**|**Quartic Gauge-Higgs couplings: Constraints and Future Directions**|Anisha et.al.|[2208.09334v2](http://arxiv.org/abs/2208.09334v2)|null|
+|**2022-12-07**|**Node-oriented Spectral Filtering for Graph Neural Networks**|Shuai Zheng et.al.|[2212.03654v1](http://arxiv.org/abs/2212.03654v1)|null|
+|**2022-12-07**|**Learning rigid dynamics with face interaction graph networks**|Kelsey R. Allen et.al.|[2212.03574v1](http://arxiv.org/abs/2212.03574v1)|null|
+|**2022-12-02**|**Gibbs-Helmholtz Graph Neural Network: capturing the temperature dependency of activity coefficients at infinite dilution**|Edgar Ivan Sanchez Medina et.al.|[2212.01199v2](http://arxiv.org/abs/2212.01199v2)|[link](https://github.com/edgarsmdn/gh-gnn)|
+|**2022-12-07**|**Assessing and Analyzing the Resilience of Graph Neural Networks Against Hardware Faults**|Xun Jiao et.al.|[2212.03475v1](http://arxiv.org/abs/2212.03475v1)|null|
+|**2022-12-07**|**Dynamic Graph Node Classification via Time Augmentation**|Jiarui Sun et.al.|[2212.03449v1](http://arxiv.org/abs/2212.03449v1)|null|
+|**2022-12-07**|**A Temporal Graph Neural Network for Cyber Attack Detection and Localization in Smart Grids**|Seyed Hamed Haghshenas et.al.|[2212.03390v1](http://arxiv.org/abs/2212.03390v1)|null|
+|**2022-03-11**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v2](http://arxiv.org/abs/2203.05919v2)|[link](https://github.com/johorvath/graph_summarization_with_graph_neural_networks)|
 |**2021-04-23**|**Deep Learning for Bayesian Optimization of Scientific Problems with High-Dimensional Structure**|Samuel Kim et.al.|[2104.11667v4](http://arxiv.org/abs/2104.11667v4)|[link](https://github.com/samuelkim314/DeepBO)|
 |**2022-12-06**|**Unifying Short and Long-Term Tracking with Graph Hierarchies**|Orcun Cetintas et.al.|[2212.03038v1](http://arxiv.org/abs/2212.03038v1)|null|
 |**2022-10-02**|**Tensor-reduced atomic density representations**|James P. Darby et.al.|[2210.01705v2](http://arxiv.org/abs/2210.01705v2)|null|
 |**2022-12-06**|**Multi-Task Edge Prediction in Temporally-Dynamic Video Graphs**|Osman Ülger et.al.|[2212.02875v1](http://arxiv.org/abs/2212.02875v1)|null|
 |**2022-12-06**|**RBF-MGN:Solving spatiotemporal PDEs with Physics-informed Graph Neural Network**|Zixue Xiang et.al.|[2212.02861v1](http://arxiv.org/abs/2212.02861v1)|null|
 |**2022-12-06**|**Data Imputation with Iterative Graph Reconstruction**|Jiajun Zhong et.al.|[2212.02810v1](http://arxiv.org/abs/2212.02810v1)|null|
-|**2022-12-06**|**Self-supervised Graph Representation Learning for Black Market Account Detection**|Zequan Xu et.al.|[2212.02679v1](http://arxiv.org/abs/2212.02679v1)|null|
-|**2022-12-05**|**AtomVision: A machine vision library for atomistic images**|Kamal Choudhary et.al.|[2212.02586v1](http://arxiv.org/abs/2212.02586v1)|null|
-|**2022-12-05**|**TIDE: Time Derivative Diffusion for Deep Learning on Graphs**|Maximilian Krahn et.al.|[2212.02483v1](http://arxiv.org/abs/2212.02483v1)|[link](https://github.com/maysambehmanesh/tide)|
-|**2022-12-05**|**An iterative unbiased geometric approach to identifying crystalline order and disorder via denoising score function model**|Tim Hsu et.al.|[2212.02421v1](http://arxiv.org/abs/2212.02421v1)|[link](https://github.com/llnl/graphite)|
-|**2022-12-05**|**Understanding the Relationship between Over-smoothing and Over-squashing in Graph Neural Networks**|Jhony H. Giraldo et.al.|[2212.02374v1](http://arxiv.org/abs/2212.02374v1)|null|
-|**2021-05-05**|**LGGNet: Learning from Local-Global-Graph Representations for Brain-Computer Interface**|Yi Ding et.al.|[2105.02786v3](http://arxiv.org/abs/2105.02786v3)|[link](https://github.com/yi-ding-cs/LGG)|
-|**2022-07-06**|**Simple and Efficient Heterogeneous Graph Neural Network**|Xiaocheng Yang et.al.|[2207.02547v2](http://arxiv.org/abs/2207.02547v2)|[link](https://github.com/ict-gimlab/sehgnn)|
-|**2022-12-05**|**GNN-SL: Sequence Labeling Based on Nearest Examples via GNN**|Shuhe Wang et.al.|[2212.02017v1](http://arxiv.org/abs/2212.02017v1)|[link](https://github.com/shuhewang1998/gnn-sl)|
-|**2022-12-05**|**Dissimilar Nodes Improve Graph Active Learning**|Zhicheng Ren et.al.|[2212.01968v1](http://arxiv.org/abs/2212.01968v1)|[link](https://github.com/franklinnwren/ds-age)|
+|**2022-10-20**|**End-to-End Context-Aided Unicity Matching for Person Re-identification**|Min Cao et.al.|[2210.12008v2](http://arxiv.org/abs/2210.12008v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-10-01**|**Dimension Reduction for Fréchet Regression**|Qi Zhang et.al.|[2110.00467v2](http://arxiv.org/abs/2110.00467v2)|null|
 |**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
 |**2022-12-05**|**Branching with selection and mutation I: Mutant fitness of Fréchet type**|Su-Chan Park et.al.|[2212.02631v1](http://arxiv.org/abs/2212.02631v1)|null|
 |**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v2](http://arxiv.org/abs/2211.06627v2)|[link](https://github.com/ControlNet/MARLIN)|
@@ -71,13 +72,15 @@
 |**2022-11-08**|**LGSQE: Lightweight Generated Sample Quality Evaluatoin**|Ganning Zhao et.al.|[2211.04590v1](http://arxiv.org/abs/2211.04590v1)|null|
 |**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v3](http://arxiv.org/abs/2207.07809v3)|null|
 |**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v1](http://arxiv.org/abs/2211.02951v1)|null|
-|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-07**|**Stochastic Rising Bandits**|Alberto Maria Metelli et.al.|[2212.03798v1](http://arxiv.org/abs/2212.03798v1)|[link](https://github.com/albertometelli/stochastic-rising-bandits)|
+|**2022-06-20**|**Double soft-thresholded model for multi-group scalar on vector-valued image regression**|Arkaprava Roy et.al.|[2206.09819v3](http://arxiv.org/abs/2206.09819v3)|null|
+|**2022-12-07**|**General multi-fidelity surrogate models: Framework and active learning strategies for efficient rare event simulation**|Promit Chakroborty et.al.|[2212.03375v1](http://arxiv.org/abs/2212.03375v1)|null|
 |**2022-11-14**|**The Best Path Algorithm automatic variables selection via High Dimensional Graphical Models**|Luigi Riso et.al.|[2211.07267v2](http://arxiv.org/abs/2211.07267v2)|null|
 |**2022-12-06**|**Applications of Machine Learning for the Ratemaking in Agricultural Insurances**|Luigi Biagini et.al.|[2212.03114v1](http://arxiv.org/abs/2212.03114v1)|null|
 |**2022-12-06**|**Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis**|Biagini Luigi et.al.|[2212.03092v1](http://arxiv.org/abs/2212.03092v1)|null|
@@ -90,6 +93,3 @@
 |**2022-12-05**|**Variable Selection using Inverse Survival Probability Weighting**|Masahiro Kojima et.al.|[2212.02109v1](http://arxiv.org/abs/2212.02109v1)|null|
 |**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v2](http://arxiv.org/abs/2211.11383v2)|null|
 |**2021-10-11**|**Nonparametric Group Variable Selection with Multivariate Response for Connectome-Based Modeling of Cognitive Scores**|Arkaprava Roy et.al.|[2110.05641v3](http://arxiv.org/abs/2110.05641v3)|null|
-|**2020-03-03**|**Model Selection in Contextual Stochastic Bandit Problems**|Aldo Pacchiano et.al.|[2003.01704v3](http://arxiv.org/abs/2003.01704v3)|null|
-|**2021-01-27**|**Predictive Quantile Regression with Mixed Roots and Increasing Dimensions: The ALQR Approach**|Rui Fan et.al.|[2101.11568v4](http://arxiv.org/abs/2101.11568v4)|null|
-|**2022-11-22**|**Predicting Biomedical Interactions with Probabilistic Model Selection for Graph Neural Networks**|Kishan KC et.al.|[2211.13231v2](http://arxiv.org/abs/2211.13231v2)|null|
