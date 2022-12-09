@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-09 07:27:49 Asia/Shanghai
+ Automated deployment @ 2022-12-09 19:22:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,28 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-08**|**A Survey of Graph Neural Networks for Social Recommender Systems**|Kartik Sharma et.al.|[2212.04481v1](http://arxiv.org/abs/2212.04481v1)|null|
+|**2022-01-30**|**GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks**|Chenhui Deng et.al.|[2201.12741v5](http://arxiv.org/abs/2201.12741v5)|[link](https://github.com/cornell-zhang/garnet)|
+|**2022-12-08**|**Alleviating neighbor bias: augmenting graph self-supervise learning with structural equivalent positive samples**|Jiawei Zhu et.al.|[2212.04365v1](http://arxiv.org/abs/2212.04365v1)|null|
+|**2022-12-02**|**Ripple: Concept-Based Interpretation for Raw Time Series Models in Education**|Mohammad Asadi et.al.|[2212.01133v2](http://arxiv.org/abs/2212.01133v2)|[link](https://github.com/epfl-ml4ed/ripple)|
+|**2022-12-08**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v1](http://arxiv.org/abs/2212.04155v1)|null|
+|**2022-03-11**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v3](http://arxiv.org/abs/2203.05919v3)|[link](https://github.com/johorvath/graph_summarization_with_graph_neural_networks)|
+|**2022-12-08**|**Graph Neural Networks Meet Wireless Communications: Motivation, Applications, and Future Directions**|Mengyuan Lee et.al.|[2212.04047v1](http://arxiv.org/abs/2212.04047v1)|null|
+|**2021-12-25**|**Task and Model Agnostic Adversarial Attack on Graph Neural Networks**|Kartik Sharma et.al.|[2112.13267v3](http://arxiv.org/abs/2112.13267v3)|[link](https://github.com/idea-iitd/TANDIS)|
+|**2022-11-28**|**You Can Have Better Graph Neural Networks by Not Training Weights at All: Finding Untrained GNNs Tickets**|Tianjin Huang et.al.|[2211.15335v4](http://arxiv.org/abs/2211.15335v4)|null|
+|**2022-12-07**|**Learning Graph Search Heuristics**|Michal Pándy et.al.|[2212.03978v1](http://arxiv.org/abs/2212.03978v1)|null|
+|**2022-11-27**|**Beyond 1-WL with Local Ego-Network Encodings**|Nurudin Alvarez-Gonzalez et.al.|[2211.14906v2](http://arxiv.org/abs/2211.14906v2)|[link](https://github.com/nur-ag/igel)|
 |**2022-08-19**|**Quartic Gauge-Higgs couplings: Constraints and Future Directions**|Anisha et.al.|[2208.09334v2](http://arxiv.org/abs/2208.09334v2)|null|
 |**2022-12-07**|**Node-oriented Spectral Filtering for Graph Neural Networks**|Shuai Zheng et.al.|[2212.03654v1](http://arxiv.org/abs/2212.03654v1)|null|
 |**2022-12-07**|**Learning rigid dynamics with face interaction graph networks**|Kelsey R. Allen et.al.|[2212.03574v1](http://arxiv.org/abs/2212.03574v1)|null|
 |**2022-12-02**|**Gibbs-Helmholtz Graph Neural Network: capturing the temperature dependency of activity coefficients at infinite dilution**|Edgar Ivan Sanchez Medina et.al.|[2212.01199v2](http://arxiv.org/abs/2212.01199v2)|[link](https://github.com/edgarsmdn/gh-gnn)|
-|**2022-12-07**|**Assessing and Analyzing the Resilience of Graph Neural Networks Against Hardware Faults**|Xun Jiao et.al.|[2212.03475v1](http://arxiv.org/abs/2212.03475v1)|null|
-|**2022-12-07**|**Dynamic Graph Node Classification via Time Augmentation**|Jiarui Sun et.al.|[2212.03449v1](http://arxiv.org/abs/2212.03449v1)|null|
-|**2022-12-07**|**A Temporal Graph Neural Network for Cyber Attack Detection and Localization in Smart Grids**|Seyed Hamed Haghshenas et.al.|[2212.03390v1](http://arxiv.org/abs/2212.03390v1)|null|
-|**2022-03-11**|**Graph Summarization with Graph Neural Networks**|Maximilian Blasi et.al.|[2203.05919v2](http://arxiv.org/abs/2203.05919v2)|[link](https://github.com/johorvath/graph_summarization_with_graph_neural_networks)|
-|**2021-04-23**|**Deep Learning for Bayesian Optimization of Scientific Problems with High-Dimensional Structure**|Samuel Kim et.al.|[2104.11667v4](http://arxiv.org/abs/2104.11667v4)|[link](https://github.com/samuelkim314/DeepBO)|
-|**2022-12-06**|**Unifying Short and Long-Term Tracking with Graph Hierarchies**|Orcun Cetintas et.al.|[2212.03038v1](http://arxiv.org/abs/2212.03038v1)|null|
-|**2022-10-02**|**Tensor-reduced atomic density representations**|James P. Darby et.al.|[2210.01705v2](http://arxiv.org/abs/2210.01705v2)|null|
-|**2022-12-06**|**Multi-Task Edge Prediction in Temporally-Dynamic Video Graphs**|Osman Ülger et.al.|[2212.02875v1](http://arxiv.org/abs/2212.02875v1)|null|
-|**2022-12-06**|**RBF-MGN:Solving spatiotemporal PDEs with Physics-informed Graph Neural Network**|Zixue Xiang et.al.|[2212.02861v1](http://arxiv.org/abs/2212.02861v1)|null|
-|**2022-12-06**|**Data Imputation with Iterative Graph Reconstruction**|Jiajun Zhong et.al.|[2212.02810v1](http://arxiv.org/abs/2212.02810v1)|null|
-|**2022-10-20**|**End-to-End Context-Aided Unicity Matching for Person Re-identification**|Min Cao et.al.|[2210.12008v2](http://arxiv.org/abs/2210.12008v2)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-08**|**Numerical Fréchet derivatives of the displacement tensor for 2.5-D frequency-domain seismic full-waveform inversion in viscoelastic TTI media**|Qingjie Yang et.al.|[2212.04086v1](http://arxiv.org/abs/2212.04086v1)|null|
 |**2021-10-01**|**Dimension Reduction for Fréchet Regression**|Qi Zhang et.al.|[2110.00467v2](http://arxiv.org/abs/2110.00467v2)|null|
 |**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
 |**2022-12-05**|**Branching with selection and mutation I: Mutant fitness of Fréchet type**|Su-Chan Park et.al.|[2212.02631v1](http://arxiv.org/abs/2212.02631v1)|null|
@@ -52,7 +53,6 @@
 |**2022-10-09**|**A Self-attention Guided Multi-scale Gradient GAN for Diversified X-ray Image Synthesis**|Muhammad Muneeb Saad et.al.|[2210.06334v2](http://arxiv.org/abs/2210.06334v2)|null|
 |**2022-11-08**|**LGSQE: Lightweight Generated Sample Quality Evaluatoin**|Ganning Zhao et.al.|[2211.04590v1](http://arxiv.org/abs/2211.04590v1)|null|
 |**2022-07-16**|**Curve Simplification and Clustering under Fréchet Distance**|Siu-Wing Cheng et.al.|[2207.07809v3](http://arxiv.org/abs/2207.07809v3)|null|
-|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v1](http://arxiv.org/abs/2211.02951v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +78,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v2](http://arxiv.org/abs/2206.08900v2)|null|
+|**2022-12-08**|**Optimal Model Selection in RDD and Related Settings Using Placebo Zones**|Nathan Kettlewell et.al.|[2212.04043v1](http://arxiv.org/abs/2212.04043v1)|null|
+|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v2](http://arxiv.org/abs/2204.03887v2)|null|
 |**2022-12-07**|**Stochastic Rising Bandits**|Alberto Maria Metelli et.al.|[2212.03798v1](http://arxiv.org/abs/2212.03798v1)|[link](https://github.com/albertometelli/stochastic-rising-bandits)|
 |**2022-06-20**|**Double soft-thresholded model for multi-group scalar on vector-valued image regression**|Arkaprava Roy et.al.|[2206.09819v3](http://arxiv.org/abs/2206.09819v3)|null|
 |**2022-12-07**|**General multi-fidelity surrogate models: Framework and active learning strategies for efficient rare event simulation**|Promit Chakroborty et.al.|[2212.03375v1](http://arxiv.org/abs/2212.03375v1)|null|
@@ -90,6 +93,3 @@
 |**2022-12-05**|**Multifold Cross-Validation Model Averaging for Generalized Additive Partial Linear Models**|Ze Chen et.al.|[2212.02381v1](http://arxiv.org/abs/2212.02381v1)|null|
 |**2022-07-27**|**Dissecting kinetically coupled quintessence: phenomenology and observational tests**|Elsa M. Teixeira et.al.|[2207.13682v2](http://arxiv.org/abs/2207.13682v2)|null|
 |**2022-12-05**|**Hubble constant by natural selection: Evolution chips in the Hubble tension**|Reginald Christian Bernardo et.al.|[2212.02203v1](http://arxiv.org/abs/2212.02203v1)|null|
-|**2022-12-05**|**Variable Selection using Inverse Survival Probability Weighting**|Masahiro Kojima et.al.|[2212.02109v1](http://arxiv.org/abs/2212.02109v1)|null|
-|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v2](http://arxiv.org/abs/2211.11383v2)|null|
-|**2021-10-11**|**Nonparametric Group Variable Selection with Multivariate Response for Connectome-Based Modeling of Cognitive Scores**|Arkaprava Roy et.al.|[2110.05641v3](http://arxiv.org/abs/2110.05641v3)|null|
