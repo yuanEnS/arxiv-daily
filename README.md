@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-19 07:23:55 Asia/Shanghai
+ Automated deployment @ 2022-12-19 19:22:02 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-16**|**Learnable Commutative Monoids for Graph Neural Networks**|Euan Ong et.al.|[2212.08541v1](http://arxiv.org/abs/2212.08541v1)|null|
+|**2022-09-13**|**Adversarial Inter-Group Link Injection Degrades the Fairness of Graph Neural Networks**|Hussain Hussain et.al.|[2209.05957v2](http://arxiv.org/abs/2209.05957v2)|[link](https://github.com/mengcao327/attack-gnn-fairness)|
+|**2022-12-02**|**Gibbs-Helmholtz Graph Neural Network: capturing the temperature dependency of activity coefficients at infinite dilution**|Edgar Ivan Sanchez Medina et.al.|[2212.01199v3](http://arxiv.org/abs/2212.01199v3)|[link](https://github.com/edgarsmdn/gh-gnn)|
+|**2022-12-16**|**Discovering Structural Hole Spanners in Dynamic Networks via Graph Neural Networks**|Diksha Goel et.al.|[2212.08239v1](http://arxiv.org/abs/2212.08239v1)|null|
+|**2022-12-15**|**Graphon Pooling for Reducing Dimensionality of Signals and Convolutional Operators on Graphs**|Alejandro Parada-Mayorga et.al.|[2212.08171v1](http://arxiv.org/abs/2212.08171v1)|null|
 |**2022-12-15**|**Realistic Synthetic Social Networks with Graph Neural Networks**|Alex Davies et.al.|[2212.07843v1](http://arxiv.org/abs/2212.07843v1)|null|
 |**2022-12-14**|**Unsupervised Detection of Contextualized Embedding Bias with Application to Ideology**|Valentin Hofmann et.al.|[2212.07547v1](http://arxiv.org/abs/2212.07547v1)|[link](https://github.com/valentinhofmann/unsupervised_bias)|
 |**2021-04-18**|**Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity**|Valentin Hofmann et.al.|[2104.08829v3](http://arxiv.org/abs/2104.08829v3)|[link](https://github.com/valentinhofmann/slap4slip)|
@@ -27,11 +32,27 @@
 |**2022-12-14**|**HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics**|Artur Grigorev et.al.|[2212.07242v1](http://arxiv.org/abs/2212.07242v1)|null|
 |**2022-11-02**|**Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning**|Jong-whi Lee et.al.|[2211.01214v4](http://arxiv.org/abs/2211.01214v4)|[link](https://github.com/dev-jwel/tiara)|
 |**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v1](http://arxiv.org/abs/2212.07056v1)|null|
-|**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v1](http://arxiv.org/abs/2212.06898v1)|null|
-|**2022-12-02**|**Ripple: Concept-Based Interpretation for Raw Time Series Models in Education**|Mohammad Asadi et.al.|[2212.01133v3](http://arxiv.org/abs/2212.01133v3)|[link](https://github.com/epfl-ml4ed/ripple)|
-|**2022-12-13**|**Exploring Fake News Detection with Heterogeneous Social Media Context Graphs**|Gregor Donabauer et.al.|[2212.06560v1](http://arxiv.org/abs/2212.06560v1)|null|
-|**2022-12-13**|**Leave Graphs Alone: Addressing Over-Squashing without Rewiring**|Domenico Tortorella et.al.|[2212.06538v1](http://arxiv.org/abs/2212.06538v1)|null|
-|**2022-12-13**|**Graph Convolutional Networks for Traffic Forecasting with Missing Values**|Jingwei Zuo et.al.|[2212.06419v1](http://arxiv.org/abs/2212.06419v1)|[link](https://github.com/jingweizuo/gcn-m)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v7](http://arxiv.org/abs/2010.11114v7)|null|
+|**2022-12-16**|**The CDF penalty:sparse and quasi unbiased estimation in regression models**|Daniele Cuntrera et.al.|[2212.08582v1](http://arxiv.org/abs/2212.08582v1)|null|
+|**2022-12-06**|**Applications of Machine Learning for the Ratemaking in Agricultural Insurances**|Luigi Biagini et.al.|[2212.03114v2](http://arxiv.org/abs/2212.03114v2)|null|
+|**2022-12-06**|**Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis**|Luigi Biagini et.al.|[2212.03092v2](http://arxiv.org/abs/2212.03092v2)|null|
+|**2022-04-06**|**Fundamental limits to learning closed-form mathematical models from data**|Oscar Fajardo-Fontiveros et.al.|[2204.02704v2](http://arxiv.org/abs/2204.02704v2)|null|
+|**2022-09-17**|**Bayesian Image-on-Scalar Regression with a Spatial Global-Local Spike-and-Slab Prior**|Zijian Zeng et.al.|[2209.08234v2](http://arxiv.org/abs/2209.08234v2)|null|
+|**2022-12-14**|**Robust Distributional Regression with Automatic Variable Selection**|Meadhbh O'Neill et.al.|[2212.07317v1](http://arxiv.org/abs/2212.07317v1)|null|
+|**2022-04-12**|**Sparse Interaction Neighborhood Selection for Markov Random Fields via Reversible Jump and Pseudoposteriors**|Victor Freguglia et.al.|[2204.05933v3](http://arxiv.org/abs/2204.05933v3)|[link](https://github.com/freguglia/mrf2dbayes)|
+|**2020-04-22**|**Counterfactual Learning of Stochastic Policies with Continuous Actions: from Models to Offline Evaluation**|Houssam Zenati et.al.|[2004.11722v6](http://arxiv.org/abs/2004.11722v6)|[link](https://github.com/criteo-research/optimization-continuous-action-crm)|
+|**2022-04-20**|**Wind power predictions from nowcasts to 4-hour forecasts: a learning approach with variable selection**|Dimitri Bouche et.al.|[2204.09362v2](http://arxiv.org/abs/2204.09362v2)|null|
+|**2022-12-13**|**Are Quantum Circuits Better than Neural Networks at Learning Multi-dimensional Discrete Data? An Investigation into Practical Quantum Circuit Generative Models**|Pengyuan Zhai et.al.|[2212.06380v1](http://arxiv.org/abs/2212.06380v1)|null|
+|**2022-12-12**|**Model selection using time-delay lenses**|Fulvio Melia et.al.|[2212.06113v1](http://arxiv.org/abs/2212.06113v1)|null|
+|**2022-12-12**|**Robust modelling framework for short-term forecasting of global horizontal irradiance**|Edina Chandiwana et.al.|[2212.05978v1](http://arxiv.org/abs/2212.05978v1)|null|
+|**2022-12-12**|**Dominant Drivers of National Inflation**|Jan Ditzen et.al.|[2212.05841v1](http://arxiv.org/abs/2212.05841v1)|null|
+|**2021-08-01**|**Data-Driven Constitutive Relation Reveals Scaling Law for Hydrodynamic Transport Coefficients**|Candi Zheng et.al.|[2108.00413v3](http://arxiv.org/abs/2108.00413v3)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +78,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-15**|**Prediction of Model Generalizability for Unseen Data: Methodology and Case Study in Brain Metastases Detection in T1-Weighted Contrast-Enhanced 3D MRI**|Engin Dikici et.al.|[2212.08127v1](http://arxiv.org/abs/2212.08127v1)|null|
 |**2022-12-08**|**Numerical Fréchet derivatives of the displacement tensor for 2.5-D frequency-domain seismic full-waveform inversion in viscoelastic TTI media**|Qingjie Yang et.al.|[2212.04086v2](http://arxiv.org/abs/2212.04086v2)|null|
 |**2022-12-14**|**Approximate Discrete Fréchet distance: simplified, extended and structured**|Ivor van der Hoog et.al.|[2212.07124v1](http://arxiv.org/abs/2212.07124v1)|null|
 |**2022-12-13**|**Chaos for endomorphisms of completely metrizable groups and linear operators on Fréchet spaces**|Zhen Jiang et.al.|[2212.06304v1](http://arxiv.org/abs/2212.06304v1)|null|
@@ -71,25 +93,3 @@
 |**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
 |**2022-10-28**|**Latent Space is Feature Space: Regularization Term for GANs Training on Limited Dataset**|Pengwei Wang et.al.|[2210.16251v2](http://arxiv.org/abs/2210.16251v2)|[link](https://github.com/penway/lfm)|
 |**2021-05-29**|**Optimality conditions for robust nonsmooth multiobjective optimization problems in Asplund spaces**|Maryam Saadati et.al.|[2105.14366v2](http://arxiv.org/abs/2105.14366v2)|null|
-|**2022-05-02**|**Approximate solutions for robust multiobjective optimization programming in Asplund spaces**|Maryam Saadati et.al.|[2205.01145v2](http://arxiv.org/abs/2205.01145v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-12-14**|**Robust Distributional Regression with Automatic Variable Selection**|Meadhbh O'Neill et.al.|[2212.07317v1](http://arxiv.org/abs/2212.07317v1)|null|
-|**2022-04-12**|**Sparse Interaction Neighborhood Selection for Markov Random Fields via Reversible Jump and Pseudoposteriors**|Victor Freguglia et.al.|[2204.05933v3](http://arxiv.org/abs/2204.05933v3)|[link](https://github.com/freguglia/mrf2dbayes)|
-|**2020-04-22**|**Counterfactual Learning of Stochastic Policies with Continuous Actions: from Models to Offline Evaluation**|Houssam Zenati et.al.|[2004.11722v6](http://arxiv.org/abs/2004.11722v6)|[link](https://github.com/criteo-research/optimization-continuous-action-crm)|
-|**2022-04-20**|**Wind power predictions from nowcasts to 4-hour forecasts: a learning approach with variable selection**|Dimitri Bouche et.al.|[2204.09362v2](http://arxiv.org/abs/2204.09362v2)|null|
-|**2022-12-13**|**Are Quantum Circuits Better than Neural Networks at Learning Multi-dimensional Discrete Data? An Investigation into Practical Quantum Circuit Generative Models**|Pengyuan Zhai et.al.|[2212.06380v1](http://arxiv.org/abs/2212.06380v1)|null|
-|**2022-12-12**|**Model selection using time-delay lenses**|Fulvio Melia et.al.|[2212.06113v1](http://arxiv.org/abs/2212.06113v1)|null|
-|**2022-12-12**|**Robust modelling framework for short-term forecasting of global horizontal irradiance**|Edina Chandiwana et.al.|[2212.05978v1](http://arxiv.org/abs/2212.05978v1)|null|
-|**2022-12-12**|**Dominant Drivers of National Inflation**|Jan Ditzen et.al.|[2212.05841v1](http://arxiv.org/abs/2212.05841v1)|null|
-|**2021-08-01**|**Data-Driven Constitutive Relation Reveals Scaling Law for Hydrodynamic Transport Coefficients**|Candi Zheng et.al.|[2108.00413v3](http://arxiv.org/abs/2108.00413v3)|null|
-|**2021-10-07**|**MPSN: Motion-aware Pseudo Siamese Network for Indoor Video Head Detection in Buildings**|Kailai Sun et.al.|[2110.03302v5](http://arxiv.org/abs/2110.03302v5)|[link](https://github.com/pl-share/mpsn)|
-|**2021-08-18**|**Weak signal identification and inference in penalized likelihood models for categorical responses**|Yuexia Zhang et.al.|[2108.07940v3](http://arxiv.org/abs/2108.07940v3)|null|
-|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v2](http://arxiv.org/abs/2211.10776v2)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
-|**2022-09-19**|**Finite- and Large- Sample Inference for Model and Coefficients in High-dimensional Linear Regression with Repro Samples**|Peng Wang et.al.|[2209.09299v3](http://arxiv.org/abs/2209.09299v3)|null|
-|**2020-06-02**|**Unsupervised Discretization by Two-dimensional MDL-based Histogram**|Lincen Yang et.al.|[2006.01893v4](http://arxiv.org/abs/2006.01893v4)|[link](https://github.com/ylincen/palm)|
-|**2022-06-17**|**Adapting the Linearised Laplace Model Evidence for Modern Deep Learning**|Javier Antorán et.al.|[2206.08900v2](http://arxiv.org/abs/2206.08900v2)|null|
