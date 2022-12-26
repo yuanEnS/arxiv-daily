@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-26 07:24:36 Asia/Shanghai
+ Automated deployment @ 2022-12-26 19:21:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,13 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-23**|**Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection**|Qiaoyu Tan et.al.|[2212.12488v1](http://arxiv.org/abs/2212.12488v1)|[link](https://github.com/qiaoyu-tan/ps2)|
+|**2022-12-23**|**Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow**|Ángela López-Cardona et.al.|[2212.12470v1](http://arxiv.org/abs/2212.12470v1)|null|
+|**2022-05-31**|**Label-Enhanced Graph Neural Network for Semi-supervised Node Classification**|Le Yu et.al.|[2205.15653v2](http://arxiv.org/abs/2205.15653v2)|[link](https://github.com/yule-BUAA/LEGNN)|
+|**2022-04-28**|**Distributed Auto-Learning GNN for Multi-Cell Cluster-Free NOMA Communications**|Xiaoxia Xu et.al.|[2204.13766v2](http://arxiv.org/abs/2204.13766v2)|null|
+|**2022-12-22**|**RouteNet-Fermi: Network Modeling with Graph Neural Networks**|Miquel Ferriol-Galmés et.al.|[2212.12070v1](http://arxiv.org/abs/2212.12070v1)|null|
+|**2022-10-05**|**Bi-Stride Multi-Scale Graph Neural Network for Mesh-Based Physical Simulation**|Yadi Cao et.al.|[2210.02573v2](http://arxiv.org/abs/2210.02573v2)|[link](https://github.com/eydcao/bsms-gnn)|
+|**2022-04-06**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v4](http://arxiv.org/abs/2204.03080v4)|null|
 |**2022-07-11**|**The Cosmic Graph: Optimal Information Extraction from Large-Scale Structure using Catalogues**|T. Lucas Makinen et.al.|[2207.05202v3](http://arxiv.org/abs/2207.05202v3)|[link](https://github.com/tlmakinen/cosmicgraphs)|
 |**2022-12-22**|**Few-shot human motion prediction for heterogeneous sensors**|Rafael Rego Drumond et.al.|[2212.11771v1](http://arxiv.org/abs/2212.11771v1)|[link](https://github.com/brinkl/graphhetnet)|
 |**2022-12-22**|**Multidimensional Graph Neural Networks for Wireless Communications**|Shengjie Liu et.al.|[2212.11531v1](http://arxiv.org/abs/2212.11531v1)|null|
@@ -25,40 +32,32 @@
 |**2022-01-25**|**Convergence of Invariant Graph Networks**|Chen Cai et.al.|[2201.10129v3](http://arxiv.org/abs/2201.10129v3)|null|
 |**2022-12-21**|**Forecasting West Nile Virus with Graph Neural Networks: Harnessing Spatial Dependence in Irregularly Sampled Geospatial Data**|Adam Tonks et.al.|[2212.11367v1](http://arxiv.org/abs/2212.11367v1)|null|
 |**2022-12-09**|**FAIR AI Models in High Energy Physics**|Javier Duarte et.al.|[2212.05081v2](http://arxiv.org/abs/2212.05081v2)|null|
-|**2022-12-11**|**Efficient Relation-aware Neighborhood Aggregation in Graph Neural Networks via Tensor Decomposition**|Peyman Baghershahi et.al.|[2212.05581v2](http://arxiv.org/abs/2212.05581v2)|null|
-|**2022-12-21**|**Towards dynamic stability analysis of sustainable power grids using graph neural networks**|Christian Nauck et.al.|[2212.11130v1](http://arxiv.org/abs/2212.11130v1)|[link](https://github.com/pik-icone/dynamic_stability_gnn_neurips_climate_workshop)|
-|**2022-11-06**|**Exponentially Improving the Complexity of Simulating the Weisfeiler-Lehman Test with Graph Neural Networks**|Anders Aamand et.al.|[2211.03232v2](http://arxiv.org/abs/2211.03232v2)|null|
-|**2022-12-21**|**Prediction of steel nanohardness by using graph neural networks on surface polycrystallinity maps**|Kamran Karimi et.al.|[2212.10948v1](http://arxiv.org/abs/2212.10948v1)|null|
-|**2022-10-06**|**Expander Graph Propagation**|Andreea Deac et.al.|[2210.02997v2](http://arxiv.org/abs/2210.02997v2)|null|
-|**2022-02-15**|**Federated Graph Neural Networks: Overview, Techniques and Challenges**|Rui Liu et.al.|[2202.07256v2](http://arxiv.org/abs/2202.07256v2)|null|
-|**2022-12-21**|**Complete the Missing Half: Augmenting Aggregation Filtering with Diversification for Graph Convolutional Neural Networks**|Sitao Luan et.al.|[2212.10822v1](http://arxiv.org/abs/2212.10822v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-03-06**|**Variable Selection with the Knockoffs: Composite Null Hypotheses**|Mehrdad Pournaderi et.al.|[2203.02849v3](http://arxiv.org/abs/2203.02849v3)|null|
-|**2022-12-22**|**A machine learning framework for neighbor generation in metaheuristic search**|Defeng Liu et.al.|[2212.11451v1](http://arxiv.org/abs/2212.11451v1)|null|
-|**2022-12-21**|**Automated identification of linear viscoelastic constitutive laws with EUCLID**|Enzo Marino et.al.|[2212.10969v1](http://arxiv.org/abs/2212.10969v1)|null|
-|**2022-12-20**|**Quark mass dependence of hadron resonances**|Fernando Gil Domínguez et.al.|[2212.10294v1](http://arxiv.org/abs/2212.10294v1)|null|
-|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v3](http://arxiv.org/abs/2211.11383v3)|null|
-|**2022-12-20**|**An Information-Theoretic Approach to Transferability in Task Transfer Learning**|Yajie Bao et.al.|[2212.10082v1](http://arxiv.org/abs/2212.10082v1)|null|
-|**2022-12-20**|**Out-of-sample scoring and automatic selection of causal estimators**|Egor Kraev et.al.|[2212.10076v1](http://arxiv.org/abs/2212.10076v1)|null|
-|**2022-12-20**|**Simultaneous Factors Selection and Fusion of Their Levels in Penalized Logistic Regression**|Lea Kaufmann et.al.|[2212.10073v1](http://arxiv.org/abs/2212.10073v1)|null|
-|**2022-12-19**|**On the Complexity of Representation Learning in Contextual Linear Bandits**|Andrea Tirinzoni et.al.|[2212.09429v1](http://arxiv.org/abs/2212.09429v1)|null|
-|**2022-12-06**|**Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis**|Luigi Biagini et.al.|[2212.03092v3](http://arxiv.org/abs/2212.03092v3)|null|
-|**2022-12-06**|**Applications of Machine Learning for the Ratemaking in Agricultural Insurances**|Luigi Biagini et.al.|[2212.03114v3](http://arxiv.org/abs/2212.03114v3)|null|
-|**2022-03-01**|**Fitting a stochastic model of intensive care occupancy to noisy hospitalization time series during the COVID-19 pandemic**|Achal Awasthi et.al.|[2203.00229v2](http://arxiv.org/abs/2203.00229v2)|null|
-|**2022-12-16**|**Multi-Task Learning for Sparsity Pattern Heterogeneity: A Discrete Optimization Approach**|Gabriel Loewinger et.al.|[2212.08697v1](http://arxiv.org/abs/2212.08697v1)|null|
-|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v7](http://arxiv.org/abs/2010.11114v7)|null|
-|**2022-12-16**|**The CDF penalty:sparse and quasi unbiased estimation in regression models**|Daniele Cuntrera et.al.|[2212.08582v1](http://arxiv.org/abs/2212.08582v1)|null|
 
 ## Non-Euclidean Staistics
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+|**2022-01-04**|**Polyline Simplification under the Local Fréchet Distance has Almost-Quadratic Runtime in 2D**|Sabine Storandt et.al.|[2201.01344v2](http://arxiv.org/abs/2201.01344v2)|null|
+|**2022-12-15**|**Prediction of Model Generalizability for Unseen Data: Methodology and Case Study in Brain Metastases Detection in T1-Weighted Contrast-Enhanced 3D MRI**|Engin Dikici et.al.|[2212.08127v1](http://arxiv.org/abs/2212.08127v1)|null|
+|**2022-12-08**|**Numerical Fréchet derivatives of the displacement tensor for 2.5-D frequency-domain seismic full-waveform inversion in viscoelastic TTI media**|Qingjie Yang et.al.|[2212.04086v2](http://arxiv.org/abs/2212.04086v2)|null|
+|**2022-12-14**|**Approximate Discrete Fréchet distance: simplified, extended and structured**|Ivor van der Hoog et.al.|[2212.07124v1](http://arxiv.org/abs/2212.07124v1)|null|
+|**2022-12-13**|**Chaos for endomorphisms of completely metrizable groups and linear operators on Fréchet spaces**|Zhen Jiang et.al.|[2212.06304v1](http://arxiv.org/abs/2212.06304v1)|null|
+|**2022-12-09**|**Frechet differentiability and quasi-polyhedrality in spaces of operators**|Taduri Srinivasa Siva Rama Krishna Rao et.al.|[2212.05060v1](http://arxiv.org/abs/2212.05060v1)|null|
+|**2021-10-01**|**Dimension Reduction for Fréchet Regression**|Qi Zhang et.al.|[2110.00467v2](http://arxiv.org/abs/2110.00467v2)|null|
+|**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
+|**2022-12-05**|**Branching with selection and mutation I: Mutant fitness of Fréchet type**|Su-Chan Park et.al.|[2212.02631v1](http://arxiv.org/abs/2212.02631v1)|null|
+|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v2](http://arxiv.org/abs/2211.06627v2)|[link](https://github.com/ControlNet/MARLIN)|
+|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
+|**2022-11-25**|**PaCMO: Partner Dependent Human Motion Generation in Dyadic Human Activity using Neural Operators**|Md Ashiqur Rahman et.al.|[2211.16210v1](http://arxiv.org/abs/2211.16210v1)|null|
+|**2022-11-19**|**On Baire property, compactness and completeness properties of spaces of Baire functions**|Alexander V. Osipov et.al.|[2211.10765v1](http://arxiv.org/abs/2211.10765v1)|null|
+|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
 |**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
 |**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
 |**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
@@ -73,23 +72,24 @@
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
 |**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
-|**2020-05-05**|**Finite Sample Smeariness of Fréchet Means and Application to Climate**|Shayan Hundrieser et.al.|[2005.02321v3](http://arxiv.org/abs/2005.02321v3)|null|
 
-### Non Eculidean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-12-15**|**Prediction of Model Generalizability for Unseen Data: Methodology and Case Study in Brain Metastases Detection in T1-Weighted Contrast-Enhanced 3D MRI**|Engin Dikici et.al.|[2212.08127v1](http://arxiv.org/abs/2212.08127v1)|null|
-|**2022-12-08**|**Numerical Fréchet derivatives of the displacement tensor for 2.5-D frequency-domain seismic full-waveform inversion in viscoelastic TTI media**|Qingjie Yang et.al.|[2212.04086v2](http://arxiv.org/abs/2212.04086v2)|null|
-|**2022-12-14**|**Approximate Discrete Fréchet distance: simplified, extended and structured**|Ivor van der Hoog et.al.|[2212.07124v1](http://arxiv.org/abs/2212.07124v1)|null|
-|**2022-12-13**|**Chaos for endomorphisms of completely metrizable groups and linear operators on Fréchet spaces**|Zhen Jiang et.al.|[2212.06304v1](http://arxiv.org/abs/2212.06304v1)|null|
-|**2022-12-09**|**Frechet differentiability and quasi-polyhedrality in spaces of operators**|Taduri Srinivasa Siva Rama Krishna Rao et.al.|[2212.05060v1](http://arxiv.org/abs/2212.05060v1)|null|
-|**2021-10-01**|**Dimension Reduction for Fréchet Regression**|Qi Zhang et.al.|[2110.00467v2](http://arxiv.org/abs/2110.00467v2)|null|
-|**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
-|**2022-12-05**|**Branching with selection and mutation I: Mutant fitness of Fréchet type**|Su-Chan Park et.al.|[2212.02631v1](http://arxiv.org/abs/2212.02631v1)|null|
-|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v2](http://arxiv.org/abs/2211.06627v2)|[link](https://github.com/ControlNet/MARLIN)|
-|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
-|**2022-11-25**|**PaCMO: Partner Dependent Human Motion Generation in Dyadic Human Activity using Neural Operators**|Md Ashiqur Rahman et.al.|[2211.16210v1](http://arxiv.org/abs/2211.16210v1)|null|
-|**2022-11-19**|**On Baire property, compactness and completeness properties of spaces of Baire functions**|Alexander V. Osipov et.al.|[2211.10765v1](http://arxiv.org/abs/2211.10765v1)|null|
-|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
-|**2022-10-28**|**Latent Space is Feature Space: Regularization Term for GANs Training on Limited Dataset**|Pengwei Wang et.al.|[2210.16251v2](http://arxiv.org/abs/2210.16251v2)|[link](https://github.com/penway/lfm)|
-|**2021-05-29**|**Optimality conditions for robust nonsmooth multiobjective optimization problems in Asplund spaces**|Maryam Saadati et.al.|[2105.14366v2](http://arxiv.org/abs/2105.14366v2)|null|
+|**2022-12-23**|**Rényi Distillation for Global Testing in Sparse Regression Problems**|Ryan Christ et.al.|[2212.12539v1](http://arxiv.org/abs/2212.12539v1)|null|
+|**2022-09-07**|**An extension of the Unified Skew-Normal family of distributions and application to Bayesian binary regression**|Paolo Onorati et.al.|[2209.03474v2](http://arxiv.org/abs/2209.03474v2)|null|
+|**2022-03-06**|**Variable Selection with the Knockoffs: Composite Null Hypotheses**|Mehrdad Pournaderi et.al.|[2203.02849v3](http://arxiv.org/abs/2203.02849v3)|null|
+|**2022-12-22**|**A machine learning framework for neighbor generation in metaheuristic search**|Defeng Liu et.al.|[2212.11451v1](http://arxiv.org/abs/2212.11451v1)|null|
+|**2022-12-21**|**Automated identification of linear viscoelastic constitutive laws with EUCLID**|Enzo Marino et.al.|[2212.10969v1](http://arxiv.org/abs/2212.10969v1)|null|
+|**2022-12-20**|**Quark mass dependence of hadron resonances**|Fernando Gil Domínguez et.al.|[2212.10294v1](http://arxiv.org/abs/2212.10294v1)|null|
+|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v3](http://arxiv.org/abs/2211.11383v3)|null|
+|**2022-12-20**|**An Information-Theoretic Approach to Transferability in Task Transfer Learning**|Yajie Bao et.al.|[2212.10082v1](http://arxiv.org/abs/2212.10082v1)|null|
+|**2022-12-20**|**Out-of-sample scoring and automatic selection of causal estimators**|Egor Kraev et.al.|[2212.10076v1](http://arxiv.org/abs/2212.10076v1)|null|
+|**2022-12-20**|**Simultaneous Factors Selection and Fusion of Their Levels in Penalized Logistic Regression**|Lea Kaufmann et.al.|[2212.10073v1](http://arxiv.org/abs/2212.10073v1)|null|
+|**2022-12-19**|**On the Complexity of Representation Learning in Contextual Linear Bandits**|Andrea Tirinzoni et.al.|[2212.09429v1](http://arxiv.org/abs/2212.09429v1)|null|
+|**2022-12-06**|**Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis**|Luigi Biagini et.al.|[2212.03092v3](http://arxiv.org/abs/2212.03092v3)|null|
+|**2022-12-06**|**Applications of Machine Learning for the Ratemaking in Agricultural Insurances**|Luigi Biagini et.al.|[2212.03114v3](http://arxiv.org/abs/2212.03114v3)|null|
+|**2022-03-01**|**Fitting a stochastic model of intensive care occupancy to noisy hospitalization time series during the COVID-19 pandemic**|Achal Awasthi et.al.|[2203.00229v2](http://arxiv.org/abs/2203.00229v2)|null|
+|**2022-12-16**|**Multi-Task Learning for Sparsity Pattern Heterogeneity: A Discrete Optimization Approach**|Gabriel Loewinger et.al.|[2212.08697v1](http://arxiv.org/abs/2212.08697v1)|null|
