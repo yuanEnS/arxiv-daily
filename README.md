@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2022-12-29 07:24:26 Asia/Shanghai
+ Automated deployment @ 2022-12-29 19:21:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-01**|**Efficient Graph Neural Network Inference at Large Scale**|Xinyi Gao et.al.|[2211.00495v3](http://arxiv.org/abs/2211.00495v3)|null|
+|**2022-06-18**|**Beyond Real-world Benchmark Datasets: An Empirical Study of Node Classification with GNNs**|Seiji Maekawa et.al.|[2206.09144v6](http://arxiv.org/abs/2206.09144v6)|[link](https://github.com/seijimaekawa/empirical-study-of-gnns)|
+|**2022-12-28**|**PersonaSAGE: A Multi-Persona Graph Neural Network**|Gautam Choudhary et.al.|[2212.13709v1](http://arxiv.org/abs/2212.13709v1)|null|
+|**2020-03-02**|**Benchmarking Graph Neural Networks**|Vijay Prakash Dwivedi et.al.|[2003.00982v5](http://arxiv.org/abs/2003.00982v5)|[link](https://github.com/karl-zhao/benchmarking-gnns-pyg)|
+|**2022-10-03**|**Deep Spatial Domain Generalization**|Dazhou Yu et.al.|[2210.00729v2](http://arxiv.org/abs/2210.00729v2)|[link](https://github.com/dyu62/deep-domain-generalization)|
+|**2022-12-27**|**EDoG: Adversarial Edge Detection For Graph Neural Networks**|Xiaojun Xu et.al.|[2212.13607v1](http://arxiv.org/abs/2212.13607v1)|null|
+|**2022-11-29**|**On the Ability of Graph Neural Networks to Model Interactions Between Vertices**|Noam Razin et.al.|[2211.16494v3](http://arxiv.org/abs/2211.16494v3)|[link](https://github.com/noamrazin/gnn_interactions)|
+|**2022-10-07**|**ProGReST: Prototypical Graph Regression Soft Trees for Molecular Property Prediction**|Dawid Rymarczyk et.al.|[2210.03745v2](http://arxiv.org/abs/2210.03745v2)|[link](https://github.com/gmum/progrest)|
+|**2022-12-21**|**GraphIX: Graph-based In silico XAI(explainable artificial intelligence) for drug repositioning from biopharmaceutical network**|Atsuko Takagi et.al.|[2212.10788v2](http://arxiv.org/abs/2212.10788v2)|null|
+|**2022-12-24**|**Multi-duplicated Characterization of Graph Structures using Information Gain Ratio for Graph Neural Networks**|Yuga Oishi et.al.|[2212.12691v2](http://arxiv.org/abs/2212.12691v2)|null|
+|**2022-12-27**|**A Generalization of ViT/MLP-Mixer to Graphs**|Xiaoxin He et.al.|[2212.13350v1](http://arxiv.org/abs/2212.13350v1)|[link](https://github.com/xiaoxinhe/graph-mlpmixer)|
 |**2022-12-26**|**2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance**|Andrea Cavallo et.al.|[2212.13202v1](http://arxiv.org/abs/2212.13202v1)|null|
 |**2022-12-26**|**Statistical Mechanics of Generalization In Graph Convolution Networks**|Cheng Shi et.al.|[2212.13069v1](http://arxiv.org/abs/2212.13069v1)|null|
-|**2022-12-25**|**Refined Edge Usage of Graph Neural Networks for Edge Prediction**|Jiarui Jin et.al.|[2212.12970v1](http://arxiv.org/abs/2212.12970v1)|null|
-|**2022-12-24**|**GraphCast: Learning skillful medium-range global weather forecasting**|Remi Lam et.al.|[2212.12794v1](http://arxiv.org/abs/2212.12794v1)|null|
-|**2022-12-24**|**T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and Structure via Teacher-Student Distillation**|Cuiying Huo et.al.|[2212.12738v1](http://arxiv.org/abs/2212.12738v1)|null|
-|**2022-12-24**|**Multi-duplicated Characterization of Graph Structures using Information Gain Ratio for Graph Neural Networks**|Y. Oishi et.al.|[2212.12691v1](http://arxiv.org/abs/2212.12691v1)|null|
-|**2022-12-24**|**STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension**|Borui Wang et.al.|[2212.12652v1](http://arxiv.org/abs/2212.12652v1)|null|
-|**2022-12-24**|**Nothing Stands Alone: Relational Fake News Detection with Hypergraph Neural Networks**|Ujun Jeong et.al.|[2212.12621v1](http://arxiv.org/abs/2212.12621v1)|[link](https://github.com/ujeong1/IEEEBigdata22_HGFND)|
-|**2022-12-23**|**Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection**|Qiaoyu Tan et.al.|[2212.12488v1](http://arxiv.org/abs/2212.12488v1)|[link](https://github.com/qiaoyu-tan/ps2)|
-|**2022-12-23**|**Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow**|Ángela López-Cardona et.al.|[2212.12470v1](http://arxiv.org/abs/2212.12470v1)|null|
-|**2022-05-31**|**Label-Enhanced Graph Neural Network for Semi-supervised Node Classification**|Le Yu et.al.|[2205.15653v2](http://arxiv.org/abs/2205.15653v2)|[link](https://github.com/yule-BUAA/LEGNN)|
-|**2022-04-28**|**Distributed Auto-Learning GNN for Multi-Cell Cluster-Free NOMA Communications**|Xiaoxia Xu et.al.|[2204.13766v2](http://arxiv.org/abs/2204.13766v2)|null|
-|**2022-12-22**|**RouteNet-Fermi: Network Modeling with Graph Neural Networks**|Miquel Ferriol-Galmés et.al.|[2212.12070v1](http://arxiv.org/abs/2212.12070v1)|null|
-|**2022-10-05**|**Bi-Stride Multi-Scale Graph Neural Network for Mesh-Based Physical Simulation**|Yadi Cao et.al.|[2210.02573v2](http://arxiv.org/abs/2210.02573v2)|[link](https://github.com/eydcao/bsms-gnn)|
-|**2022-04-06**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v4](http://arxiv.org/abs/2204.03080v4)|null|
+|**2022-12-26**|**Investigation and rectification of NIDS datasets and standratized feature set derivation for network attack detection with graph neural networks**|Anton Raskovalov et.al.|[2212.13994v1](http://arxiv.org/abs/2212.13994v1)|null|
+|**2022-12-26**|**A Novel Self-Supervised Learning-Based Anomaly Node Detection Method Based on an Autoencoder in Wireless Sensor Networks**|Miao Ye et.al.|[2212.13904v1](http://arxiv.org/abs/2212.13904v1)|[link](https://github.com/guetye/anomaly_detection)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,12 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-28**|**Building Segmentation on Satellite Images and Performance of Post-Processing Methods**|Metehan Yalçın et.al.|[2212.13712v1](http://arxiv.org/abs/2212.13712v1)|null|
+|**2022-12-27**|**Fast and fully-automated histograms for large-scale data sets**|Valentina Zelaya Mendizábal et.al.|[2212.13524v1](http://arxiv.org/abs/2212.13524v1)|null|
+|**2021-10-27**|**Doubly Robust Criterion for Causal Inference**|Takamichi Baba et.al.|[2110.14525v3](http://arxiv.org/abs/2110.14525v3)|null|
+|**2022-01-04**|**Towards Transferable Unrestricted Adversarial Examples with Minimum Changes**|Fangcheng Liu et.al.|[2201.01102v2](http://arxiv.org/abs/2201.01102v2)|[link](https://github.com/Equationliu/GA-Attack)|
+|**2022-12-26**|**Bayesian indicator variable selection of multivariate response with heterogeneous sparsity for multi-trait fine mapping**|Travis Canida et.al.|[2212.13294v1](http://arxiv.org/abs/2212.13294v1)|null|
+|**2022-12-26**|**Robust distance correlation for variable screening**|Tianzhou Ma et.al.|[2212.13292v1](http://arxiv.org/abs/2212.13292v1)|null|
 |**2022-12-24**|**Mantis: Enabling Energy-Efficient Autonomous Mobile Agents with Spiking Neural Networks**|Rachmad Vidya Wicaksana Putra et.al.|[2212.12620v1](http://arxiv.org/abs/2212.12620v1)|null|
 |**2022-12-23**|**Rényi Distillation for Global Testing in Sparse Regression Problems**|Ryan Christ et.al.|[2212.12539v1](http://arxiv.org/abs/2212.12539v1)|null|
 |**2022-12-23**|**Statistical inference with normal-compound gamma priors in regression models**|Ahmed Alhamzawi et.al.|[2212.13144v1](http://arxiv.org/abs/2212.13144v1)|null|
@@ -87,9 +93,3 @@
 |**2022-12-21**|**Automated identification of linear viscoelastic constitutive laws with EUCLID**|Enzo Marino et.al.|[2212.10969v1](http://arxiv.org/abs/2212.10969v1)|null|
 |**2022-12-20**|**Quark mass dependence of hadron resonances**|Fernando Gil Domínguez et.al.|[2212.10294v1](http://arxiv.org/abs/2212.10294v1)|null|
 |**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v3](http://arxiv.org/abs/2211.11383v3)|null|
-|**2022-12-20**|**An Information-Theoretic Approach to Transferability in Task Transfer Learning**|Yajie Bao et.al.|[2212.10082v1](http://arxiv.org/abs/2212.10082v1)|null|
-|**2022-12-20**|**Out-of-sample scoring and automatic selection of causal estimators**|Egor Kraev et.al.|[2212.10076v1](http://arxiv.org/abs/2212.10076v1)|null|
-|**2022-12-20**|**Simultaneous Factors Selection and Fusion of Their Levels in Penalized Logistic Regression**|Lea Kaufmann et.al.|[2212.10073v1](http://arxiv.org/abs/2212.10073v1)|null|
-|**2022-12-19**|**On the Complexity of Representation Learning in Contextual Linear Bandits**|Andrea Tirinzoni et.al.|[2212.09429v1](http://arxiv.org/abs/2212.09429v1)|null|
-|**2022-12-06**|**Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis**|Luigi Biagini et.al.|[2212.03092v3](http://arxiv.org/abs/2212.03092v3)|null|
-|**2022-12-06**|**Applications of Machine Learning for the Ratemaking in Agricultural Insurances**|Luigi Biagini et.al.|[2212.03114v3](http://arxiv.org/abs/2212.03114v3)|null|
