@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-07 07:23:33 Asia/Shanghai
+ Automated deployment @ 2023-01-07 19:20:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -82,7 +82,7 @@
 |**2023-01-05**|**Model selection for GRB 211211A through multi-wavelength analyses**|Nina Kunert et.al.|[2301.02049v1](http://arxiv.org/abs/2301.02049v1)|null|
 |**2023-01-05**|**Training a Deep Q-Learning Agent Inside a Generic Constraint Programming Solver**|Tom Marty et.al.|[2301.01913v1](http://arxiv.org/abs/2301.01913v1)|null|
 |**2023-01-04**|**Projection predictive variable selection for discrete response families with finite support**|Frank Weber et.al.|[2301.01660v1](http://arxiv.org/abs/2301.01660v1)|null|
-|**2023-01-03**|**Binary black hole spins: model selection with GWTC-3**|Périgois Carole et.al.|[2301.01312v1](http://arxiv.org/abs/2301.01312v1)|null|
+|**2023-01-03**|**Binary black hole spins: model selection with GWTC-3**|Périgois Carole et.al.|[2301.01312v1](http://arxiv.org/abs/2301.01312v1)|[link](https://gitlab.com/micmap/mobse_open)|
 |**2022-09-26**|**A Bayesian constitutive model selection framework for biaxial mechanical testing of planar soft tissues: application to porcine aortic valves**|Ankush Aggarwal et.al.|[2209.13038v2](http://arxiv.org/abs/2209.13038v2)|null|
 |**2021-10-22**|**Fast and Accurate Graph Learning for Huge Data via Minipatch Ensembles**|Tianyi Yao et.al.|[2110.12067v2](http://arxiv.org/abs/2110.12067v2)|null|
 |**2022-03-14**|**Mixture Components Inference for Sparse Regression: Introduction and Application for Estimation of Neuronal Signal from fMRI BOLD**|Anna Pidnebesna et.al.|[2203.07209v3](http://arxiv.org/abs/2203.07209v3)|null|
