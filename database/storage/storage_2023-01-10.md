@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-10 07:25:34 Asia/Shanghai
+ Automated deployment @ 2023-01-10 19:22:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-09**|**SCENE: Reasoning about Traffic Scenes using Heterogeneous Graph Neural Networks**|Thomas Monninger et.al.|[2301.03512v1](http://arxiv.org/abs/2301.03512v1)|null|
+|**2022-05-21**|**GNN-Enhanced Approximate Message Passing for Massive/Ultra-Massive MIMO Detection**|Hengtao He et.al.|[2205.10620v3](http://arxiv.org/abs/2205.10620v3)|null|
+|**2023-01-09**|**Graph Neural Networks for Aerodynamic Flow Reconstruction from Sparse Sensing**|Gregory Duthé et.al.|[2301.03228v1](http://arxiv.org/abs/2301.03228v1)|null|
+|**2023-01-08**|**Comprehensive Mapping of Continuous/Switching Circuits in CCM and DCM to Machine Learning Domain using Homogeneous Graph Neural Networks**|Ahmed K. Khamis et.al.|[2301.03098v1](http://arxiv.org/abs/2301.03098v1)|null|
+|**2023-01-08**|**AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network**|Guanghui Zhu et.al.|[2301.03049v1](http://arxiv.org/abs/2301.03049v1)|[link](https://github.com/pasalab/autoac)|
+|**2022-05-15**|**Discovering and Explaining the Representation Bottleneck of Graph Neural Networks from Multi-order Interactions**|Fang Wu et.al.|[2205.07266v4](http://arxiv.org/abs/2205.07266v4)|[link](https://github.com/smiles724/bottleneck)|
+|**2022-01-30**|**GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks**|Chenhui Deng et.al.|[2201.12741v6](http://arxiv.org/abs/2201.12741v6)|[link](https://github.com/cornell-zhang/garnet)|
+|**2023-01-07**|**Reducing Over-smoothing in Graph Neural Networks Using Relational Embeddings**|Yeskendir Koishekenov et.al.|[2301.02924v1](http://arxiv.org/abs/2301.02924v1)|null|
+|**2023-01-07**|**Faithful and Consistent Graph Neural Network Explanations with Rationale Alignment**|Tianxiang Zhao et.al.|[2301.02791v1](http://arxiv.org/abs/2301.02791v1)|null|
+|**2021-03-28**|**InsertGNN: Can Graph Neural Networks Outperform Humans in TOEFL Sentence Insertion Problem?**|Fang Wu et.al.|[2103.15066v2](http://arxiv.org/abs/2103.15066v2)|[link](https://github.com/smiles724/toefl-sentence-insertion-dataset)|
+|**2023-01-07**|**Explaining Graph Neural Networks via Non-parametric Subgraph Matching**|Fang Wu et.al.|[2301.02780v1](http://arxiv.org/abs/2301.02780v1)|null|
+|**2023-01-06**|**CFG2VEC: Hierarchical Graph Neural Network for Cross-Architectural Software Reverse Engineering**|Shih-Yuan Yu et.al.|[2301.02723v1](http://arxiv.org/abs/2301.02723v1)|null|
 |**2023-01-06**|**GNN-based Passenger Request Prediction**|Aqsa Ashraf Makhdomi et.al.|[2301.02515v1](http://arxiv.org/abs/2301.02515v1)|null|
 |**2022-02-09**|**Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**|Cristian Bodnar et.al.|[2202.04579v4](http://arxiv.org/abs/2202.04579v4)|[link](https://github.com/twitter-research/neural-sheaf-diffusion)|
 |**2023-01-06**|**Topics as Entity Clusters: Entity-based Topics from Language Models and Graph Neural Networks**|Manuel V. Loureiro et.al.|[2301.02458v1](http://arxiv.org/abs/2301.02458v1)|null|
-|**2023-01-06**|**ReVoLT: Relational Reasoning and Voronoi Local Graph Planning for Target-driven Navigation**|Junjia Liu et.al.|[2301.02382v1](http://arxiv.org/abs/2301.02382v1)|null|
-|**2022-05-26**|**How Powerful are K-hop Message Passing Graph Neural Networks**|Jiarui Feng et.al.|[2205.13328v4](http://arxiv.org/abs/2205.13328v4)|[link](https://github.com/JiaruiFeng/KP-GNN)|
-|**2023-01-05**|**Virtual Node Graph Neural Network for Full Phonon Prediction**|Ryotaro Okabe et.al.|[2301.02197v1](http://arxiv.org/abs/2301.02197v1)|[link](https://github.com/RyotaroOKabe/phonon_prediction)|
-|**2023-01-05**|**Randomized Message-Interception Smoothing: Gray-box Certificates for Graph Neural Networks**|Yan Scholten et.al.|[2301.02039v1](http://arxiv.org/abs/2301.02039v1)|null|
-|**2023-01-01**|**PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs**|Chunyang Wang et.al.|[2301.00391v2](http://arxiv.org/abs/2301.00391v2)|null|
-|**2023-01-05**|**Training a Deep Q-Learning Agent Inside a Generic Constraint Programming Solver**|Tom Marty et.al.|[2301.01913v1](http://arxiv.org/abs/2301.01913v1)|null|
-|**2023-01-04**|**Deep Statistical Solver for Distribution System State Estimation**|Benjamin Habib et.al.|[2301.01835v1](http://arxiv.org/abs/2301.01835v1)|null|
-|**2023-01-04**|**GUAP: Graph Universal Attack Through Adversarial Patching**|Xiao Zang et.al.|[2301.01731v1](http://arxiv.org/abs/2301.01731v1)|null|
-|**2023-01-04**|**CI-GNN: A Granger Causality-Inspired Graph Neural Network for Interpretable Brain Network-Based Psychiatric Diagnosis**|Kaizhong Zheng et.al.|[2301.01642v1](http://arxiv.org/abs/2301.01642v1)|null|
-|**2021-11-25**|**Learning to Search in Task and Motion Planning with Streams**|Mohamed Khodeir et.al.|[2111.13144v4](http://arxiv.org/abs/2111.13144v4)|null|
-|**2023-01-04**|**Accurate, Low-latency, Efficient SAR Automatic Target Recognition on FPGA**|Bingyi Zhang et.al.|[2301.01454v1](http://arxiv.org/abs/2301.01454v1)|null|
-|**2023-01-03**|**RELIANT: Fair Knowledge Distillation for Graph Neural Networks**|Yushun Dong et.al.|[2301.01150v2](http://arxiv.org/abs/2301.01150v2)|[link](https://github.com/yushundong/reliant)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,12 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-26**|**Verifying Learning-Based Robotic Navigation Systems**|Guy Amir et.al.|[2205.13536v2](http://arxiv.org/abs/2205.13536v2)|null|
+|**2023-01-03**|**Binary black hole spins: model selection with GWTC-3**|Carole Périgois et.al.|[2301.01312v2](http://arxiv.org/abs/2301.01312v2)|[link](https://gitlab.com/micmap/mobse_open)|
+|**2022-02-04**|**Posterior Representations for Bayesian Context Trees: Sampling, Estimation and Convergence**|Ioannis Papageorgiou et.al.|[2202.02239v3](http://arxiv.org/abs/2202.02239v3)|null|
+|**2023-01-08**|**A Modelling Framework for Regression with Collinearity**|Takeaki Kariya et.al.|[2301.03015v1](http://arxiv.org/abs/2301.03015v1)|null|
+|**2023-01-07**|**Model selection for network data based on spectral information**|Jairo Ivan Peña Hidalgo et.al.|[2301.02871v1](http://arxiv.org/abs/2301.02871v1)|null|
+|**2022-07-23**|**Exploration in Linear Bandits with Rich Action Sets and its Implications for Inference**|Debangshu Banerjee et.al.|[2207.11597v3](http://arxiv.org/abs/2207.11597v3)|null|
 |**2014-04-10**|**Rate optimal multiple testing procedure in high-dimensional regression**|Pengsheng Ji et.al.|[1404.2961v4](http://arxiv.org/abs/1404.2961v4)|null|
 |**2020-04-09**|**Reliable Time Prediction in the Markov Stochastic Block Model**|Quentin Duchemin et.al.|[2004.04402v3](http://arxiv.org/abs/2004.04402v3)|[link](https://github.com/quentin-duchemin/inference-markovian-SBM)|
 |**2023-01-06**|**Non-parametric Multi-Partitions Clustering**|Marie du Roy de Chaumaray et.al.|[2301.02422v1](http://arxiv.org/abs/2301.02422v1)|null|
@@ -86,10 +92,4 @@
 |**2023-01-05**|**Model selection for GRB 211211A through multi-wavelength analyses**|Nina Kunert et.al.|[2301.02049v1](http://arxiv.org/abs/2301.02049v1)|null|
 |**2023-01-05**|**Training a Deep Q-Learning Agent Inside a Generic Constraint Programming Solver**|Tom Marty et.al.|[2301.01913v1](http://arxiv.org/abs/2301.01913v1)|null|
 |**2023-01-04**|**Projection predictive variable selection for discrete response families with finite support**|Frank Weber et.al.|[2301.01660v1](http://arxiv.org/abs/2301.01660v1)|null|
-|**2023-01-03**|**Binary black hole spins: model selection with GWTC-3**|Périgois Carole et.al.|[2301.01312v1](http://arxiv.org/abs/2301.01312v1)|[link](https://gitlab.com/micmap/mobse_open)|
 |**2022-09-26**|**A Bayesian constitutive model selection framework for biaxial mechanical testing of planar soft tissues: application to porcine aortic valves**|Ankush Aggarwal et.al.|[2209.13038v2](http://arxiv.org/abs/2209.13038v2)|null|
-|**2021-10-22**|**Fast and Accurate Graph Learning for Huge Data via Minipatch Ensembles**|Tianyi Yao et.al.|[2110.12067v2](http://arxiv.org/abs/2110.12067v2)|null|
-|**2022-03-14**|**Mixture Components Inference for Sparse Regression: Introduction and Application for Estimation of Neuronal Signal from fMRI BOLD**|Anna Pidnebesna et.al.|[2203.07209v3](http://arxiv.org/abs/2203.07209v3)|null|
-|**2022-11-11**|**Online Linearized LASSO**|Shuoguang Yang et.al.|[2211.06039v2](http://arxiv.org/abs/2211.06039v2)|null|
-|**2022-12-31**|**On High dimensional Poisson models with measurement error: hypothesis testing for nonlinear nonconvex optimization**|Fei Jiang et.al.|[2301.00139v1](http://arxiv.org/abs/2301.00139v1)|null|
-|**2022-12-30**|**Robust machine learning pipelines for trading market-neutral stock portfolios**|Thomas Wong et.al.|[2301.00790v1](http://arxiv.org/abs/2301.00790v1)|null|
