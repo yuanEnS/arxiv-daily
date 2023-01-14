@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-14 07:25:02 Asia/Shanghai
+ Automated deployment @ 2023-01-14 19:20:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -33,46 +33,6 @@
 |**2023-01-10**|**Inferring Gene Regulatory Neural Networks for Bacterial Decision Making in Biofilms**|Samitha Somathilaka et.al.|[2301.04225v1](http://arxiv.org/abs/2301.04225v1)|null|
 |**2023-01-10**|**InstaGraM: Instance-level Graph Modeling for Vectorized HD Map Learning**|Juyeb Shin et.al.|[2301.04470v1](http://arxiv.org/abs/2301.04470v1)|null|
 
-## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-10**|**Diffusion Models For Stronger Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v1](http://arxiv.org/abs/2301.04218v1)|null|
-|**2023-01-01**|**Weighted nonlinear flag manifolds as coadjoint orbits**|Stefan Haller et.al.|[2301.00428v1](http://arxiv.org/abs/2301.00428v1)|null|
-|**2022-12-31**|**Characteristic Curves and the exponentiation in the Riordan Lie group: A connection through examples**|Pedro J. Chocano et.al.|[2301.00173v1](http://arxiv.org/abs/2301.00173v1)|null|
-|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
-|**2022-01-04**|**Polyline Simplification under the Local Fréchet Distance has Almost-Quadratic Runtime in 2D**|Sabine Storandt et.al.|[2201.01344v2](http://arxiv.org/abs/2201.01344v2)|null|
-|**2022-12-15**|**Prediction of Model Generalizability for Unseen Data: Methodology and Case Study in Brain Metastases Detection in T1-Weighted Contrast-Enhanced 3D MRI**|Engin Dikici et.al.|[2212.08127v1](http://arxiv.org/abs/2212.08127v1)|null|
-|**2022-12-08**|**Numerical Fréchet derivatives of the displacement tensor for 2.5-D frequency-domain seismic full-waveform inversion in viscoelastic TTI media**|Qingjie Yang et.al.|[2212.04086v2](http://arxiv.org/abs/2212.04086v2)|null|
-|**2022-12-14**|**Approximate Discrete Fréchet distance: simplified, extended and structured**|Ivor van der Hoog et.al.|[2212.07124v1](http://arxiv.org/abs/2212.07124v1)|null|
-|**2022-12-13**|**Chaos for endomorphisms of completely metrizable groups and linear operators on Fréchet spaces**|Zhen Jiang et.al.|[2212.06304v1](http://arxiv.org/abs/2212.06304v1)|null|
-|**2022-12-09**|**Frechet differentiability and quasi-polyhedrality in spaces of operators**|Taduri Srinivasa Siva Rama Krishna Rao et.al.|[2212.05060v1](http://arxiv.org/abs/2212.05060v1)|null|
-|**2021-10-01**|**Dimension Reduction for Fréchet Regression**|Qi Zhang et.al.|[2110.00467v2](http://arxiv.org/abs/2110.00467v2)|null|
-|**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
-|**2022-12-05**|**Branching with selection and mutation I: Mutant fitness of Fréchet type**|Su-Chan Park et.al.|[2212.02631v1](http://arxiv.org/abs/2212.02631v1)|null|
-|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v2](http://arxiv.org/abs/2211.06627v2)|[link](https://github.com/ControlNet/MARLIN)|
-|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
-
-### Frechet Mean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
-|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
-|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
-|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
-|**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
-|**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v1](http://arxiv.org/abs/2210.05509v1)|null|
-|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
-|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
-|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
-|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
-|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
-|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
-|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
-
 ## Variable Selection
 
 ### Variable selection
@@ -93,3 +53,43 @@
 |**2022-07-23**|**Exploration in Linear Bandits with Rich Action Sets and its Implications for Inference**|Debangshu Banerjee et.al.|[2207.11597v3](http://arxiv.org/abs/2207.11597v3)|null|
 |**2014-04-10**|**Rate optimal multiple testing procedure in high-dimensional regression**|Pengsheng Ji et.al.|[1404.2961v4](http://arxiv.org/abs/1404.2961v4)|null|
 |**2020-04-09**|**Reliable Time Prediction in the Markov Stochastic Block Model**|Quentin Duchemin et.al.|[2004.04402v3](http://arxiv.org/abs/2004.04402v3)|[link](https://github.com/quentin-duchemin/inference-markovian-SBM)|
+
+## Non-Euclidean Staistics
+
+### Frechet Mean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
+|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
+|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
+|**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
+|**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v1](http://arxiv.org/abs/2210.05509v1)|null|
+|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
+|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
+|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
+|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
+|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
+|**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-10**|**Diffusion Models For Stronger Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v1](http://arxiv.org/abs/2301.04218v1)|null|
+|**2023-01-01**|**Weighted nonlinear flag manifolds as coadjoint orbits**|Stefan Haller et.al.|[2301.00428v1](http://arxiv.org/abs/2301.00428v1)|null|
+|**2022-12-31**|**Characteristic Curves and the exponentiation in the Riordan Lie group: A connection through examples**|Pedro J. Chocano et.al.|[2301.00173v1](http://arxiv.org/abs/2301.00173v1)|null|
+|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+|**2022-01-04**|**Polyline Simplification under the Local Fréchet Distance has Almost-Quadratic Runtime in 2D**|Sabine Storandt et.al.|[2201.01344v2](http://arxiv.org/abs/2201.01344v2)|null|
+|**2022-12-15**|**Prediction of Model Generalizability for Unseen Data: Methodology and Case Study in Brain Metastases Detection in T1-Weighted Contrast-Enhanced 3D MRI**|Engin Dikici et.al.|[2212.08127v1](http://arxiv.org/abs/2212.08127v1)|null|
+|**2022-12-08**|**Numerical Fréchet derivatives of the displacement tensor for 2.5-D frequency-domain seismic full-waveform inversion in viscoelastic TTI media**|Qingjie Yang et.al.|[2212.04086v2](http://arxiv.org/abs/2212.04086v2)|null|
+|**2022-12-14**|**Approximate Discrete Fréchet distance: simplified, extended and structured**|Ivor van der Hoog et.al.|[2212.07124v1](http://arxiv.org/abs/2212.07124v1)|null|
+|**2022-12-13**|**Chaos for endomorphisms of completely metrizable groups and linear operators on Fréchet spaces**|Zhen Jiang et.al.|[2212.06304v1](http://arxiv.org/abs/2212.06304v1)|null|
+|**2022-12-09**|**Frechet differentiability and quasi-polyhedrality in spaces of operators**|Taduri Srinivasa Siva Rama Krishna Rao et.al.|[2212.05060v1](http://arxiv.org/abs/2212.05060v1)|null|
+|**2021-10-01**|**Dimension Reduction for Fréchet Regression**|Qi Zhang et.al.|[2110.00467v2](http://arxiv.org/abs/2110.00467v2)|null|
+|**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
+|**2022-12-05**|**Branching with selection and mutation I: Mutant fitness of Fréchet type**|Su-Chan Park et.al.|[2212.02631v1](http://arxiv.org/abs/2212.02631v1)|null|
+|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v2](http://arxiv.org/abs/2211.06627v2)|[link](https://github.com/ControlNet/MARLIN)|
+|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
