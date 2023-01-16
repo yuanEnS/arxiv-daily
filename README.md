@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-16 07:25:17 Asia/Shanghai
+ Automated deployment @ 2023-01-16 19:21:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,8 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-14**|**Universally Expressive Communication in Multi-Agent Reinforcement Learning**|Matthew Morris et.al.|[2206.06758v3](http://arxiv.org/abs/2206.06758v3)|null|
+|**2022-06-03**|**A Deep Reinforcement Learning Framework For Column Generation**|Cheng Chi et.al.|[2206.02568v3](http://arxiv.org/abs/2206.02568v3)|null|
 |**2022-11-02**|**DeepTrace: Learning to Optimize Contact Tracing in Epidemic Networks with Graph Neural Networks**|Chee Wei Tan et.al.|[2211.00880v2](http://arxiv.org/abs/2211.00880v2)|null|
 |**2023-01-12**|**Modeling the evolution of temporal knowledge graphs with uncertainty**|Soeren Nolting et.al.|[2301.04977v1](http://arxiv.org/abs/2301.04977v1)|null|
 |**2023-01-12**|**Universality of neural dynamics on complex networks**|Vaiva Vasiliauskaite et.al.|[2301.04900v1](http://arxiv.org/abs/2301.04900v1)|null|
@@ -30,29 +32,6 @@
 |**2023-01-11**|**Predicting Tags For Programming Tasks by Combining Textual And Source Code Data**|Artyom Lobanov et.al.|[2301.04597v1](http://arxiv.org/abs/2301.04597v1)|null|
 |**2023-01-11**|**Determinate Node Selection for Semi-supervised Classification Oriented Graph Convolutional Networks**|Yao Xiao et.al.|[2301.04381v1](http://arxiv.org/abs/2301.04381v1)|null|
 |**2022-12-07**|**Learning Graph Search Heuristics**|Michal Pándy et.al.|[2212.03978v2](http://arxiv.org/abs/2212.03978v2)|null|
-|**2023-01-10**|**Inferring Gene Regulatory Neural Networks for Bacterial Decision Making in Biofilms**|Samitha Somathilaka et.al.|[2301.04225v1](http://arxiv.org/abs/2301.04225v1)|null|
-|**2023-01-10**|**InstaGraM: Instance-level Graph Modeling for Vectorized HD Map Learning**|Juyeb Shin et.al.|[2301.04470v1](http://arxiv.org/abs/2301.04470v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-25**|**Time Series Clustering with an EM algorithm for Mixtures of Linear Gaussian State Space Models**|Ryohei Umatani et.al.|[2208.11907v2](http://arxiv.org/abs/2208.11907v2)|[link](https://github.com/ur17/em_mlgssm)|
-|**2023-01-12**|**Closely estimating the entropy of sparse graph models**|Edward D. Lee et.al.|[2301.04768v1](http://arxiv.org/abs/2301.04768v1)|[link](https://github.com/eltrompetero/treeent)|
-|**2021-10-06**|**Variable Selection Using a Smooth Information Criterion for Distributional Regression Models**|Meadhbh O'Neill et.al.|[2110.02643v2](http://arxiv.org/abs/2110.02643v2)|null|
-|**2022-12-14**|**Robust Distributional Regression with Automatic Variable Selection**|Meadhbh O'Neill et.al.|[2212.07317v2](http://arxiv.org/abs/2212.07317v2)|null|
-|**2023-01-11**|**RobustIV and controlfunctionIV: Causal Inference for Linear and Nonlinear Models with Invalid Instrumental Variables**|Taehyeon Koo et.al.|[2301.04412v1](http://arxiv.org/abs/2301.04412v1)|null|
-|**2021-10-21**|**DIF Statistical Inference without Knowing Anchoring Items**|Yunxiao Chen et.al.|[2110.11112v2](http://arxiv.org/abs/2110.11112v2)|null|
-|**2022-05-26**|**Verifying Learning-Based Robotic Navigation Systems**|Guy Amir et.al.|[2205.13536v3](http://arxiv.org/abs/2205.13536v3)|null|
-|**2023-01-09**|**Locally sparse quantile estimation for a partially functional interaction model**|Weijuan Liang et.al.|[2301.03705v1](http://arxiv.org/abs/2301.03705v1)|[link](https://github.com/weijuanliang12138/SHLoS-R-Code)|
-|**2023-01-03**|**Binary black hole spins: model selection with GWTC-3**|Carole Périgois et.al.|[2301.01312v2](http://arxiv.org/abs/2301.01312v2)|[link](https://gitlab.com/micmap/mobse_open)|
-|**2022-02-04**|**Posterior Representations for Bayesian Context Trees: Sampling, Estimation and Convergence**|Ioannis Papageorgiou et.al.|[2202.02239v3](http://arxiv.org/abs/2202.02239v3)|null|
-|**2023-01-08**|**A Modelling Framework for Regression with Collinearity**|Takeaki Kariya et.al.|[2301.03015v1](http://arxiv.org/abs/2301.03015v1)|null|
-|**2023-01-07**|**Model selection for network data based on spectral information**|Jairo Ivan Peña Hidalgo et.al.|[2301.02871v1](http://arxiv.org/abs/2301.02871v1)|null|
-|**2022-07-23**|**Exploration in Linear Bandits with Rich Action Sets and its Implications for Inference**|Debangshu Banerjee et.al.|[2207.11597v3](http://arxiv.org/abs/2207.11597v3)|null|
-|**2014-04-10**|**Rate optimal multiple testing procedure in high-dimensional regression**|Pengsheng Ji et.al.|[1404.2961v4](http://arxiv.org/abs/1404.2961v4)|null|
-|**2020-04-09**|**Reliable Time Prediction in the Markov Stochastic Block Model**|Quentin Duchemin et.al.|[2004.04402v3](http://arxiv.org/abs/2004.04402v3)|[link](https://github.com/quentin-duchemin/inference-markovian-SBM)|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
 |**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v8](http://arxiv.org/abs/2010.11114v8)|null|
+|**2023-01-13**|**Guidelines for the use of spatially-varying coefficients in species distribution models**|Jeffrey W. Doser et.al.|[2301.05645v1](http://arxiv.org/abs/2301.05645v1)|null|
+|**2022-04-12**|**A fully Bayesian sparse polynomial chaos expansion approach with joint priors on the coefficients and global selection of terms**|Paul-Christian Bürkner et.al.|[2204.06043v2](http://arxiv.org/abs/2204.06043v2)|[link](https://github.com/paul-buerkner/bayesian-sparse-pce)|
+|**2022-08-02**|**Modeling kilonova afterglows: Effects of the thermal electron population and interaction with GRB outflows**|Vsevolod Nedora et.al.|[2208.01558v2](http://arxiv.org/abs/2208.01558v2)|null|
+|**2023-01-12**|**Model selection in atomistic simulation**|Jonathan E. Moussa et.al.|[2301.05287v1](http://arxiv.org/abs/2301.05287v1)|null|
+|**2022-08-25**|**Time Series Clustering with an EM algorithm for Mixtures of Linear Gaussian State Space Models**|Ryohei Umatani et.al.|[2208.11907v2](http://arxiv.org/abs/2208.11907v2)|[link](https://github.com/ur17/em_mlgssm)|
+|**2023-01-12**|**Closely estimating the entropy of sparse graph models**|Edward D. Lee et.al.|[2301.04768v1](http://arxiv.org/abs/2301.04768v1)|[link](https://github.com/eltrompetero/treeent)|
+|**2021-10-06**|**Variable Selection Using a Smooth Information Criterion for Distributional Regression Models**|Meadhbh O'Neill et.al.|[2110.02643v2](http://arxiv.org/abs/2110.02643v2)|null|
+|**2022-12-14**|**Robust Distributional Regression with Automatic Variable Selection**|Meadhbh O'Neill et.al.|[2212.07317v2](http://arxiv.org/abs/2212.07317v2)|null|
+|**2023-01-11**|**RobustIV and controlfunctionIV: Causal Inference for Linear and Nonlinear Models with Invalid Instrumental Variables**|Taehyeon Koo et.al.|[2301.04412v1](http://arxiv.org/abs/2301.04412v1)|null|
+|**2021-10-21**|**DIF Statistical Inference without Knowing Anchoring Items**|Yunxiao Chen et.al.|[2110.11112v2](http://arxiv.org/abs/2110.11112v2)|null|
+|**2022-05-26**|**Verifying Learning-Based Robotic Navigation Systems**|Guy Amir et.al.|[2205.13536v3](http://arxiv.org/abs/2205.13536v3)|null|
+|**2023-01-09**|**Locally sparse quantile estimation for a partially functional interaction model**|Weijuan Liang et.al.|[2301.03705v1](http://arxiv.org/abs/2301.03705v1)|[link](https://github.com/weijuanliang12138/SHLoS-R-Code)|
+|**2023-01-03**|**Binary black hole spins: model selection with GWTC-3**|Carole Périgois et.al.|[2301.01312v2](http://arxiv.org/abs/2301.01312v2)|[link](https://gitlab.com/micmap/mobse_open)|
+|**2022-02-04**|**Posterior Representations for Bayesian Context Trees: Sampling, Estimation and Convergence**|Ioannis Papageorgiou et.al.|[2202.02239v3](http://arxiv.org/abs/2202.02239v3)|null|
