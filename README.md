@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-23 07:25:00 Asia/Shanghai
+ Automated deployment @ 2023-01-23 19:22:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-26**|**VR-GNN: Variational Relation Vector Graph Neural Network for Modeling both Homophily and Heterophily**|Fengzhao Shi et.al.|[2211.14523v3](http://arxiv.org/abs/2211.14523v3)|null|
+|**2023-01-20**|**Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective**|Hang Gao et.al.|[2301.08496v1](http://arxiv.org/abs/2301.08496v1)|null|
+|**2023-01-20**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|[link](https://github.com/hit-ices/tnnls-mtgn)|
+|**2022-05-27**|**DeepSAT: An EDA-Driven Learning Framework for SAT**|Min Li et.al.|[2205.13745v2](http://arxiv.org/abs/2205.13745v2)|null|
 |**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
 |**2023-01-19**|**GIPA++: A General Information Propagation Algorithm for Graph Learning**|Houyi Li et.al.|[2301.08209v1](http://arxiv.org/abs/2301.08209v1)|null|
 |**2022-09-16**|**Explainability in subgraphs-enhanced Graph Neural Networks**|Michele Guerra et.al.|[2209.07926v2](http://arxiv.org/abs/2209.07926v2)|[link](https://github.com/MicheleUIT/Explaining_SGNN)|
@@ -28,18 +32,19 @@
 |**2022-12-25**|**Refined Edge Usage of Graph Neural Networks for Edge Prediction**|Jiarui Jin et.al.|[2212.12970v2](http://arxiv.org/abs/2212.12970v2)|null|
 |**2023-01-17**|**Heterogeneous Multi-Robot Reinforcement Learning**|Matteo Bettini et.al.|[2301.07137v1](http://arxiv.org/abs/2301.07137v1)|[link](https://github.com/proroklab/vectorizedmultiagentsimulator)|
 |**2022-09-27**|**Polymer informatics at-scale with multitask graph neural networks**|Rishi Gurnani et.al.|[2209.13557v2](http://arxiv.org/abs/2209.13557v2)|[link](https://github.com/ramprasad-group/polygnn)|
-|**2023-01-12**|**LB-SimTSC: An Efficient Similarity-Aware Graph Neural Network for Semi-Supervised Time Series Classification**|Wenjie Xi et.al.|[2301.04838v2](http://arxiv.org/abs/2301.04838v2)|null|
-|**2021-04-21**|**GraphTheta: A Distributed Graph Neural Network Learning System With Flexible Training Strategy**|Yongchao Liu et.al.|[2104.10569v3](http://arxiv.org/abs/2104.10569v3)|[link](https://github.com/yongchao-liu/graphtheta)|
-|**2022-12-14**|**HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics**|Artur Grigorev et.al.|[2212.07242v2](http://arxiv.org/abs/2212.07242v2)|null|
-|**2022-08-19**|**Evaluating Explainability for Graph Neural Networks**|Chirag Agarwal et.al.|[2208.09339v2](http://arxiv.org/abs/2208.09339v2)|[link](https://github.com/mims-harvard/graphxai)|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-08**|**LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing**|Qiang Hu et.al.|[2204.03994v2](http://arxiv.org/abs/2204.03994v2)|[link](https://github.com/testing-cs/laf-model-selection)|
+|**2022-03-10**|**Bayesian Spatial Predictive Synthesis**|Danielle Cabel et.al.|[2203.05197v3](http://arxiv.org/abs/2203.05197v3)|null|
+|**2023-01-19**|**Parameter estimation and model selection for stochastic differential equations for biological growth**|F. Baltazar-Larios et.al.|[2301.08294v1](http://arxiv.org/abs/2301.08294v1)|null|
+|**2023-01-19**|**Cross-validatory model selection for Bayesian autoregressions with exogenous regressors**|Alex Cooper et.al.|[2301.08276v1](http://arxiv.org/abs/2301.08276v1)|null|
 |**2022-11-04**|**Data Models for Dataset Drift Controls in Machine Learning With Images**|Luis Oala et.al.|[2211.02578v2](http://arxiv.org/abs/2211.02578v2)|[link](https://github.com/aiaudit-org/raw2logit)|
 |**2022-12-20**|**Quark mass dependence of hadron resonances**|F. Gil-Domínguez et.al.|[2212.10294v2](http://arxiv.org/abs/2212.10294v2)|null|
+|**2023-01-19**|**Evaluation of the potential of Near Infrared Hyperspectral Imaging for monitoring the invasive brown marmorated stink bug**|Veronica Ferrari et.al.|[2301.08252v1](http://arxiv.org/abs/2301.08252v1)|null|
 |**2022-06-17**|**Ensemble distributional forecasting for insurance loss reserving**|Benjamin Avanzi et.al.|[2206.08541v2](http://arxiv.org/abs/2206.08541v2)|[link](https://github.com/agi-lab/reserving-ensemble)|
 |**2023-01-18**|**Warlock: an automated computational workflow for simulating spatially structured tumour evolution**|Maciej Bak et.al.|[2301.07808v1](http://arxiv.org/abs/2301.07808v1)|null|
 |**2022-01-02**|**Bayesian Generalized Additive Model Selection Including a Fast Variational Option**|Virginia X. He et.al.|[2201.00412v3](http://arxiv.org/abs/2201.00412v3)|null|
@@ -48,11 +53,6 @@
 |**2023-01-18**|**Estimation of the non-linear parameter in Generalised Diversity-Interactions models is unaffected by change in structure of the interaction terms**|Rishabh Vishwakarma et.al.|[2301.07453v1](http://arxiv.org/abs/2301.07453v1)|[link](https://github.com/rishvish/theta-simulation-study)|
 |**2023-01-18**|**Data thinning for convolution-closed distributions**|Anna Neufeld et.al.|[2301.07276v1](http://arxiv.org/abs/2301.07276v1)|null|
 |**2021-03-29**|**An Overview of Human Activity Recognition Using Wearable Sensors: Healthcare and Artificial Intelligence**|Rex Liu et.al.|[2103.15990v7](http://arxiv.org/abs/2103.15990v7)|null|
-|**2023-01-17**|**Dual-sPLS: a family of Dual Sparse Partial Least Squares regressions for feature selection and prediction with tunable sparsity; evaluation on simulated and near-infrared (NIR) data**|Louna Alsouki et.al.|[2301.07206v1](http://arxiv.org/abs/2301.07206v1)|null|
-|**2023-01-17**|**The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks**|Luca Marzari et.al.|[2301.07068v1](http://arxiv.org/abs/2301.07068v1)|null|
-|**2023-01-17**|**Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning**|Yingcong Li et.al.|[2301.07067v1](http://arxiv.org/abs/2301.07067v1)|null|
-|**2023-01-17**|**Testing Firm Conduct**|Marco Duarte et.al.|[2301.06720v1](http://arxiv.org/abs/2301.06720v1)|[link](https://github.com/anyatarascina/pyrvtest)|
-|**2023-01-16**|**Tale of two c(omplex)ities**|Saptarshi Roy et.al.|[2301.06259v1](http://arxiv.org/abs/2301.06259v1)|null|
 
 ## Non-Euclidean Staistics
 
