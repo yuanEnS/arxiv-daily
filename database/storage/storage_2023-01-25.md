@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-25 07:24:21 Asia/Shanghai
+ Automated deployment @ 2023-01-25 19:21:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-24**|**Learning To Dive In Branch And Bound**|Max B. Paulus et.al.|[2301.09943v1](http://arxiv.org/abs/2301.09943v1)|null|
+|**2023-01-16**|**Mind the Gap -- Modelling Difference Between Censored and Uncensored Electric Vehicle Charging Demand**|Frederik Boe Hüttel et.al.|[2301.06418v3](http://arxiv.org/abs/2301.06418v3)|null|
+|**2023-01-24**|**Neighborhood Homophily-Guided Graph Convolutional Network**|Shengbo Gong et.al.|[2301.09851v1](http://arxiv.org/abs/2301.09851v1)|null|
+|**2023-01-23**|**Graph Neural Networks for Decentralized Multi-Agent Perimeter Defense**|Elijah S. Lee et.al.|[2301.09689v1](http://arxiv.org/abs/2301.09689v1)|null|
 |**2023-01-23**|**Rethinking the Expressive Power of GNNs via Graph Biconnectivity**|Bohang Zhang et.al.|[2301.09505v1](http://arxiv.org/abs/2301.09505v1)|null|
 |**2023-01-23**|**On the Expressive Power of Geometric Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2301.09308v1](http://arxiv.org/abs/2301.09308v1)|[link](https://github.com/chaitjo/geometric-gnn-dojo)|
 |**2022-05-27**|**EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks**|Runlin Lei et.al.|[2205.13892v2](http://arxiv.org/abs/2205.13892v2)|[link](https://github.com/leirunlin/evennet)|
@@ -28,10 +32,27 @@
 |**2022-11-26**|**VR-GNN: Variational Relation Vector Graph Neural Network for Modeling both Homophily and Heterophily**|Fengzhao Shi et.al.|[2211.14523v3](http://arxiv.org/abs/2211.14523v3)|null|
 |**2023-01-20**|**Introducing Expertise Logic into Graph Representation Learning from A Causal Perspective**|Hang Gao et.al.|[2301.08496v1](http://arxiv.org/abs/2301.08496v1)|null|
 |**2023-01-20**|**Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network**|Mingyi Liu et.al.|[2301.08399v1](http://arxiv.org/abs/2301.08399v1)|[link](https://github.com/hit-ices/tnnls-mtgn)|
-|**2022-05-27**|**DeepSAT: An EDA-Driven Learning Framework for SAT**|Min Li et.al.|[2205.13745v2](http://arxiv.org/abs/2205.13745v2)|null|
-|**2023-01-19**|**Everything is Connected: Graph Neural Networks**|Petar Veličković et.al.|[2301.08210v1](http://arxiv.org/abs/2301.08210v1)|null|
-|**2023-01-19**|**GIPA++: A General Information Propagation Algorithm for Graph Learning**|Houyi Li et.al.|[2301.08209v1](http://arxiv.org/abs/2301.08209v1)|null|
-|**2022-09-16**|**Explainability in subgraphs-enhanced Graph Neural Networks**|Michele Guerra et.al.|[2209.07926v2](http://arxiv.org/abs/2209.07926v2)|[link](https://github.com/MicheleUIT/Explaining_SGNN)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-10-03**|**Unsupervised Model Selection for Time-series Anomaly Detection**|Mononito Goswami et.al.|[2210.01078v3](http://arxiv.org/abs/2210.01078v3)|null|
+|**2023-01-24**|**Distinguishing binary black hole precessional morphologies with gravitational wave observations**|Nathan K. Johnson-McDaniel et.al.|[2301.10125v1](http://arxiv.org/abs/2301.10125v1)|null|
+|**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v9](http://arxiv.org/abs/2010.11114v9)|null|
+|**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v2](http://arxiv.org/abs/2209.02757v2)|null|
+|**2023-01-23**|**Federated Sufficient Dimension Reduction Through High-Dimensional Sparse Sliced Inverse Regression**|Wenquan Cui et.al.|[2301.09500v1](http://arxiv.org/abs/2301.09500v1)|null|
+|**2022-11-29**|**Variable selection and covariance structure identification using sparse principal loading analysis**|Jan O. Bauer et.al.|[2211.16155v2](http://arxiv.org/abs/2211.16155v2)|null|
+|**2023-01-22**|**Penalized estimation for non-identifiable models**|Junichiro Yoshida et.al.|[2301.09131v1](http://arxiv.org/abs/2301.09131v1)|null|
+|**2022-01-05**|**Problem-dependent attention and effort in neural networks with application to image resolution and model selection**|Chris Rohlfs et.al.|[2201.01415v3](http://arxiv.org/abs/2201.01415v3)|null|
+|**2020-01-11**|**Empirical bias-reducing adjustments to estimating functions**|Ioannis Kosmidis et.al.|[2001.03786v3](http://arxiv.org/abs/2001.03786v3)|[link](https://github.com/ikosmidis/MEstimation.jl)|
+|**2022-04-08**|**LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing**|Qiang Hu et.al.|[2204.03994v2](http://arxiv.org/abs/2204.03994v2)|[link](https://github.com/testing-cs/laf-model-selection)|
+|**2022-03-10**|**Bayesian Spatial Predictive Synthesis**|Danielle Cabel et.al.|[2203.05197v3](http://arxiv.org/abs/2203.05197v3)|null|
+|**2023-01-19**|**Parameter estimation and model selection for stochastic differential equations for biological growth**|F. Baltazar-Larios et.al.|[2301.08294v1](http://arxiv.org/abs/2301.08294v1)|null|
+|**2023-01-19**|**Cross-validatory model selection for Bayesian autoregressions with exogenous regressors**|Alex Cooper et.al.|[2301.08276v1](http://arxiv.org/abs/2301.08276v1)|[link](https://github.com/kuperov/arx)|
+|**2022-11-04**|**Data Models for Dataset Drift Controls in Machine Learning With Images**|Luis Oala et.al.|[2211.02578v2](http://arxiv.org/abs/2211.02578v2)|[link](https://github.com/aiaudit-org/raw2logit)|
+|**2022-12-20**|**Quark mass dependence of hadron resonances**|F. Gil-Domínguez et.al.|[2212.10294v2](http://arxiv.org/abs/2212.10294v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2021-10-01**|**Dimension Reduction for Fréchet Regression**|Qi Zhang et.al.|[2110.00467v2](http://arxiv.org/abs/2110.00467v2)|null|
 |**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
 |**2022-12-05**|**Branching with selection and mutation I: Mutant fitness of Fréchet type**|Su-Chan Park et.al.|[2212.02631v1](http://arxiv.org/abs/2212.02631v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-23**|**Federated Sufficient Dimension Reduction Through High-Dimensional Sparse Sliced Inverse Regression**|Wenquan Cui et.al.|[2301.09500v1](http://arxiv.org/abs/2301.09500v1)|null|
-|**2022-11-29**|**Variable selection and covariance structure identification using sparse principal loading analysis**|Jan O. Bauer et.al.|[2211.16155v2](http://arxiv.org/abs/2211.16155v2)|null|
-|**2023-01-22**|**Penalized estimation for non-identifiable models**|Junichiro Yoshida et.al.|[2301.09131v1](http://arxiv.org/abs/2301.09131v1)|null|
-|**2022-01-05**|**Problem-dependent attention and effort in neural networks with application to image resolution and model selection**|Chris Rohlfs et.al.|[2201.01415v3](http://arxiv.org/abs/2201.01415v3)|null|
-|**2020-01-11**|**Empirical bias-reducing adjustments to estimating functions**|Ioannis Kosmidis et.al.|[2001.03786v3](http://arxiv.org/abs/2001.03786v3)|null|
-|**2022-04-08**|**LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing**|Qiang Hu et.al.|[2204.03994v2](http://arxiv.org/abs/2204.03994v2)|[link](https://github.com/testing-cs/laf-model-selection)|
-|**2022-03-10**|**Bayesian Spatial Predictive Synthesis**|Danielle Cabel et.al.|[2203.05197v3](http://arxiv.org/abs/2203.05197v3)|null|
-|**2023-01-19**|**Parameter estimation and model selection for stochastic differential equations for biological growth**|F. Baltazar-Larios et.al.|[2301.08294v1](http://arxiv.org/abs/2301.08294v1)|null|
-|**2023-01-19**|**Cross-validatory model selection for Bayesian autoregressions with exogenous regressors**|Alex Cooper et.al.|[2301.08276v1](http://arxiv.org/abs/2301.08276v1)|null|
-|**2022-11-04**|**Data Models for Dataset Drift Controls in Machine Learning With Images**|Luis Oala et.al.|[2211.02578v2](http://arxiv.org/abs/2211.02578v2)|[link](https://github.com/aiaudit-org/raw2logit)|
-|**2022-12-20**|**Quark mass dependence of hadron resonances**|F. Gil-Domínguez et.al.|[2212.10294v2](http://arxiv.org/abs/2212.10294v2)|null|
-|**2023-01-19**|**Evaluation of the potential of Near Infrared Hyperspectral Imaging for monitoring the invasive brown marmorated stink bug**|Veronica Ferrari et.al.|[2301.08252v1](http://arxiv.org/abs/2301.08252v1)|null|
-|**2022-06-17**|**Ensemble distributional forecasting for insurance loss reserving**|Benjamin Avanzi et.al.|[2206.08541v2](http://arxiv.org/abs/2206.08541v2)|[link](https://github.com/agi-lab/reserving-ensemble)|
-|**2023-01-18**|**Warlock: an automated computational workflow for simulating spatially structured tumour evolution**|Maciej Bak et.al.|[2301.07808v1](http://arxiv.org/abs/2301.07808v1)|null|
-|**2022-01-02**|**Bayesian Generalized Additive Model Selection Including a Fast Variational Option**|Virginia X. He et.al.|[2201.00412v3](http://arxiv.org/abs/2201.00412v3)|null|
