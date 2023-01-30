@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-01-30 07:24:50 Asia/Shanghai
+ Automated deployment @ 2023-01-30 19:22:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-27**|**PhysGraph: Physics-Based Integration Using Graph Neural Networks**|Oshri Halimi et.al.|[2301.11841v1](http://arxiv.org/abs/2301.11841v1)|null|
+|**2023-01-27**|**TrojanSAINT: Gate-Level Netlist Sampling-Based Inductive Learning for Hardware Trojan Detection**|Hazem Lashen et.al.|[2301.11804v1](http://arxiv.org/abs/2301.11804v1)|null|
+|**2023-01-27**|**Graph Attention with Hierarchies for Multi-hop Question Answering**|Yunjie He et.al.|[2301.11792v1](http://arxiv.org/abs/2301.11792v1)|null|
+|**2023-01-27**|**Large-Scale Traffic Data Imputation with Spatiotemporal Semantic Understanding**|Kunpeng Zhang et.al.|[2301.11691v1](http://arxiv.org/abs/2301.11691v1)|[link](https://github.com/kp-zhang/gt-tdi)|
+|**2023-01-27**|**A Multi-View Joint Learning Framework for Embedding Clinical Codes and Text Using Graph Neural Networks**|Lecheng Kong et.al.|[2301.11608v1](http://arxiv.org/abs/2301.11608v1)|null|
+|**2023-01-27**|**Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration**|Xiangyu Zhao et.al.|[2301.11517v1](http://arxiv.org/abs/2301.11517v1)|[link](https://github.com/victorzxy/graphac)|
+|**2022-10-08**|**Uplifting Message Passing Neural Network with Graph Original Information**|Xiao Liu et.al.|[2210.05382v2](http://arxiv.org/abs/2210.05382v2)|null|
+|**2023-01-26**|**Efficiently predicting high resolution mass spectra with graph neural networks**|Michael Murphy et.al.|[2301.11419v1](http://arxiv.org/abs/2301.11419v1)|null|
+|**2022-09-27**|**DBGSL: Dynamic Brain Graph Structure Learning**|Alexander Campbell et.al.|[2209.13513v2](http://arxiv.org/abs/2209.13513v2)|[link](https://github.com/Kaleidophon/deep-significance)|
+|**2023-01-26**|**MG-GNN: Multigrid Graph Neural Networks for Learning Multilevel Domain Decomposition Methods**|Ali Taghibakhshi et.al.|[2301.11378v1](http://arxiv.org/abs/2301.11378v1)|[link](https://github.com/jrd971000/code-multilevel-mloras)|
 |**2023-01-26**|**A Graph Neural Network with Negative Message Passing for Graph Coloring**|Xiangyu Wang et.al.|[2301.11164v1](http://arxiv.org/abs/2301.11164v1)|null|
 |**2023-01-26**|**WL meet VC**|Christopher Morris et.al.|[2301.11039v1](http://arxiv.org/abs/2301.11039v1)|[link](https://github.com/chrsmrrs/wl_vs_vs)|
 |**2023-01-26**|**PerfSAGE: Generalized Inference Performance Predictor for Arbitrary Deep Learning Models on Edge Devices**|Yuji Chai et.al.|[2301.10999v1](http://arxiv.org/abs/2301.10999v1)|null|
 |**2023-01-26**|**Graph Neural Networks can Recover the Hidden Features Solely from the Graph Structure**|Ryoma Sato et.al.|[2301.10956v1](http://arxiv.org/abs/2301.10956v1)|null|
 |**2023-01-25**|**Graph Neural Tangent Kernel: Convergence on Large Graphs**|Sanjukta Krishnagopal et.al.|[2301.10808v1](http://arxiv.org/abs/2301.10808v1)|null|
-|**2023-01-25**|**Spatio-Temporal Graph Neural Networks: A Survey**|Zahraa Al Sahili et.al.|[2301.10569v1](http://arxiv.org/abs/2301.10569v1)|null|
-|**2022-06-10**|**Towards Dynamic Stability Assessment of Power Grid Topologies using Graph Neural Networks**|Christian Nauck et.al.|[2206.06369v3](http://arxiv.org/abs/2206.06369v3)|[link](https://github.com/pik-icone/dynamic_stability_datasets_gnn_paper-companion)|
-|**2023-01-25**|**Understanding and Improving Deep Graph Neural Networks: A Probabilistic Graphical Model Perspective**|Jiayuan Chen et.al.|[2301.10536v1](http://arxiv.org/abs/2301.10536v1)|null|
-|**2021-12-30**|**TextRGNN: Residual Graph Neural Networks for Text Classification**|Jiayuan Chen et.al.|[2112.15060v2](http://arxiv.org/abs/2112.15060v2)|null|
-|**2023-01-25**|**E(n)-equivariant Graph Neural Cellular Automata**|Gennaro Gala et.al.|[2301.10497v1](http://arxiv.org/abs/2301.10497v1)|[link](https://github.com/gengala/egnca)|
-|**2023-01-25**|**Knowledge-augmented Graph Neural Networks with Concept-aware Attention for Adverse Drug Event Detection**|Shaoxiong Ji et.al.|[2301.10451v1](http://arxiv.org/abs/2301.10451v1)|null|
-|**2022-12-14**|**On the Probability of Necessity and Sufficiency of Explaining Graph Neural Networks: A Lower Bound Optimization Approach**|Ruichu Cai et.al.|[2212.07056v2](http://arxiv.org/abs/2212.07056v2)|null|
-|**2022-11-26**|**VR-GNN: Variational Relation Vector Graph Neural Network for Modeling both Homophily and Heterophily**|Fengzhao Shi et.al.|[2211.14523v4](http://arxiv.org/abs/2211.14523v4)|null|
-|**2023-01-24**|**Learning To Dive In Branch And Bound**|Max B. Paulus et.al.|[2301.09943v1](http://arxiv.org/abs/2301.09943v1)|null|
-|**2023-01-16**|**Mind the Gap -- Modelling Difference Between Censored and Uncensored Electric Vehicle Charging Demand**|Frederik Boe Hüttel et.al.|[2301.06418v3](http://arxiv.org/abs/2301.06418v3)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-27**|**A Deep Learning Method for Comparing Bayesian Hierarchical Models**|Lasse Elsemüller et.al.|[2301.11873v1](http://arxiv.org/abs/2301.11873v1)|[link](https://github.com/elseml/deephierarchicalmodelcomparison)|
+|**2023-01-26**|**The Automated Discovery of Kinetic Rate Models -- Methodological Frameworks**|Miguel Ángel de Carvalho Servia et.al.|[2301.11356v1](http://arxiv.org/abs/2301.11356v1)|null|
 |**2022-03-21**|**Telling Stories from Computational Notebooks: AI-Assisted Presentation Slides Creation for Presenting Data Science Work**|Chengbo Zheng et.al.|[2203.11085v3](http://arxiv.org/abs/2203.11085v3)|null|
 |**2023-01-26**|**The Method of Harmonic Balance for the Giesekus Model under Oscillatory Shear**|Shivangi Mittal et.al.|[2301.11131v1](http://arxiv.org/abs/2301.11131v1)|null|
 |**2023-01-26**|**Variable Selection for Doubly Robust Causal Inference**|Eunah Cho et.al.|[2301.11094v1](http://arxiv.org/abs/2301.11094v1)|null|
@@ -91,5 +93,3 @@
 |**2023-01-24**|**Distinguishing binary black hole precessional morphologies with gravitational wave observations**|Nathan K. Johnson-McDaniel et.al.|[2301.10125v1](http://arxiv.org/abs/2301.10125v1)|null|
 |**2020-10-21**|**Model Selection for Signal Processing: a Minimum Error Approach and a General Performance Analysis**|Aleksandr Kharin et.al.|[2010.11114v9](http://arxiv.org/abs/2010.11114v9)|null|
 |**2022-09-06**|**Systematic errors due to quasi-universal relations in binary neutron stars and their correction for unbiased model selection**|Rahul Kashyap et.al.|[2209.02757v2](http://arxiv.org/abs/2209.02757v2)|null|
-|**2023-01-23**|**Federated Sufficient Dimension Reduction Through High-Dimensional Sparse Sliced Inverse Regression**|Wenquan Cui et.al.|[2301.09500v1](http://arxiv.org/abs/2301.09500v1)|null|
-|**2023-01-22**|**Penalized estimation for non-identifiable models**|Junichiro Yoshida et.al.|[2301.09131v1](http://arxiv.org/abs/2301.09131v1)|null|
