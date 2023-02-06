@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-06 07:25:05 Asia/Shanghai
+ Automated deployment @ 2023-02-06 19:21:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-24**|**Transformers over Directed Acyclic Graphs**|Yuankai Luo et.al.|[2210.13148v4](http://arxiv.org/abs/2210.13148v4)|null|
+|**2023-02-03**|**A Case Study for Compliance as Code with Graphs and Language Models: Public release of the Regulatory Knowledge Graph**|Vladimir Ershov et.al.|[2302.01842v1](http://arxiv.org/abs/2302.01842v1)|[link](https://github.com/vladimir-ershov/adgm-kg1)|
+|**2023-02-03**|**Graph Embedding for Mapping Interdisciplinary Research Networks**|Eoghan Cunningham et.al.|[2302.01826v1](http://arxiv.org/abs/2302.01826v1)|null|
+|**2023-02-03**|**Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction**|Davide Costa et.al.|[2302.01676v1](http://arxiv.org/abs/2302.01676v1)|null|
+|**2023-02-02**|**Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities**|Antonio Longa et.al.|[2302.01018v2](http://arxiv.org/abs/2302.01018v2)|null|
+|**2023-02-02**|**Predicting Molecule-Target Interaction by Learning Biomedical Network and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981v2](http://arxiv.org/abs/2302.00981v2)|null|
+|**2023-02-03**|**Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing**|Yunchong Song et.al.|[2302.01524v1](http://arxiv.org/abs/2302.01524v1)|[link](https://github.com/lumia-group/orderedgnn)|
+|**2022-06-28**|**BOTAN: BOnd TArgeting Network for prediction of slow glassy dynamics by machine learning relative motion**|Hayato Shiba et.al.|[2206.14024v6](http://arxiv.org/abs/2206.14024v6)|[link](https://github.com/h3-Open-BDEC/pyg_botan)|
+|**2023-02-03**|**LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation**|Rui Xue et.al.|[2302.01503v1](http://arxiv.org/abs/2302.01503v1)|null|
 |**2023-02-02**|**Geometric Deep Learning for Autonomous Driving: Unlocking the Power of Graph Neural Networks With CommonRoad-Geometric**|Eivind Meyer et.al.|[2302.01259v1](http://arxiv.org/abs/2302.01259v1)|null|
 |**2022-11-10**|**Unravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems**|Abishek Thangamuthu et.al.|[2211.05520v2](http://arxiv.org/abs/2211.05520v2)|[link](https://github.com/m3rg-iitd/benchmarking_graph)|
-|**2023-02-02**|**Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities**|Antonio Longa et.al.|[2302.01018v1](http://arxiv.org/abs/2302.01018v1)|null|
-|**2023-02-02**|**Predicting Molecule-Target Interaction by Learning Biomedical Network and Molecule Representations**|Jinjiang Guo et.al.|[2302.00981v1](http://arxiv.org/abs/2302.00981v1)|null|
 |**2023-01-29**|**Semantics-enhanced Temporal Graph Networks for Content Caching and Energy Saving**|Jianhang Zhu et.al.|[2301.12355v2](http://arxiv.org/abs/2301.12355v2)|null|
+|**2023-02-02**|**GraphAGILE: An FPGA-based Overlay Accelerator for Low-latency GNN Inference**|Bingyi Zhang et.al.|[2302.01769v1](http://arxiv.org/abs/2302.01769v1)|null|
 |**2023-02-02**|**LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence**|Zhihao Shi et.al.|[2302.00924v1](http://arxiv.org/abs/2302.00924v1)|null|
 |**2023-02-02**|**Quantum Graph Learning: Frontiers and Outlook**|Shuo Yu et.al.|[2302.00892v1](http://arxiv.org/abs/2302.00892v1)|null|
-|**2023-02-02**|**Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network**|Wendong Bi et.al.|[2302.00873v1](http://arxiv.org/abs/2302.00873v1)|null|
-|**2023-02-02**|**Molecular Geometry-aware Transformer for accurate 3D Atomic System modeling**|Zheng Yuan et.al.|[2302.00855v1](http://arxiv.org/abs/2302.00855v1)|null|
-|**2023-02-02**|**Causal Effect Estimation: Recent Advances, Challenges, and Opportunities**|Zhixuan Chu et.al.|[2302.00848v1](http://arxiv.org/abs/2302.00848v1)|null|
-|**2023-02-01**|**MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction with Neural ODEs**|Theodor Westny et.al.|[2302.00735v1](http://arxiv.org/abs/2302.00735v1)|null|
-|**2023-01-11**|**Physics Simulation Via Quantum Graph Neural Network**|Benjamin Collis et.al.|[2301.04702v2](http://arxiv.org/abs/2301.04702v2)|null|
-|**2023-02-01**|**Graph Neural Operators for Classification of Spatial Transcriptomics Data**|Junaid Ahmed et.al.|[2302.00658v1](http://arxiv.org/abs/2302.00658v1)|null|
-|**2023-02-01**|**Graph Neural Network Based Surrogate Model of Physics Simulations for Geometry Design**|Jian Cheng Wong et.al.|[2302.00557v1](http://arxiv.org/abs/2302.00557v1)|null|
-|**2023-02-01**|**Simple yet Effective Gradient-Free Graph Convolutional Networks**|Yulin Zhu et.al.|[2302.00371v1](http://arxiv.org/abs/2302.00371v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,11 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-29**|**Variable selection and covariance structure identification using sparse loadings**|Jan O. Bauer et.al.|[2211.16155v4](http://arxiv.org/abs/2211.16155v4)|null|
+|**2023-02-03**|**Trade-off between prediction and FDR for high-dimensional Gaussian model selection**|Perrine Lacroix et.al.|[2302.01831v1](http://arxiv.org/abs/2302.01831v1)|null|
+|**2023-02-03**|**A mixture logistic model for panel data with a Markov structure**|Yu-Hsiang Cheng et.al.|[2302.01683v1](http://arxiv.org/abs/2302.01683v1)|null|
+|**2023-02-03**|**Empirical analysis in limit order book modeling for Nikkei 225 Stocks with Cox-type intensities**|Shunya Chomei et.al.|[2302.01668v1](http://arxiv.org/abs/2302.01668v1)|null|
+|**2022-10-24**|**Post-Selection Confidence Bounds for Prediction Performance**|Pascal Rink et.al.|[2210.13206v3](http://arxiv.org/abs/2210.13206v3)|[link](https://github.com/pascalrink/mabt-experiments)|
 |**2023-02-02**|**MLOps with enhanced performance control and observability**|Indradumna Banerjee et.al.|[2302.01061v1](http://arxiv.org/abs/2302.01061v1)|null|
 |**2021-02-26**|**Nonparametric calibration for stochastic reaction-diffusion equations based on discrete observations**|Florian Hildebrandt et.al.|[2102.13415v2](http://arxiv.org/abs/2102.13415v2)|null|
 |**2022-10-19**|**Measuring the giant radio galaxy length distribution with the LoTSS**|Martijn S. S. L. Oei et.al.|[2210.10234v2](http://arxiv.org/abs/2210.10234v2)|null|
@@ -88,8 +93,3 @@
 |**2023-01-31**|**An analytical approach to Bayesian evidence computation**|Juan Garcia-Bellido et.al.|[2301.13783v1](http://arxiv.org/abs/2301.13783v1)|null|
 |**2023-01-31**|**Support Exploration Algorithm for Sparse Support Recovery**|Mimoun Mohamed et.al.|[2301.13584v1](http://arxiv.org/abs/2301.13584v1)|null|
 |**2021-12-14**|**Parameter tuning and model selection in optimal transport with semi-dual Brenier formulation**|Adrien Vacher et.al.|[2112.07275v2](http://arxiv.org/abs/2112.07275v2)|null|
-|**2022-06-05**|**Rotation to Sparse Loadings using $L^p$ Losses and Related Inference Problems**|Xinyi Liu et.al.|[2206.02263v3](http://arxiv.org/abs/2206.02263v3)|[link](https://github.com/yunxiaochen/lp_rot1129)|
-|**2022-11-04**|**Model-based clustering of multiple networks with a hierarchical algorithm**|Tabea Rebafka et.al.|[2211.02314v2](http://arxiv.org/abs/2211.02314v2)|null|
-|**2023-01-30**|**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**|Daniel Mork et.al.|[2301.12937v1](http://arxiv.org/abs/2301.12937v1)|[link](https://github.com/danielmork/monotone_dlnm)|
-|**2023-01-30**|**Specializing Smaller Language Models towards Multi-Step Reasoning**|Yao Fu et.al.|[2301.12726v1](http://arxiv.org/abs/2301.12726v1)|null|
-|**2023-01-30**|**Convergence of uncertainty estimates in Ensemble and Bayesian sparse model discovery**|L. Mars Gao et.al.|[2301.12649v1](http://arxiv.org/abs/2301.12649v1)|null|
