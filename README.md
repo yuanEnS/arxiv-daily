@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-10 07:27:46 Asia/Shanghai
+ Automated deployment @ 2023-02-10 19:23:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-01**|**MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction with Neural ODEs**|Theodor Westny et.al.|[2302.00735v2](http://arxiv.org/abs/2302.00735v2)|null|
+|**2023-02-09**|**Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning**|Xin-Cheng Wen et.al.|[2302.04675v1](http://arxiv.org/abs/2302.04675v1)|null|
+|**2022-11-21**|**Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**|Zixuan Xu et.al.|[2211.11191v3](http://arxiv.org/abs/2211.11191v3)|null|
+|**2022-07-14**|**Anomal-E: A Self-Supervised Network Intrusion Detection System based on Graph Neural Networks**|Evan Caville et.al.|[2207.06819v5](http://arxiv.org/abs/2207.06819v5)|[link](https://github.com/waimorris/Anomal-E)|
+|**2023-02-09**|**Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on Graph Diffusion**|Haotian Ju et.al.|[2302.04451v1](http://arxiv.org/abs/2302.04451v1)|null|
+|**2022-07-06**|**Decision Trees with Dynamic Graph Features**|Maya Bechler-Speicher et.al.|[2207.02760v3](http://arxiv.org/abs/2207.02760v3)|[link](https://github.com/tau-mlwell/gta---graph-trees-with-attention)|
+|**2023-02-09**|**Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes**|Huixin Zhan et.al.|[2302.04383v1](http://arxiv.org/abs/2302.04383v1)|null|
+|**2022-04-28**|**Learning cosmology and clustering with cosmic graphs**|Pablo Villanueva-Domingo et.al.|[2204.13713v2](http://arxiv.org/abs/2204.13713v2)|[link](https://github.com/PabloVD/CosmoGraphNet)|
+|**2023-02-08**|**Geometry-Complete Diffusion for 3D Molecule Generation**|Alex Morehead et.al.|[2302.04313v1](http://arxiv.org/abs/2302.04313v1)|[link](https://github.com/bioinfomachinelearning/bio-diffusion)|
+|**2021-11-16**|**Inferring halo masses with Graph Neural Networks**|Pablo Villanueva-Domingo et.al.|[2111.08683v2](http://arxiv.org/abs/2111.08683v2)|[link](https://github.com/PabloVD/HaloGraphNet)|
 |**2022-09-23**|**Convolutional Learning on Multigraphs**|Landon Butler et.al.|[2209.11354v2](http://arxiv.org/abs/2209.11354v2)|null|
 |**2023-02-08**|**Cooperative Beamforming and RISs Association for Multi-RISs Aided Multi-Users MmWave MIMO Systems through Graph Neural Networks**|Mengbing Liu et.al.|[2302.04183v1](http://arxiv.org/abs/2302.04183v1)|null|
 |**2023-02-08**|**Attending to Graph Transformers**|Luis Müller et.al.|[2302.04181v1](http://arxiv.org/abs/2302.04181v1)|[link](https://github.com/luis-mueller/probing-graph-transformers)|
 |**2021-06-21**|**Boundary Graph Neural Networks for 3D Simulations**|Andreas Mayr et.al.|[2106.11299v5](http://arxiv.org/abs/2106.11299v5)|null|
 |**2022-06-08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v3](http://arxiv.org/abs/2206.03638v3)|null|
-|**2022-04-21**|**DropMessage: Unifying Random Dropping for Graph Neural Networks**|Taoran Fang et.al.|[2204.10037v3](http://arxiv.org/abs/2204.10037v3)|[link](https://github.com/zjunet/dropmessage)|
-|**2023-02-08**|**Learning Graph-Enhanced Commander-Executor for Multi-Agent Navigation**|Xinyi Yang et.al.|[2302.04094v1](http://arxiv.org/abs/2302.04094v1)|null|
-|**2022-01-30**|**Graph Representation Learning via Aggregation Enhancement**|Maxim Fishman et.al.|[2201.12843v4](http://arxiv.org/abs/2201.12843v4)|[link](https://github.com/anonymous1252022/kr_for_gnns)|
-|**2023-02-08**|**Taming Local Effects in Graph-based Spatiotemporal Forecasting**|Andrea Cini et.al.|[2302.04071v1](http://arxiv.org/abs/2302.04071v1)|null|
-|**2023-02-08**|**Revisit the Algorithm Selection Problem for TSP with Spatial Information Enhanced Graph Neural Networks**|Ya Song et.al.|[2302.04035v1](http://arxiv.org/abs/2302.04035v1)|null|
-|**2022-09-30**|**A Graph Neural Network Approach to Automated Model Building in Cryo-EM Maps**|Kiarash Jamali et.al.|[2210.00006v3](http://arxiv.org/abs/2210.00006v3)|[link](https://github.com/3dem/model-angelo)|
-|**2023-02-08**|**SimCGNN: Simple Contrastive Graph Neural Network for Session-based Recommendation**|Yuan Cao et.al.|[2302.03997v1](http://arxiv.org/abs/2302.03997v1)|null|
-|**2023-02-08**|**On Generalized Degree Fairness in Graph Neural Networks**|Zemin Liu et.al.|[2302.03881v1](http://arxiv.org/abs/2302.03881v1)|null|
-|**2023-02-07**|**Reducing SO(3) Convolutions to SO(2) for Efficient Equivariant GNNs**|Saro Passaro et.al.|[2302.03655v1](http://arxiv.org/abs/2302.03655v1)|null|
-|**2023-02-07**|**Deep Learning Applications to Particle Physics: from Monte Carlo simulation acceleration to ProtoDUNE reconstruction**|Marco Rossi et.al.|[2302.03343v1](http://arxiv.org/abs/2302.03343v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-09**|**What are the mechanisms underlying metacognitive learning?**|Ruiqi He et.al.|[2302.04840v1](http://arxiv.org/abs/2302.04840v1)|null|
+|**2023-02-09**|**Consistent Group selection using Global-local prior in High dimensional setup**|Sayantan Paul et.al.|[2302.04715v1](http://arxiv.org/abs/2302.04715v1)|null|
 |**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v2](http://arxiv.org/abs/2208.12585v2)|null|
 |**2023-02-08**|**Fast Linear Model Trees by PILOT**|Jakob Raymaekers et.al.|[2302.03931v1](http://arxiv.org/abs/2302.03931v1)|null|
 |**2023-02-08**|**Group LASSO Variable Selection Method for Treatment Effect Generalization**|Chuyu Deng et.al.|[2302.03832v1](http://arxiv.org/abs/2302.03832v1)|null|
@@ -91,5 +93,3 @@
 |**2022-11-29**|**Variable selection and covariance structure identification using sparse loadings**|Jan O. Bauer et.al.|[2211.16155v4](http://arxiv.org/abs/2211.16155v4)|null|
 |**2023-02-03**|**Trade-off between prediction and FDR for high-dimensional Gaussian model selection**|Perrine Lacroix et.al.|[2302.01831v1](http://arxiv.org/abs/2302.01831v1)|[link](https://github.com/perrinelacroix/trade_off_fdr_pr)|
 |**2023-02-03**|**A mixture logistic model for panel data with a Markov structure**|Yu-Hsiang Cheng et.al.|[2302.01683v1](http://arxiv.org/abs/2302.01683v1)|null|
-|**2023-02-03**|**Empirical analysis in limit order book modeling for Nikkei 225 Stocks with Cox-type intensities**|Shunya Chomei et.al.|[2302.01668v1](http://arxiv.org/abs/2302.01668v1)|null|
-|**2022-10-24**|**Post-Selection Confidence Bounds for Prediction Performance**|Pascal Rink et.al.|[2210.13206v3](http://arxiv.org/abs/2210.13206v3)|[link](https://github.com/pascalrink/mabt-experiments)|
