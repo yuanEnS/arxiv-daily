@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-12 07:24:10 Asia/Shanghai
+ Automated deployment @ 2023-02-12 19:21:00 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -33,28 +33,26 @@
 |**2021-06-21**|**Boundary Graph Neural Networks for 3D Simulations**|Andreas Mayr et.al.|[2106.11299v5](http://arxiv.org/abs/2106.11299v5)|null|
 |**2022-06-08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v3](http://arxiv.org/abs/2206.03638v3)|null|
 
-## Variable Selection
+## Non-Euclidean Staistics
 
-### Variable selection
+### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-09**|**What are the mechanisms underlying metacognitive learning?**|Ruiqi He et.al.|[2302.04840v1](http://arxiv.org/abs/2302.04840v1)|null|
-|**2023-02-09**|**Consistent Group selection using Global-local prior in High dimensional setup**|Sayantan Paul et.al.|[2302.04715v1](http://arxiv.org/abs/2302.04715v1)|null|
-|**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v2](http://arxiv.org/abs/2208.12585v2)|null|
-|**2023-02-08**|**Fast Linear Model Trees by PILOT**|Jakob Raymaekers et.al.|[2302.03931v1](http://arxiv.org/abs/2302.03931v1)|null|
-|**2023-02-08**|**Group LASSO Variable Selection Method for Treatment Effect Generalization**|Chuyu Deng et.al.|[2302.03832v1](http://arxiv.org/abs/2302.03832v1)|null|
-|**2023-02-07**|**Consistent model selection for the Degree Corrected Stochastic Blockmodel**|Andressa Cerqueira et.al.|[2302.03734v1](http://arxiv.org/abs/2302.03734v1)|null|
-|**2023-02-07**|**Sparse GEMINI for Joint Discriminative Clustering and Feature Selection**|Louis Ohl et.al.|[2302.03391v1](http://arxiv.org/abs/2302.03391v1)|null|
-|**2023-02-06**|**In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation**|Alicia Curth et.al.|[2302.02923v1](http://arxiv.org/abs/2302.02923v1)|null|
-|**2023-02-06**|**Penalized Quasi-likelihood Estimation and Model Selection in Time Series Models with Parameters on the Boundary**|Heino Bohn Nielsen et.al.|[2302.02867v1](http://arxiv.org/abs/2302.02867v1)|null|
-|**2022-05-09**|**Inference of multivariate exponential Hawkes processes with inhibition and application to neuronal activity**|Anna Bonnet et.al.|[2205.04107v3](http://arxiv.org/abs/2205.04107v3)|[link](https://github.com/migmtz/multivariate-hawkes-inhibition)|
-|**2023-02-06**|**A Strong Baseline for Batch Imitation Learning**|Matthew Smith et.al.|[2302.02788v1](http://arxiv.org/abs/2302.02788v1)|null|
-|**2019-09-13**|**Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function**|Maud Delattre et.al.|[1909.06094v2](http://arxiv.org/abs/1909.06094v2)|null|
-|**2022-11-29**|**Variable selection and covariance structure identification using sparse loadings**|Jan O. Bauer et.al.|[2211.16155v4](http://arxiv.org/abs/2211.16155v4)|null|
-|**2023-02-03**|**Trade-off between prediction and FDR for high-dimensional Gaussian model selection**|Perrine Lacroix et.al.|[2302.01831v1](http://arxiv.org/abs/2302.01831v1)|[link](https://github.com/perrinelacroix/trade_off_fdr_pr)|
-|**2023-02-03**|**A mixture logistic model for panel data with a Markov structure**|Yu-Hsiang Cheng et.al.|[2302.01683v1](http://arxiv.org/abs/2302.01683v1)|null|
-
-## Non-Euclidean Staistics
+|**2022-06-17**|**Texture Generation Using A Graph Generative Adversarial Network And Differentiable Rendering**|Dharma KC et.al.|[2206.08547v2](http://arxiv.org/abs/2206.08547v2)|[link](https://github.com/ml4ai/ggan)|
+|**2022-11-19**|**Exploring validation metrics for offline model-based optimisation**|Christopher Beckham et.al.|[2211.10747v2](http://arxiv.org/abs/2211.10747v2)|null|
+|**2022-02-10**|**Random Forest Weighted Local Fréchet Regression**|Rui Qiu et.al.|[2202.04912v2](http://arxiv.org/abs/2202.04912v2)|null|
+|**2023-01-31**|**Mind the (optimality) Gap: A Gap-Aware Learning Rate Scheduler for Adversarial Nets**|Hussein Hazimeh et.al.|[2302.00089v1](http://arxiv.org/abs/2302.00089v1)|null|
+|**2022-01-04**|**Polyline Simplification under the Local Fréchet Distance has Almost-Quadratic Runtime in 2D**|Sabine Storandt et.al.|[2201.01344v3](http://arxiv.org/abs/2201.01344v3)|null|
+|**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v1](http://arxiv.org/abs/2301.12503v1)|[link](https://github.com/haoheliu/audioldm_eval)|
+|**2022-10-24**|**A Regularized Conditional GAN for Posterior Sampling in Inverse Problems**|Matthew Bendel et.al.|[2210.13389v3](http://arxiv.org/abs/2210.13389v3)|[link](https://github.com/matt-bendel/rcgan)|
+|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v1](http://arxiv.org/abs/2301.10611v1)|null|
+|**2013-07-15**|**Global Fukaya category I**|Yasha Savelyev et.al.|[1307.3991v7](http://arxiv.org/abs/1307.3991v7)|null|
+|**2021-11-09**|**Ideal approach to convergence in functional spaces**|Serhii Bardyla et.al.|[2111.05049v2](http://arxiv.org/abs/2111.05049v2)|null|
+|**2023-01-10**|**Diffusion Models For Stronger Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v1](http://arxiv.org/abs/2301.04218v1)|null|
+|**2023-01-01**|**Weighted nonlinear flag manifolds as coadjoint orbits**|Stefan Haller et.al.|[2301.00428v1](http://arxiv.org/abs/2301.00428v1)|null|
+|**2022-12-31**|**Characteristic Curves and the exponentiation in the Riordan Lie group: A connection through examples**|Pedro J. Chocano et.al.|[2301.00173v1](http://arxiv.org/abs/2301.00173v1)|null|
+|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+|**2022-12-15**|**Prediction of Model Generalizability for Unseen Data: Methodology and Case Study in Brain Metastases Detection in T1-Weighted Contrast-Enhanced 3D MRI**|Engin Dikici et.al.|[2212.08127v1](http://arxiv.org/abs/2212.08127v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,21 +73,23 @@
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
 |**2020-12-23**|**Strong Laws of Large Numbers for Generalizations of Fréchet Mean Sets**|Christof Schötz et.al.|[2012.12762v2](http://arxiv.org/abs/2012.12762v2)|null|
 
-### Non Eculidean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-06-17**|**Texture Generation Using A Graph Generative Adversarial Network And Differentiable Rendering**|Dharma KC et.al.|[2206.08547v2](http://arxiv.org/abs/2206.08547v2)|[link](https://github.com/ml4ai/ggan)|
-|**2022-11-19**|**Exploring validation metrics for offline model-based optimisation**|Christopher Beckham et.al.|[2211.10747v2](http://arxiv.org/abs/2211.10747v2)|null|
-|**2022-02-10**|**Random Forest Weighted Local Fréchet Regression**|Rui Qiu et.al.|[2202.04912v2](http://arxiv.org/abs/2202.04912v2)|null|
-|**2023-01-31**|**Mind the (optimality) Gap: A Gap-Aware Learning Rate Scheduler for Adversarial Nets**|Hussein Hazimeh et.al.|[2302.00089v1](http://arxiv.org/abs/2302.00089v1)|null|
-|**2022-01-04**|**Polyline Simplification under the Local Fréchet Distance has Almost-Quadratic Runtime in 2D**|Sabine Storandt et.al.|[2201.01344v3](http://arxiv.org/abs/2201.01344v3)|null|
-|**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v1](http://arxiv.org/abs/2301.12503v1)|[link](https://github.com/haoheliu/audioldm_eval)|
-|**2022-10-24**|**A Regularized Conditional GAN for Posterior Sampling in Inverse Problems**|Matthew Bendel et.al.|[2210.13389v3](http://arxiv.org/abs/2210.13389v3)|[link](https://github.com/matt-bendel/rcgan)|
-|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v1](http://arxiv.org/abs/2301.10611v1)|null|
-|**2013-07-15**|**Global Fukaya category I**|Yasha Savelyev et.al.|[1307.3991v7](http://arxiv.org/abs/1307.3991v7)|null|
-|**2021-11-09**|**Ideal approach to convergence in functional spaces**|Serhii Bardyla et.al.|[2111.05049v2](http://arxiv.org/abs/2111.05049v2)|null|
-|**2023-01-10**|**Diffusion Models For Stronger Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v1](http://arxiv.org/abs/2301.04218v1)|null|
-|**2023-01-01**|**Weighted nonlinear flag manifolds as coadjoint orbits**|Stefan Haller et.al.|[2301.00428v1](http://arxiv.org/abs/2301.00428v1)|null|
-|**2022-12-31**|**Characteristic Curves and the exponentiation in the Riordan Lie group: A connection through examples**|Pedro J. Chocano et.al.|[2301.00173v1](http://arxiv.org/abs/2301.00173v1)|null|
-|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
-|**2022-12-15**|**Prediction of Model Generalizability for Unseen Data: Methodology and Case Study in Brain Metastases Detection in T1-Weighted Contrast-Enhanced 3D MRI**|Engin Dikici et.al.|[2212.08127v1](http://arxiv.org/abs/2212.08127v1)|null|
+|**2023-02-09**|**What are the mechanisms underlying metacognitive learning?**|Ruiqi He et.al.|[2302.04840v1](http://arxiv.org/abs/2302.04840v1)|null|
+|**2023-02-09**|**Consistent Group selection using Global-local prior in High dimensional setup**|Sayantan Paul et.al.|[2302.04715v1](http://arxiv.org/abs/2302.04715v1)|null|
+|**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v2](http://arxiv.org/abs/2208.12585v2)|null|
+|**2023-02-08**|**Fast Linear Model Trees by PILOT**|Jakob Raymaekers et.al.|[2302.03931v1](http://arxiv.org/abs/2302.03931v1)|null|
+|**2023-02-08**|**Group LASSO Variable Selection Method for Treatment Effect Generalization**|Chuyu Deng et.al.|[2302.03832v1](http://arxiv.org/abs/2302.03832v1)|null|
+|**2023-02-07**|**Consistent model selection for the Degree Corrected Stochastic Blockmodel**|Andressa Cerqueira et.al.|[2302.03734v1](http://arxiv.org/abs/2302.03734v1)|null|
+|**2023-02-07**|**Sparse GEMINI for Joint Discriminative Clustering and Feature Selection**|Louis Ohl et.al.|[2302.03391v1](http://arxiv.org/abs/2302.03391v1)|null|
+|**2023-02-06**|**In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation**|Alicia Curth et.al.|[2302.02923v1](http://arxiv.org/abs/2302.02923v1)|null|
+|**2023-02-06**|**Penalized Quasi-likelihood Estimation and Model Selection in Time Series Models with Parameters on the Boundary**|Heino Bohn Nielsen et.al.|[2302.02867v1](http://arxiv.org/abs/2302.02867v1)|null|
+|**2022-05-09**|**Inference of multivariate exponential Hawkes processes with inhibition and application to neuronal activity**|Anna Bonnet et.al.|[2205.04107v3](http://arxiv.org/abs/2205.04107v3)|[link](https://github.com/migmtz/multivariate-hawkes-inhibition)|
+|**2023-02-06**|**A Strong Baseline for Batch Imitation Learning**|Matthew Smith et.al.|[2302.02788v1](http://arxiv.org/abs/2302.02788v1)|null|
+|**2019-09-13**|**Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function**|Maud Delattre et.al.|[1909.06094v2](http://arxiv.org/abs/1909.06094v2)|null|
+|**2022-11-29**|**Variable selection and covariance structure identification using sparse loadings**|Jan O. Bauer et.al.|[2211.16155v4](http://arxiv.org/abs/2211.16155v4)|null|
+|**2023-02-03**|**Trade-off between prediction and FDR for high-dimensional Gaussian model selection**|Perrine Lacroix et.al.|[2302.01831v1](http://arxiv.org/abs/2302.01831v1)|[link](https://github.com/perrinelacroix/trade_off_fdr_pr)|
+|**2023-02-03**|**A mixture logistic model for panel data with a Markov structure**|Yu-Hsiang Cheng et.al.|[2302.01683v1](http://arxiv.org/abs/2302.01683v1)|null|
