@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-13 07:24:34 Asia/Shanghai
+ Automated deployment @ 2023-02-13 19:22:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,9 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-10**|**Graph Neural Networks Go Forward-Forward**|Daniele Paliotta et.al.|[2302.05282v1](http://arxiv.org/abs/2302.05282v1)|null|
+|**2022-09-13**|**Characterizing Graph Datasets for Node Classification: Homophily-Heterophily Dichotomy and Beyond**|Oleg Platonov et.al.|[2209.06177v2](http://arxiv.org/abs/2209.06177v2)|null|
+|**2023-02-09**|**GCI: A (G)raph (C)oncept (I)nterpretation Framework**|Dmitry Kazhdan et.al.|[2302.04899v1](http://arxiv.org/abs/2302.04899v1)|[link](https://github.com/dmitrykazhdan/gci)|
 |**2023-02-01**|**MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction with Neural ODEs**|Theodor Westny et.al.|[2302.00735v2](http://arxiv.org/abs/2302.00735v2)|null|
 |**2023-02-09**|**Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning**|Xin-Cheng Wen et.al.|[2302.04675v1](http://arxiv.org/abs/2302.04675v1)|[link](https://github.com/ample001/ample)|
 |**2022-11-21**|**Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**|Zixuan Xu et.al.|[2211.11191v3](http://arxiv.org/abs/2211.11191v3)|null|
@@ -29,15 +32,14 @@
 |**2021-11-16**|**Inferring halo masses with Graph Neural Networks**|Pablo Villanueva-Domingo et.al.|[2111.08683v2](http://arxiv.org/abs/2111.08683v2)|[link](https://github.com/PabloVD/HaloGraphNet)|
 |**2022-09-23**|**Convolutional Learning on Multigraphs**|Landon Butler et.al.|[2209.11354v2](http://arxiv.org/abs/2209.11354v2)|null|
 |**2023-02-08**|**Cooperative Beamforming and RISs Association for Multi-RISs Aided Multi-Users MmWave MIMO Systems through Graph Neural Networks**|Mengbing Liu et.al.|[2302.04183v1](http://arxiv.org/abs/2302.04183v1)|null|
-|**2023-02-08**|**Attending to Graph Transformers**|Luis Müller et.al.|[2302.04181v1](http://arxiv.org/abs/2302.04181v1)|[link](https://github.com/luis-mueller/probing-graph-transformers)|
-|**2021-06-21**|**Boundary Graph Neural Networks for 3D Simulations**|Andreas Mayr et.al.|[2106.11299v5](http://arxiv.org/abs/2106.11299v5)|null|
-|**2022-06-08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v3](http://arxiv.org/abs/2206.03638v3)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v2](http://arxiv.org/abs/2212.07124v2)|null|
+|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
 |**2022-06-17**|**Texture Generation Using A Graph Generative Adversarial Network And Differentiable Rendering**|Dharma KC et.al.|[2206.08547v2](http://arxiv.org/abs/2206.08547v2)|[link](https://github.com/ml4ai/ggan)|
 |**2022-11-19**|**Exploring validation metrics for offline model-based optimisation**|Christopher Beckham et.al.|[2211.10747v2](http://arxiv.org/abs/2211.10747v2)|null|
 |**2022-02-10**|**Random Forest Weighted Local Fréchet Regression**|Rui Qiu et.al.|[2202.04912v2](http://arxiv.org/abs/2202.04912v2)|null|
@@ -51,12 +53,11 @@
 |**2023-01-10**|**Diffusion Models For Stronger Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v1](http://arxiv.org/abs/2301.04218v1)|null|
 |**2023-01-01**|**Weighted nonlinear flag manifolds as coadjoint orbits**|Stefan Haller et.al.|[2301.00428v1](http://arxiv.org/abs/2301.00428v1)|null|
 |**2022-12-31**|**Characteristic Curves and the exponentiation in the Riordan Lie group: A connection through examples**|Pedro J. Chocano et.al.|[2301.00173v1](http://arxiv.org/abs/2301.00173v1)|null|
-|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
-|**2022-12-15**|**Prediction of Model Generalizability for Unseen Data: Methodology and Case Study in Brain Metastases Detection in T1-Weighted Contrast-Enhanced 3D MRI**|Engin Dikici et.al.|[2212.08127v1](http://arxiv.org/abs/2212.08127v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
 |**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
 |**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
 |**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
@@ -64,7 +65,6 @@
 |**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v1](http://arxiv.org/abs/2210.05509v1)|null|
 |**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
-|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices**|Saiteja Utpala et.al.|[2208.04245v1](http://arxiv.org/abs/2208.04245v1)|null|
 |**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
 |**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
@@ -78,6 +78,7 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-10**|**Bayesian Sparse Vector Autoregressive Switching Models with Application to Human Gesture Phase Segmentation**|Beniamino Hadj-Amar et.al.|[2302.05347v1](http://arxiv.org/abs/2302.05347v1)|null|
 |**2023-02-09**|**What are the mechanisms underlying metacognitive learning?**|Ruiqi He et.al.|[2302.04840v1](http://arxiv.org/abs/2302.04840v1)|null|
 |**2023-02-09**|**Consistent Group selection using Global-local prior in High dimensional setup**|Sayantan Paul et.al.|[2302.04715v1](http://arxiv.org/abs/2302.04715v1)|null|
 |**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v2](http://arxiv.org/abs/2208.12585v2)|null|
@@ -92,4 +93,3 @@
 |**2019-09-13**|**Estimating Fisher Information Matrix in Latent Variable Models based on the Score Function**|Maud Delattre et.al.|[1909.06094v2](http://arxiv.org/abs/1909.06094v2)|null|
 |**2022-11-29**|**Variable selection and covariance structure identification using sparse loadings**|Jan O. Bauer et.al.|[2211.16155v4](http://arxiv.org/abs/2211.16155v4)|null|
 |**2023-02-03**|**Trade-off between prediction and FDR for high-dimensional Gaussian model selection**|Perrine Lacroix et.al.|[2302.01831v1](http://arxiv.org/abs/2302.01831v1)|[link](https://github.com/perrinelacroix/trade_off_fdr_pr)|
-|**2023-02-03**|**A mixture logistic model for panel data with a Markov structure**|Yu-Hsiang Cheng et.al.|[2302.01683v1](http://arxiv.org/abs/2302.01683v1)|null|
