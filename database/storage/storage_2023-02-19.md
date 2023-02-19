@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-19 07:24:27 Asia/Shanghai
+ Automated deployment @ 2023-02-19 19:21:11 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -33,6 +33,27 @@
 |**2023-02-15**|**Project Elements: A computational entity-component-system in a scene-graph pythonic framework, for a neural, geometric computer graphics curriculum**|George Papagiannakis et.al.|[2302.07691v1](http://arxiv.org/abs/2302.07691v1)|null|
 |**2023-02-02**|**LMC: Fast Training of GNNs via Subgraph Sampling with Provable Convergence**|Zhihao Shi et.al.|[2302.00924v2](http://arxiv.org/abs/2302.00924v2)|[link](https://github.com/miralab-ustc/gnn-lmc)|
 
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-03**|**Empirical analysis in limit order book modeling for Nikkei 225 Stocks with Cox-type intensities**|Shunya Chomei et.al.|[2302.01668v2](http://arxiv.org/abs/2302.01668v2)|null|
+|**2022-06-13**|**Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation**|Zengyu Qiu et.al.|[2206.06067v3](http://arxiv.org/abs/2206.06067v3)|[link](https://github.com/cuibaby/dpk)|
+|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v3](http://arxiv.org/abs/2211.10776v3)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
+|**2022-12-28**|**Choosing the Number of Topics in LDA Models -- A Monte Carlo Comparison of Selection Criteria**|Victor Bystrov et.al.|[2212.14074v2](http://arxiv.org/abs/2212.14074v2)|[link](https://github.com/vikana/sbic)|
+|**2021-01-21**|**Rethinking Semantic Segmentation Evaluation for Explainability and Model Selection**|Yuxiang Zhang et.al.|[2101.08418v2](http://arxiv.org/abs/2101.08418v2)|null|
+|**2019-12-11**|**Graph quilting: graphical model selection from partially observed covariances**|Giuseppe Vinci et.al.|[1912.05573v2](http://arxiv.org/abs/1912.05573v2)|null|
+|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v1](http://arxiv.org/abs/2302.07415v1)|null|
+|**2022-08-30**|**Transformers with Learnable Activation Functions**|Haishuo Fang et.al.|[2208.14111v3](http://arxiv.org/abs/2208.14111v3)|[link](https://github.com/ukplab/2022-raft)|
+|**2020-05-30**|**Solution Path Algorithm for Twin Multi-class Support Vector Machine**|Liuyuan Chen et.al.|[2006.00276v2](http://arxiv.org/abs/2006.00276v2)|[link](https://github.com/zhoukanglei/twinmultipath)|
+|**2021-01-14**|**Multivariate Bayesian structured variable selection for pharmacogenomic studies**|Zhi Zhao et.al.|[2101.05899v3](http://arxiv.org/abs/2101.05899v3)|[link](https://github.com/zhizuio/BayesSUR-RE)|
+|**2022-10-10**|**Accumulating errors in tests of general relativity with gravitational waves: overlapping signals and inaccurate waveforms**|Qian Hu et.al.|[2210.04769v2](http://arxiv.org/abs/2210.04769v2)|null|
+|**2020-09-22**|**Non-asymptotic oracle inequalities for the Lasso in high-dimensional mixture of experts**|TrungTin Nguyen et.al.|[2009.10622v6](http://arxiv.org/abs/2009.10622v6)|null|
+|**2023-02-11**|**Fair Enough: Standardizing Evaluation and Model Selection for Fairness Research in NLP**|Xudong Han et.al.|[2302.05711v1](http://arxiv.org/abs/2302.05711v1)|[link](https://github.com/hanxudong/fair_enough)|
+|**2019-07-19**|**Reluctant Interaction Modeling**|Guo Yu et.al.|[1907.08414v3](http://arxiv.org/abs/1907.08414v3)|null|
+|**2023-02-10**|**Bayesian Sparse Vector Autoregressive Switching Models with Application to Human Gesture Phase Segmentation**|Beniamino Hadj-Amar et.al.|[2302.05347v1](http://arxiv.org/abs/2302.05347v1)|null|
+
 ## Non-Euclidean Staistics
 
 ### Frechet Mean
@@ -57,7 +78,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-15**|**Predicting distributional profiles of physical activity in the NHANES database using a Partially Linear Single-Index Fréchet Regression model**|Aritra Ghosal et.al.|[2302.07692v1](http://arxiv.org/abs/2302.07692v1)|null|
+|**2023-02-15**|**Predicting distributional profiles of physical activity in the NHANES database using a Partially Linear Single-Index Fréchet Regression model**|Aritra Ghosal et.al.|[2302.07692v1](http://arxiv.org/abs/2302.07692v1)|[link](https://github.com/aghosal89/fsi_nhanes_application)|
 |**2023-02-13**|**Frechet-Urysohn property of quasicontinuous functions**|Alexander V. Osipov et.al.|[2302.06437v2](http://arxiv.org/abs/2302.06437v2)|null|
 |**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v3](http://arxiv.org/abs/2203.06026v3)|[link](https://github.com/kynkaat/role-of-imagenet-classes-in-fid)|
 |**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v2](http://arxiv.org/abs/2212.07124v2)|null|
@@ -72,24 +93,3 @@
 |**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v1](http://arxiv.org/abs/2301.10611v1)|null|
 |**2013-07-15**|**Global Fukaya category I**|Yasha Savelyev et.al.|[1307.3991v7](http://arxiv.org/abs/1307.3991v7)|null|
 |**2021-11-09**|**Ideal approach to convergence in functional spaces**|Serhii Bardyla et.al.|[2111.05049v2](http://arxiv.org/abs/2111.05049v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-03**|**Empirical analysis in limit order book modeling for Nikkei 225 Stocks with Cox-type intensities**|Shunya Chomei et.al.|[2302.01668v2](http://arxiv.org/abs/2302.01668v2)|null|
-|**2022-06-13**|**Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation**|Zengyu Qiu et.al.|[2206.06067v3](http://arxiv.org/abs/2206.06067v3)|[link](https://github.com/cuibaby/dpk)|
-|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v3](http://arxiv.org/abs/2211.10776v3)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
-|**2022-12-28**|**Choosing the Number of Topics in LDA Models -- A Monte Carlo Comparison of Selection Criteria**|Victor Bystrov et.al.|[2212.14074v2](http://arxiv.org/abs/2212.14074v2)|[link](https://github.com/vikana/sbic)|
-|**2021-01-21**|**Rethinking Semantic Segmentation Evaluation for Explainability and Model Selection**|Yuxiang Zhang et.al.|[2101.08418v2](http://arxiv.org/abs/2101.08418v2)|null|
-|**2019-12-11**|**Graph quilting: graphical model selection from partially observed covariances**|Giuseppe Vinci et.al.|[1912.05573v2](http://arxiv.org/abs/1912.05573v2)|null|
-|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v1](http://arxiv.org/abs/2302.07415v1)|null|
-|**2022-08-30**|**Transformers with Learnable Activation Functions**|Haishuo Fang et.al.|[2208.14111v3](http://arxiv.org/abs/2208.14111v3)|[link](https://github.com/ukplab/2022-raft)|
-|**2020-05-30**|**Solution Path Algorithm for Twin Multi-class Support Vector Machine**|Liuyuan Chen et.al.|[2006.00276v2](http://arxiv.org/abs/2006.00276v2)|[link](https://github.com/zhoukanglei/twinmultipath)|
-|**2021-01-14**|**Multivariate Bayesian structured variable selection for pharmacogenomic studies**|Zhi Zhao et.al.|[2101.05899v3](http://arxiv.org/abs/2101.05899v3)|[link](https://github.com/zhizuio/BayesSUR-RE)|
-|**2022-10-10**|**Accumulating errors in tests of general relativity with gravitational waves: overlapping signals and inaccurate waveforms**|Qian Hu et.al.|[2210.04769v2](http://arxiv.org/abs/2210.04769v2)|null|
-|**2020-09-22**|**Non-asymptotic oracle inequalities for the Lasso in high-dimensional mixture of experts**|TrungTin Nguyen et.al.|[2009.10622v6](http://arxiv.org/abs/2009.10622v6)|null|
-|**2023-02-11**|**Fair Enough: Standardizing Evaluation and Model Selection for Fairness Research in NLP**|Xudong Han et.al.|[2302.05711v1](http://arxiv.org/abs/2302.05711v1)|[link](https://github.com/hanxudong/fair_enough)|
-|**2019-07-19**|**Reluctant Interaction Modeling**|Guo Yu et.al.|[1907.08414v3](http://arxiv.org/abs/1907.08414v3)|null|
-|**2023-02-10**|**Bayesian Sparse Vector Autoregressive Switching Models with Application to Human Gesture Phase Segmentation**|Beniamino Hadj-Amar et.al.|[2302.05347v1](http://arxiv.org/abs/2302.05347v1)|null|
