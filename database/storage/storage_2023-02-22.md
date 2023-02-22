@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-22 07:26:15 Asia/Shanghai
+ Automated deployment @ 2023-02-22 19:22:55 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,29 +17,29 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-21**|**MulGT: Multi-task Graph-Transformer with Task-aware Knowledge Injection and Domain Knowledge-driven Pooling for Whole Slide Image Analysis**|Weiqin Zhao et.al.|[2302.10574v1](http://arxiv.org/abs/2302.10574v1)|null|
+|**2023-02-21**|**Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems**|Heesoo Jung et.al.|[2302.10567v1](http://arxiv.org/abs/2302.10567v1)|[link](https://github.com/steve30572/dpao)|
+|**2023-02-16**|**GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks**|Zemin Liu et.al.|[2302.08043v2](http://arxiv.org/abs/2302.08043v2)|null|
+|**2023-02-21**|**Robust Failure Diagnosis of Microservice System through Multimodal Data**|Shenglin Zhang et.al.|[2302.10512v1](http://arxiv.org/abs/2302.10512v1)|null|
+|**2023-02-21**|**Diffusion Probabilistic Models for Graph-Structured Prediction**|Hyosoon Jang et.al.|[2302.10506v1](http://arxiv.org/abs/2302.10506v1)|null|
+|**2023-02-21**|**Higher-order Sparse Convolutions in Graph Neural Networks**|Jhony H. Giraldo et.al.|[2302.10505v1](http://arxiv.org/abs/2302.10505v1)|null|
+|**2023-02-21**|**Reusable Slotwise Mechanisms**|Trang Nguyen et.al.|[2302.10503v1](http://arxiv.org/abs/2302.10503v1)|null|
+|**2023-02-21**|**KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting**|Jinglun Cai et.al.|[2302.10454v1](http://arxiv.org/abs/2302.10454v1)|null|
+|**2023-02-21**|**Deep Reinforcement Learning Based on Local GNN for Goal-conditioned Deformable Object Rearranging**|Yuhong Deng et.al.|[2302.10446v1](http://arxiv.org/abs/2302.10446v1)|null|
+|**2023-02-21**|**Label Information Enhanced Fraud Detection against Low Homophily in Graphs**|Yuchen Wang et.al.|[2302.10407v1](http://arxiv.org/abs/2302.10407v1)|null|
 |**2022-07-03**|**Collaboration-Aware Graph Convolutional Network for Recommender Systems**|Yu Wang et.al.|[2207.06221v4](http://arxiv.org/abs/2207.06221v4)|[link](https://github.com/yuwvandy/cagcn)|
 |**2023-02-08**|**On Generalized Degree Fairness in Graph Neural Networks**|Zemin Liu et.al.|[2302.03881v2](http://arxiv.org/abs/2302.03881v2)|null|
 |**2022-07-10**|**Graph Generative Model for Benchmarking Graph Neural Networks**|Minji Yoon et.al.|[2207.04396v3](http://arxiv.org/abs/2207.04396v3)|[link](https://github.com/minjiyoon/cgt)|
 |**2023-02-20**|**Dynamic Graph Neural Network with Adaptive Edge Attributes for Air Quality Predictions**|Jing Xu et.al.|[2302.09977v1](http://arxiv.org/abs/2302.09977v1)|null|
 |**2023-01-08**|**AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network**|Guanghui Zhu et.al.|[2301.03049v2](http://arxiv.org/abs/2301.03049v2)|[link](https://github.com/pasalab/autoac)|
-|**2022-09-14**|**Scalable Spatiotemporal Graph Neural Networks**|Andrea Cini et.al.|[2209.06520v2](http://arxiv.org/abs/2209.06520v2)|[link](https://github.com/graph-machine-learning-group/sgp)|
-|**2023-02-20**|**Finding Heterophilic Neighbors via Confidence-based Subgraph Matching for Semi-supervised Node Classification**|Yoonhyuk Choi et.al.|[2302.09755v1](http://arxiv.org/abs/2302.09755v1)|null|
-|**2023-02-19**|**Chemical Environment Adaptive Learning for Optical Band Gap Prediction of Doped Graphitic Carbon Nitride Nanosheets**|Chen Chen et.al.|[2302.09539v1](http://arxiv.org/abs/2302.09539v1)|null|
-|**2023-02-19**|**Pseudo Contrastive Learning for Graph-based Semi-supervised Learning**|Weigang Lu et.al.|[2302.09532v1](http://arxiv.org/abs/2302.09532v1)|null|
-|**2022-12-09**|**Adversarial Weight Perturbation Improves Generalization in Graph Neural Networks**|Yihan Wu et.al.|[2212.04983v3](http://arxiv.org/abs/2212.04983v3)|[link](https://github.com/yihanwu95/wt-awp)|
-|**2022-07-27**|**Learning Hyper Label Model for Programmatic Weak Supervision**|Renzhi Wu et.al.|[2207.13545v3](http://arxiv.org/abs/2207.13545v3)|[link](https://github.com/wurenzhi/hyper_label_model)|
-|**2023-02-18**|**Heterogeneous Graph Convolutional Neural Network via Hodge-Laplacian for Brain Functional Data**|Jinghan Huang et.al.|[2302.09323v1](http://arxiv.org/abs/2302.09323v1)|null|
-|**2023-02-18**|**Implicit Solvent Approach Based on Generalised Born and Transferable Graph Neural Networks for Molecular Dynamics Simulations**|Paul Katzberger et.al.|[2302.09321v1](http://arxiv.org/abs/2302.09321v1)|null|
-|**2023-02-17**|**Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection**|Weilin Cong et.al.|[2302.08990v1](http://arxiv.org/abs/2302.08990v1)|null|
-|**2022-07-29**|**BiFeat: Supercharge GNN Training via Graph Feature Quantization**|Yuxin Ma et.al.|[2207.14696v2](http://arxiv.org/abs/2207.14696v2)|[link](https://github.com/bifeat/bifeat)|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v3](http://arxiv.org/abs/2203.14495v3)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
 |**2022-07-26**|**Exploring Generalizable Distillation for Efficient Medical Image Segmentation**|Xingqun Qi et.al.|[2207.12995v2](http://arxiv.org/abs/2207.12995v2)|[link](https://github.com/xingqunqi-lab/gkd-framework)|
-|**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v2](http://arxiv.org/abs/2203.14495v2)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
 |**2023-02-19**|**The Fréchet derivative of the tensor t-function**|Kathryn Lund et.al.|[2302.09687v1](http://arxiv.org/abs/2302.09687v1)|null|
 |**2022-10-18**|**Improving GANs with a Feature Cycling Generator**|Seung Park et.al.|[2210.09638v2](http://arxiv.org/abs/2210.09638v2)|null|
 |**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v2](http://arxiv.org/abs/2301.12503v2)|[link](https://github.com/haoheliu/audioldm_eval)|
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-12**|**Model selection in atomistic simulation**|Jonathan E. Moussa et.al.|[2301.05287v2](http://arxiv.org/abs/2301.05287v2)|null|
+|**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v4](http://arxiv.org/abs/2207.04248v4)|null|
+|**2022-05-26**|**Understanding new tasks through the lens of training data via exponential tilting**|Subha Maity et.al.|[2205.13577v2](http://arxiv.org/abs/2205.13577v2)|[link](https://github.com/smaityumich/exponential-tilting)|
+|**2020-06-02**|**Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros**|Maoran Xu et.al.|[2006.01340v5](http://arxiv.org/abs/2006.01340v5)|null|
 |**2023-02-20**|**Pseudo-labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v1](http://arxiv.org/abs/2302.10160v1)|null|
 |**2021-10-19**|**Operator-induced structural variable selection for identifying materials genes**|Shengbin Ye et.al.|[2110.10195v3](http://arxiv.org/abs/2110.10195v3)|null|
 |**2023-02-20**|**Quantifying uncertainty for deep learning based forecasting and flow-reconstruction using neural architecture search ensembles**|Romit Maulik et.al.|[2302.09748v1](http://arxiv.org/abs/2302.09748v1)|null|
@@ -89,7 +93,3 @@
 |**2021-10-16**|**On Model Selection Consistency of Lasso for High-Dimensional Ising Models**|Xiangming Meng et.al.|[2110.08500v4](http://arxiv.org/abs/2110.08500v4)|null|
 |**2022-07-27**|**The Lauritzen-Chen Likelihood For Graphical Models**|Ilya Shpitser et.al.|[2207.13794v3](http://arxiv.org/abs/2207.13794v3)|null|
 |**2023-02-16**|**Infinite Action Contextual Bandits with Reusable Data Exhaust**|Mark Rucker et.al.|[2302.08551v1](http://arxiv.org/abs/2302.08551v1)|null|
-|**2023-02-03**|**Empirical analysis in limit order book modeling for Nikkei 225 Stocks with Cox-type intensities**|Shunya Chomei et.al.|[2302.01668v2](http://arxiv.org/abs/2302.01668v2)|null|
-|**2022-06-13**|**Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation**|Zengyu Qiu et.al.|[2206.06067v3](http://arxiv.org/abs/2206.06067v3)|[link](https://github.com/cuibaby/dpk)|
-|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v3](http://arxiv.org/abs/2211.10776v3)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
-|**2022-12-28**|**Choosing the Number of Topics in LDA Models -- A Monte Carlo Comparison of Selection Criteria**|Victor Bystrov et.al.|[2212.14074v2](http://arxiv.org/abs/2212.14074v2)|[link](https://github.com/vikana/sbic)|
