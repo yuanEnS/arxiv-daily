@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-02-24 07:26:51 Asia/Shanghai
+ Automated deployment @ 2023-02-24 19:23:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-23**|**EquiPocket: an E(3)-Equivariant Geometric Graph Neural Network for Ligand Binding Site Prediction**|Yang Zhang et.al.|[2302.12177v1](http://arxiv.org/abs/2302.12177v1)|null|
+|**2023-02-23**|**Do Machine Learning Models Produce TypeScript Types that Type Check?**|Ming-Ho Yee et.al.|[2302.12163v1](http://arxiv.org/abs/2302.12163v1)|null|
+|**2023-02-06**|**An Implicit GNN Solver for Poisson-like problems**|Matthieu Nastorg et.al.|[2302.10891v2](http://arxiv.org/abs/2302.10891v2)|null|
+|**2023-02-21**|**Diffusion Probabilistic Models for Graph-Structured Prediction**|Hyosoon Jang et.al.|[2302.10506v3](http://arxiv.org/abs/2302.10506v3)|[link](https://github.com/hsjang0/dpm-gsp)|
+|**2023-02-21**|**KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting**|Jinglun Cai et.al.|[2302.10454v2](http://arxiv.org/abs/2302.10454v2)|null|
+|**2023-02-22**|**A critical look at the evaluation of GNNs under heterophily: are we really making progress?**|Oleg Platonov et.al.|[2302.11640v1](http://arxiv.org/abs/2302.11640v1)|[link](https://github.com/yandex-research/heterophilous-graphs)|
+|**2023-02-22**|**Some Might Say All You Need Is Sum**|Eran Rosenbluth et.al.|[2302.11603v1](http://arxiv.org/abs/2302.11603v1)|null|
 |**2023-02-22**|**Equivariant Polynomials for Graph Neural Networks**|Omri Puny et.al.|[2302.11556v1](http://arxiv.org/abs/2302.11556v1)|null|
 |**2023-02-22**|**Drop Edges and Adapt: a Fairness Enforcing Fine-tuning for Graph Neural Networks**|Indro Spinelli et.al.|[2302.11479v1](http://arxiv.org/abs/2302.11479v1)|null|
 |**2023-02-22**|**Power Constrained Autotuning using Graph Neural Networks**|Akash Dutta et.al.|[2302.11467v1](http://arxiv.org/abs/2302.11467v1)|null|
-|**2023-02-21**|**Diffusion Probabilistic Models for Graph-Structured Prediction**|Sungsoo Ahn et.al.|[2302.10506v2](http://arxiv.org/abs/2302.10506v2)|[link](https://github.com/hsjang0/dpm-gsp)|
 |**2023-02-22**|**Structure Embedded Nucleus Classification for Histopathology Images**|Wei Lou et.al.|[2302.11416v1](http://arxiv.org/abs/2302.11416v1)|null|
 |**2021-02-03**|**Object and Relation Centric Representations for Push Effect Prediction**|Ahmet E. Tekden et.al.|[2102.02100v2](http://arxiv.org/abs/2102.02100v2)|null|
 |**2023-02-22**|**KGTrust: Evaluating Trustworthiness of SIoT via Knowledge Enhanced Graph Neural Networks**|Zhizhi Yu et.al.|[2302.11396v1](http://arxiv.org/abs/2302.11396v1)|null|
 |**2023-02-12**|**Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation**|Alejandro Ariza-Casabona et.al.|[2302.05990v2](http://arxiv.org/abs/2302.05990v2)|null|
 |**2023-02-22**|**HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer**|Qiheng Mao et.al.|[2302.11329v1](http://arxiv.org/abs/2302.11329v1)|null|
-|**2023-02-22**|**Time-varying Signals Recovery via Graph Neural Networks**|Jhon A. Castro-Correa et.al.|[2302.11313v1](http://arxiv.org/abs/2302.11313v1)|null|
-|**2023-02-22**|**Few-Shot Structured Policy Learning for Multi-Domain and Multi-Task Dialogues**|Thibault Cordier et.al.|[2302.11199v1](http://arxiv.org/abs/2302.11199v1)|null|
-|**2023-02-22**|**BUAA_BIGSCity: Spatial-Temporal Graph Neural Network for Wind Power Forecasting in Baidu KDD CUP 2022**|Jiawei Jiang et.al.|[2302.11159v1](http://arxiv.org/abs/2302.11159v1)|[link](https://github.com/buaabigscity/kddcup2022)|
-|**2022-04-20**|**Graph neural networks and attention-based CNN-LSTM for protein classification**|Zhuangwei Shi et.al.|[2204.09486v2](http://arxiv.org/abs/2204.09486v2)|[link](https://github.com/zshicode/gnn-attcl-protein)|
-|**2022-02-28**|**Differential equation and probability inspired graph neural networks for latent variable learning**|Zhuangwei Shi et.al.|[2202.13800v2](http://arxiv.org/abs/2202.13800v2)|[link](https://github.com/zshicode/latent-variable-gnn)|
-|**2022-10-25**|**Teal: Learning-Accelerated Optimization of WAN Traffic Engineering**|Zhiying Xu et.al.|[2210.13763v2](http://arxiv.org/abs/2210.13763v2)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-02-23**|**Change is Hard: A Closer Look at Subpopulation Shift**|Yuzhe Yang et.al.|[2302.12254v1](http://arxiv.org/abs/2302.12254v1)|[link](https://github.com/yyzharry/subpopbench)|
+|**2023-02-23**|**Quantifying & Modeling Feature Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v1](http://arxiv.org/abs/2302.12247v1)|null|
+|**2022-05-26**|**Forward variable selection enables fast and accurate dynamic system identification with Karhunen-Loève decomposed Gaussian processes**|Kyle Hayes et.al.|[2205.13676v4](http://arxiv.org/abs/2205.13676v4)|null|
+|**2023-02-23**|**Detecting Signs of Model Change with Continuous Model Selection Based on Descriptive Dimensionality**|Kenji Yamanishi et.al.|[2302.12127v1](http://arxiv.org/abs/2302.12127v1)|null|
+|**2021-07-08**|**Inference and forecasting for continuous-time integer-valued trawl processes**|Mikkel Bennedsen et.al.|[2107.03674v3](http://arxiv.org/abs/2107.03674v3)|[link](https://github.com/mbennedsen/Likelihood-based-IVT)|
+|**2023-02-23**|**Variable selection in linear regression models: choosing the best subset is not always the best choice**|Moritz Hanke et.al.|[2302.12034v1](http://arxiv.org/abs/2302.12034v1)|null|
+|**2020-10-13**|**Functors of actions**|P. Ntelis et.al.|[2010.06707v4](http://arxiv.org/abs/2010.06707v4)|[link](https://github.com/lontelis/AofEFT)|
+|**2023-02-23**|**A novel efficient Multi-view traffic-related object detection framework**|Kun Yang et.al.|[2302.11810v1](http://arxiv.org/abs/2302.11810v1)|null|
+|**2023-02-22**|**Patient stratification in multi-arm trials: a two-stage procedure with Bayesian profile regression**|Yuejia Xu et.al.|[2302.11647v1](http://arxiv.org/abs/2302.11647v1)|null|
+|**2023-02-22**|**Sequential Re-estimation Learning of Optimal Individualized Treatment Rules Among Ordinal Treatments with Application to Recommended Intervals Between Blood Donations**|Yuejia Xu et.al.|[2302.11638v1](http://arxiv.org/abs/2302.11638v1)|null|
 |**2022-09-30**|**A Partially Functional Linear Modeling Framework for Integrating Genetic, Imaging, and Clinical Data**|Ting Li et.al.|[2210.01084v2](http://arxiv.org/abs/2210.01084v2)|null|
 |**2022-08-25**|**Time Series Clustering with an EM algorithm for Mixtures of Linear Gaussian State Space Models**|Ryohei Umatani et.al.|[2208.11907v3](http://arxiv.org/abs/2208.11907v3)|[link](https://github.com/ur17/em_mlgssm)|
 |**2023-01-12**|**Model selection in atomistic simulation**|Jonathan E. Moussa et.al.|[2301.05287v2](http://arxiv.org/abs/2301.05287v2)|null|
 |**2022-07-09**|**A Statistically-Based Approach to Feedforward Neural Network Model Selection**|Andrew McInerney et.al.|[2207.04248v4](http://arxiv.org/abs/2207.04248v4)|null|
 |**2022-05-26**|**Understanding new tasks through the lens of training data via exponential tilting**|Subha Maity et.al.|[2205.13577v2](http://arxiv.org/abs/2205.13577v2)|[link](https://github.com/smaityumich/exponential-tilting)|
-|**2020-06-02**|**Bayesian Inference with the l1-ball Prior: Solving Combinatorial Problems with Exact Zeros**|Maoran Xu et.al.|[2006.01340v5](http://arxiv.org/abs/2006.01340v5)|null|
-|**2023-02-20**|**Pseudo-labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v1](http://arxiv.org/abs/2302.10160v1)|null|
-|**2021-10-19**|**Operator-induced structural variable selection for identifying materials genes**|Shengbin Ye et.al.|[2110.10195v3](http://arxiv.org/abs/2110.10195v3)|null|
-|**2023-02-20**|**Quantifying uncertainty for deep learning based forecasting and flow-reconstruction using neural architecture search ensembles**|Romit Maulik et.al.|[2302.09748v1](http://arxiv.org/abs/2302.09748v1)|null|
-|**2023-02-19**|**Evaluating Representations with Readout Model Switching**|Yazhe Li et.al.|[2302.09579v1](http://arxiv.org/abs/2302.09579v1)|null|
-|**2023-02-19**|**Estimating Optimal Policy Value in General Linear Contextual Bandits**|Jonathan N. Lee et.al.|[2302.09451v1](http://arxiv.org/abs/2302.09451v1)|null|
-|**2023-02-18**|**Brainomaly: Unsupervised Neurologic Disease Detection Utilizing Unannotated T1-weighted Brain MR Images**|Md Mahfuzur Rahman Siddiquee et.al.|[2302.09200v1](http://arxiv.org/abs/2302.09200v1)|[link](https://github.com/mahfuzmohammad/brainomaly)|
-|**2022-10-04**|**MEDFAIR: Benchmarking Fairness for Medical Imaging**|Yongshuo Zong et.al.|[2210.01725v2](http://arxiv.org/abs/2210.01725v2)|[link](https://github.com/ys-zong/medfair)|
-|**2022-07-13**|**Cost-Effective Online Contextual Model Selection**|Xuefeng Liu et.al.|[2207.06030v3](http://arxiv.org/abs/2207.06030v3)|null|
-|**2021-10-16**|**On Model Selection Consistency of Lasso for High-Dimensional Ising Models**|Xiangming Meng et.al.|[2110.08500v4](http://arxiv.org/abs/2110.08500v4)|null|
 
 ## Non-Euclidean Staistics
 
