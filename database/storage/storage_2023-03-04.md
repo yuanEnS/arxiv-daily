@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-04 07:26:13 Asia/Shanghai
+ Automated deployment @ 2023-03-04 19:21:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2023-03-01**|**Diffusing Graph Attention**|Daniel Glickman et.al.|[2303.00613v1](http://arxiv.org/abs/2303.00613v1)|null|
 |**2022-11-12**|**Comprehensive Analysis of Over-smoothing in Graph Neural Networks from Markov Chains Perspective**|Weichen Zhao et.al.|[2211.06605v2](http://arxiv.org/abs/2211.06605v2)|null|
 |**2022-10-26**|**Learning on Large-scale Text-attributed Graphs via Variational Inference**|Jianan Zhao et.al.|[2210.14709v2](http://arxiv.org/abs/2210.14709v2)|[link](https://github.com/andyjzhao/glem)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-02**|**Hyperparameter Tuning and Model Evaluation in Causal Effect Estimation**|Damian Machlanski et.al.|[2303.01412v1](http://arxiv.org/abs/2303.01412v1)|[link](https://github.com/misoc-mml/hyperparam-sensitivity)|
+|**2023-03-02**|**A Vision for Semantically Enriched Data Science**|Udayan Khurana et.al.|[2303.01378v1](http://arxiv.org/abs/2303.01378v1)|null|
+|**2023-03-02**|**Association Among Gender, Age, and Region in Taiwan's First Ten Thousand COVID-19 Cases: A Log-linear-model Analysis**|Tai-Cheng Hung et.al.|[2303.01131v1](http://arxiv.org/abs/2303.01131v1)|null|
+|**2023-03-02**|**In all LikelihoodS: How to Reliably Select Pseudo-Labeled Data for Self-Training in Semi-Supervised Learning**|Julian Rodemann et.al.|[2303.01117v1](http://arxiv.org/abs/2303.01117v1)|[link](https://github.com/rodemann/reliable-pls)|
+|**2022-05-02**|**Graphical Evidence**|Anindya Bhadra et.al.|[2205.01016v3](http://arxiv.org/abs/2205.01016v3)|[link](https://github.com/sagarknk/graphical_evidence)|
+|**2023-03-01**|**FedScore: A privacy-preserving framework for federated scoring system development**|Siqi Li et.al.|[2303.00282v1](http://arxiv.org/abs/2303.00282v1)|null|
+|**2022-04-11**|**Data Splits and Metrics for Method Benchmarking on Surgical Action Triplet Datasets**|Chinedu Innocent Nwoye et.al.|[2204.05235v2](http://arxiv.org/abs/2204.05235v2)|[link](https://github.com/camma-public/tripnet)|
+|**2022-06-25**|**Bayesian Optimization Over Iterative Learners with Structured Responses: A Budget-aware Planning Approach**|Syrine Belakaria et.al.|[2206.12708v3](http://arxiv.org/abs/2206.12708v3)|null|
+|**2023-02-27**|**Prediction-based Variable Selection for Component-wise Gradient Boosting**|Sophie Potts et.al.|[2302.13822v1](http://arxiv.org/abs/2302.13822v1)|null|
+|**2021-02-10**|**Bayesian Knockoff Filter**|Jiaqi Gu et.al.|[2102.05223v2](http://arxiv.org/abs/2102.05223v2)|null|
+|**2023-02-24**|**Quark mass dependence of the low-lying charmed mesons at one loop in HH$χ$PT**|F. Gil-Domínguez et.al.|[2302.12861v1](http://arxiv.org/abs/2302.12861v1)|null|
+|**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v6](http://arxiv.org/abs/2110.12316v6)|[link](https://github.com/drkowal/rSTAR)|
+|**2023-02-23**|**A Bayesian Zero-Inflated Dirichlet-Multinomial Regression Model for Multivariate Compositional Count Data**|Matthew D. Koslovsky et.al.|[2302.12283v1](http://arxiv.org/abs/2302.12283v1)|null|
+|**2023-02-23**|**Change is Hard: A Closer Look at Subpopulation Shift**|Yuzhe Yang et.al.|[2302.12254v1](http://arxiv.org/abs/2302.12254v1)|[link](https://github.com/yyzharry/subpopbench)|
+|**2023-02-23**|**Quantifying & Modeling Feature Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v1](http://arxiv.org/abs/2302.12247v1)|[link](https://github.com/pliang279/pid)|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-02**|**Hyperparameter Tuning and Model Evaluation in Causal Effect Estimation**|Damian Machlanski et.al.|[2303.01412v1](http://arxiv.org/abs/2303.01412v1)|[link](https://github.com/misoc-mml/hyperparam-sensitivity)|
-|**2023-03-02**|**A Vision for Semantically Enriched Data Science**|Udayan Khurana et.al.|[2303.01378v1](http://arxiv.org/abs/2303.01378v1)|null|
-|**2023-03-02**|**Association Among Gender, Age, and Region in Taiwan's First Ten Thousand COVID-19 Cases: A Log-linear-model Analysis**|Tai-Cheng Hung et.al.|[2303.01131v1](http://arxiv.org/abs/2303.01131v1)|null|
-|**2023-03-02**|**In all LikelihoodS: How to Reliably Select Pseudo-Labeled Data for Self-Training in Semi-Supervised Learning**|Julian Rodemann et.al.|[2303.01117v1](http://arxiv.org/abs/2303.01117v1)|[link](https://github.com/rodemann/reliable-pls)|
-|**2022-05-02**|**Graphical Evidence**|Anindya Bhadra et.al.|[2205.01016v3](http://arxiv.org/abs/2205.01016v3)|[link](https://github.com/sagarknk/graphical_evidence)|
-|**2023-03-01**|**FedScore: A privacy-preserving framework for federated scoring system development**|Siqi Li et.al.|[2303.00282v1](http://arxiv.org/abs/2303.00282v1)|null|
-|**2022-04-11**|**Data Splits and Metrics for Method Benchmarking on Surgical Action Triplet Datasets**|Chinedu Innocent Nwoye et.al.|[2204.05235v2](http://arxiv.org/abs/2204.05235v2)|[link](https://github.com/camma-public/tripnet)|
-|**2022-06-25**|**Bayesian Optimization Over Iterative Learners with Structured Responses: A Budget-aware Planning Approach**|Syrine Belakaria et.al.|[2206.12708v3](http://arxiv.org/abs/2206.12708v3)|null|
-|**2023-02-27**|**Prediction-based Variable Selection for Component-wise Gradient Boosting**|Sophie Potts et.al.|[2302.13822v1](http://arxiv.org/abs/2302.13822v1)|null|
-|**2021-02-10**|**Bayesian Knockoff Filter**|Jiaqi Gu et.al.|[2102.05223v2](http://arxiv.org/abs/2102.05223v2)|null|
-|**2023-02-24**|**Quark mass dependence of the low-lying charmed mesons at one loop in HH$χ$PT**|F. Gil-Domínguez et.al.|[2302.12861v1](http://arxiv.org/abs/2302.12861v1)|null|
-|**2021-10-23**|**Semiparametric discrete data regression with Monte Carlo inference and prediction**|Daniel R. Kowal et.al.|[2110.12316v6](http://arxiv.org/abs/2110.12316v6)|[link](https://github.com/drkowal/rSTAR)|
-|**2023-02-23**|**A Bayesian Zero-Inflated Dirichlet-Multinomial Regression Model for Multivariate Compositional Count Data**|Matthew D. Koslovsky et.al.|[2302.12283v1](http://arxiv.org/abs/2302.12283v1)|null|
-|**2023-02-23**|**Change is Hard: A Closer Look at Subpopulation Shift**|Yuzhe Yang et.al.|[2302.12254v1](http://arxiv.org/abs/2302.12254v1)|[link](https://github.com/yyzharry/subpopbench)|
-|**2023-02-23**|**Quantifying & Modeling Feature Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v1](http://arxiv.org/abs/2302.12247v1)|[link](https://github.com/pliang279/pid)|
