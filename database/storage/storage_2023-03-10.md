@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-10 07:27:03 Asia/Shanghai
+ Automated deployment @ 2023-03-10 19:23:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-09**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
+|**2022-11-03**|**Augmenting photometric redshift estimates using spectroscopic nearest neighbours**|F. Tosone et.al.|[2211.01901v2](http://arxiv.org/abs/2211.01901v2)|[link](https://github.com/tos-1/neznet)|
+|**2023-02-06**|**Energy-based Out-of-Distribution Detection for Graph Neural Networks**|Qitian Wu et.al.|[2302.02914v2](http://arxiv.org/abs/2302.02914v2)|[link](https://github.com/qitianwu/graphood-gnnsafe)|
+|**2022-10-14**|**Semi-supervised Learning with Network Embedding on Ambient RF Signals for Geofencing Services**|Weipeng Zhuo et.al.|[2210.07889v2](http://arxiv.org/abs/2210.07889v2)|null|
+|**2020-12-05**|**Dataset of Random Relaxations for Crystal Structure Search of Li-Si System**|Gowoon Cheon et.al.|[2012.02920v3](http://arxiv.org/abs/2012.02920v3)|null|
+|**2022-08-22**|**Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis**|Han Xuanyuan et.al.|[2208.10609v2](http://arxiv.org/abs/2208.10609v2)|null|
 |**2022-07-27**|**Learning Hyper Label Model for Programmatic Weak Supervision**|Renzhi Wu et.al.|[2207.13545v4](http://arxiv.org/abs/2207.13545v4)|[link](https://github.com/wurenzhi/hyper_label_model)|
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613v1](http://arxiv.org/abs/2303.04613v1)|null|
 |**2022-10-21**|**GLCC: A General Framework for Graph-Level Clustering**|Wei Ju et.al.|[2210.11879v4](http://arxiv.org/abs/2210.11879v4)|null|
@@ -26,33 +32,6 @@
 |**2023-02-16**|**AirGNNs: Graph Neural Networks over the Air**|Zhan Gao et.al.|[2302.08447v2](http://arxiv.org/abs/2302.08447v2)|null|
 |**2023-03-08**|**Learning Environment-Aware Control Barrier Functions for Safe and Feasible Multi-Robot Navigation**|Zhan Gao et.al.|[2303.04313v1](http://arxiv.org/abs/2303.04313v1)|null|
 |**2022-06-17**|**The Open Catalyst 2022 (OC22) Dataset and Challenges for Oxide Electrocatalysts**|Richard Tran et.al.|[2206.08917v3](http://arxiv.org/abs/2206.08917v3)|[link](https://github.com/Open-Catalyst-Project/ocp)|
-|**2021-06-21**|**Boundary Graph Neural Networks for 3D Simulations**|Andreas Mayr et.al.|[2106.11299v6](http://arxiv.org/abs/2106.11299v6)|null|
-|**2023-03-07**|**Uncertainty Quantification of Spatiotemporal Travel Demand with Probabilistic Graph Neural Networks**|Qingyi Wang et.al.|[2303.04040v1](http://arxiv.org/abs/2303.04040v1)|[link](https://github.com/sunnyqywang/uncertainty)|
-|**2023-03-07**|**Probing Graph Representations**|Mohammad Sadegh Akhondzadeh et.al.|[2303.03951v1](http://arxiv.org/abs/2303.03951v1)|[link](https://github.com/msadegh97/probing-graph-representation)|
-|**2023-03-07**|**Parsing Line Segments of Floor Plan Images Using Graph Neural Networks**|Mingxiang Chen et.al.|[2303.03851v1](http://arxiv.org/abs/2303.03851v1)|null|
-|**2023-03-07**|**Operator learning of RANS equations: a Graph Neural Network closure model**|Michele Quattromini et.al.|[2303.03806v1](http://arxiv.org/abs/2303.03806v1)|null|
-|**2023-03-07**|**Graph Neural Networks in Vision-Language Image Understanding: A Survey**|Henry Senior et.al.|[2303.03761v1](http://arxiv.org/abs/2303.03761v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-12-06**|**Image Inpainting via Iteratively Decoupled Probabilistic Modeling**|Wenbo Li et.al.|[2212.02963v2](http://arxiv.org/abs/2212.02963v2)|[link](https://github.com/fenglinglwb/sdm)|
-|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v4](http://arxiv.org/abs/2211.11383v4)|null|
-|**2023-03-07**|**Training Machine Learning Models to Characterize Temporal Evolution of Disadvantaged Communities**|Milan Jain et.al.|[2303.03677v1](http://arxiv.org/abs/2303.03677v1)|null|
-|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v1](http://arxiv.org/abs/2303.03649v1)|null|
-|**2023-01-19**|**Cross-validatory model selection for Bayesian autoregressions with exogenous regressors**|Alex Cooper et.al.|[2301.08276v2](http://arxiv.org/abs/2301.08276v2)|[link](https://github.com/kuperov/arx)|
-|**2023-03-07**|**A Survey of Numerical Algorithms that can Solve the Lasso Problems**|Yujie Zhao et.al.|[2303.03576v1](http://arxiv.org/abs/2303.03576v1)|null|
-|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v1](http://arxiv.org/abs/2303.03521v1)|null|
-|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v1](http://arxiv.org/abs/2303.03207v1)|null|
-|**2023-03-06**|**Environment Invariant Linear Least Squares**|Jianqing Fan et.al.|[2303.03092v1](http://arxiv.org/abs/2303.03092v1)|null|
-|**2023-03-06**|**Searching for Effective Neural Network Architectures for Heart Murmur Detection from Phonocardiogram**|Hao Wen et.al.|[2303.02988v1](http://arxiv.org/abs/2303.02988v1)|[link](https://github.com/deeppsp/cinc2022)|
-|**2023-03-06**|**Huber Principal Component Analysis for Large-dimensional Factor Models**|Yong He et.al.|[2303.02817v1](http://arxiv.org/abs/2303.02817v1)|null|
-|**2022-12-30**|**A Machine Learning Case Study for AI-empowered echocardiography of Intensive Care Unit Patients in low- and middle-income countries**|Miguel Xochicale et.al.|[2212.14510v2](http://arxiv.org/abs/2212.14510v2)|[link](https://github.com/vital-ultrasound/ai-assisted-echocardiography-for-low-resource-countries)|
-|**2023-03-03**|**Online simulator-based experimental design for cognitive model selection**|Alexander Aushev et.al.|[2303.02227v1](http://arxiv.org/abs/2303.02227v1)|[link](https://github.com/aaltopml/bosmos)|
-|**2019-09-08**|**Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey**|Jérôme Rony et.al.|[1909.03354v7](http://arxiv.org/abs/1909.03354v7)|[link](https://github.com/jeromerony/survey_wsl_histology)|
-|**2022-10-05**|**Multi-View Independent Component Analysis with Shared and Individual Sources**|Teodora Pandeva et.al.|[2210.02083v2](http://arxiv.org/abs/2210.02083v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v2](http://arxiv.org/abs/2212.03185v2)|null|
 |**2023-03-02**|**Adaptive Estimation of Intersection Bounds: a Classification Approach**|Vira Semenova et.al.|[2303.00982v1](http://arxiv.org/abs/2303.00982v1)|null|
 |**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v2](http://arxiv.org/abs/2301.04218v2)|null|
 |**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|null|
@@ -92,4 +72,24 @@
 |**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v2](http://arxiv.org/abs/2212.07124v2)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
 |**2022-06-17**|**Texture Generation Using A Graph Generative Adversarial Network And Differentiable Rendering**|Dharma KC et.al.|[2206.08547v2](http://arxiv.org/abs/2206.08547v2)|[link](https://github.com/ml4ai/ggan)|
-|**2022-11-19**|**Exploring validation metrics for offline model-based optimisation**|Christopher Beckham et.al.|[2211.10747v2](http://arxiv.org/abs/2211.10747v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2016-10-27**|**Fast and Consistent Algorithm for the Latent Block Model**|Vincent Brault et.al.|[1610.09005v2](http://arxiv.org/abs/1610.09005v2)|null|
+|**2023-03-08**|**The shape of the relative frailty variance induced by discrete random effect distributions in univariate and multivariate survival models**|Maximilian Bardo et.al.|[2303.04915v1](http://arxiv.org/abs/2303.04915v1)|null|
+|**2023-03-08**|**A variational synthesis of evolutionary and developmental dynamics**|Karl Friston et.al.|[2303.04898v1](http://arxiv.org/abs/2303.04898v1)|null|
+|**2022-12-06**|**Image Inpainting via Iteratively Decoupled Probabilistic Modeling**|Wenbo Li et.al.|[2212.02963v2](http://arxiv.org/abs/2212.02963v2)|[link](https://github.com/fenglinglwb/sdm)|
+|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v4](http://arxiv.org/abs/2211.11383v4)|null|
+|**2023-03-07**|**Training Machine Learning Models to Characterize Temporal Evolution of Disadvantaged Communities**|Milan Jain et.al.|[2303.03677v1](http://arxiv.org/abs/2303.03677v1)|null|
+|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v1](http://arxiv.org/abs/2303.03649v1)|null|
+|**2023-01-19**|**Cross-validatory model selection for Bayesian autoregressions with exogenous regressors**|Alex Cooper et.al.|[2301.08276v2](http://arxiv.org/abs/2301.08276v2)|[link](https://github.com/kuperov/arx)|
+|**2023-03-07**|**A Survey of Numerical Algorithms that can Solve the Lasso Problems**|Yujie Zhao et.al.|[2303.03576v1](http://arxiv.org/abs/2303.03576v1)|null|
+|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v1](http://arxiv.org/abs/2303.03521v1)|null|
+|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v1](http://arxiv.org/abs/2303.03207v1)|null|
+|**2023-03-06**|**Environment Invariant Linear Least Squares**|Jianqing Fan et.al.|[2303.03092v1](http://arxiv.org/abs/2303.03092v1)|null|
+|**2023-03-06**|**Searching for Effective Neural Network Architectures for Heart Murmur Detection from Phonocardiogram**|Hao Wen et.al.|[2303.02988v1](http://arxiv.org/abs/2303.02988v1)|[link](https://github.com/deeppsp/cinc2022)|
+|**2023-03-06**|**Huber Principal Component Analysis for Large-dimensional Factor Models**|Yong He et.al.|[2303.02817v1](http://arxiv.org/abs/2303.02817v1)|null|
+|**2022-12-30**|**A Machine Learning Case Study for AI-empowered echocardiography of Intensive Care Unit Patients in low- and middle-income countries**|Miguel Xochicale et.al.|[2212.14510v2](http://arxiv.org/abs/2212.14510v2)|[link](https://github.com/vital-ultrasound/ai-assisted-echocardiography-for-low-resource-countries)|
