@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-12 07:23:41 Asia/Shanghai
+ Automated deployment @ 2023-03-12 19:20:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2023-02-16**|**AirGNNs: Graph Neural Networks over the Air**|Zhan Gao et.al.|[2302.08447v2](http://arxiv.org/abs/2302.08447v2)|null|
 |**2023-03-08**|**Learning Environment-Aware Control Barrier Functions for Safe and Feasible Multi-Robot Navigation**|Zhan Gao et.al.|[2303.04313v1](http://arxiv.org/abs/2303.04313v1)|null|
 |**2022-06-17**|**The Open Catalyst 2022 (OC22) Dataset and Challenges for Oxide Electrocatalysts**|Richard Tran et.al.|[2206.08917v3](http://arxiv.org/abs/2206.08917v3)|[link](https://github.com/Open-Catalyst-Project/ocp)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2016-10-27**|**Fast and Consistent Algorithm for the Latent Block Model**|Vincent Brault et.al.|[1610.09005v2](http://arxiv.org/abs/1610.09005v2)|null|
+|**2023-03-08**|**The shape of the relative frailty variance induced by discrete random effect distributions in univariate and multivariate survival models**|Maximilian Bardo et.al.|[2303.04915v1](http://arxiv.org/abs/2303.04915v1)|null|
+|**2023-03-08**|**A variational synthesis of evolutionary and developmental dynamics**|Karl Friston et.al.|[2303.04898v1](http://arxiv.org/abs/2303.04898v1)|null|
+|**2022-12-06**|**Image Inpainting via Iteratively Decoupled Probabilistic Modeling**|Wenbo Li et.al.|[2212.02963v2](http://arxiv.org/abs/2212.02963v2)|[link](https://github.com/fenglinglwb/sdm)|
+|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v4](http://arxiv.org/abs/2211.11383v4)|null|
+|**2023-03-07**|**Training Machine Learning Models to Characterize Temporal Evolution of Disadvantaged Communities**|Milan Jain et.al.|[2303.03677v1](http://arxiv.org/abs/2303.03677v1)|null|
+|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v1](http://arxiv.org/abs/2303.03649v1)|[link](https://github.com/hiendn/panic)|
+|**2023-01-19**|**Cross-validatory model selection for Bayesian autoregressions with exogenous regressors**|Alex Cooper et.al.|[2301.08276v2](http://arxiv.org/abs/2301.08276v2)|[link](https://github.com/kuperov/arx)|
+|**2023-03-07**|**A Survey of Numerical Algorithms that can Solve the Lasso Problems**|Yujie Zhao et.al.|[2303.03576v1](http://arxiv.org/abs/2303.03576v1)|null|
+|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v1](http://arxiv.org/abs/2303.03521v1)|null|
+|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v1](http://arxiv.org/abs/2303.03207v1)|null|
+|**2023-03-06**|**Environment Invariant Linear Least Squares**|Jianqing Fan et.al.|[2303.03092v1](http://arxiv.org/abs/2303.03092v1)|null|
+|**2023-03-06**|**Searching for Effective Neural Network Architectures for Heart Murmur Detection from Phonocardiogram**|Hao Wen et.al.|[2303.02988v1](http://arxiv.org/abs/2303.02988v1)|[link](https://github.com/deeppsp/cinc2022)|
+|**2023-03-06**|**Huber Principal Component Analysis for Large-dimensional Factor Models**|Yong He et.al.|[2303.02817v1](http://arxiv.org/abs/2303.02817v1)|null|
+|**2022-12-30**|**A Machine Learning Case Study for AI-empowered echocardiography of Intensive Care Unit Patients in low- and middle-income countries**|Miguel Xochicale et.al.|[2212.14510v2](http://arxiv.org/abs/2212.14510v2)|[link](https://github.com/vital-ultrasound/ai-assisted-echocardiography-for-low-resource-countries)|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2016-10-27**|**Fast and Consistent Algorithm for the Latent Block Model**|Vincent Brault et.al.|[1610.09005v2](http://arxiv.org/abs/1610.09005v2)|null|
-|**2023-03-08**|**The shape of the relative frailty variance induced by discrete random effect distributions in univariate and multivariate survival models**|Maximilian Bardo et.al.|[2303.04915v1](http://arxiv.org/abs/2303.04915v1)|null|
-|**2023-03-08**|**A variational synthesis of evolutionary and developmental dynamics**|Karl Friston et.al.|[2303.04898v1](http://arxiv.org/abs/2303.04898v1)|null|
-|**2022-12-06**|**Image Inpainting via Iteratively Decoupled Probabilistic Modeling**|Wenbo Li et.al.|[2212.02963v2](http://arxiv.org/abs/2212.02963v2)|[link](https://github.com/fenglinglwb/sdm)|
-|**2022-11-21**|**A Variational Inference method for Bayesian variable selection**|Lin Guoqiang et.al.|[2211.11383v4](http://arxiv.org/abs/2211.11383v4)|null|
-|**2023-03-07**|**Training Machine Learning Models to Characterize Temporal Evolution of Disadvantaged Communities**|Milan Jain et.al.|[2303.03677v1](http://arxiv.org/abs/2303.03677v1)|null|
-|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v1](http://arxiv.org/abs/2303.03649v1)|[link](https://github.com/hiendn/panic)|
-|**2023-01-19**|**Cross-validatory model selection for Bayesian autoregressions with exogenous regressors**|Alex Cooper et.al.|[2301.08276v2](http://arxiv.org/abs/2301.08276v2)|[link](https://github.com/kuperov/arx)|
-|**2023-03-07**|**A Survey of Numerical Algorithms that can Solve the Lasso Problems**|Yujie Zhao et.al.|[2303.03576v1](http://arxiv.org/abs/2303.03576v1)|null|
-|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v1](http://arxiv.org/abs/2303.03521v1)|null|
-|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v1](http://arxiv.org/abs/2303.03207v1)|null|
-|**2023-03-06**|**Environment Invariant Linear Least Squares**|Jianqing Fan et.al.|[2303.03092v1](http://arxiv.org/abs/2303.03092v1)|null|
-|**2023-03-06**|**Searching for Effective Neural Network Architectures for Heart Murmur Detection from Phonocardiogram**|Hao Wen et.al.|[2303.02988v1](http://arxiv.org/abs/2303.02988v1)|[link](https://github.com/deeppsp/cinc2022)|
-|**2023-03-06**|**Huber Principal Component Analysis for Large-dimensional Factor Models**|Yong He et.al.|[2303.02817v1](http://arxiv.org/abs/2303.02817v1)|null|
-|**2022-12-30**|**A Machine Learning Case Study for AI-empowered echocardiography of Intensive Care Unit Patients in low- and middle-income countries**|Miguel Xochicale et.al.|[2212.14510v2](http://arxiv.org/abs/2212.14510v2)|[link](https://github.com/vital-ultrasound/ai-assisted-echocardiography-for-low-resource-countries)|
