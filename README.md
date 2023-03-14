@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-14 07:25:22 Asia/Shanghai
+ Automated deployment @ 2023-03-14 19:24:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,29 +17,32 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-03-10**|**A hybrid deep-learning-metaheuristic framework to approximate discrete road network design problems**|Bahman Madadi et.al.|[2303.06024v1](http://arxiv.org/abs/2303.06024v1)|null|
-|**2023-01-30**|**Zero-One Laws of Graph Neural Networks**|Sam Adam-Day et.al.|[2301.13060v2](http://arxiv.org/abs/2301.13060v2)|null|
-|**2022-06-07**|**EiX-GNN : Concept-level eigencentrality explainer for graph neural networks**|Adrien Raison et.al.|[2206.03491v6](http://arxiv.org/abs/2206.03491v6)|[link](https://github.com/araison12/eixgnn)|
-|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v1](http://arxiv.org/abs/2303.05786v1)|null|
-|**2023-03-09**|**Structure-Aware Group Discrimination with Adaptive-View Graph Encoder: A Fast Graph Contrastive Learning Framework**|Zhenshuo Zhang et.al.|[2303.05231v1](http://arxiv.org/abs/2303.05231v1)|null|
-|**2022-11-03**|**Augmenting photometric redshift estimates using spectroscopic nearest neighbours**|F. Tosone et.al.|[2211.01901v2](http://arxiv.org/abs/2211.01901v2)|[link](https://github.com/tos-1/neznet)|
-|**2023-02-06**|**Energy-based Out-of-Distribution Detection for Graph Neural Networks**|Qitian Wu et.al.|[2302.02914v2](http://arxiv.org/abs/2302.02914v2)|[link](https://github.com/qitianwu/graphood-gnnsafe)|
-|**2022-10-14**|**Semi-supervised Learning with Network Embedding on Ambient RF Signals for Geofencing Services**|Weipeng Zhuo et.al.|[2210.07889v2](http://arxiv.org/abs/2210.07889v2)|null|
-|**2020-12-05**|**Dataset of Random Relaxations for Crystal Structure Search of Li-Si System**|Gowoon Cheon et.al.|[2012.02920v3](http://arxiv.org/abs/2012.02920v3)|null|
-|**2022-08-22**|**Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis**|Han Xuanyuan et.al.|[2208.10609v2](http://arxiv.org/abs/2208.10609v2)|null|
-|**2022-07-27**|**Learning Hyper Label Model for Programmatic Weak Supervision**|Renzhi Wu et.al.|[2207.13545v4](http://arxiv.org/abs/2207.13545v4)|[link](https://github.com/wurenzhi/hyper_label_model)|
-|**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613v1](http://arxiv.org/abs/2303.04613v1)|null|
-|**2022-10-21**|**GLCC: A General Framework for Graph-Level Clustering**|Wei Ju et.al.|[2210.11879v4](http://arxiv.org/abs/2210.11879v4)|null|
-|**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477v1](http://arxiv.org/abs/2303.04477v1)|null|
-|**2023-03-08**|**A Message Passing Perspective on Learning Dynamics of Contrastive Learning**|Yifei Wang et.al.|[2303.04435v1](http://arxiv.org/abs/2303.04435v1)|[link](https://github.com/pku-ml/message-passing-contrastive-learning)|
+|**2022-02-14**|**Random Laplacian Features for Learning with Hyperbolic Space**|Tao Yu et.al.|[2202.06854v3](http://arxiv.org/abs/2202.06854v3)|[link](https://github.com/ydtydr/hyla)|
+|**2023-03-13**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph Neural Networks**|Luca Pegolotti et.al.|[2303.07310v1](http://arxiv.org/abs/2303.07310v1)|null|
+|**2022-10-25**|**Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis**|Ce Ju et.al.|[2211.02641v2](http://arxiv.org/abs/2211.02641v2)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|**2022-10-01**|**Differentiable Parsing and Visual Grounding of Natural Language Instructions for Object Placement**|Zirui Zhao et.al.|[2210.00215v4](http://arxiv.org/abs/2210.00215v4)|null|
+|**2023-02-27**|**A Dataset for Learning Graph Representations to Predict Customer Returns in Fashion Retail**|Jamie McGowan et.al.|[2302.14096v2](http://arxiv.org/abs/2302.14096v2)|null|
+|**2023-03-12**|**ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond**|Xiaojun Guo et.al.|[2303.06562v1](http://arxiv.org/abs/2303.06562v1)|null|
+|**2023-03-12**|**Spatial Correspondence between Graph Neural Network-Segmented Images**|Qian Li et.al.|[2303.06550v1](http://arxiv.org/abs/2303.06550v1)|null|
+|**2023-02-27**|**Learning Topology-Specific Experts for Molecular Property Prediction**|Su Kim et.al.|[2302.13693v3](http://arxiv.org/abs/2302.13693v3)|[link](https://github.com/kimsu55/toxexpert)|
+|**2021-11-25**|**Learning to Search in Task and Motion Planning with Streams**|Mohamed Khodeir et.al.|[2111.13144v5](http://arxiv.org/abs/2111.13144v5)|null|
+|**2023-03-11**|**Multimodal Data Integration for Oncology in the Era of Deep Neural Networks: A Review**|Asim Waqas et.al.|[2303.06471v1](http://arxiv.org/abs/2303.06471v1)|null|
+|**2023-03-11**|**Graph Neural Network contextual embedding for Deep Learning on Tabular Data**|Mario Villaizán-Vallelado et.al.|[2303.06455v1](http://arxiv.org/abs/2303.06455v1)|null|
+|**2021-12-16**|**Two-view Graph Neural Networks for Knowledge Graph Completion**|Vinh Tong et.al.|[2112.09231v4](http://arxiv.org/abs/2112.09231v4)|[link](https://github.com/vinhsuhi/wge)|
+|**2023-03-11**|**Contrastive Learning under Heterophily**|Wenhan Yang et.al.|[2303.06344v1](http://arxiv.org/abs/2303.06344v1)|null|
+|**2022-07-19**|**XG-BoT: An Explainable Deep Graph Neural Network for Botnet Detection and Forensics**|Wai Weng Lo et.al.|[2207.09088v5](http://arxiv.org/abs/2207.09088v5)|null|
+|**2023-03-10**|**Zero-Shot Object Searching Using Large-scale Object Relationship Prior**|Hongyi Chen et.al.|[2303.06228v1](http://arxiv.org/abs/2303.06228v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-13**|**Deploying Offline Reinforcement Learning with Human Feedback**|Ziniu Li et.al.|[2303.07046v1](http://arxiv.org/abs/2303.07046v1)|null|
+|**2023-01-15**|**Selective Inference with Distributed Data**|Sifan Liu et.al.|[2301.06162v2](http://arxiv.org/abs/2301.06162v2)|null|
 |**2022-12-05**|**Hubble constant by natural selection: Evolution chips in the Hubble tension**|Reginald Christian Bernardo et.al.|[2212.02203v2](http://arxiv.org/abs/2212.02203v2)|[link](https://github.com/reggiebernardo/notebooks)|
-|**2019-01-09**|**Algorithmic Bayesian Group Gibbs Selection**|Alan Lenarcic et.al.|[1901.02945v3](http://arxiv.org/abs/1901.02945v3)|null|
+|**2023-03-10**|**Digital Twin-Assisted Knowledge Distillation Framework for Heterogeneous Federated Learning**|Xiucheng Wang et.al.|[2303.06155v1](http://arxiv.org/abs/2303.06155v1)|null|
+|**2019-01-09**|**Algorithmic Bayesian Group Gibbs Selection**|Alan Lenarcic et.al.|[1901.02945v3](http://arxiv.org/abs/1901.02945v3)|[link](https://github.com/lenarcica/BayesSpike)|
 |**2023-03-10**|**Informative co-data learning for high-dimensional Horseshoe regression**|Claudio Busatto et.al.|[2303.05898v1](http://arxiv.org/abs/2303.05898v1)|[link](https://github.com/cbusatto/infhs)|
 |**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v2](http://arxiv.org/abs/2303.03649v2)|[link](https://github.com/hiendn/panic)|
 |**2016-10-27**|**Fast and Consistent Algorithm for the Latent Block Model**|Vincent Brault et.al.|[1610.09005v2](http://arxiv.org/abs/1610.09005v2)|null|
@@ -50,9 +53,6 @@
 |**2023-03-07**|**Training Machine Learning Models to Characterize Temporal Evolution of Disadvantaged Communities**|Milan Jain et.al.|[2303.03677v1](http://arxiv.org/abs/2303.03677v1)|null|
 |**2023-01-19**|**Cross-validatory model selection for Bayesian autoregressions with exogenous regressors**|Alex Cooper et.al.|[2301.08276v2](http://arxiv.org/abs/2301.08276v2)|[link](https://github.com/kuperov/arx)|
 |**2023-03-07**|**A Survey of Numerical Algorithms that can Solve the Lasso Problems**|Yujie Zhao et.al.|[2303.03576v1](http://arxiv.org/abs/2303.03576v1)|null|
-|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v1](http://arxiv.org/abs/2303.03521v1)|null|
-|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v1](http://arxiv.org/abs/2303.03207v1)|null|
-|**2023-03-06**|**Environment Invariant Linear Least Squares**|Jianqing Fan et.al.|[2303.03092v1](http://arxiv.org/abs/2303.03092v1)|null|
 
 ## Non-Euclidean Staistics
 
