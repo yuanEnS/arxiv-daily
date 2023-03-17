@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-17 07:24:56 Asia/Shanghai
+ Automated deployment @ 2023-03-17 19:22:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,13 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-16**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
+|**2022-10-31**|**Agglomeration of Polygonal Grids using Graph Neural Networks with applications to Multigrid solvers**|P. F. Antonietti et.al.|[2210.17457v2](http://arxiv.org/abs/2210.17457v2)|null|
+|**2023-03-14**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
+|**2021-01-07**|**SDGNN: Learning Node Representation for Signed Directed Networks**|Junjie Huang et.al.|[2101.02390v4](http://arxiv.org/abs/2101.02390v4)|[link](https://github.com/huangjunjie95/SiGAT)|
+|**2022-11-21**|**From Node Interaction to Hop Interaction: New Effective and Scalable Graph Learning Paradigm**|Jie Chen et.al.|[2211.11761v2](http://arxiv.org/abs/2211.11761v2)|null|
+|**2023-03-15**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964v1](http://arxiv.org/abs/2303.08964v1)|null|
+|**2023-03-15**|**Efficient Planning of Multi-Robot Collective Transport using Graph Reinforcement Learning with Higher Order Topological Abstraction**|Steve Paul et.al.|[2303.08933v1](http://arxiv.org/abs/2303.08933v1)|null|
 |**2022-10-02**|**Gradient Gating for Deep Multi-Rate Learning on Graphs**|T. Konstantin Rusch et.al.|[2210.00513v2](http://arxiv.org/abs/2210.00513v2)|[link](https://github.com/tk-rusch/gradientgating)|
 |**2022-03-07**|**Learning Resilient Radio Resource Management Policies with Graph Neural Networks**|Navid NaderiAlizadeh et.al.|[2203.11012v2](http://arxiv.org/abs/2203.11012v2)|[link](https://github.com/navid-naderi/Resilient_RRM_GNN)|
 |**2023-03-15**|**RGI : Regularized Graph Infomax for self-supervised learning on graphs**|Oscar Pina et.al.|[2303.08644v1](http://arxiv.org/abs/2303.08644v1)|null|
@@ -25,13 +32,6 @@
 |**2023-01-20**|**Flex-Net: A Graph Neural Network Approach to Resource Management in Flexible Duplex Networks**|Tharaka Perera et.al.|[2301.11166v2](http://arxiv.org/abs/2301.11166v2)|[link](https://github.com/tharaka-perera/flex-net)|
 |**2023-03-15**|**Robust Preference-Guided Denoising for Graph based Social Recommendation**|Yuhan Quan et.al.|[2303.08346v1](http://arxiv.org/abs/2303.08346v1)|null|
 |**2023-03-14**|**Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean Networks**|Nan Wu et.al.|[2303.08256v1](http://arxiv.org/abs/2303.08256v1)|null|
-|**2023-03-14**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v1](http://arxiv.org/abs/2303.08157v1)|null|
-|**2023-01-30**|**Zero-One Laws of Graph Neural Networks**|Sam Adam-Day et.al.|[2301.13060v3](http://arxiv.org/abs/2301.13060v3)|null|
-|**2023-03-14**|**Disentangled Graph Social Recommendation**|Lianghao Xia et.al.|[2303.07810v1](http://arxiv.org/abs/2303.07810v1)|null|
-|**2023-03-14**|**Automated Self-Supervised Learning for Recommendation**|Lianghao Xia et.al.|[2303.07797v1](http://arxiv.org/abs/2303.07797v1)|[link](https://github.com/hkuds/autocf)|
-|**2023-03-14**|**GANN: Graph Alignment Neural Network for Semi-Supervised Learning**|Linxuan Song et.al.|[2303.07778v1](http://arxiv.org/abs/2303.07778v1)|null|
-|**2023-01-29**|**Semantics-enhanced Temporal Graph Networks for Content Popularity Prediction**|Jianhang Zhu et.al.|[2301.12355v4](http://arxiv.org/abs/2301.12355v4)|null|
-|**2023-03-14**|**Dual-Attention Model for Aspect-Level Sentiment Classification**|Mengfei Ye et.al.|[2303.07689v1](http://arxiv.org/abs/2303.07689v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-16**|**PyVBMC: Efficient Bayesian inference in Python**|Bobby Huggins et.al.|[2303.09519v1](http://arxiv.org/abs/2303.09519v1)|[link](https://github.com/acerbilab/pyvbmc)|
+|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v2](http://arxiv.org/abs/2303.03207v2)|null|
+|**2021-07-19**|**On phenomenological parametrizations for the luminosity distance of gravitational waves**|Andrés Lizardo et.al.|[2107.09143v3](http://arxiv.org/abs/2107.09143v3)|null|
 |**2023-03-15**|**Distribution-free Deviation Bounds of Learning via Model Selection with Cross-validation Risk Estimation**|Diego Marcondes et.al.|[2303.08777v1](http://arxiv.org/abs/2303.08777v1)|null|
 |**2022-07-19**|**TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes**|Antoine D. Meyer et.al.|[2207.09327v2](http://arxiv.org/abs/2207.09327v2)|null|
 |**2023-02-20**|**Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v2](http://arxiv.org/abs/2302.10160v2)|null|
@@ -90,6 +93,3 @@
 |**2023-01-15**|**Selective Inference with Distributed Data**|Sifan Liu et.al.|[2301.06162v2](http://arxiv.org/abs/2301.06162v2)|null|
 |**2022-12-05**|**Hubble constant by natural selection: Evolution chips in the Hubble tension**|Reginald Christian Bernardo et.al.|[2212.02203v2](http://arxiv.org/abs/2212.02203v2)|[link](https://github.com/reggiebernardo/notebooks)|
 |**2023-03-10**|**Digital Twin-Assisted Knowledge Distillation Framework for Heterogeneous Federated Learning**|Xiucheng Wang et.al.|[2303.06155v1](http://arxiv.org/abs/2303.06155v1)|null|
-|**2019-01-09**|**Algorithmic Bayesian Group Gibbs Selection**|Alan Lenarcic et.al.|[1901.02945v3](http://arxiv.org/abs/1901.02945v3)|[link](https://github.com/lenarcica/BayesSpike)|
-|**2023-03-10**|**Informative co-data learning for high-dimensional Horseshoe regression**|Claudio Busatto et.al.|[2303.05898v1](http://arxiv.org/abs/2303.05898v1)|[link](https://github.com/cbusatto/infhs)|
-|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v2](http://arxiv.org/abs/2303.03649v2)|[link](https://github.com/hiendn/panic)|
