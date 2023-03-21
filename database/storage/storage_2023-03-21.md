@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-21 07:23:04 Asia/Shanghai
+ Automated deployment @ 2023-03-21 19:20:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,28 +17,49 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-03-17**|**Distill n' Explain: explaining graph neural networks using simple surrogates**|Tamara Pereira et.al.|[2303.10139v1](http://arxiv.org/abs/2303.10139v1)|[link](https://github.com/tamararruda/dnx)|
-|**2023-03-17**|**Neural-prior stochastic block model**|O. Duranthon et.al.|[2303.09995v1](http://arxiv.org/abs/2303.09995v1)|null|
-|**2023-03-17**|**GNNFormer: A Graph-based Framework for Cytopathology Report Generation**|Yang-Fan Zhou et.al.|[2303.09956v1](http://arxiv.org/abs/2303.09956v1)|null|
-|**2023-02-13**|**Learning and Aggregating Lane Graphs for Urban Automated Driving**|Martin Büchner et.al.|[2302.06175v2](http://arxiv.org/abs/2302.06175v2)|null|
-|**2022-04-25**|**ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching**|Yan Shi et.al.|[2204.11700v2](http://arxiv.org/abs/2204.11700v2)|null|
-|**2023-02-16**|**Eagle: Large-Scale Learning of Turbulent Fluid Dynamics with Mesh Transformers**|Steeven Janny et.al.|[2302.10803v2](http://arxiv.org/abs/2302.10803v2)|null|
-|**2022-01-23**|**Partition-Based Active Learning for Graph Neural Networks**|Jiaqi Ma et.al.|[2201.09391v2](http://arxiv.org/abs/2201.09391v2)|[link](https://github.com/Mars-tin/GraphPart)|
-|**2023-03-17**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782v1](http://arxiv.org/abs/2303.09782v1)|null|
-|**2023-03-17**|**SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization**|Dongcheng Zou et.al.|[2303.09778v1](http://arxiv.org/abs/2303.09778v1)|[link](https://github.com/ringbdstack/se-gsl)|
-|**2023-03-12**|**Spatial Correspondence between Graph Neural Network-Segmented Images**|Qian Li et.al.|[2303.06550v2](http://arxiv.org/abs/2303.06550v2)|null|
-|**2022-09-24**|**Planning for Multi-Object Manipulation with Graph Neural Network Relational Classifiers**|Yixuan Huang et.al.|[2209.11943v2](http://arxiv.org/abs/2209.11943v2)|null|
-|**2023-03-16**|**GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data**|Xinwei Zhang et.al.|[2303.09531v1](http://arxiv.org/abs/2303.09531v1)|null|
-|**2022-10-31**|**Agglomeration of Polygonal Grids using Graph Neural Networks with applications to Multigrid solvers**|P. F. Antonietti et.al.|[2210.17457v2](http://arxiv.org/abs/2210.17457v2)|null|
-|**2023-03-14**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157v2](http://arxiv.org/abs/2303.08157v2)|null|
-|**2021-01-07**|**SDGNN: Learning Node Representation for Signed Directed Networks**|Junjie Huang et.al.|[2101.02390v4](http://arxiv.org/abs/2101.02390v4)|[link](https://github.com/huangjunjie95/SiGAT)|
+|**2022-11-01**|**A Meta-GNN approach to personalized seizure detection and classification**|Abdellah Rahmani et.al.|[2211.02642v2](http://arxiv.org/abs/2211.02642v2)|null|
+|**2022-12-22**|**Few-shot human motion prediction for heterogeneous sensors**|Rafael Rego Drumond et.al.|[2212.11771v2](http://arxiv.org/abs/2212.11771v2)|[link](https://github.com/brinkl/graphhetnet)|
+|**2023-03-20**|**Positional Diffusion: Ordering Unordered Sets with Diffusion Probabilistic Models**|Francesco Giuliari et.al.|[2303.11120v1](http://arxiv.org/abs/2303.11120v1)|null|
+|**2022-07-06**|**GraphCFC: A Directed Graph based Cross-modal Feature Complementation Approach for Multimodal Conversational Emotion Recognition**|Jiang Li et.al.|[2207.12261v2](http://arxiv.org/abs/2207.12261v2)|null|
+|**2023-03-20**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993v1](http://arxiv.org/abs/2303.10993v1)|null|
+|**2023-03-20**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms**|Ao Zhou et.al.|[2303.10875v1](http://arxiv.org/abs/2303.10875v1)|null|
+|**2022-09-13**|**Semantic2Graph: Graph-based Multi-modal Feature Fusion for Action Segmentation in Videos**|Junbin Zhang et.al.|[2209.05653v4](http://arxiv.org/abs/2209.05653v4)|null|
+|**2022-06-08**|**Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem**|Brian L. Trippe et.al.|[2206.04119v2](http://arxiv.org/abs/2206.04119v2)|[link](https://github.com/blt2114/protdiff_smcdiff)|
+|**2023-03-19**|**Beyond Independent Error Assumptions in Large GNN Atomistic Models**|Janghoon Ock et.al.|[2303.10797v1](http://arxiv.org/abs/2303.10797v1)|null|
+|**2023-03-15**|**Local Region Perception and Relationship Learning Combined with Feature Fusion for Facial Action Unit Detection**|Jun Yu et.al.|[2303.08545v2](http://arxiv.org/abs/2303.08545v2)|null|
+|**2023-03-19**|**Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs**|Zuoyu Yan et.al.|[2303.10576v1](http://arxiv.org/abs/2303.10576v1)|[link](https://github.com/pkuyzy/esc-gnn)|
+|**2023-03-19**|**The Graph feature fusion technique for speaker recognition based on wav2vec2.0 framework**|Zirui Ge et.al.|[2303.10556v1](http://arxiv.org/abs/2303.10556v1)|null|
+|**2023-03-19**|**Unsupervised Learning for Solving the Travelling Salesman Problem**|Yimeng Min et.al.|[2303.10538v1](http://arxiv.org/abs/2303.10538v1)|null|
+|**2022-11-01**|**Towards Better Out-of-Distribution Generalization of Neural Algorithmic Reasoning Tasks**|Sadegh Mahdavi et.al.|[2211.00692v2](http://arxiv.org/abs/2211.00692v2)|[link](https://github.com/smahdavi4/clrs)|
+|**2021-09-24**|**Long-Range Transformers for Dynamic Spatiotemporal Forecasting**|Jake Grigsby et.al.|[2109.12218v3](http://arxiv.org/abs/2109.12218v3)|[link](https://github.com/qdata/spacetimeformer)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-20**|**Model selection results from different BAO datasets -- DE models and $Ω_K$CDM**|Denitsa Staicova et.al.|[2303.11271v1](http://arxiv.org/abs/2303.11271v1)|null|
+|**2021-08-01**|**Data-Driven Constitutive Relation Reveals Scaling Law for Hydrodynamic Transport Coefficients**|Candi Zheng et.al.|[2108.00413v4](http://arxiv.org/abs/2108.00413v4)|null|
+|**2022-02-04**|**Posterior Representations for Bayesian Context Trees: Sampling, Estimation and Convergence**|Ioannis Papageorgiou et.al.|[2202.02239v4](http://arxiv.org/abs/2202.02239v4)|null|
+|**2023-03-20**|**An ADMM approach for multi-response regression with overlapping groups and interaction effects**|Theophilus Quachie Asenso et.al.|[2303.11155v1](http://arxiv.org/abs/2303.11155v1)|null|
+|**2023-03-19**|**AutoEn: An AutoML method based on ensembles of predefined Machine Learning pipelines for supervised Traffic Forecasting**|Juan S. Angarita-Zapata et.al.|[2303.10732v1](http://arxiv.org/abs/2303.10732v1)|null|
+|**2023-03-17**|**Galaxy And Mass Assembly (GAMA): Bulge-disk decomposition of KiDS and VIKING data in the nearby universe**|Sarah Casura et.al.|[2303.10077v1](http://arxiv.org/abs/2303.10077v1)|null|
+|**2021-07-10**|**Gradient domain machine learning with composite kernels: improving the accuracy of PES and force fields for large molecules**|K. Asnaashari et.al.|[2107.04779v6](http://arxiv.org/abs/2107.04779v6)|null|
+|**2023-03-17**|**A New Covariate Selection Strategy for High Dimensional Data in Causal Effect Estimation with Multivariate Treatments**|Juan Chen et.al.|[2303.09766v1](http://arxiv.org/abs/2303.09766v1)|null|
+|**2023-03-16**|**Bootstrap based asymptotic refinements for high-dimensional nonlinear models**|Joel L. Horowitz et.al.|[2303.09680v1](http://arxiv.org/abs/2303.09680v1)|null|
+|**2023-03-16**|**PyVBMC: Efficient Bayesian inference in Python**|Bobby Huggins et.al.|[2303.09519v1](http://arxiv.org/abs/2303.09519v1)|[link](https://github.com/acerbilab/pyvbmc)|
+|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v2](http://arxiv.org/abs/2303.03207v2)|null|
+|**2021-07-19**|**On phenomenological parametrizations for the luminosity distance of gravitational waves**|Andrés Lizardo et.al.|[2107.09143v3](http://arxiv.org/abs/2107.09143v3)|null|
+|**2023-03-15**|**Distribution-free Deviation Bounds of Learning via Model Selection with Cross-validation Risk Estimation**|Diego Marcondes et.al.|[2303.08777v1](http://arxiv.org/abs/2303.08777v1)|null|
+|**2022-07-19**|**TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes**|Antoine D. Meyer et.al.|[2207.09327v2](http://arxiv.org/abs/2207.09327v2)|null|
+|**2023-02-20**|**Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v2](http://arxiv.org/abs/2302.10160v2)|null|
 
 ## Non-Euclidean Staistics
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|null|
+|**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
 |**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
 |**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
@@ -57,10 +78,12 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-19**|**Fréchet Statistics Based Change Point Detection in Dynamic Social Networks**|Rui Luo et.al.|[2303.10753v1](http://arxiv.org/abs/2303.10753v1)|null|
+|**2023-03-17**|**$\mathcal I^K$-limit points, $\mathcal I^K$-cluster points and $\mathcal I^K$-Frechet compactness**|Manoranjan Singha et.al.|[2303.10194v1](http://arxiv.org/abs/2303.10194v1)|null|
 |**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v2](http://arxiv.org/abs/2212.03185v2)|null|
 |**2023-03-02**|**Adaptive Estimation of Intersection Bounds: a Classification Approach**|Vira Semenova et.al.|[2303.00982v1](http://arxiv.org/abs/2303.00982v1)|null|
 |**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v2](http://arxiv.org/abs/2301.04218v2)|null|
-|**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|null|
+|**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v3](http://arxiv.org/abs/2203.14495v3)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
 |**2022-07-26**|**Exploring Generalizable Distillation for Efficient Medical Image Segmentation**|Xingqun Qi et.al.|[2207.12995v2](http://arxiv.org/abs/2207.12995v2)|[link](https://github.com/xingqunqi-lab/gkd-framework)|
 |**2023-02-19**|**The Fréchet derivative of the tensor t-function**|Kathryn Lund et.al.|[2302.09687v1](http://arxiv.org/abs/2302.09687v1)|null|
@@ -70,26 +93,3 @@
 |**2023-02-13**|**Frechet-Urysohn property of quasicontinuous functions**|Alexander V. Osipov et.al.|[2302.06437v2](http://arxiv.org/abs/2302.06437v2)|null|
 |**2022-03-11**|**The Role of ImageNet Classes in Fréchet Inception Distance**|Tuomas Kynkäänniemi et.al.|[2203.06026v3](http://arxiv.org/abs/2203.06026v3)|[link](https://github.com/kynkaat/role-of-imagenet-classes-in-fid)|
 |**2022-12-14**|**Data Structures for Approximate Discrete Fréchet Distance**|Ivor van der Hoog et.al.|[2212.07124v2](http://arxiv.org/abs/2212.07124v2)|null|
-|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
-|**2022-06-17**|**Texture Generation Using A Graph Generative Adversarial Network And Differentiable Rendering**|Dharma KC et.al.|[2206.08547v2](http://arxiv.org/abs/2206.08547v2)|[link](https://github.com/ml4ai/ggan)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-17**|**Galaxy And Mass Assembly (GAMA): Bulge-disk decomposition of KiDS and VIKING data in the nearby universe**|Sarah Casura et.al.|[2303.10077v1](http://arxiv.org/abs/2303.10077v1)|null|
-|**2021-07-10**|**Gradient domain machine learning with composite kernels: improving the accuracy of PES and force fields for large molecules**|K. Asnaashari et.al.|[2107.04779v6](http://arxiv.org/abs/2107.04779v6)|null|
-|**2023-03-17**|**A New Covariate Selection Strategy for High Dimensional Data in Causal Effect Estimation with Multivariate Treatments**|Juan Chen et.al.|[2303.09766v1](http://arxiv.org/abs/2303.09766v1)|null|
-|**2023-03-16**|**Bootstrap based asymptotic refinements for high-dimensional nonlinear models**|Joel L. Horowitz et.al.|[2303.09680v1](http://arxiv.org/abs/2303.09680v1)|null|
-|**2023-03-16**|**PyVBMC: Efficient Bayesian inference in Python**|Bobby Huggins et.al.|[2303.09519v1](http://arxiv.org/abs/2303.09519v1)|[link](https://github.com/acerbilab/pyvbmc)|
-|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v2](http://arxiv.org/abs/2303.03207v2)|null|
-|**2021-07-19**|**On phenomenological parametrizations for the luminosity distance of gravitational waves**|Andrés Lizardo et.al.|[2107.09143v3](http://arxiv.org/abs/2107.09143v3)|null|
-|**2023-03-15**|**Distribution-free Deviation Bounds of Learning via Model Selection with Cross-validation Risk Estimation**|Diego Marcondes et.al.|[2303.08777v1](http://arxiv.org/abs/2303.08777v1)|null|
-|**2022-07-19**|**TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes**|Antoine D. Meyer et.al.|[2207.09327v2](http://arxiv.org/abs/2207.09327v2)|null|
-|**2023-02-20**|**Pseudo-Labeling for Kernel Ridge Regression under Covariate Shift**|Kaizheng Wang et.al.|[2302.10160v2](http://arxiv.org/abs/2302.10160v2)|null|
-|**2023-03-14**|**Empirical Bayes inference in sparse high-dimensional generalized linear models**|Yiqi Tang et.al.|[2303.07854v1](http://arxiv.org/abs/2303.07854v1)|null|
-|**2023-03-14**|**Kullback-Leibler Divergence and Akaike Information Criterion in General Hidden Markov Models**|Cheng-Der Fuh et.al.|[2303.07673v1](http://arxiv.org/abs/2303.07673v1)|null|
-|**2022-07-08**|**Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**|Shunyu Liu et.al.|[2207.03902v2](http://arxiv.org/abs/2207.03902v2)|[link](https://github.com/liushunyu/opt)|
-|**2023-03-13**|**Tuning support vector machines and boosted trees using optimization algorithms**|Jill F. Lundell et.al.|[2303.07400v1](http://arxiv.org/abs/2303.07400v1)|[link](https://github.com/jillbo1000/dissertation-code)|
-|**2023-03-13**|**Deploying Offline Reinforcement Learning with Human Feedback**|Ziniu Li et.al.|[2303.07046v1](http://arxiv.org/abs/2303.07046v1)|null|
