@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-03-29 07:23:22 Asia/Shanghai
+ Automated deployment @ 2023-03-29 19:21:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,23 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-28**|**DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets**|Isabella Huang et.al.|[2303.16138v1](http://arxiv.org/abs/2303.16138v1)|null|
+|**2023-03-28**|**Transformer and Snowball Graph Convolution Learning for Biomedical Graph Classification**|Jinlong Hu et.al.|[2303.16132v1](http://arxiv.org/abs/2303.16132v1)|null|
+|**2023-03-28**|**Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction**|Yi Xu et.al.|[2303.16005v1](http://arxiv.org/abs/2303.16005v1)|[link](https://github.com/colorfulfuture/gc-vrnn)|
+|**2023-03-28**|**A Survey on Malware Detection with Graph Representation Learning**|Tristan Bilot et.al.|[2303.16004v1](http://arxiv.org/abs/2303.16004v1)|null|
+|**2023-03-28**|**TraffNet: Learning Causality of Traffic Generation for Road Network Digital Twins**|Ming Xu et.al.|[2303.15954v1](http://arxiv.org/abs/2303.15954v1)|[link](https://github.com/mayunyi-1999/traffnet_code)|
+|**2023-03-22**|**Three iterations of $(d-1)$-WL test distinguish non isometric clouds of $d$-dimensional points**|Valentino Delle Rose et.al.|[2303.12853v2](http://arxiv.org/abs/2303.12853v2)|null|
+|**2023-03-28**|**GNN-based physics solver for time-independent PDEs**|Rini Jasmine Gladstone et.al.|[2303.15681v1](http://arxiv.org/abs/2303.15681v1)|null|
+|**2023-03-27**|**Graph Sequence Learning for Premise Selection**|Edvard K. Holden et.al.|[2303.15642v1](http://arxiv.org/abs/2303.15642v1)|null|
+|**2022-08-09**|**Examining graph neural networks for crystal structures: limitations and opportunities for capturing periodicity**|Sheng Gong et.al.|[2208.05039v3](http://arxiv.org/abs/2208.05039v3)|null|
+|**2023-03-27**|**Multi-Flow Transmission in Wireless Interference Networks: A Convergent Graph Learning Approach**|Raz Paul et.al.|[2303.15544v1](http://arxiv.org/abs/2303.15544v1)|null|
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414v1](http://arxiv.org/abs/2303.15414v1)|[link](https://github.com/jiaweihe1996/GMTracker)|
 |**2022-10-14**|**Using Graph Algorithms to Pretrain Graph Completion Transformers**|Jonathan Pilault et.al.|[2210.07453v2](http://arxiv.org/abs/2210.07453v2)|null|
 |**2023-03-24**|**Topological Reconstruction of Particle Physics Processes using Graph Neural Networks**|Lukas Ehrke et.al.|[2303.13937v2](http://arxiv.org/abs/2303.13937v2)|null|
+|**2023-03-27**|**Railway Network Delay Evolution: A Heterogeneous Graph Neural Network Approach**|Zhongcan Li et.al.|[2303.15489v1](http://arxiv.org/abs/2303.15489v1)|null|
 |**2023-03-24**|**Edge-free but Structure-aware: Prototype-Guided Knowledge Distillation from GNNs to MLPs**|Taiqiang Wu et.al.|[2303.13763v2](http://arxiv.org/abs/2303.13763v2)|null|
-|**2023-03-27**|**Towards Open Temporal Graph Neural Networks**|Kaituo Feng et.al.|[2303.15015v1](http://arxiv.org/abs/2303.15015v1)|null|
-|**2023-03-27**|**Filter-informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis**|Tianfu Li et.al.|[2303.14958v1](http://arxiv.org/abs/2303.14958v1)|null|
-|**2022-06-14**|**FreeKD: Free-direction Knowledge Distillation for Graph Neural Networks**|Kaituo Feng et.al.|[2206.06561v4](http://arxiv.org/abs/2206.06561v4)|null|
-|**2023-01-27**|**Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration**|Xiangyu Zhao et.al.|[2301.11517v3](http://arxiv.org/abs/2301.11517v3)|[link](https://github.com/victorzxy/graphac)|
-|**2023-03-18**|**EGTSyn: Edge-based Graph Transformer for Anti-Cancer Drug Combination Synergy Prediction**|Jie Hu et.al.|[2303.10312v2](http://arxiv.org/abs/2303.10312v2)|null|
-|**2023-03-27**|**Mind the Label Shift of Augmentation-based Graph OOD Generalization**|Junchi Yu et.al.|[2303.14859v1](http://arxiv.org/abs/2303.14859v1)|null|
-|**2023-03-26**|**Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis**|Haoyu He et.al.|[2303.14836v1](http://arxiv.org/abs/2303.14836v1)|[link](https://github.com/iheartgraph/illuminati)|
-|**2022-11-04**|**Fraudulent User Detection Via Behavior Information Aggregation Network (BIAN) On Large-Scale Financial Social Network**|Hanyi Hu et.al.|[2211.06315v2](http://arxiv.org/abs/2211.06315v2)|null|
-|**2022-07-31**|**GraphMFT: A Graph Network based Multimodal Fusion Technique for Emotion Recognition in Conversation**|Jiang Li et.al.|[2208.00339v3](http://arxiv.org/abs/2208.00339v3)|null|
-|**2023-03-26**|**FairGAT: Fairness-aware Graph Attention Networks**|O. Deniz Kose et.al.|[2303.14591v1](http://arxiv.org/abs/2303.14591v1)|null|
-|**2023-03-25**|**Topological Pooling on Graphs**|Yuzhou Chen et.al.|[2303.14543v1](http://arxiv.org/abs/2303.14543v1)|[link](https://github.com/topologicalpooling/TopologicalPool)|
 
 ## Non-Euclidean Staistics
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-03-27**|**Normalized centered moments of the Fréchet extreme-value distribution and inference of its parameter**|Jean-Christophe Pain et.al.|[2303.15572v1](http://arxiv.org/abs/2303.15572v1)|null|
+|**2023-03-23**|**Kullback-Leibler divergence for the Fréchet extreme-value distribution**|Jean-Christophe Pain et.al.|[2303.13153v2](http://arxiv.org/abs/2303.13153v2)|null|
+|**2020-02-26**|**Fréchet Modules and Descent**|Oren Ben-Bassat et.al.|[2002.11608v6](http://arxiv.org/abs/2002.11608v6)|null|
+|**2021-08-13**|**Fréchet single index models for object response regression**|Aritra Ghosal et.al.|[2108.06058v2](http://arxiv.org/abs/2108.06058v2)|null|
+|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v3](http://arxiv.org/abs/2211.06627v3)|[link](https://github.com/ControlNet/MARLIN)|
+|**2023-03-17**|**$\mathcal I^K$-limit points, $\mathcal I^K$-cluster points and $\mathcal I^K$-Frechet compactness**|Manoranjan Singha et.al.|[2303.10194v2](http://arxiv.org/abs/2303.10194v2)|null|
+|**2023-03-19**|**Fréchet Statistics Based Change Point Detection in Dynamic Social Networks**|Rui Luo et.al.|[2303.10753v1](http://arxiv.org/abs/2303.10753v1)|null|
+|**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v2](http://arxiv.org/abs/2212.03185v2)|null|
+|**2023-03-02**|**Adaptive Estimation of Intersection Bounds: a Classification Approach**|Vira Semenova et.al.|[2303.00982v1](http://arxiv.org/abs/2303.00982v1)|null|
+|**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v2](http://arxiv.org/abs/2301.04218v2)|null|
+|**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v3](http://arxiv.org/abs/2203.14495v3)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
+|**2022-07-26**|**Exploring Generalizable Distillation for Efficient Medical Image Segmentation**|Xingqun Qi et.al.|[2207.12995v2](http://arxiv.org/abs/2207.12995v2)|[link](https://github.com/xingqunqi-lab/gkd-framework)|
+|**2023-02-19**|**The Fréchet derivative of the tensor t-function**|Kathryn Lund et.al.|[2302.09687v1](http://arxiv.org/abs/2302.09687v1)|[link](https://gitlab.com/katlund/t-frechet)|
+|**2022-10-18**|**Improving GANs with a Feature Cycling Generator**|Seung Park et.al.|[2210.09638v2](http://arxiv.org/abs/2210.09638v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -54,25 +73,6 @@
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-23**|**Kullback-Leibler divergence for the Fréchet extreme-value distribution**|Jean-Christophe Pain et.al.|[2303.13153v2](http://arxiv.org/abs/2303.13153v2)|null|
-|**2020-02-26**|**Fréchet Modules and Descent**|Oren Ben-Bassat et.al.|[2002.11608v6](http://arxiv.org/abs/2002.11608v6)|null|
-|**2021-08-13**|**Fréchet single index models for object response regression**|Aritra Ghosal et.al.|[2108.06058v2](http://arxiv.org/abs/2108.06058v2)|null|
-|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v3](http://arxiv.org/abs/2211.06627v3)|[link](https://github.com/ControlNet/MARLIN)|
-|**2023-03-17**|**$\mathcal I^K$-limit points, $\mathcal I^K$-cluster points and $\mathcal I^K$-Frechet compactness**|Manoranjan Singha et.al.|[2303.10194v2](http://arxiv.org/abs/2303.10194v2)|null|
-|**2023-03-19**|**Fréchet Statistics Based Change Point Detection in Dynamic Social Networks**|Rui Luo et.al.|[2303.10753v1](http://arxiv.org/abs/2303.10753v1)|null|
-|**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v2](http://arxiv.org/abs/2212.03185v2)|null|
-|**2023-03-02**|**Adaptive Estimation of Intersection Bounds: a Classification Approach**|Vira Semenova et.al.|[2303.00982v1](http://arxiv.org/abs/2303.00982v1)|null|
-|**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v2](http://arxiv.org/abs/2301.04218v2)|null|
-|**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
-|**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v3](http://arxiv.org/abs/2203.14495v3)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
-|**2022-07-26**|**Exploring Generalizable Distillation for Efficient Medical Image Segmentation**|Xingqun Qi et.al.|[2207.12995v2](http://arxiv.org/abs/2207.12995v2)|[link](https://github.com/xingqunqi-lab/gkd-framework)|
-|**2023-02-19**|**The Fréchet derivative of the tensor t-function**|Kathryn Lund et.al.|[2302.09687v1](http://arxiv.org/abs/2302.09687v1)|[link](https://gitlab.com/katlund/t-frechet)|
-|**2022-10-18**|**Improving GANs with a Feature Cycling Generator**|Seung Park et.al.|[2210.09638v2](http://arxiv.org/abs/2210.09638v2)|null|
-|**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v2](http://arxiv.org/abs/2301.12503v2)|[link](https://github.com/haoheliu/AudioLDM)|
-
 ## Variable Selection
 
 ### Variable selection
@@ -81,6 +81,7 @@
 |**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v1](http://arxiv.org/abs/2303.15442v1)|[link](https://github.com/astrolamb/ceffyl)|
 |**2023-03-21**|**Explain To Me: Salience-Based Explainability for Synthetic Face Detection Models**|Colton Crum et.al.|[2303.11969v2](http://arxiv.org/abs/2303.11969v2)|null|
 |**2022-09-09**|**clusterBMA: Bayesian model averaging for clustering**|Owen Forbes et.al.|[2209.04117v2](http://arxiv.org/abs/2209.04117v2)|[link](https://github.com/of2/cbma_paper_simulations)|
+|**2023-03-25**|**Hysteresis Compensation in Temperature Response of Fiber Bragg Grating Thermometers Using Dynamic Regression**|Zeeshan Ahmed et.al.|[2303.16147v1](http://arxiv.org/abs/2303.16147v1)|null|
 |**2023-03-24**|**Sequential Knockoffs for Variable Selection in Reinforcement Learning**|Tao Ma et.al.|[2303.14281v1](http://arxiv.org/abs/2303.14281v1)|null|
 |**2021-11-19**|**Model selection applied to reconstructions of the Dark Energy**|Luis A. Escamilla et.al.|[2111.10457v2](http://arxiv.org/abs/2111.10457v2)|null|
 |**2022-11-23**|**BiasBed -- Rigorous Texture Bias Evaluation**|Nikolai Kalischek et.al.|[2211.13190v3](http://arxiv.org/abs/2211.13190v3)|[link](https://github.com/d1nofuzi/biasbed)|
@@ -92,4 +93,3 @@
 |**2023-03-22**|**Model Validation and Selection in Metabolic Flux Analysis and Flux Balance Analysis**|Joshua A. M. Kaste et.al.|[2303.12651v1](http://arxiv.org/abs/2303.12651v1)|null|
 |**2023-03-22**|**Scalable Bayesian bi-level variable selection in generalized linear models**|Younès Youssfi et.al.|[2303.12462v1](http://arxiv.org/abs/2303.12462v1)|null|
 |**2023-03-21**|**Noise analysis in the Indian Pulsar Timing Array Data Release I**|Aman Srivastava et.al.|[2303.12105v1](http://arxiv.org/abs/2303.12105v1)|null|
-|**2023-03-21**|**Bayesian nonparametric spectral analysis of locally stationary processes**|Yifu Tang et.al.|[2303.11561v1](http://arxiv.org/abs/2303.11561v1)|null|
