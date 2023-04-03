@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-03 07:21:31 Asia/Shanghai
+ Automated deployment @ 2023-04-03 19:19:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-31**|**MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering**|Guillermo Bernárdez et.al.|[2303.18157v1](http://arxiv.org/abs/2303.18157v1)|null|
+|**2023-03-31**|**Semi-Weakly Supervised Object Kinematic Motion Prediction**|Gengxin Liu et.al.|[2303.17774v1](http://arxiv.org/abs/2303.17774v1)|null|
+|**2021-08-06**|**Transferring Knowledge Distillation for Multilingual Social Event Detection**|Jiaqian Ren et.al.|[2108.03084v3](http://arxiv.org/abs/2108.03084v3)|[link](https://github.com/RingBDStack/CLKD)|
+|**2023-03-31**|**MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Analysis**|Mohammad Khodadad et.al.|[2303.17748v1](http://arxiv.org/abs/2303.17748v1)|null|
+|**2023-03-30**|**Progress towards an improved particle flow algorithm at CMS with machine learning**|Farouk Mokhtar et.al.|[2303.17657v1](http://arxiv.org/abs/2303.17657v1)|null|
 |**2022-12-06**|**Unifying Short and Long-Term Tracking with Graph Hierarchies**|Orcun Cetintas et.al.|[2212.03038v2](http://arxiv.org/abs/2212.03038v2)|null|
 |**2023-03-28**|**TraffNet: Learning Causality of Traffic Generation for Road Network Digital Twins**|Ming Xu et.al.|[2303.15954v2](http://arxiv.org/abs/2303.15954v2)|[link](https://github.com/mayunyi-1999/traffnet_code)|
 |**2023-03-30**|**The Graphical Nadaraya-Watson Estimator on Latent Position Models**|M. Gjorgjevski et.al.|[2303.17229v1](http://arxiv.org/abs/2303.17229v1)|null|
@@ -27,11 +32,6 @@
 |**2023-02-14**|**A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests**|Bohang Zhang et.al.|[2302.07090v2](http://arxiv.org/abs/2302.07090v2)|[link](https://github.com/subgraph23/swl)|
 |**2023-03-29**|**GRAF: Graph Attention-aware Fusion Networks**|Ziynet Nesibe Kesimoglu et.al.|[2303.16781v1](http://arxiv.org/abs/2303.16781v1)|null|
 |**2022-05-07**|**SHAP Interpretable Machine learning and 3D Graph Neural Networks based XANES analysis**|Fei Zhan et.al.|[2205.04463v6](http://arxiv.org/abs/2205.04463v6)|null|
-|**2023-03-29**|**Graph Neural Networks for Hardware Vulnerability Analysis -- Can you Trust your GNN?**|Lilas Alrahis et.al.|[2303.16690v1](http://arxiv.org/abs/2303.16690v1)|null|
-|**2022-08-26**|**What Does the Gradient Tell When Attacking the Graph Structure**|Zihan Liu et.al.|[2208.12815v2](http://arxiv.org/abs/2208.12815v2)|null|
-|**2023-03-29**|**Futures Quantitative Investment with Heterogeneous Continual Graph Neural Network**|Zhizhong Tan et.al.|[2303.16532v1](http://arxiv.org/abs/2303.16532v1)|null|
-|**2023-03-29**|**GAT-COBO: Cost-Sensitive Graph Neural Network for Telecom Fraud Detection**|Xinxin Hu et.al.|[2303.17334v1](http://arxiv.org/abs/2303.17334v1)|[link](https://github.com/xxhu94/gat-cobo)|
-|**2023-03-29**|**GNNBuilder: An Automated Framework for Generic Graph Neural Network Accelerator Generation, Simulation, and Optimization**|Stefan Abi-Karam et.al.|[2303.16459v1](http://arxiv.org/abs/2303.16459v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-31**|**You Only Train Once: Learning a General Anomaly Enhancement Network with Random Masks for Hyperspectral Anomaly Detection**|Zhaoxu Li et.al.|[2303.18001v1](http://arxiv.org/abs/2303.18001v1)|[link](https://github.com/zhaoxuli123/aetnet)|
+|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v1](http://arxiv.org/abs/2303.17856v1)|null|
+|**2023-03-30**|**Change Point Detection on a Separable Model for Dynamic Networks**|Yik Lun Kei et.al.|[2303.17642v1](http://arxiv.org/abs/2303.17642v1)|null|
 |**2023-03-30**|**KOO approach for scalable variable selection problem in large-dimensional regression**|Zhidong Bai et.al.|[2303.17230v1](http://arxiv.org/abs/2303.17230v1)|null|
 |**2023-03-30**|**An application of copulas to OPEC's changing influence on fossil fuel prices**|Clara Grazian et.al.|[2303.17184v1](http://arxiv.org/abs/2303.17184v1)|null|
 |**2022-05-16**|**Cosmological model-independent constraints on the baryon fraction in the IGM from fast radio bursts and supernovae data**|Thais Lemos et.al.|[2205.07926v2](http://arxiv.org/abs/2205.07926v2)|null|
@@ -90,6 +93,3 @@
 |**2021-11-19**|**Model selection applied to reconstructions of the Dark Energy**|Luis A. Escamilla et.al.|[2111.10457v2](http://arxiv.org/abs/2111.10457v2)|null|
 |**2022-11-23**|**BiasBed -- Rigorous Texture Bias Evaluation**|Nikolai Kalischek et.al.|[2211.13190v3](http://arxiv.org/abs/2211.13190v3)|[link](https://github.com/d1nofuzi/biasbed)|
 |**2023-01-18**|**Data thinning for convolution-closed distributions**|Anna Neufeld et.al.|[2301.07276v2](http://arxiv.org/abs/2301.07276v2)|null|
-|**2022-06-13**|**Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation**|Zengyu Qiu et.al.|[2206.06067v4](http://arxiv.org/abs/2206.06067v4)|null|
-|**2023-03-22**|**Knowing what to know: Implications of the choice of prior distribution on the behavior of adaptive design optimization**|Sabina J. Sloman et.al.|[2303.12683v1](http://arxiv.org/abs/2303.12683v1)|[link](https://github.com/sabjoslo/prior-impact)|
-|**2023-03-22**|**Constraining f(Q) Cosmology with Standard Sirens**|José Ferreira et.al.|[2303.12674v1](http://arxiv.org/abs/2303.12674v1)|null|
