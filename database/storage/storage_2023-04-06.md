@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-06 07:20:18 Asia/Shanghai
+ Automated deployment @ 2023-04-06 19:19:38 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-12-24**|**DeepGANTT: A Scalable Deep Learning Scheduler for Backscatter Networks**|Daniel F. Perez-Ramirez et.al.|[2112.12985v2](http://arxiv.org/abs/2112.12985v2)|null|
+|**2021-10-29**|**Unsupervised Person Re-Identification with Wireless Positioning under Weak Scene Labeling**|Yiheng Liu et.al.|[2110.15610v2](http://arxiv.org/abs/2110.15610v2)|[link](https://github.com/yolomax/umtf)|
+|**2023-04-05**|**Rethinking the Trigger-injecting Position in Graph Backdoor Attack**|Jing Xu et.al.|[2304.02277v1](http://arxiv.org/abs/2304.02277v1)|null|
+|**2022-10-12**|**Boosting Graph Neural Networks via Adaptive Knowledge Distillation**|Zhichun Guo et.al.|[2210.05920v2](http://arxiv.org/abs/2210.05920v2)|null|
+|**2022-11-27**|**FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned Directed Acyclic Interaction Graphs**|Luke Rowe et.al.|[2211.16197v2](http://arxiv.org/abs/2211.16197v2)|null|
 |**2023-04-04**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008v1](http://arxiv.org/abs/2304.02008v1)|[link](https://github.com/cvg/gluestick)|
 |**2023-04-04**|**Quantum algorithms for charged particle track reconstruction in the LUXE experiment**|Arianna Crippa et.al.|[2304.01690v1](http://arxiv.org/abs/2304.01690v1)|null|
 |**2023-02-02**|**Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network**|Wendong Bi et.al.|[2302.00873v2](http://arxiv.org/abs/2302.00873v2)|[link](https://github.com/wendongbi/KT-GNN)|
@@ -27,11 +32,27 @@
 |**2023-04-03**|**Counterfactual Learning on Graphs: A Survey**|Zhimeng Guo et.al.|[2304.01391v1](http://arxiv.org/abs/2304.01391v1)|[link](https://github.com/timelovercc/awesome-graph-causal-learning)|
 |**2022-10-22**|**Boosting the Cycle Counting Power of Graph Neural Networks with I$^2$-GNNs**|Yinan Huang et.al.|[2210.13978v2](http://arxiv.org/abs/2210.13978v2)|[link](https://github.com/graphpku/i2gnn)|
 |**2023-04-03**|**FMGNN: Fused Manifold Graph Neural Network**|Cheng Deng et.al.|[2304.01081v1](http://arxiv.org/abs/2304.01081v1)|null|
-|**2023-02-11**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743v2](http://arxiv.org/abs/2302.05743v2)|null|
-|**2023-03-29**|**When to Pre-Train Graph Neural Networks? An Answer from Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v2](http://arxiv.org/abs/2303.16458v2)|null|
-|**2023-02-15**|**Project Elements: A computational entity-component-system in a scene-graph pythonic framework, for a neural, geometric computer graphics curriculum**|George Papagiannakis et.al.|[2302.07691v2](http://arxiv.org/abs/2302.07691v2)|null|
-|**2023-04-03**|**Uncertainty Propagation in Node Classification**|Zhao Xu et.al.|[2304.00918v1](http://arxiv.org/abs/2304.00918v1)|null|
-|**2022-10-24**|**Abductive Action Inference**|Clement Tan et.al.|[2210.13984v2](http://arxiv.org/abs/2210.13984v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v4](http://arxiv.org/abs/2210.17299v4)|[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|**2022-01-02**|**Bayesian Generalized Additive Model Selection Including a Fast Variational Option**|Virginia X. He et.al.|[2201.00412v4](http://arxiv.org/abs/2201.00412v4)|null|
+|**2023-04-04**|**Synthesize Extremely High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model**|Brandon Theodorou et.al.|[2304.02169v1](http://arxiv.org/abs/2304.02169v1)|null|
+|**2023-04-04**|**Global Identifiability Analysis of Statistical Models using an Information-Theoretic Estimator in a Bayesian Framework**|Sahil Bhola et.al.|[2304.02025v1](http://arxiv.org/abs/2304.02025v1)|null|
+|**2022-08-10**|**Distribution-Free Location-Scale Regression**|Sandra Siegfried et.al.|[2208.05302v2](http://arxiv.org/abs/2208.05302v2)|[link](https://CRAN.R-project.org/package=tram)|
+|**2022-09-29**|**Uniform convergence rates and automatic variable selection in nonparametric regression with functional and categorical covariates**|Leonie Selk et.al.|[2209.15079v2](http://arxiv.org/abs/2209.15079v2)|null|
+|**2023-04-03**|**Fair Evaluation of Graph Markov Neural Networks**|Pirmin Lemberger et.al.|[2304.01235v1](http://arxiv.org/abs/2304.01235v1)|[link](https://github.com/toinesayan/fair-evaluation-of-gmnns)|
+|**2023-04-02**|**A principled approach to model validation in domain generalization**|Boyang Lyu et.al.|[2304.00629v1](http://arxiv.org/abs/2304.00629v1)|[link](https://github.com/thuan2412/a-principled-approach-for-model-validation-for-domain-generalization)|
+|**2023-04-02**|**Multiresolution Approximation of a Bayesian Inverse Problem using Second-Generation Wavelets**|Navid Shervani-Tabar et.al.|[2304.00542v1](http://arxiv.org/abs/2304.00542v1)|null|
+|**2022-11-09**|**Enhanced Bayesian Neural Networks for Macroeconomics and Finance**|Niko Hauzenberger et.al.|[2211.04752v3](http://arxiv.org/abs/2211.04752v3)|null|
+|**2023-03-31**|**You Only Train Once: Learning a General Anomaly Enhancement Network with Random Masks for Hyperspectral Anomaly Detection**|Zhaoxu Li et.al.|[2303.18001v1](http://arxiv.org/abs/2303.18001v1)|[link](https://github.com/zhaoxuli123/aetnet)|
+|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v1](http://arxiv.org/abs/2303.17856v1)|null|
+|**2023-03-30**|**Change Point Detection on a Separable Model for Dynamic Networks**|Yik Lun Kei et.al.|[2303.17642v1](http://arxiv.org/abs/2303.17642v1)|null|
+|**2023-03-30**|**KOO approach for scalable variable selection problem in large-dimensional regression**|Zhidong Bai et.al.|[2303.17230v1](http://arxiv.org/abs/2303.17230v1)|null|
+|**2023-03-30**|**An application of copulas to OPEC's changing influence on fossil fuel prices**|Clara Grazian et.al.|[2303.17184v1](http://arxiv.org/abs/2303.17184v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v3](http://arxiv.org/abs/2203.14495v3)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
 |**2022-07-26**|**Exploring Generalizable Distillation for Efficient Medical Image Segmentation**|Xingqun Qi et.al.|[2207.12995v2](http://arxiv.org/abs/2207.12995v2)|[link](https://github.com/xingqunqi-lab/gkd-framework)|
 |**2023-02-19**|**The Fréchet derivative of the tensor t-function**|Kathryn Lund et.al.|[2302.09687v1](http://arxiv.org/abs/2302.09687v1)|[link](https://gitlab.com/katlund/t-frechet)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-08-10**|**Distribution-Free Location-Scale Regression**|Sandra Siegfried et.al.|[2208.05302v2](http://arxiv.org/abs/2208.05302v2)|[link](https://CRAN.R-project.org/package=tram)|
-|**2022-09-29**|**Uniform convergence rates and automatic variable selection in nonparametric regression with functional and categorical covariates**|Leonie Selk et.al.|[2209.15079v2](http://arxiv.org/abs/2209.15079v2)|null|
-|**2023-04-03**|**Fair Evaluation of Graph Markov Neural Networks**|Pirmin Lemberger et.al.|[2304.01235v1](http://arxiv.org/abs/2304.01235v1)|[link](https://github.com/toinesayan/fair-evaluation-of-gmnns)|
-|**2023-04-02**|**A principled approach to model validation in domain generalization**|Boyang Lyu et.al.|[2304.00629v1](http://arxiv.org/abs/2304.00629v1)|[link](https://github.com/thuan2412/a-principled-approach-for-model-validation-for-domain-generalization)|
-|**2023-04-02**|**Multiresolution Approximation of a Bayesian Inverse Problem using Second-Generation Wavelets**|Navid Shervani-Tabar et.al.|[2304.00542v1](http://arxiv.org/abs/2304.00542v1)|null|
-|**2022-11-09**|**Enhanced Bayesian Neural Networks for Macroeconomics and Finance**|Niko Hauzenberger et.al.|[2211.04752v3](http://arxiv.org/abs/2211.04752v3)|null|
-|**2023-03-31**|**You Only Train Once: Learning a General Anomaly Enhancement Network with Random Masks for Hyperspectral Anomaly Detection**|Zhaoxu Li et.al.|[2303.18001v1](http://arxiv.org/abs/2303.18001v1)|[link](https://github.com/zhaoxuli123/aetnet)|
-|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v1](http://arxiv.org/abs/2303.17856v1)|null|
-|**2023-03-30**|**Change Point Detection on a Separable Model for Dynamic Networks**|Yik Lun Kei et.al.|[2303.17642v1](http://arxiv.org/abs/2303.17642v1)|null|
-|**2023-03-30**|**KOO approach for scalable variable selection problem in large-dimensional regression**|Zhidong Bai et.al.|[2303.17230v1](http://arxiv.org/abs/2303.17230v1)|null|
-|**2023-03-30**|**An application of copulas to OPEC's changing influence on fossil fuel prices**|Clara Grazian et.al.|[2303.17184v1](http://arxiv.org/abs/2303.17184v1)|null|
-|**2022-05-16**|**Cosmological model-independent constraints on the baryon fraction in the IGM from fast radio bursts and supernovae data**|Thais Lemos et.al.|[2205.07926v2](http://arxiv.org/abs/2205.07926v2)|null|
-|**2023-03-06**|**Huber Principal Component Analysis for Large-dimensional Factor Models**|Yong He et.al.|[2303.02817v2](http://arxiv.org/abs/2303.02817v2)|null|
-|**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v1](http://arxiv.org/abs/2303.15442v1)|[link](https://github.com/astrolamb/ceffyl)|
-|**2023-03-21**|**Explain To Me: Salience-Based Explainability for Synthetic Face Detection Models**|Colton Crum et.al.|[2303.11969v2](http://arxiv.org/abs/2303.11969v2)|null|
