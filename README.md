@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-11 07:22:33 Asia/Shanghai
+ Automated deployment @ 2023-04-11 19:20:02 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-10**|**GraphBinMatch: Graph-based Similarity Learning for Cross-Language Binary and Source Code Matching**|Ali TehraniJamsaz et.al.|[2304.04658v1](http://arxiv.org/abs/2304.04658v1)|null|
+|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468v2](http://arxiv.org/abs/2304.03468v2)|null|
+|**2023-04-10**|**Graph Neural Network-Aided Exploratory Learning for Community Detection with Unknown Topology**|Yu Hou et.al.|[2304.04497v1](http://arxiv.org/abs/2304.04497v1)|null|
+|**2022-12-13**|**Bridging Graph Position Encodings for Transformers with Weighted Graph-Walking Automata**|Patrick Soga et.al.|[2212.06898v4](http://arxiv.org/abs/2212.06898v4)|null|
+|**2022-01-13**|**Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting**|Ling Chen et.al.|[2201.04828v2](http://arxiv.org/abs/2201.04828v2)|[link](https://github.com/shangzongjiang/magnn)|
+|**2022-06-06**|**Restructuring Graph for Higher Homophily via Adaptive Spectral Clustering**|Shouheng Li et.al.|[2206.02386v2](http://arxiv.org/abs/2206.02386v2)|null|
+|**2023-04-09**|**Adversarially Robust Neural Architecture Search for Graph Neural Networks**|Beini Xie et.al.|[2304.04168v1](http://arxiv.org/abs/2304.04168v1)|null|
+|**2022-04-06**|**Structure-aware Protein Self-supervised Learning**|Can Chen et.al.|[2204.04213v4](http://arxiv.org/abs/2204.04213v4)|[link](https://github.com/ggchen1997/steps_bioinformatics)|
+|**2023-02-02**|**Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network**|Wendong Bi et.al.|[2302.00873v3](http://arxiv.org/abs/2302.00873v3)|[link](https://github.com/wendongbi/KT-GNN)|
+|**2023-04-08**|**Generating a Graph Colouring Heuristic with Deep Q-Learning and Graph Neural Networks**|George Watkins et.al.|[2304.04051v1](http://arxiv.org/abs/2304.04051v1)|null|
+|**2022-09-30**|**MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization**|Xiaotian Han et.al.|[2210.00102v3](http://arxiv.org/abs/2210.00102v3)|[link](https://github.com/snap-research/MLPInit-for-GNNs)|
+|**2023-04-08**|**Contrastive Cross-Domain Sequential Recommendation**|Jiangxia Cao et.al.|[2304.03891v1](http://arxiv.org/abs/2304.03891v1)|[link](https://github.com/cjx96/c2dsr)|
+|**2023-04-07**|**SGDP: A Stream-Graph Neural Network Based Data Prefetcher**|Yiyuan Yang et.al.|[2304.03864v1](http://arxiv.org/abs/2304.03864v1)|[link](https://github.com/yyysjz1997/SGDP)|
+|**2022-11-26**|**PatchGT: Transformer over Non-trainable Clusters for Learning Graph Representations**|Han Gao et.al.|[2211.14425v2](http://arxiv.org/abs/2211.14425v2)|[link](https://github.com/tufts-ml/patchgt)|
 |**2023-04-07**|**Distributional Signals for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2304.03507v1](http://arxiv.org/abs/2304.03507v1)|null|
-|**2023-04-07**|**ParaGraph: Weighted Graph Representation for Performance Optimization of HPC Kernels**|Ali TehraniJamsaz et.al.|[2304.03487v1](http://arxiv.org/abs/2304.03487v1)|null|
-|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468v1](http://arxiv.org/abs/2304.03468v1)|null|
-|**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215v1](http://arxiv.org/abs/2304.03215v1)|null|
-|**2023-02-28**|**Semi-decentralized Inference in Heterogeneous Graph Neural Networks for Traffic Demand Forecasting: An Edge-Computing Approach**|Mahmoud Nazzal et.al.|[2303.00524v2](http://arxiv.org/abs/2303.00524v2)|[link](https://github.com/mahmoudkanazzal/semidecentralizedhetgnnlstm)|
-|**2023-04-06**|**Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit Diversity Modeling**|Haotao Wang et.al.|[2304.02806v1](http://arxiv.org/abs/2304.02806v1)|[link](https://github.com/vita-group/graph-mixture-of-experts)|
-|**2022-06-09**|**Accurate Node Feature Estimation with Structured Variational Graph Autoencoder**|Jaemin Yoo et.al.|[2206.04516v2](http://arxiv.org/abs/2206.04516v2)|[link](https://github.com/snudatalab/SVGA)|
-|**2021-12-24**|**DeepGANTT: A Scalable Deep Learning Scheduler for Backscatter Networks**|Daniel F. Perez-Ramirez et.al.|[2112.12985v2](http://arxiv.org/abs/2112.12985v2)|null|
-|**2021-10-29**|**Unsupervised Person Re-Identification with Wireless Positioning under Weak Scene Labeling**|Yiheng Liu et.al.|[2110.15610v2](http://arxiv.org/abs/2110.15610v2)|[link](https://github.com/yolomax/umtf)|
-|**2023-04-05**|**Rethinking the Trigger-injecting Position in Graph Backdoor Attack**|Jing Xu et.al.|[2304.02277v1](http://arxiv.org/abs/2304.02277v1)|null|
-|**2022-10-12**|**Boosting Graph Neural Networks via Adaptive Knowledge Distillation**|Zhichun Guo et.al.|[2210.05920v2](http://arxiv.org/abs/2210.05920v2)|null|
-|**2022-11-27**|**FJMP: Factorized Joint Multi-Agent Motion Prediction over Learned Directed Acyclic Interaction Graphs**|Luke Rowe et.al.|[2211.16197v2](http://arxiv.org/abs/2211.16197v2)|null|
-|**2023-04-04**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008v1](http://arxiv.org/abs/2304.02008v1)|[link](https://github.com/cvg/gluestick)|
-|**2023-04-04**|**Quantum algorithms for charged particle track reconstruction in the LUXE experiment**|Arianna Crippa et.al.|[2304.01690v1](http://arxiv.org/abs/2304.01690v1)|null|
-|**2023-02-02**|**Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network**|Wendong Bi et.al.|[2302.00873v2](http://arxiv.org/abs/2302.00873v2)|[link](https://github.com/wendongbi/KT-GNN)|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-09**|**ForamViT-GAN: Exploring New Paradigms in Deep Learning for Micropaleontological Image Analysis**|Ivan Ferreira-Chacua et.al.|[2304.04291v1](http://arxiv.org/abs/2304.04291v1)|null|
 |**2023-04-06**|**Heavy-Tailed Regularization of Weight Matrices in Deep Neural Networks**|Xuanzhe Xiao et.al.|[2304.02911v2](http://arxiv.org/abs/2304.02911v2)|null|
 |**2023-03-29**|**WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models**|Konstantina Nikolaidou et.al.|[2303.16576v1](http://arxiv.org/abs/2303.16576v1)|null|
 |**2023-03-27**|**Normalized centered moments of the Fréchet extreme-value distribution and inference of its parameter**|Jean-Christophe Pain et.al.|[2303.15572v1](http://arxiv.org/abs/2303.15572v1)|null|
@@ -71,13 +72,15 @@
 |**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v2](http://arxiv.org/abs/2301.04218v2)|null|
 |**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v3](http://arxiv.org/abs/2203.14495v3)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
-|**2022-07-26**|**Exploring Generalizable Distillation for Efficient Medical Image Segmentation**|Xingqun Qi et.al.|[2207.12995v2](http://arxiv.org/abs/2207.12995v2)|[link](https://github.com/xingqunqi-lab/gkd-framework)|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-10**|**CSST forecast: impact from non-Gaussian covariances and requirements on systematics-control**|Ji Yao et.al.|[2304.04489v1](http://arxiv.org/abs/2304.04489v1)|null|
+|**2023-04-08**|**DiscoVars: A New Data Analysis Perspective -- Application in Variable Selection for Clustering**|Ayhan Demiriz et.al.|[2304.03983v1](http://arxiv.org/abs/2304.03983v1)|null|
+|**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v3](http://arxiv.org/abs/2208.12585v3)|null|
 |**2023-04-06**|**Variable-Complexity Weighted-Tempered Gibbs Samplers for Bayesian Variable Selection**|Lan V. Truong et.al.|[2304.02899v1](http://arxiv.org/abs/2304.02899v1)|null|
 |**2021-01-11**|**Complexity analysis of Bayesian learning of high-dimensional DAG models and their equivalence classes**|Quan Zhou et.al.|[2101.04084v3](http://arxiv.org/abs/2101.04084v3)|null|
 |**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v4](http://arxiv.org/abs/2210.17299v4)|[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
@@ -90,6 +93,3 @@
 |**2023-04-02**|**A principled approach to model validation in domain generalization**|Boyang Lyu et.al.|[2304.00629v1](http://arxiv.org/abs/2304.00629v1)|[link](https://github.com/thuan2412/a-principled-approach-for-model-validation-for-domain-generalization)|
 |**2023-04-02**|**Multiresolution Approximation of a Bayesian Inverse Problem using Second-Generation Wavelets**|Navid Shervani-Tabar et.al.|[2304.00542v1](http://arxiv.org/abs/2304.00542v1)|null|
 |**2022-11-09**|**Enhanced Bayesian Neural Networks for Macroeconomics and Finance**|Niko Hauzenberger et.al.|[2211.04752v3](http://arxiv.org/abs/2211.04752v3)|null|
-|**2023-03-31**|**You Only Train Once: Learning a General Anomaly Enhancement Network with Random Masks for Hyperspectral Anomaly Detection**|Zhaoxu Li et.al.|[2303.18001v1](http://arxiv.org/abs/2303.18001v1)|[link](https://github.com/zhaoxuli123/aetnet)|
-|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v1](http://arxiv.org/abs/2303.17856v1)|null|
-|**2023-03-30**|**Change Point Detection on a Separable Model for Dynamic Networks**|Yik Lun Kei et.al.|[2303.17642v1](http://arxiv.org/abs/2303.17642v1)|[link](https://github.com/allenkei/cpdstergm)|
