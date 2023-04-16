@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-16 07:21:53 Asia/Shanghai
+ Automated deployment @ 2023-04-16 19:19:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2023-02-20**|**Finding Heterophilic Neighbors via Confidence-based Subgraph Matching for Semi-supervised Node Classification**|Yoonhyuk Choi et.al.|[2302.09755v2](http://arxiv.org/abs/2302.09755v2)|null|
 |**2023-04-12**|**SuperpixelGraph: Semi-automatic generation of building footprint through semantic-sensitive superpixel and neural graph networks**|Haojia Yu et.al.|[2304.05661v1](http://arxiv.org/abs/2304.05661v1)|null|
 |**2023-01-16**|**PIGEON: Optimizing CUDA Code Generator for End-to-End Training and Inference of Relational Graph Neural Networks**|Kun Wu et.al.|[2301.06284v2](http://arxiv.org/abs/2301.06284v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-13**|**Priors for symbolic regression**|Deaglan J. Bartlett et.al.|[2304.06333v1](http://arxiv.org/abs/2304.06333v1)|[link](https://github.com/deaglanbartlett/katz)|
-|**2022-06-16**|**Identifying the Most Appropriate Order for Categorical Responses**|Tianmeng Wang et.al.|[2206.08235v2](http://arxiv.org/abs/2206.08235v2)|null|
-|**2020-11-27**|**Multiple change point detection under serial dependence: Wild contrast maximisation and gappy Schwarz algorithm**|Haeran Cho et.al.|[2011.13884v6](http://arxiv.org/abs/2011.13884v6)|[link](https://github.com/haeran-cho/wcm.gsa)|
-|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v2](http://arxiv.org/abs/2301.06058v2)|null|
-|**2023-04-12**|**Group projected Subspace Pursuit for Identification of variable coefficient differential equations (GP-IDENT)**|Yuchen He et.al.|[2304.05543v1](http://arxiv.org/abs/2304.05543v1)|null|
-|**2023-04-11**|**A Gaussian process cross-correlation approach to time delay estimation in active galactic nuclei**|F. Pozo Nuñez et.al.|[2304.05536v1](http://arxiv.org/abs/2304.05536v1)|null|
-|**2023-04-11**|**Model Selection for independent not identically distributed observations based on Rényi's pseudodistances**|Angel Felipe et.al.|[2304.05491v1](http://arxiv.org/abs/2304.05491v1)|null|
-|**2018-07-10**|**Pairwise Covariates-adjusted Block Model for Community Detection**|Sihan Huang et.al.|[1807.03469v4](http://arxiv.org/abs/1807.03469v4)|null|
-|**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v2](http://arxiv.org/abs/2303.15442v2)|[link](https://github.com/astrolamb/ceffyl)|
-|**2023-04-10**|**CSST forecast: impact from non-Gaussian covariances and requirements on systematics-control**|Ji Yao et.al.|[2304.04489v1](http://arxiv.org/abs/2304.04489v1)|null|
-|**2023-04-08**|**DiscoVars: A New Data Analysis Perspective -- Application in Variable Selection for Clustering**|Ayhan Demiriz et.al.|[2304.03983v1](http://arxiv.org/abs/2304.03983v1)|null|
-|**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v3](http://arxiv.org/abs/2208.12585v3)|null|
-|**2023-04-06**|**Variable-Complexity Weighted-Tempered Gibbs Samplers for Bayesian Variable Selection**|Lan V. Truong et.al.|[2304.02899v1](http://arxiv.org/abs/2304.02899v1)|null|
-|**2021-01-11**|**Complexity analysis of Bayesian learning of high-dimensional DAG models and their equivalence classes**|Quan Zhou et.al.|[2101.04084v3](http://arxiv.org/abs/2101.04084v3)|null|
-|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v4](http://arxiv.org/abs/2210.17299v4)|[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v2](http://arxiv.org/abs/2301.04218v2)|null|
 |**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v3](http://arxiv.org/abs/2203.14495v3)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-13**|**Priors for symbolic regression**|Deaglan J. Bartlett et.al.|[2304.06333v1](http://arxiv.org/abs/2304.06333v1)|[link](https://github.com/deaglanbartlett/katz)|
+|**2022-06-16**|**Identifying the Most Appropriate Order for Categorical Responses**|Tianmeng Wang et.al.|[2206.08235v2](http://arxiv.org/abs/2206.08235v2)|null|
+|**2020-11-27**|**Multiple change point detection under serial dependence: Wild contrast maximisation and gappy Schwarz algorithm**|Haeran Cho et.al.|[2011.13884v6](http://arxiv.org/abs/2011.13884v6)|[link](https://github.com/haeran-cho/wcm.gsa)|
+|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v2](http://arxiv.org/abs/2301.06058v2)|null|
+|**2023-04-12**|**Group projected Subspace Pursuit for Identification of variable coefficient differential equations (GP-IDENT)**|Yuchen He et.al.|[2304.05543v1](http://arxiv.org/abs/2304.05543v1)|null|
+|**2023-04-11**|**A Gaussian process cross-correlation approach to time delay estimation in active galactic nuclei**|F. Pozo Nuñez et.al.|[2304.05536v1](http://arxiv.org/abs/2304.05536v1)|null|
+|**2023-04-11**|**Model Selection for independent not identically distributed observations based on Rényi's pseudodistances**|Angel Felipe et.al.|[2304.05491v1](http://arxiv.org/abs/2304.05491v1)|null|
+|**2018-07-10**|**Pairwise Covariates-adjusted Block Model for Community Detection**|Sihan Huang et.al.|[1807.03469v4](http://arxiv.org/abs/1807.03469v4)|null|
+|**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v2](http://arxiv.org/abs/2303.15442v2)|[link](https://github.com/astrolamb/ceffyl)|
+|**2023-04-10**|**CSST forecast: impact from non-Gaussian covariances and requirements on systematics-control**|Ji Yao et.al.|[2304.04489v1](http://arxiv.org/abs/2304.04489v1)|null|
+|**2023-04-08**|**DiscoVars: A New Data Analysis Perspective -- Application in Variable Selection for Clustering**|Ayhan Demiriz et.al.|[2304.03983v1](http://arxiv.org/abs/2304.03983v1)|null|
+|**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v3](http://arxiv.org/abs/2208.12585v3)|null|
+|**2023-04-06**|**Variable-Complexity Weighted-Tempered Gibbs Samplers for Bayesian Variable Selection**|Lan V. Truong et.al.|[2304.02899v1](http://arxiv.org/abs/2304.02899v1)|null|
+|**2021-01-11**|**Complexity analysis of Bayesian learning of high-dimensional DAG models and their equivalence classes**|Quan Zhou et.al.|[2101.04084v3](http://arxiv.org/abs/2101.04084v3)|null|
+|**2022-10-28**|**Bayesian Model Selection of Lithium-Ion Battery Models via Bayesian Quadrature**|Masaki Adachi et.al.|[2210.17299v4](http://arxiv.org/abs/2210.17299v4)|[link](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
