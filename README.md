@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-18 07:22:56 Asia/Shanghai
+ Automated deployment @ 2023-04-18 19:20:33 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-17**|**Inverse design of next-generation superconductors using data-driven deep generative models**|Daniel Wines et.al.|[2304.08446v1](http://arxiv.org/abs/2304.08446v1)|null|
+|**2023-04-17**|**Code-centric Learning-based Just-In-Time Vulnerability Detection**|Son Nguyen et.al.|[2304.08396v1](http://arxiv.org/abs/2304.08396v1)|null|
+|**2023-04-17**|**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**|Linhao Luo et.al.|[2304.08183v1](http://arxiv.org/abs/2304.08183v1)|[link](https://github.com/rmanluo/np-fkgc)|
+|**2021-03-01**|**CogDL: A Comprehensive Library for Graph Deep Learning**|Yukuo Cen et.al.|[2103.00959v4](http://arxiv.org/abs/2103.00959v4)|[link](https://github.com/THUDM/cogdl)|
+|**2023-04-17**|**Transformer-based Graph Neural Networks for Outfit Generation**|Federico Becattini et.al.|[2304.08098v1](http://arxiv.org/abs/2304.08098v1)|null|
+|**2022-10-24**|**Abductive Action Inference**|Clement Tan et.al.|[2210.13984v3](http://arxiv.org/abs/2210.13984v3)|null|
+|**2023-04-17**|**Learning To Rank Resources with GNN**|Ulugbek Ergashev et.al.|[2304.07946v1](http://arxiv.org/abs/2304.07946v1)|null|
+|**2023-04-16**|**M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation**|Zepeng Huai et.al.|[2304.07911v1](http://arxiv.org/abs/2304.07911v1)|[link](https://github.com/huaizepeng2020/m2gnn_git)|
+|**2023-04-16**|**Towards Better Evaluation of GNN Expressiveness with BREC Dataset**|Yanbo Wang et.al.|[2304.07702v1](http://arxiv.org/abs/2304.07702v1)|[link](https://github.com/graphpku/brec)|
+|**2023-04-15**|**Temporal Aggregation and Propagation Graph Neural Networks for Dynamic Representation**|Tongya Zheng et.al.|[2304.07503v1](http://arxiv.org/abs/2304.07503v1)|[link](https://github.com/doujiang-zheng/tap-gnn)|
+|**2023-04-15**|**Transition Propagation Graph Neural Networks for Temporal Networks**|Tongya Zheng et.al.|[2304.07501v1](http://arxiv.org/abs/2304.07501v1)|[link](https://github.com/doujiang-zheng/tip-gnn)|
+|**2021-12-18**|**GNN-Geo: A Graph Neural Network-based Fine-grained IP geolocation Framework**|Shichang Ding et.al.|[2112.10767v7](http://arxiv.org/abs/2112.10767v7)|null|
+|**2023-04-14**|**KS-GNNExplainer: Global Model Interpretation Through Instance Explanations On Histopathology images**|Sina Abdous et.al.|[2304.08240v1](http://arxiv.org/abs/2304.08240v1)|null|
 |**2023-02-11**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743v3](http://arxiv.org/abs/2302.05743v3)|null|
 |**2023-04-14**|**Combining Stochastic Explainers and Subgraph Neural Networks can Increase Expressivity and Interpretability**|Indro Spinelli et.al.|[2304.07152v1](http://arxiv.org/abs/2304.07152v1)|null|
-|**2023-04-14**|**SEA: A Scalable Entity Alignment System**|Junyang Wu et.al.|[2304.07065v1](http://arxiv.org/abs/2304.07065v1)|[link](https://github.com/immortals88/demo-sea)|
-|**2023-04-14**|**Learning Graph ODE for Continuous-Time Sequential Recommendation**|Yifang Qin et.al.|[2304.07042v1](http://arxiv.org/abs/2304.07042v1)|null|
-|**2023-04-14**|**Symbiotic Message Passing Model for Transfer Learning between Anti-Fungal and Anti-Bacterial Domains**|Ronen Taub et.al.|[2304.07017v1](http://arxiv.org/abs/2304.07017v1)|null|
-|**2023-04-14**|**AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing**|Zhaoliang Chen et.al.|[2304.07014v1](http://arxiv.org/abs/2304.07014v1)|null|
-|**2023-04-14**|**LightRW: FPGA Accelerated Graph Dynamic Random Walks**|Hongshi Tan et.al.|[2304.07004v1](http://arxiv.org/abs/2304.07004v1)|null|
-|**2022-10-03**|**TPGNN: Learning High-order Information in Dynamic Graphs via Temporal Propagation**|Zehong Wang et.al.|[2210.01171v2](http://arxiv.org/abs/2210.01171v2)|null|
-|**2022-10-08**|**Bottleneck Analysis of Dynamic Graph Neural Network Inference on CPU and GPU**|Hanqiu Chen et.al.|[2210.03900v2](http://arxiv.org/abs/2210.03900v2)|null|
-|**2023-04-13**|**DGNN-Booster: A Generic FPGA Accelerator Framework For Dynamic Graph Neural Network Inference**|Hanqiu Chen et.al.|[2304.06831v1](http://arxiv.org/abs/2304.06831v1)|[link](https://github.com/sharc-lab/dgnn-booster)|
-|**2023-04-13**|**Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715v1](http://arxiv.org/abs/2304.06715v1)|[link](https://github.com/jonathancrabbe/robustxai)|
-|**2023-04-13**|**RadarGNN: Transformation Invariant Graph Neural Network for Radar-based Perception**|Felix Fent et.al.|[2304.06547v1](http://arxiv.org/abs/2304.06547v1)|[link](https://github.com/tumftm/radargnn)|
-|**2023-03-20**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms**|Ao Zhou et.al.|[2303.10875v2](http://arxiv.org/abs/2303.10875v2)|null|
-|**2023-04-13**|**Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs**|Zhaoliang Chen et.al.|[2304.06336v1](http://arxiv.org/abs/2304.06336v1)|null|
-|**2022-11-21**|**From Node Interaction to Hop Interaction: New Effective and Scalable Graph Learning Paradigm**|Jie Chen et.al.|[2211.11761v3](http://arxiv.org/abs/2211.11761v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-14**|**Dynamic variable selection in high-dimensional predictive regressions**|Mauro Bernardi et.al.|[2304.07096v1](http://arxiv.org/abs/2304.07096v1)|null|
-|**2022-01-05**|**Problem-dependent attention and effort in neural networks with applications to image resolution and model selection**|Chris Rohlfs et.al.|[2201.01415v4](http://arxiv.org/abs/2201.01415v4)|null|
-|**2023-04-13**|**Priors for symbolic regression**|Deaglan J. Bartlett et.al.|[2304.06333v1](http://arxiv.org/abs/2304.06333v1)|[link](https://github.com/deaglanbartlett/katz)|
-|**2022-06-16**|**Identifying the Most Appropriate Order for Categorical Responses**|Tianmeng Wang et.al.|[2206.08235v2](http://arxiv.org/abs/2206.08235v2)|null|
-|**2020-11-27**|**Multiple change point detection under serial dependence: Wild contrast maximisation and gappy Schwarz algorithm**|Haeran Cho et.al.|[2011.13884v6](http://arxiv.org/abs/2011.13884v6)|[link](https://github.com/haeran-cho/wcm.gsa)|
-|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v2](http://arxiv.org/abs/2301.06058v2)|null|
-|**2023-04-12**|**Group projected Subspace Pursuit for Identification of variable coefficient differential equations (GP-IDENT)**|Yuchen He et.al.|[2304.05543v1](http://arxiv.org/abs/2304.05543v1)|null|
-|**2023-04-11**|**A Gaussian process cross-correlation approach to time delay estimation in active galactic nuclei**|F. Pozo Nuñez et.al.|[2304.05536v1](http://arxiv.org/abs/2304.05536v1)|null|
-|**2023-04-11**|**Model Selection for independent not identically distributed observations based on Rényi's pseudodistances**|Angel Felipe et.al.|[2304.05491v1](http://arxiv.org/abs/2304.05491v1)|null|
-|**2018-07-10**|**Pairwise Covariates-adjusted Block Model for Community Detection**|Sihan Huang et.al.|[1807.03469v4](http://arxiv.org/abs/1807.03469v4)|null|
-|**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v2](http://arxiv.org/abs/2303.15442v2)|[link](https://github.com/astrolamb/ceffyl)|
-|**2023-04-10**|**CSST forecast: impact from non-Gaussian covariances and requirements on systematics-control**|Ji Yao et.al.|[2304.04489v1](http://arxiv.org/abs/2304.04489v1)|null|
-|**2023-04-08**|**DiscoVars: A New Data Analysis Perspective -- Application in Variable Selection for Clustering**|Ayhan Demiriz et.al.|[2304.03983v1](http://arxiv.org/abs/2304.03983v1)|null|
-|**2022-08-26**|**Multivariate manifold-valued curve regression in time**|A. Torres-Signes et.al.|[2208.12585v3](http://arxiv.org/abs/2208.12585v3)|null|
-|**2023-04-06**|**Variable-Complexity Weighted-Tempered Gibbs Samplers for Bayesian Variable Selection**|Lan V. Truong et.al.|[2304.02899v1](http://arxiv.org/abs/2304.02899v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v2](http://arxiv.org/abs/2301.04218v2)|null|
 |**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v3](http://arxiv.org/abs/2203.14495v3)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-17**|**Cross or Wait? Predicting Pedestrian Interaction Outcomes at Unsignalized Crossings**|Chi Zhang et.al.|[2304.08260v1](http://arxiv.org/abs/2304.08260v1)|null|
+|**2022-11-10**|**Fairness and bias correction in machine learning for depression prediction: results from four different study populations**|Vien Ngoc Dang et.al.|[2211.05321v2](http://arxiv.org/abs/2211.05321v2)|[link](https://github.com/ngoc-vien-dang/fairml-depression)|
+|**2023-04-16**|**Fairness And Bias in Artificial Intelligence: A Brief Survey of Sources, Impacts, And Mitigation Strategies**|Emilio Ferrara et.al.|[2304.07683v1](http://arxiv.org/abs/2304.07683v1)|null|
+|**2023-04-15**|**Detecting Out-of-Context Multimodal Misinformation with interpretable neural-symbolic model**|Yizhou Zhang et.al.|[2304.07633v1](http://arxiv.org/abs/2304.07633v1)|null|
+|**2023-04-14**|**Modeling Transient Changes in Circadian Rhythms**|Ziyu Zhao et.al.|[2304.07412v1](http://arxiv.org/abs/2304.07412v1)|null|
+|**2023-04-14**|**Spectroscopic follow-up of black hole and neutron star candidates in ellipsoidal variables from Gaia DR3**|Pranav Nagarajan et.al.|[2304.07324v1](http://arxiv.org/abs/2304.07324v1)|null|
+|**2023-04-14**|**Dynamic variable selection in high-dimensional predictive regressions**|Mauro Bernardi et.al.|[2304.07096v1](http://arxiv.org/abs/2304.07096v1)|null|
+|**2023-04-14**|**The Deep Latent Position Topic Model for Clustering and Representation of Networks with Textual Edges**|Rémi Boutin et.al.|[2304.08242v1](http://arxiv.org/abs/2304.08242v1)|null|
+|**2022-01-05**|**Problem-dependent attention and effort in neural networks with applications to image resolution and model selection**|Chris Rohlfs et.al.|[2201.01415v4](http://arxiv.org/abs/2201.01415v4)|null|
+|**2023-04-13**|**Priors for symbolic regression**|Deaglan J. Bartlett et.al.|[2304.06333v1](http://arxiv.org/abs/2304.06333v1)|[link](https://github.com/deaglanbartlett/katz)|
+|**2022-06-16**|**Identifying the Most Appropriate Order for Categorical Responses**|Tianmeng Wang et.al.|[2206.08235v2](http://arxiv.org/abs/2206.08235v2)|null|
+|**2020-11-27**|**Multiple change point detection under serial dependence: Wild contrast maximisation and gappy Schwarz algorithm**|Haeran Cho et.al.|[2011.13884v6](http://arxiv.org/abs/2011.13884v6)|[link](https://github.com/haeran-cho/wcm.gsa)|
+|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v2](http://arxiv.org/abs/2301.06058v2)|null|
+|**2023-04-12**|**Group projected Subspace Pursuit for Identification of variable coefficient differential equations (GP-IDENT)**|Yuchen He et.al.|[2304.05543v1](http://arxiv.org/abs/2304.05543v1)|null|
+|**2023-04-11**|**A Gaussian process cross-correlation approach to time delay estimation in active galactic nuclei**|F. Pozo Nuñez et.al.|[2304.05536v1](http://arxiv.org/abs/2304.05536v1)|null|
