@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-20 07:22:55 Asia/Shanghai
+ Automated deployment @ 2023-04-20 19:20:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-11**|**A Comprehensive Survey on Deep Graph Representation Learning**|Wei Ju et.al.|[2304.05055v2](http://arxiv.org/abs/2304.05055v2)|null|
+|**2023-04-19**|**AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks**|Shengrui Li et.al.|[2304.09595v1](http://arxiv.org/abs/2304.09595v1)|null|
+|**2022-11-21**|**Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**|Zixuan Xu et.al.|[2211.11191v4](http://arxiv.org/abs/2211.11191v4)|null|
+|**2023-04-19**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367v1](http://arxiv.org/abs/2304.09367v1)|null|
 |**2023-04-17**|**Inverse design of next-generation superconductors using data-driven deep generative models**|Daniel Wines et.al.|[2304.08446v2](http://arxiv.org/abs/2304.08446v2)|null|
 |**2023-04-18**|**Neural networks for geospatial data**|Wentao Zhan et.al.|[2304.09157v1](http://arxiv.org/abs/2304.09157v1)|null|
 |**2023-04-13**|**Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs**|Zhaoliang Chen et.al.|[2304.06336v2](http://arxiv.org/abs/2304.06336v2)|null|
@@ -27,32 +31,9 @@
 |**2023-04-18**|**NPS: A Framework for Accurate Program Sampling Using Graph Neural Network**|Yuanwei Fang et.al.|[2304.08880v1](http://arxiv.org/abs/2304.08880v1)|null|
 |**2023-04-18**|**Addressing Variable Dependency in GNN-based SAT Solving**|Zhiyuan Yan et.al.|[2304.08738v1](http://arxiv.org/abs/2304.08738v1)|null|
 |**2023-03-22**|**GrapeQA: GRaph Augmentation and Pruning to Enhance Question-Answering**|Dhaval Taunk et.al.|[2303.12320v2](http://arxiv.org/abs/2303.12320v2)|null|
-|**2023-04-17**|**TAP: A Comprehensive Data Repository for Traffic Accident Prediction in Road Networks**|Baixiang Huang et.al.|[2304.08640v1](http://arxiv.org/abs/2304.08640v1)|null|
-|**2023-04-17**|**GNN for Deep Full Event Interpretation and hierarchical reconstruction of heavy-hadron decays in proton-proton collisions**|Julián García Pardiñas et.al.|[2304.08610v1](http://arxiv.org/abs/2304.08610v1)|null|
-|**2021-11-29**|**Prediction of Large Magnetic Moment Materials With Graph Neural Networks and Random Forests**|Sékou-Oumar Kaba et.al.|[2111.14712v4](http://arxiv.org/abs/2111.14712v4)|null|
-|**2023-04-17**|**GrOVe: Ownership Verification of Graph Neural Networks using Embeddings**|Asim Waheed et.al.|[2304.08566v1](http://arxiv.org/abs/2304.08566v1)|null|
-|**2023-04-17**|**Stochastic Subgraph Neighborhood Pooling for Subgraph Classification**|Shweta Ann Jacob et.al.|[2304.08556v1](http://arxiv.org/abs/2304.08556v1)|null|
+|**2023-04-17**|**TAP: A Comprehensive Data Repository for Traffic Accident Prediction in Road Networks**|Baixiang Huang et.al.|[2304.08640v1](http://arxiv.org/abs/2304.08640v1)|[link](https://github.com/baixianghuang/travel)|
 
 ## Non-Euclidean Staistics
-
-### Frechet Mean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
-|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
-|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
-|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
-|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
-|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
-|**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
-|**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v1](http://arxiv.org/abs/2210.05509v1)|null|
-|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
-|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
-|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
-|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
-|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,11 +54,35 @@
 |**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2022-03-28**|**Conjugate Gradient Method for Generative Adversarial Networks**|Hiroki Naganuma et.al.|[2203.14495v3](http://arxiv.org/abs/2203.14495v3)|[link](https://github.com/hiroki11x/conjugategradient_gan)|
 
+### Frechet Mean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-02-22**|**Score-based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v1](http://arxiv.org/abs/2302.11410v1)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
+|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
+|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
+|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
+|**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
+|**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v1](http://arxiv.org/abs/2210.05509v1)|null|
+|**2020-10-06**|**Monitoring of functional profiles combining the notion of Fréchet mean and the framework of deformation models with application in ambient air pollution surveillance**|Georgios I. Papayiannis et.al.|[2010.02968v2](http://arxiv.org/abs/2010.02968v2)|null|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v1](http://arxiv.org/abs/2207.03943v1)|null|
+|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
+|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
+|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+|**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+|**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
+
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-19**|**An Offline Metric for the Debiasedness of Click Models**|Romain Deffayet et.al.|[2304.09560v1](http://arxiv.org/abs/2304.09560v1)|[link](https://github.com/philipphager/cmip)|
+|**2023-01-03**|**Binary black hole spins: model selection with GWTC-3**|Carole Périgois et.al.|[2301.01312v3](http://arxiv.org/abs/2301.01312v3)|[link](https://gitlab.com/micmap/mobse_open)|
+|**2023-03-05**|**Ensemble Reinforcement Learning: A Survey**|Yanjie Song et.al.|[2303.02618v2](http://arxiv.org/abs/2303.02618v2)|null|
+|**2023-04-18**|**The Adaptive $τ$-Lasso: Its Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v1](http://arxiv.org/abs/2304.09310v1)|null|
+|**2022-06-21**|**Photometric Redshift Uncertainties in Weak Gravitational Lensing Shear Analysis: Models and Marginalization**|Tianqing Zhang et.al.|[2206.10169v2](http://arxiv.org/abs/2206.10169v2)|null|
 |**2022-10-21**|**XAI for transparent wind turbine power curve models**|Simon Letzgus et.al.|[2210.12104v2](http://arxiv.org/abs/2210.12104v2)|null|
 |**2023-04-17**|**Cross or Wait? Predicting Pedestrian Interaction Outcomes at Unsignalized Crossings**|Chi Zhang et.al.|[2304.08260v1](http://arxiv.org/abs/2304.08260v1)|null|
 |**2022-11-10**|**Fairness and bias correction in machine learning for depression prediction: results from four different study populations**|Vien Ngoc Dang et.al.|[2211.05321v2](http://arxiv.org/abs/2211.05321v2)|[link](https://github.com/ngoc-vien-dang/fairml-depression)|
@@ -88,8 +93,3 @@
 |**2023-04-14**|**Dynamic variable selection in high-dimensional predictive regressions**|Mauro Bernardi et.al.|[2304.07096v1](http://arxiv.org/abs/2304.07096v1)|null|
 |**2023-04-14**|**The Deep Latent Position Topic Model for Clustering and Representation of Networks with Textual Edges**|Rémi Boutin et.al.|[2304.08242v1](http://arxiv.org/abs/2304.08242v1)|null|
 |**2022-01-05**|**Problem-dependent attention and effort in neural networks with applications to image resolution and model selection**|Chris Rohlfs et.al.|[2201.01415v4](http://arxiv.org/abs/2201.01415v4)|null|
-|**2023-04-13**|**Priors for symbolic regression**|Deaglan J. Bartlett et.al.|[2304.06333v1](http://arxiv.org/abs/2304.06333v1)|[link](https://github.com/deaglanbartlett/katz)|
-|**2022-06-16**|**Identifying the Most Appropriate Order for Categorical Responses**|Tianmeng Wang et.al.|[2206.08235v2](http://arxiv.org/abs/2206.08235v2)|null|
-|**2020-11-27**|**Multiple change point detection under serial dependence: Wild contrast maximisation and gappy Schwarz algorithm**|Haeran Cho et.al.|[2011.13884v6](http://arxiv.org/abs/2011.13884v6)|[link](https://github.com/haeran-cho/wcm.gsa)|
-|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v2](http://arxiv.org/abs/2301.06058v2)|null|
-|**2023-04-12**|**Group projected Subspace Pursuit for Identification of variable coefficient differential equations (GP-IDENT)**|Yuchen He et.al.|[2304.05543v1](http://arxiv.org/abs/2304.05543v1)|null|
