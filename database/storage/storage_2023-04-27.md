@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-04-27 07:23:43 Asia/Shanghai
+ Automated deployment @ 2023-04-27 19:19:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-02-02**|**Listen2Scene: Interactive material-aware binaural soundbpropagation for reconstructed 3D scenes**|Anton Ratnarajah et.al.|[2302.02809v2](http://arxiv.org/abs/2302.02809v2)|null|
+|**2023-01-04**|**Deep Statistical Solver for Distribution System State Estimation**|Benjamin Habib et.al.|[2301.01835v2](http://arxiv.org/abs/2301.01835v2)|[link](https://github.com/tu-delft-ai-energy-lab/deep-statistical-solver-for-distribution-system-state-estimation)|
+|**2023-04-04**|**The expressive power of pooling in Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2304.01575v2](http://arxiv.org/abs/2304.01575v2)|[link](https://github.com/filippomb/the-expressive-power-of-pooling-in-gnns)|
+|**2023-04-26**|**Long-Short-Range Message-Passing: A Physics-Informed Framework to Capture Non-Local Interaction for Scalable Molecular Dynamics Simulation**|Yunyang Li et.al.|[2304.13542v1](http://arxiv.org/abs/2304.13542v1)|null|
+|**2023-04-26**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532v1](http://arxiv.org/abs/2304.13532v1)|null|
+|**2022-04-06**|**Graph Neural Networks Designed for Different Graph Types: A Survey**|Josephine M. Thomas et.al.|[2204.03080v5](http://arxiv.org/abs/2204.03080v5)|null|
+|**2023-02-02**|**Listen2Scene: Interactive material-aware binaural sound propagation for reconstructed 3D scenes**|Anton Ratnarajah et.al.|[2302.02809v3](http://arxiv.org/abs/2302.02809v3)|null|
+|**2023-04-26**|**Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation**|Negar Nejatishahidin et.al.|[2304.13201v1](http://arxiv.org/abs/2304.13201v1)|null|
+|**2022-10-05**|**Efficient Learning of Mesh-Based Physical Simulation with BSMS-GNN**|Yadi Cao et.al.|[2210.02573v3](http://arxiv.org/abs/2210.02573v3)|[link](https://github.com/eydcao/bsms-gnn)|
+|**2022-02-27**|**Concept Graph Neural Networks for Surgical Video Understanding**|Yutong Ban et.al.|[2202.13402v2](http://arxiv.org/abs/2202.13402v2)|null|
 |**2022-11-25**|**GREAD: Graph Neural Reaction-Diffusion Networks**|Jeongwhan Choi et.al.|[2211.14208v2](http://arxiv.org/abs/2211.14208v2)|null|
 |**2023-04-25**|**Discovering Graph Generation Algorithms**|Mihai Babiac et.al.|[2304.12895v1](http://arxiv.org/abs/2304.12895v1)|null|
 |**2023-04-25**|**Node Feature Augmentation Vitaminizes Network Alignment**|Jin-Duk Park et.al.|[2304.12751v1](http://arxiv.org/abs/2304.12751v1)|null|
 |**2022-09-15**|**Artificial Intelligence in Material Engineering: A review on applications of AI in Material Engineering**|Lipichanda Goswami et.al.|[2209.11234v2](http://arxiv.org/abs/2209.11234v2)|null|
 |**2022-12-02**|**Relation-Aware Language-Graph Transformer for Question Answering**|Jinyoung Park et.al.|[2212.00975v2](http://arxiv.org/abs/2212.00975v2)|[link](https://github.com/mlvlab/qat)|
 |**2022-11-29**|**On the Ability of Graph Neural Networks to Model Interactions Between Vertices**|Noam Razin et.al.|[2211.16494v4](http://arxiv.org/abs/2211.16494v4)|[link](https://github.com/noamrazin/gnn_interactions)|
-|**2023-04-25**|**Performance Optimization using Multimodal Modeling and Heterogeneous GNN**|Akash Dutta et.al.|[2304.12568v1](http://arxiv.org/abs/2304.12568v1)|null|
-|**2023-04-25**|**GARCIA: Powering Representations of Long-tail Query with Multi-granularity Contrastive Learning**|Weifan Wang et.al.|[2304.12537v1](http://arxiv.org/abs/2304.12537v1)|null|
-|**2022-03-03**|**Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph**|Shuijing Liu et.al.|[2203.01821v4](http://arxiv.org/abs/2203.01821v4)|[link](https://github.com/shuijing725/crowdnav_sim2real_turtlebot)|
-|**2022-12-30**|**A Finite Element-Inspired Hypergraph Neural Network: Application to Fluid Dynamics Simulations**|Rui Gao et.al.|[2212.14545v2](http://arxiv.org/abs/2212.14545v2)|[link](https://github.com/garrygale/nodeelementmessagepassing)|
-|**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228v1](http://arxiv.org/abs/2304.12228v1)|null|
-|**2023-04-24**|**Impact-Oriented Contextual Scholar Profiling using Self-Citation Graphs**|Yuankai Luo et.al.|[2304.12217v1](http://arxiv.org/abs/2304.12217v1)|[link](https://github.com/visdata/geneticflow)|
-|**2022-12-07**|**PyGFI: Analyzing and Enhancing Robustness of Graph Neural Networks Against Hardware Errors**|Ruixuan Wang et.al.|[2212.03475v2](http://arxiv.org/abs/2212.03475v2)|null|
-|**2022-07-06**|**GraphCFC: A Directed Graph Based Cross-Modal Feature Complementation Approach for Multimodal Conversational Emotion Recognition**|Jiang Li et.al.|[2207.12261v3](http://arxiv.org/abs/2207.12261v3)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,7 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-30**|**Dynamic Feature Engineering and model selection methods for temporal tabular datasets with regime changes**|Thomas Wong et.al.|[2301.00790v2](http://arxiv.org/abs/2301.00790v2)|[link](https://github.com/thomaswong2022/numerai-benchmark)|
 |**2023-03-30**|**KOO approach for scalable variable selection problem in large-dimensional regression**|Zhidong Bai et.al.|[2303.17230v2](http://arxiv.org/abs/2303.17230v2)|null|
 |**2023-04-24**|**Sparse Private LASSO Logistic Regression**|Amol Khanna et.al.|[2304.12429v1](http://arxiv.org/abs/2304.12429v1)|null|
 |**2023-04-24**|**Uni-QSAR: an Auto-ML Tool for Molecular Property Prediction**|Zhifeng Gao et.al.|[2304.12239v1](http://arxiv.org/abs/2304.12239v1)|null|
@@ -92,4 +93,3 @@
 |**2023-04-20**|**E Pluribus Unum: Guidelines on Multi-Objective Evaluation of Recommender Systems**|Patrick John Chia et.al.|[2304.10621v1](http://arxiv.org/abs/2304.10621v1)|[link](https://github.com/reclist/e-pluribus-unum-evalrs-2022)|
 |**2023-04-20**|**Efficient Deep Reinforcement Learning Requires Regulating Overfitting**|Qiyang Li et.al.|[2304.10466v1](http://arxiv.org/abs/2304.10466v1)|null|
 |**2022-12-21**|**Automated identification of linear viscoelastic constitutive laws with EUCLID**|Enzo Marino et.al.|[2212.10969v2](http://arxiv.org/abs/2212.10969v2)|null|
-|**2022-07-08**|**Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**|Shunyu Liu et.al.|[2207.03902v3](http://arxiv.org/abs/2207.03902v3)|[link](https://github.com/liushunyu/opt)|
