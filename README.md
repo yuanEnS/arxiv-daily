@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-10 07:22:45 Asia/Shanghai
+ Automated deployment @ 2023-05-10 19:19:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: an application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v1](http://arxiv.org/abs/2305.05640v1)|[link](https://github.com/ibm/hspo-ontology)|
+|**2023-05-09**|**Deep Learning and Geometric Deep Learning: an introduction for mathematicians and physicists**|R. Fioresi et.al.|[2305.05601v1](http://arxiv.org/abs/2305.05601v1)|null|
+|**2021-12-20**|**Lifelong Learning on Evolving Graphs Under the Constraints of Imbalanced Classes and New Classes**|Lukas Galke et.al.|[2112.10558v2](http://arxiv.org/abs/2112.10558v2)|[link](https://github.com/lgalke/lifelong-learning)|
+|**2023-05-09**|**Graph Neural Networks for Airfoil Design**|Florent Bonnet et.al.|[2305.05469v1](http://arxiv.org/abs/2305.05469v1)|null|
+|**2022-03-08**|**Reinforced MOOCs Concept Recommendation in Heterogeneous Information Networks**|Jibing Gong et.al.|[2203.11011v3](http://arxiv.org/abs/2203.11011v3)|null|
+|**2023-05-09**|**PLM-GNN: A Webpage Classification Method based on Joint Pre-trained Language Model and Graph Neural Network**|Qiwei Lang et.al.|[2305.05378v1](http://arxiv.org/abs/2305.05378v1)|null|
+|**2023-05-09**|**GNNs,You can be Stronger,Deeper and Faster**|Jingbo Zhou et.al.|[2305.05368v1](http://arxiv.org/abs/2305.05368v1)|null|
+|**2023-05-09**|**Turning Privacy-preserving Mechanisms against Federated Learning**|Marco Arazzi et.al.|[2305.05355v1](http://arxiv.org/abs/2305.05355v1)|null|
+|**2023-05-09**|**Graph Neural Network-based surrogate model for granular flows**|Yongjin Choi et.al.|[2305.05218v1](http://arxiv.org/abs/2305.05218v1)|null|
+|**2023-05-08**|**Graph Masked Autoencoder for Sequential Recommendation**|Yaowen Ye et.al.|[2305.04619v2](http://arxiv.org/abs/2305.04619v2)|[link](https://github.com/hkuds/maerec)|
+|**2023-05-09**|**Cooperating Graph Neural Networks with Deep Reinforcement Learning for Vaccine Prioritization**|Lu Ling et.al.|[2305.05163v1](http://arxiv.org/abs/2305.05163v1)|null|
+|**2022-10-22**|**Boosting the Cycle Counting Power of Graph Neural Networks with I$^2$-GNNs**|Yinan Huang et.al.|[2210.13978v3](http://arxiv.org/abs/2210.13978v3)|[link](https://github.com/graphpku/i2gnn)|
+|**2023-05-08**|**From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks**|Cai Zhou et.al.|[2305.04963v1](http://arxiv.org/abs/2305.04963v1)|null|
 |**2023-05-08**|**Anticipatory Planning: Improving Long-Lived Planning by Estimating Expected Cost of Future Tasks**|Roshan Dhakal et.al.|[2305.04692v1](http://arxiv.org/abs/2305.04692v1)|null|
-|**2023-05-08**|**Graph Masked Autoencoder for Sequential Recommendation**|Yaowen Ye et.al.|[2305.04619v1](http://arxiv.org/abs/2305.04619v1)|[link](https://github.com/hkuds/gmrec)|
 |**2023-05-08**|**Can graph neural network-based detection mitigate the impact of hardware imperfections?**|Lamprini Mitsiou et.al.|[2305.04612v1](http://arxiv.org/abs/2305.04612v1)|null|
-|**2023-04-16**|**Towards Better Evaluation of GNN Expressiveness with BREC Dataset**|Yanbo Wang et.al.|[2304.07702v2](http://arxiv.org/abs/2304.07702v2)|[link](https://github.com/graphpku/brec)|
-|**2023-03-23**|**Unbinned Deep Learning Jet Substructure Measurement in High $Q^2$ ep collisions at HERA**|The H1 collaboration et.al.|[2303.13620v2](http://arxiv.org/abs/2303.13620v2)|null|
-|**2023-05-08**|**Language Independent Neuro-Symbolic Semantic Parsing for Form Understanding**|Bhanu Prakash Voutharoja et.al.|[2305.04460v1](http://arxiv.org/abs/2305.04460v1)|[link](https://github.com/bhanu068/lagnn)|
-|**2023-02-24**|**PaGE-Link: Path-based Graph Neural Network Explanation for Heterogeneous Link Prediction**|Shichang Zhang et.al.|[2302.12465v3](http://arxiv.org/abs/2302.12465v3)|[link](https://github.com/amazon-science/page-link-path-based-gnn-explanation)|
-|**2023-05-04**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759v2](http://arxiv.org/abs/2305.02759v2)|[link](https://github.com/hkuds/dccf)|
-|**2023-05-07**|**HIORE: Leveraging High-order Interactions for Unified Entity Relation Extraction**|Yijun Wang et.al.|[2305.04297v1](http://arxiv.org/abs/2305.04297v1)|null|
-|**2023-02-02**|**Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities**|Antonio Longa et.al.|[2302.01018v3](http://arxiv.org/abs/2302.01018v3)|null|
-|**2023-05-07**|**Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification**|Guang Yang et.al.|[2305.04228v1](http://arxiv.org/abs/2305.04228v1)|[link](https://github.com/qiankunmu/hdhgn)|
-|**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786v2](http://arxiv.org/abs/2303.05786v2)|null|
-|**2023-05-07**|**LSGNN: Towards General Graph Neural Network in Node Classification by Local Similarity**|Yuhan Chen et.al.|[2305.04225v1](http://arxiv.org/abs/2305.04225v1)|[link](https://github.com/draym28/lsgnn)|
-|**2023-05-06**|**Rhetorical Role Labeling of Legal Documents using Transformers and Graph Neural Networks**|Anshika Gupta et.al.|[2305.04100v1](http://arxiv.org/abs/2305.04100v1)|null|
-|**2023-04-16**|**H2CGL: Modeling Dynamics of Citation Network for Impact Prediction**|Guoxiu He et.al.|[2305.01572v2](http://arxiv.org/abs/2305.01572v2)|[link](https://github.com/ecnu-text-computing/h2cgl)|
 
 ## Non-Euclidean Staistics
 
@@ -78,18 +78,18 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-09**|**On near-redundancy and identifiability of parametric hazard regression models under censoring**|F. J. Rubio et.al.|[2305.05641v1](http://arxiv.org/abs/2305.05641v1)|null|
+|**2023-05-05**|**Calibration Assessment and Boldness-Recalibration for Binary Events**|Adeline P. Guthrie et.al.|[2305.03780v2](http://arxiv.org/abs/2305.03780v2)|null|
+|**2023-01-17**|**The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks**|Luca Marzari et.al.|[2301.07068v2](http://arxiv.org/abs/2301.07068v2)|null|
+|**2022-03-23**|**Treatment Effect Estimation with Efficient Data Aggregation**|Snigdha Panigrahi et.al.|[2203.12726v2](http://arxiv.org/abs/2203.12726v2)|null|
 |**2022-03-08**|**Nonlinear Isometric Manifold Learning for Injective Normalizing Flows**|Eike Cramer et.al.|[2203.03934v2](http://arxiv.org/abs/2203.03934v2)|null|
 |**2023-05-08**|**AutoEIS: automated Bayesian model selection and analysis for electrochemical impedance spectroscopy**|Runze Zhang et.al.|[2305.04841v1](http://arxiv.org/abs/2305.04841v1)|null|
 |**2023-05-08**|**Exploring departures from Schwarzschild black hole geometry in $f(R)$ gravity**|Vittorio De Falco et.al.|[2305.04695v1](http://arxiv.org/abs/2305.04695v1)|null|
 |**2021-06-07**|**Encoding-dependent generalization bounds for parametrized quantum circuits**|Matthias C. Caro et.al.|[2106.03880v3](http://arxiv.org/abs/2106.03880v3)|null|
 |**2023-05-07**|**Provable Identifiability of Two-Layer ReLU Neural Networks via LASSO Regularization**|Gen Li et.al.|[2305.04267v1](http://arxiv.org/abs/2305.04267v1)|null|
 |**2022-11-04**|**Data Models for Dataset Drift Controls in Machine Learning With Optical Images**|Luis Oala et.al.|[2211.02578v3](http://arxiv.org/abs/2211.02578v3)|[link](https://github.com/aiaudit-org/raw2logit)|
-|**2023-05-05**|**Calibration Assessment and Boldness-Recalibration for Binary Events**|Adeline P. Guthrie et.al.|[2305.03780v1](http://arxiv.org/abs/2305.03780v1)|null|
 |**2022-09-16**|**Sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Alexander C. McLain et.al.|[2209.08139v4](http://arxiv.org/abs/2209.08139v4)|null|
 |**2022-03-15**|**ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data**|Mohamed Ragab et.al.|[2203.08321v2](http://arxiv.org/abs/2203.08321v2)|[link](https://github.com/emadeldeen24/adatime)|
 |**2023-05-05**|**Sparsifying Bayesian neural networks with latent binary variables and normalizing flows**|Lars Skaaret-Lund et.al.|[2305.03395v1](http://arxiv.org/abs/2305.03395v1)|[link](https://github.com/larselund/sparsifying-bnns-with-lrt-and-nf)|
 |**2021-06-09**|**CaloFlow: Fast and Accurate Generation of Calorimeter Showers with Normalizing Flows**|Claudius Krause et.al.|[2106.05285v3](http://arxiv.org/abs/2106.05285v3)|[link](https://gitlab.com/claudius-krause/caloflow)|
 |**2023-05-04**|**Quantile Importance Sampling**|Jyotishka Datta et.al.|[2305.03158v1](http://arxiv.org/abs/2305.03158v1)|null|
-|**2023-05-03**|**fairml: A Statistician's Take on Fair Machine Learning Modelling**|Marco Scutari et.al.|[2305.02009v1](http://arxiv.org/abs/2305.02009v1)|null|
-|**2023-04-21**|**Auditing and Generating Synthetic Data with Controllable Trust Trade-offs**|Brian Belgodere et.al.|[2304.10819v2](http://arxiv.org/abs/2304.10819v2)|null|
-|**2023-05-02**|**Slow Kill for Big Data Learning**|Yiyuan She et.al.|[2305.01726v1](http://arxiv.org/abs/2305.01726v1)|null|
