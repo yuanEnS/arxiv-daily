@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-14 07:21:32 Asia/Shanghai
+ Automated deployment @ 2023-05-14 19:18:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -78,7 +78,7 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-01-30**|**Mixed-type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v2](http://arxiv.org/abs/2201.12839v2)|null|
+|**2022-01-30**|**Mixed-type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v2](http://arxiv.org/abs/2201.12839v2)|[link](https://github.com/raybai07/mtmbsp)|
 |**2023-04-19**|**An Offline Metric for the Debiasedness of Click Models**|Romain Deffayet et.al.|[2304.09560v2](http://arxiv.org/abs/2304.09560v2)|[link](https://github.com/philipphager/cmip)|
 |**2022-06-27**|**Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift**|Christina Baek et.al.|[2206.13089v2](http://arxiv.org/abs/2206.13089v2)|[link](https://github.com/kebaek/agreement-on-the-line)|
 |**2023-05-10**|**Occam Factor for Random Graphs: Erdös-Rènyi, Independent Edge, and a Uniparametric Stochastic Blockmodel**|Tianyu Wang et.al.|[2305.06465v1](http://arxiv.org/abs/2305.06465v1)|null|
