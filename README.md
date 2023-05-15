@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-15 07:22:21 Asia/Shanghai
+ Automated deployment @ 2023-05-15 19:19:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-13**|**Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715v2](http://arxiv.org/abs/2304.06715v2)|[link](https://github.com/jonathancrabbe/robustxai)|
+|**2023-05-12**|**Fisher Information Embedding for Node and Graph Learning**|Dexiong Chen et.al.|[2305.07580v1](http://arxiv.org/abs/2305.07580v1)|null|
+|**2023-05-12**|**Knowledge Soft Integration for Multimodal Recommendation**|Kai Ouyang et.al.|[2305.07419v1](http://arxiv.org/abs/2305.07419v1)|null|
+|**2023-05-12**|**A Multidimensional Graph Fourier Transformation Neural Network for Vehicle Trajectory Prediction**|Marion Neumeier et.al.|[2305.07416v1](http://arxiv.org/abs/2305.07416v1)|null|
+|**2023-05-10**|**Search for the UGLE Truth: An Investigation into Unsupervised GNN Learning Environments**|Will Leeney et.al.|[2305.06026v2](http://arxiv.org/abs/2305.06026v2)|null|
+|**2023-05-10**|**Active Semantic Localization with Graph Neural Embedding**|Mitsuki Yoshida et.al.|[2305.06141v2](http://arxiv.org/abs/2305.06141v2)|null|
+|**2023-05-12**|**Learning to Code on Graphs for Topological Interference Management**|Zhiwei Shan et.al.|[2305.07186v1](http://arxiv.org/abs/2305.07186v1)|null|
+|**2023-05-11**|**Graph Neural Network for Accurate and Low-complexity SAR ATR**|Bingyi Zhang et.al.|[2305.07119v1](http://arxiv.org/abs/2305.07119v1)|null|
+|**2023-05-11**|**$\mathrm{E}(n)$ Equivariant Message Passing Simplicial Networks**|Floor Eijkelboom et.al.|[2305.07100v1](http://arxiv.org/abs/2305.07100v1)|null|
 |**2023-05-11**|**A Generic Approach to Integrating Time into Spatial-Temporal Forecasting via Conditional Neural Fields**|Minh-Thanh Bui et.al.|[2305.06827v1](http://arxiv.org/abs/2305.06827v1)|null|
 |**2021-08-10**|**Maximizing Influence with Graph Neural Networks**|George Panagopoulos et.al.|[2108.04623v5](http://arxiv.org/abs/2108.04623v5)|null|
 |**2023-05-11**|**PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training**|Sichun Luo et.al.|[2305.06622v1](http://arxiv.org/abs/2305.06622v1)|null|
 |**2023-05-11**|**How Expressive are Spectral-Temporal Graph Neural Networks for Time Series Forecasting?**|Ming Jin et.al.|[2305.06587v1](http://arxiv.org/abs/2305.06587v1)|null|
 |**2022-09-16**|**On the Robustness of Graph Neural Diffusion to Topology Perturbations**|Yang Song et.al.|[2209.07754v2](http://arxiv.org/abs/2209.07754v2)|[link](https://github.com/zknus/robustness-of-graph-neural-diffusion)|
 |**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477v1](http://arxiv.org/abs/2305.06477v1)|null|
-|**2023-05-10**|**Dynamic Graph Representation Learning for Depression Screening with Transformer**|Ai-Te Kuo et.al.|[2305.06447v1](http://arxiv.org/abs/2305.06447v1)|null|
-|**2023-05-10**|**Towards Scalable Adaptive Learning with Graph Neural Networks and Reinforcement Learning**|Jean Vassoyan et.al.|[2305.06398v1](http://arxiv.org/abs/2305.06398v1)|[link](https://github.com/jvasso/graph-rl4adaptive-learning)|
-|**2023-05-10**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294v1](http://arxiv.org/abs/2305.06294v1)|null|
-|**2023-05-07**|**Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification**|Guang Yang et.al.|[2305.04228v2](http://arxiv.org/abs/2305.04228v2)|[link](https://github.com/qiankunmu/hdhgn)|
-|**2023-05-10**|**Feature Expansion for Graph Neural Networks**|Jiaqi Sun et.al.|[2305.06142v1](http://arxiv.org/abs/2305.06142v1)|null|
-|**2023-05-10**|**Active Semantic Localization with Graph Neural Embedding**|Mitsuki Yoshida et.al.|[2305.06141v1](http://arxiv.org/abs/2305.06141v1)|null|
-|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v2](http://arxiv.org/abs/2305.05640v2)|[link](https://github.com/ibm/hspo-ontology)|
-|**2023-05-10**|**Search for the UGLE Truth: An Investigation into Unsupervised GNN Learning Environments**|Will Leeney et.al.|[2305.06026v1](http://arxiv.org/abs/2305.06026v1)|null|
-|**2023-05-10**|**Graph Neural Networks and 3-Dimensional Topology**|Pavel Putrov et.al.|[2305.05966v1](http://arxiv.org/abs/2305.05966v1)|[link](https://github.com/songjin91/learningplumbings)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-12**|**Smoothed empirical likelihood estimation and automatic variable selection for an expectile high-dimensional model with possibly missing response variable**|Gabriela Ciuperca et.al.|[2305.07599v1](http://arxiv.org/abs/2305.07599v1)|null|
+|**2023-05-12**|**Distribution free MMD tests for model selection with estimated parameters**|Florian Brück et.al.|[2305.07549v1](http://arxiv.org/abs/2305.07549v1)|null|
+|**2020-05-08**|**Dynamic Shrinkage Priors for Large Time-varying Parameter Regressions using Scalable Markov Chain Monte Carlo Methods**|Niko Hauzenberger et.al.|[2005.03906v2](http://arxiv.org/abs/2005.03906v2)|null|
+|**2022-06-02**|**Bayesian high-dimensional covariate selection in non-linear mixed-effects models using the SAEM algorithm**|Marion Naveau et.al.|[2206.01012v3](http://arxiv.org/abs/2206.01012v3)|[link](https://github.com/marion-naveau/supp_information_saemvs)|
+|**2023-05-12**|**multilevLCA: An R Package for Single-Level and Multilevel Latent Class Analysis with Covariates**|Johan Lyrvall et.al.|[2305.07276v1](http://arxiv.org/abs/2305.07276v1)|null|
+|**2022-01-30**|**Mixed-type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v2](http://arxiv.org/abs/2201.12839v2)|[link](https://github.com/raybai07/mtmbsp)|
+|**2023-05-11**|**Sequential Experimental Design for Spectral Measurement: Active Learning Using a Parametric Model**|Tomohiro Nabika et.al.|[2305.07040v1](http://arxiv.org/abs/2305.07040v1)|null|
+|**2023-04-19**|**An Offline Metric for the Debiasedness of Click Models**|Romain Deffayet et.al.|[2304.09560v2](http://arxiv.org/abs/2304.09560v2)|[link](https://github.com/philipphager/cmip)|
+|**2022-06-27**|**Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift**|Christina Baek et.al.|[2206.13089v2](http://arxiv.org/abs/2206.13089v2)|[link](https://github.com/kebaek/agreement-on-the-line)|
+|**2023-05-10**|**Occam Factor for Random Graphs: Erdös-Rènyi, Independent Edge, and a Uniparametric Stochastic Blockmodel**|Tianyu Wang et.al.|[2305.06465v1](http://arxiv.org/abs/2305.06465v1)|null|
+|**2023-05-10**|**Flexible cost-penalized Bayesian model selection: developing inclusion paths with an application to diagnosis of heart disease**|Erica M. Porter et.al.|[2305.06262v1](http://arxiv.org/abs/2305.06262v1)|null|
+|**2023-05-09**|**Ranking & Reweighting Improves Group Distributional Robustness**|Yachuan Liu et.al.|[2305.05759v1](http://arxiv.org/abs/2305.05759v1)|null|
+|**2023-05-09**|**Robust Model Selection with Application in Single-Cell Multiomics Data**|Zhanrui Cai et.al.|[2305.05714v1](http://arxiv.org/abs/2305.05714v1)|null|
+|**2023-05-09**|**On near-redundancy and identifiability of parametric hazard regression models under censoring**|F. J. Rubio et.al.|[2305.05641v1](http://arxiv.org/abs/2305.05641v1)|[link](https://github.com/fjrubio67/nrpnisurv)|
+|**2023-05-05**|**Calibration Assessment and Boldness-Recalibration for Binary Events**|Adeline P. Guthrie et.al.|[2305.03780v2](http://arxiv.org/abs/2305.03780v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +78,8 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-12**|**Spider GAN: Leveraging Friendly Neighbors to Accelerate GAN Training**|Siddarth Asokan et.al.|[2305.07613v1](http://arxiv.org/abs/2305.07613v1)|null|
+|**2021-11-09**|**Ideal approach to convergence in functional spaces**|Serhii Bardyla et.al.|[2111.05049v3](http://arxiv.org/abs/2111.05049v3)|null|
 |**2023-02-19**|**The Fréchet derivative of the tensor t-function**|Kathryn Lund et.al.|[2302.09687v2](http://arxiv.org/abs/2302.09687v2)|[link](https://gitlab.com/katlund/t-frechet)|
 |**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v2](http://arxiv.org/abs/2207.03943v2)|null|
 |**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v1](http://arxiv.org/abs/2305.02501v1)|null|
@@ -70,26 +93,3 @@
 |**2023-03-27**|**Normalized centered moments of the Fréchet extreme-value distribution and inference of its parameter**|Jean-Christophe Pain et.al.|[2303.15572v1](http://arxiv.org/abs/2303.15572v1)|null|
 |**2023-03-23**|**Kullback-Leibler divergence for the Fréchet extreme-value distribution**|Jean-Christophe Pain et.al.|[2303.13153v2](http://arxiv.org/abs/2303.13153v2)|null|
 |**2020-02-26**|**Fréchet Modules and Descent**|Oren Ben-Bassat et.al.|[2002.11608v6](http://arxiv.org/abs/2002.11608v6)|null|
-|**2021-08-13**|**Fréchet single index models for object response regression**|Aritra Ghosal et.al.|[2108.06058v2](http://arxiv.org/abs/2108.06058v2)|null|
-|**2022-11-12**|**MARLIN: Masked Autoencoder for facial video Representation LearnINg**|Zhixi Cai et.al.|[2211.06627v3](http://arxiv.org/abs/2211.06627v3)|[link](https://github.com/ControlNet/MARLIN)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-01-30**|**Mixed-type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v2](http://arxiv.org/abs/2201.12839v2)|[link](https://github.com/raybai07/mtmbsp)|
-|**2023-04-19**|**An Offline Metric for the Debiasedness of Click Models**|Romain Deffayet et.al.|[2304.09560v2](http://arxiv.org/abs/2304.09560v2)|[link](https://github.com/philipphager/cmip)|
-|**2022-06-27**|**Agreement-on-the-Line: Predicting the Performance of Neural Networks under Distribution Shift**|Christina Baek et.al.|[2206.13089v2](http://arxiv.org/abs/2206.13089v2)|[link](https://github.com/kebaek/agreement-on-the-line)|
-|**2023-05-10**|**Occam Factor for Random Graphs: Erdös-Rènyi, Independent Edge, and a Uniparametric Stochastic Blockmodel**|Tianyu Wang et.al.|[2305.06465v1](http://arxiv.org/abs/2305.06465v1)|null|
-|**2023-05-10**|**Flexible cost-penalized Bayesian model selection: developing inclusion paths with an application to diagnosis of heart disease**|Erica M. Porter et.al.|[2305.06262v1](http://arxiv.org/abs/2305.06262v1)|null|
-|**2023-05-09**|**Ranking & Reweighting Improves Group Distributional Robustness**|Yachuan Liu et.al.|[2305.05759v1](http://arxiv.org/abs/2305.05759v1)|null|
-|**2023-05-09**|**Robust Model Selection with Application in Single-Cell Multiomics Data**|Zhanrui Cai et.al.|[2305.05714v1](http://arxiv.org/abs/2305.05714v1)|null|
-|**2023-05-09**|**On near-redundancy and identifiability of parametric hazard regression models under censoring**|F. J. Rubio et.al.|[2305.05641v1](http://arxiv.org/abs/2305.05641v1)|[link](https://github.com/fjrubio67/nrpnisurv)|
-|**2023-05-05**|**Calibration Assessment and Boldness-Recalibration for Binary Events**|Adeline P. Guthrie et.al.|[2305.03780v2](http://arxiv.org/abs/2305.03780v2)|null|
-|**2023-01-17**|**The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks**|Luca Marzari et.al.|[2301.07068v2](http://arxiv.org/abs/2301.07068v2)|null|
-|**2022-03-23**|**Treatment Effect Estimation with Efficient Data Aggregation**|Snigdha Panigrahi et.al.|[2203.12726v2](http://arxiv.org/abs/2203.12726v2)|null|
-|**2022-03-08**|**Nonlinear Isometric Manifold Learning for Injective Normalizing Flows**|Eike Cramer et.al.|[2203.03934v2](http://arxiv.org/abs/2203.03934v2)|null|
-|**2023-05-08**|**AutoEIS: automated Bayesian model selection and analysis for electrochemical impedance spectroscopy**|Runze Zhang et.al.|[2305.04841v1](http://arxiv.org/abs/2305.04841v1)|null|
-|**2023-05-08**|**Exploring departures from Schwarzschild black hole geometry in $f(R)$ gravity**|Vittorio De Falco et.al.|[2305.04695v1](http://arxiv.org/abs/2305.04695v1)|null|
-|**2021-06-07**|**Encoding-dependent generalization bounds for parametrized quantum circuits**|Matthias C. Caro et.al.|[2106.03880v3](http://arxiv.org/abs/2106.03880v3)|null|
