@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-28 07:21:52 Asia/Shanghai
+ Automated deployment @ 2023-05-28 19:18:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2023-01-31**|**Semi-Supervised Classification with Graph Convolutional Kernel Machines**|Sonny Achten et.al.|[2301.13764v2](http://arxiv.org/abs/2301.13764v2)|null|
 |**2023-05-25**|**IDEA: Invariant Causal Defense for Graph Adversarial Robustness**|Shuchang Tao et.al.|[2305.15792v1](http://arxiv.org/abs/2305.15792v1)|null|
 |**2023-01-14**|**State of the Art and Potentialities of Graph-level Learning**|Zhenyu Yang et.al.|[2301.05860v3](http://arxiv.org/abs/2301.05860v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|null|
-|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v2](http://arxiv.org/abs/2302.07415v2)|null|
-|**2023-05-25**|**Learning and accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v1](http://arxiv.org/abs/2305.15920v1)|null|
-|**2023-05-25**|**Fractional Polynomials Models as Special Cases of Bayesian Generalized Nonlinear Models**|Aliaksandr Hubin et.al.|[2305.15903v1](http://arxiv.org/abs/2305.15903v1)|null|
-|**2023-02-16**|**Linear Bandits with Memory: from Rotting to Rising**|Giulia Clerici et.al.|[2302.08345v2](http://arxiv.org/abs/2302.08345v2)|null|
-|**2023-05-24**|**Post-model-selection prediction for GLM's**|Dean Dustin et.al.|[2305.15579v1](http://arxiv.org/abs/2305.15579v1)|null|
-|**2023-05-08**|**AutoEIS: automated Bayesian model selection and analysis for electrochemical impedance spectroscopy**|Runze Zhang et.al.|[2305.04841v2](http://arxiv.org/abs/2305.04841v2)|null|
-|**2023-05-24**|**Improving selective classification performance of deep neural networks through post-hoc logit normalization and temperature scaling**|Luís Felipe P. Cattelan et.al.|[2305.15508v1](http://arxiv.org/abs/2305.15508v1)|null|
-|**2023-05-23**|**Cost-aware learning of relevant contextual variables within Bayesian optimization**|Julien Martinelli et.al.|[2305.14120v2](http://arxiv.org/abs/2305.14120v2)|null|
-|**2023-05-24**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v1](http://arxiv.org/abs/2305.15342v1)|[link](https://github.com/melinaverger/madd)|
-|**2023-05-24**|**Rethinking the Evaluation Protocol of Domain Generalization**|Han Yu et.al.|[2305.15253v1](http://arxiv.org/abs/2305.15253v1)|null|
-|**2021-08-25**|**Double Machine Learning and Automated Confounder Selection -- A Cautionary Tale**|Paul Hünermund et.al.|[2108.11294v4](http://arxiv.org/abs/2108.11294v4)|null|
-|**2023-05-23**|**Automatic Model Selection with Large Language Models for Reasoning**|Xu Zhao et.al.|[2305.14333v1](http://arxiv.org/abs/2305.14333v1)|[link](https://github.com/xuzhao0/model-selection-reasoning)|
-|**2023-05-23**|**Clustering Indices based Automatic Classification Model Selection**|Sudarsun Santhiappan et.al.|[2305.13926v1](http://arxiv.org/abs/2305.13926v1)|[link](https://github.com/buddi-ai/ciams)|
-|**2023-02-23**|**Change is Hard: A Closer Look at Subpopulation Shift**|Yuzhe Yang et.al.|[2302.12254v2](http://arxiv.org/abs/2302.12254v2)|[link](https://github.com/yyzharry/subpopbench)|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|null|
+|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v2](http://arxiv.org/abs/2302.07415v2)|null|
+|**2023-05-25**|**Learning and accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v1](http://arxiv.org/abs/2305.15920v1)|null|
+|**2023-05-25**|**Fractional Polynomials Models as Special Cases of Bayesian Generalized Nonlinear Models**|Aliaksandr Hubin et.al.|[2305.15903v1](http://arxiv.org/abs/2305.15903v1)|null|
+|**2023-02-16**|**Linear Bandits with Memory: from Rotting to Rising**|Giulia Clerici et.al.|[2302.08345v2](http://arxiv.org/abs/2302.08345v2)|null|
+|**2023-05-24**|**Post-model-selection prediction for GLM's**|Dean Dustin et.al.|[2305.15579v1](http://arxiv.org/abs/2305.15579v1)|null|
+|**2023-05-08**|**AutoEIS: automated Bayesian model selection and analysis for electrochemical impedance spectroscopy**|Runze Zhang et.al.|[2305.04841v2](http://arxiv.org/abs/2305.04841v2)|null|
+|**2023-05-24**|**Improving selective classification performance of deep neural networks through post-hoc logit normalization and temperature scaling**|Luís Felipe P. Cattelan et.al.|[2305.15508v1](http://arxiv.org/abs/2305.15508v1)|null|
+|**2023-05-23**|**Cost-aware learning of relevant contextual variables within Bayesian optimization**|Julien Martinelli et.al.|[2305.14120v2](http://arxiv.org/abs/2305.14120v2)|null|
+|**2023-05-24**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v1](http://arxiv.org/abs/2305.15342v1)|[link](https://github.com/melinaverger/madd)|
+|**2023-05-24**|**Rethinking the Evaluation Protocol of Domain Generalization**|Han Yu et.al.|[2305.15253v1](http://arxiv.org/abs/2305.15253v1)|null|
+|**2021-08-25**|**Double Machine Learning and Automated Confounder Selection -- A Cautionary Tale**|Paul Hünermund et.al.|[2108.11294v4](http://arxiv.org/abs/2108.11294v4)|null|
+|**2023-05-23**|**Automatic Model Selection with Large Language Models for Reasoning**|Xu Zhao et.al.|[2305.14333v1](http://arxiv.org/abs/2305.14333v1)|[link](https://github.com/xuzhao0/model-selection-reasoning)|
+|**2023-05-23**|**Clustering Indices based Automatic Classification Model Selection**|Sudarsun Santhiappan et.al.|[2305.13926v1](http://arxiv.org/abs/2305.13926v1)|[link](https://github.com/buddi-ai/ciams)|
+|**2023-02-23**|**Change is Hard: A Closer Look at Subpopulation Shift**|Yuzhe Yang et.al.|[2302.12254v2](http://arxiv.org/abs/2302.12254v2)|[link](https://github.com/yyzharry/subpopbench)|
