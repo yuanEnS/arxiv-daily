@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-05-31 07:21:42 Asia/Shanghai
+ Automated deployment @ 2023-05-31 19:18:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-05-29**|**GazeGNN: A Gaze-Guided Graph Neural Network for Disease Classification**|Bin Wang et.al.|[2305.18221v1](http://arxiv.org/abs/2305.18221v1)|null|
-|**2020-10-27**|**Branchy-GNN: a Device-Edge Co-Inference Framework for Efficient Point Cloud Processing**|Jiawei Shao et.al.|[2011.02422v2](http://arxiv.org/abs/2011.02422v2)|[link](https://github.com/shaojiawei07/Branchy-GNN)|
-|**2022-12-11**|**Efficient Relation-aware Neighborhood Aggregation in Graph Neural Networks via Tensor Decomposition**|Peyman Baghershahi et.al.|[2212.05581v3](http://arxiv.org/abs/2212.05581v3)|null|
-|**2023-05-29**|**On the Correspondence Between Monotonic Max-Sum GNNs and Datalog**|David Tena Cucala et.al.|[2305.18015v1](http://arxiv.org/abs/2305.18015v1)|null|
-|**2022-11-11**|**GCondNet: A Novel Method for Improving Neural Networks on Small High-Dimensional Tabular Data**|Andrei Margeloiu et.al.|[2211.06302v2](http://arxiv.org/abs/2211.06302v2)|null|
-|**2023-05-29**|**Convolutional neural network based on sparse graph attention mechanism for MRI super-resolution**|Xin Hua et.al.|[2305.17898v1](http://arxiv.org/abs/2305.17898v1)|null|
-|**2022-10-25**|**Motif-Backdoor: Rethinking the Backdoor Attack on Graph Neural Networks via Motifs**|Haibin Zheng et.al.|[2210.13710v2](http://arxiv.org/abs/2210.13710v2)|null|
-|**2023-02-02**|**Inductive Link Prediction for Both New Nodes and New Relation Types via Double Equivariance**|Jianfei Gao et.al.|[2302.01313v5](http://arxiv.org/abs/2302.01313v5)|null|
-|**2023-05-24**|**Multi-State RNA Design with Geometric Multi-Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2305.14749v3](http://arxiv.org/abs/2305.14749v3)|[link](https://github.com/chaitjo/geometric-rna-design)|
-|**2022-09-14**|**MGG: Accelerating Graph Neural Networks with Fine-grained intra-kernel Communication-Computation Pipelining on Multi-GPU Platforms**|Yuke Wang et.al.|[2209.06800v2](http://arxiv.org/abs/2209.06800v2)|[link](https://github.com/YukeWang96/MGG-OSDI23-AE)|
-|**2023-05-22**|**Road Planning for Slums via Deep Reinforcement Learning**|Yu Zheng et.al.|[2305.13060v2](http://arxiv.org/abs/2305.13060v2)|[link](https://github.com/tsinghua-fib-lab/road-planning-for-slums)|
-|**2022-11-28**|**Perturb Initial Features: Generalization of Neural Networks Under Sparse Features for Semi-supervised Node Classification**|Yoonhyuk Choi et.al.|[2211.15081v7](http://arxiv.org/abs/2211.15081v7)|null|
-|**2023-01-26**|**WL meet VC**|Christopher Morris et.al.|[2301.11039v2](http://arxiv.org/abs/2301.11039v2)|[link](https://github.com/chrsmrrs/wl_vs_vs)|
-|**2023-05-10**|**Feature Expansion for Graph Neural Networks**|Jiaqi Sun et.al.|[2305.06142v2](http://arxiv.org/abs/2305.06142v2)|[link](https://github.com/sajqavril/feature-extension-graph-neural-networks)|
-|**2023-05-27**|**Inferring Causal Effects Under Heterogeneous Peer Influence**|Shishir Adhikari et.al.|[2305.17479v1](http://arxiv.org/abs/2305.17479v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-05-27**|**Structured model selection via $\ell_1-\ell_2$ optimization**|Xiaofan Lu et.al.|[2305.17467v1](http://arxiv.org/abs/2305.17467v1)|null|
-|**2023-05-26**|**Zero-shot Visual Question Answering with Language Model Feedback**|Yifan Du et.al.|[2305.17006v1](http://arxiv.org/abs/2305.17006v1)|[link](https://github.com/rucaibox/lamoc)|
-|**2023-05-26**|**Green Runner: A tool for efficient model selection from model repositories**|Jai Kannan et.al.|[2305.16849v1](http://arxiv.org/abs/2305.16849v1)|null|
-|**2023-05-26**|**Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging**|Fabian David Schmidt et.al.|[2305.16834v1](http://arxiv.org/abs/2305.16834v1)|[link](https://github.com/fdschmidt93/free-lunch-xlt)|
-|**2023-05-04**|**Quantile Importance Sampling**|Jyotishka Datta et.al.|[2305.03158v2](http://arxiv.org/abs/2305.03158v2)|null|
-|**2023-05-25**|**Flexible Variable Selection for Clustering and Classification**|Mackenzie R. Neal et.al.|[2305.16464v1](http://arxiv.org/abs/2305.16464v1)|null|
-|**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|null|
-|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v2](http://arxiv.org/abs/2302.07415v2)|null|
-|**2023-05-25**|**Learning and accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v1](http://arxiv.org/abs/2305.15920v1)|null|
-|**2023-05-25**|**Fractional Polynomials Models as Special Cases of Bayesian Generalized Nonlinear Models**|Aliaksandr Hubin et.al.|[2305.15903v1](http://arxiv.org/abs/2305.15903v1)|null|
-|**2023-05-25**|**Automated discovery of interpretable hyperelastic material models for human brain tissue with EUCLID**|Moritz Flaschel et.al.|[2305.16362v1](http://arxiv.org/abs/2305.16362v1)|null|
-|**2023-02-16**|**Linear Bandits with Memory: from Rotting to Rising**|Giulia Clerici et.al.|[2302.08345v2](http://arxiv.org/abs/2302.08345v2)|null|
-|**2023-05-24**|**Post-model-selection prediction for GLM's**|Dean Dustin et.al.|[2305.15579v1](http://arxiv.org/abs/2305.15579v1)|null|
-|**2023-05-08**|**AutoEIS: automated Bayesian model selection and analysis for electrochemical impedance spectroscopy**|Runze Zhang et.al.|[2305.04841v2](http://arxiv.org/abs/2305.04841v2)|null|
-|**2023-05-24**|**Improving selective classification performance of deep neural networks through post-hoc logit normalization and temperature scaling**|Luís Felipe P. Cattelan et.al.|[2305.15508v1](http://arxiv.org/abs/2305.15508v1)|null|
+|**2023-05-30**|**On the Stability of Gated Graph Neural Networks**|Antonio Marino et.al.|[2305.19235v1](http://arxiv.org/abs/2305.19235v1)|null|
+|**2023-05-30**|**An AMR-based Link Prediction Approach for Document-level Event Argument Extraction**|Yuqing Yang et.al.|[2305.19162v1](http://arxiv.org/abs/2305.19162v1)|[link](https://github.com/ayyyq/tara)|
+|**2023-05-26**|**Graph Neural Convection-Diffusion with Heterophily**|Kai Zhao et.al.|[2305.16780v2](http://arxiv.org/abs/2305.16780v2)|[link](https://github.com/zknus/graph-diffusion-cde)|
+|**2023-01-26**|**WL meet VC**|Christopher Morris et.al.|[2301.11039v3](http://arxiv.org/abs/2301.11039v3)|[link](https://github.com/chrsmrrs/wl_vs_vs)|
+|**2023-05-30**|**Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks**|Qiyu Kang et.al.|[2305.18965v1](http://arxiv.org/abs/2305.18965v1)|[link](https://github.com/zknus/hamiltonian-gnn)|
+|**2023-05-09**|**Deep Graph Neural Networks via Flexible Subgraph Aggregation**|Jingbo Zhou et.al.|[2305.05368v2](http://arxiv.org/abs/2305.05368v2)|null|
+|**2023-05-30**|**Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2305.18885v1](http://arxiv.org/abs/2305.18885v1)|[link](https://github.com/jindeok/cpa-lgc-recbole)|
+|**2023-05-30**|**Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator**|Guangzhi Sun et.al.|[2305.18824v1](http://arxiv.org/abs/2305.18824v1)|null|
+|**2023-05-30**|**Task-Equivariant Graph Few-shot Learning**|Sungwon Kim et.al.|[2305.18758v1](http://arxiv.org/abs/2305.18758v1)|[link](https://github.com/sung-won-kim/teg)|
+|**2023-05-30**|**Graph Reasoning for Question Answering with Triplet Retrieval**|Shiyang Li et.al.|[2305.18742v1](http://arxiv.org/abs/2305.18742v1)|null|
+|**2023-05-30**|**Graph Neural Processes for Spatio-Temporal Extrapolation**|Junfeng Hu et.al.|[2305.18719v1](http://arxiv.org/abs/2305.18719v1)|[link](https://github.com/hjf1997/STGNP)|
+|**2022-08-15**|**Privacy-Preserving Decentralized Inference with Graph Neural Networks in Wireless Networks**|Mengyuan Lee et.al.|[2208.06963v2](http://arxiv.org/abs/2208.06963v2)|null|
+|**2022-05-07**|**BrainIB: Interpretable Brain Network-based Psychiatric Diagnosis with Graph Information Bottleneck**|Kaizhong Zheng et.al.|[2205.03612v2](http://arxiv.org/abs/2205.03612v2)|null|
+|**2023-05-23**|**Node-wise Diffusion for Scalable Graph Learning**|Keke Huang et.al.|[2305.14000v2](http://arxiv.org/abs/2305.14000v2)|null|
+|**2023-05-30**|**Graph-based Multi-ODE Neural Networks for Spatio-Temporal Traffic Forecasting**|Zibo Liu et.al.|[2305.18687v1](http://arxiv.org/abs/2305.18687v1)|[link](https://github.com/zbliu98/gram-ode)|
 
 ## Non-Euclidean Staistics
 
@@ -79,6 +58,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-05-29**|**Suppressing Instability in a Vlasov-Poisson System by an External Electric Field Through Constrained Optimization**|Lukas Einkemmer et.al.|[2305.17994v1](http://arxiv.org/abs/2305.17994v1)|null|
+|**2023-05-29**|**Conditional Diffusion Models for Semantic 3D Medical Image Synthesis**|Zolnamar Dorjsembe et.al.|[2305.18453v1](http://arxiv.org/abs/2305.18453v1)|null|
 |**2023-05-26**|**Selective separability properties of Fréchet-Urysohn spaces and their products**|Serhii Bardyla et.al.|[2305.17059v1](http://arxiv.org/abs/2305.17059v1)|null|
 |**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v1](http://arxiv.org/abs/2305.15905v1)|null|
 |**2023-02-19**|**The Fréchet derivative of the tensor t-function**|Kathryn Lund et.al.|[2302.09687v3](http://arxiv.org/abs/2302.09687v3)|[link](https://gitlab.com/katlund/t-frechet)|
@@ -92,4 +72,24 @@
 |**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v1](http://arxiv.org/abs/2305.02501v1)|null|
 |**2023-04-28**|**Approximate Nearest Neighbor for Polygonal Curves under Fréchet Distance**|Siu-Wing Cheng et.al.|[2304.14643v2](http://arxiv.org/abs/2304.14643v2)|null|
 |**2023-05-02**|**High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model**|Xuan Zhao et.al.|[2305.01138v1](http://arxiv.org/abs/2305.01138v1)|null|
-|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v2](http://arxiv.org/abs/2302.11410v2)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-05-27**|**Structured model selection via $\ell_1-\ell_2$ optimization**|Xiaofan Lu et.al.|[2305.17467v2](http://arxiv.org/abs/2305.17467v2)|[link](https://github.com/linanzhang/nonconvexsparsecyclicrecovery)|
+|**2023-05-26**|**Zero-shot Visual Question Answering with Language Model Feedback**|Yifan Du et.al.|[2305.17006v1](http://arxiv.org/abs/2305.17006v1)|[link](https://github.com/rucaibox/lamoc)|
+|**2023-05-26**|**Green Runner: A tool for efficient model selection from model repositories**|Jai Kannan et.al.|[2305.16849v1](http://arxiv.org/abs/2305.16849v1)|null|
+|**2023-05-26**|**Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging**|Fabian David Schmidt et.al.|[2305.16834v1](http://arxiv.org/abs/2305.16834v1)|[link](https://github.com/fdschmidt93/free-lunch-xlt)|
+|**2023-05-04**|**Quantile Importance Sampling**|Jyotishka Datta et.al.|[2305.03158v2](http://arxiv.org/abs/2305.03158v2)|null|
+|**2023-05-25**|**Flexible Variable Selection for Clustering and Classification**|Mackenzie R. Neal et.al.|[2305.16464v1](http://arxiv.org/abs/2305.16464v1)|null|
+|**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|null|
+|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v2](http://arxiv.org/abs/2302.07415v2)|null|
+|**2023-05-25**|**Learning and accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v1](http://arxiv.org/abs/2305.15920v1)|null|
+|**2023-05-25**|**Fractional Polynomials Models as Special Cases of Bayesian Generalized Nonlinear Models**|Aliaksandr Hubin et.al.|[2305.15903v1](http://arxiv.org/abs/2305.15903v1)|null|
+|**2023-05-25**|**Automated discovery of interpretable hyperelastic material models for human brain tissue with EUCLID**|Moritz Flaschel et.al.|[2305.16362v1](http://arxiv.org/abs/2305.16362v1)|null|
+|**2023-02-16**|**Linear Bandits with Memory: from Rotting to Rising**|Giulia Clerici et.al.|[2302.08345v2](http://arxiv.org/abs/2302.08345v2)|null|
+|**2023-05-24**|**Post-model-selection prediction for GLM's**|Dean Dustin et.al.|[2305.15579v1](http://arxiv.org/abs/2305.15579v1)|null|
+|**2023-05-08**|**AutoEIS: automated Bayesian model selection and analysis for electrochemical impedance spectroscopy**|Runze Zhang et.al.|[2305.04841v2](http://arxiv.org/abs/2305.04841v2)|null|
+|**2023-05-24**|**Improving selective classification performance of deep neural networks through post-hoc logit normalization and temperature scaling**|Luís Felipe P. Cattelan et.al.|[2305.15508v1](http://arxiv.org/abs/2305.15508v1)|null|
