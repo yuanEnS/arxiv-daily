@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-03 07:22:51 Asia/Shanghai
+ Automated deployment @ 2023-06-03 19:18:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -84,7 +84,7 @@
 |**2023-06-01**|**On Masked Pre-training and the Marginal Likelihood**|Pablo Moreno-Muñoz et.al.|[2306.00520v1](http://arxiv.org/abs/2306.00520v1)|[link](https://github.com/pmorenoz/mpt-lml)|
 |**2023-05-31**|**Discrete $q$-exponential limit order cancellation time distribution**|Vygintas Gontis et.al.|[2306.00093v1](http://arxiv.org/abs/2306.00093v1)|null|
 |**2019-03-29**|**Lasso in infinite dimension: application to variable selection in functional multivariate linear regression**|Angelina Roche et.al.|[1903.12414v5](http://arxiv.org/abs/1903.12414v5)|null|
-|**2023-05-30**|**Model averaging approaches to data subset selection**|Ethan T. Neil et.al.|[2305.19417v1](http://arxiv.org/abs/2305.19417v1)|null|
+|**2023-05-30**|**Model averaging approaches to data subset selection**|Ethan T. Neil et.al.|[2305.19417v1](http://arxiv.org/abs/2305.19417v1)|[link](https://github.com/jwsitison/data_subset_variation)|
 |**2023-05-27**|**Structured model selection via $\ell_1-\ell_2$ optimization**|Xiaofan Lu et.al.|[2305.17467v2](http://arxiv.org/abs/2305.17467v2)|[link](https://github.com/linanzhang/nonconvexsparsecyclicrecovery)|
 |**2023-05-26**|**Zero-shot Visual Question Answering with Language Model Feedback**|Yifan Du et.al.|[2305.17006v1](http://arxiv.org/abs/2305.17006v1)|[link](https://github.com/rucaibox/lamoc)|
 |**2023-05-26**|**Green Runner: A tool for efficient model selection from model repositories**|Jai Kannan et.al.|[2305.16849v1](http://arxiv.org/abs/2305.16849v1)|null|
