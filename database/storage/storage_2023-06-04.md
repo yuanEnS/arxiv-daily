@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-04 07:21:18 Asia/Shanghai
+ Automated deployment @ 2023-06-04 19:18:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2022-12-08**|**Time-Synchronized State Estimation Using Graph Neural Networks in Presence of Topology Changes**|Shiva Moshtagh et.al.|[2212.04592v2](http://arxiv.org/abs/2212.04592v2)|null|
 |**2023-04-19**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367v3](http://arxiv.org/abs/2304.09367v3)|[link](https://github.com/katiebuc/gnnad)|
 |**2023-05-31**|**Contrastive Hierarchical Discourse Graph for Scientific Document Summarization**|Haopeng Zhang et.al.|[2306.00177v1](http://arxiv.org/abs/2306.00177v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-01**|**The eROSITA Final Equatorial Depth Survey (eFEDS): Complex absorption and soft excesses in hard X-ray--selected active galactic nuclei**|Sophia G. H. Waddell et.al.|[2306.00961v1](http://arxiv.org/abs/2306.00961v1)|null|
-|**2023-06-01**|**Enhancing biomechanical stimulated Brillouin scattering imaging with physics-driven model selection**|Roni Shaashoua et.al.|[2306.00910v1](http://arxiv.org/abs/2306.00910v1)|null|
-|**2023-06-01**|**Efficient Approximation of Molecular Kinetics using Random Fourier Features**|Feliks Nüske et.al.|[2306.00849v1](http://arxiv.org/abs/2306.00849v1)|null|
-|**2023-06-01**|**On Masked Pre-training and the Marginal Likelihood**|Pablo Moreno-Muñoz et.al.|[2306.00520v1](http://arxiv.org/abs/2306.00520v1)|[link](https://github.com/pmorenoz/mpt-lml)|
-|**2023-05-31**|**Discrete $q$-exponential limit order cancellation time distribution**|Vygintas Gontis et.al.|[2306.00093v1](http://arxiv.org/abs/2306.00093v1)|null|
-|**2019-03-29**|**Lasso in infinite dimension: application to variable selection in functional multivariate linear regression**|Angelina Roche et.al.|[1903.12414v5](http://arxiv.org/abs/1903.12414v5)|null|
-|**2023-05-30**|**Model averaging approaches to data subset selection**|Ethan T. Neil et.al.|[2305.19417v1](http://arxiv.org/abs/2305.19417v1)|[link](https://github.com/jwsitison/data_subset_variation)|
-|**2023-05-27**|**Structured model selection via $\ell_1-\ell_2$ optimization**|Xiaofan Lu et.al.|[2305.17467v2](http://arxiv.org/abs/2305.17467v2)|[link](https://github.com/linanzhang/nonconvexsparsecyclicrecovery)|
-|**2023-05-26**|**Zero-shot Visual Question Answering with Language Model Feedback**|Yifan Du et.al.|[2305.17006v1](http://arxiv.org/abs/2305.17006v1)|[link](https://github.com/rucaibox/lamoc)|
-|**2023-05-26**|**Green Runner: A tool for efficient model selection from model repositories**|Jai Kannan et.al.|[2305.16849v1](http://arxiv.org/abs/2305.16849v1)|null|
-|**2023-05-26**|**Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging**|Fabian David Schmidt et.al.|[2305.16834v1](http://arxiv.org/abs/2305.16834v1)|[link](https://github.com/fdschmidt93/free-lunch-xlt)|
-|**2023-05-04**|**Quantile Importance Sampling**|Jyotishka Datta et.al.|[2305.03158v2](http://arxiv.org/abs/2305.03158v2)|null|
-|**2023-05-25**|**Flexible Variable Selection for Clustering and Classification**|Mackenzie R. Neal et.al.|[2305.16464v1](http://arxiv.org/abs/2305.16464v1)|null|
-|**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|null|
-|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v2](http://arxiv.org/abs/2302.07415v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-01**|**The eROSITA Final Equatorial Depth Survey (eFEDS): Complex absorption and soft excesses in hard X-ray--selected active galactic nuclei**|Sophia G. H. Waddell et.al.|[2306.00961v1](http://arxiv.org/abs/2306.00961v1)|null|
+|**2023-06-01**|**Enhancing biomechanical stimulated Brillouin scattering imaging with physics-driven model selection**|Roni Shaashoua et.al.|[2306.00910v1](http://arxiv.org/abs/2306.00910v1)|null|
+|**2023-06-01**|**Efficient Approximation of Molecular Kinetics using Random Fourier Features**|Feliks Nüske et.al.|[2306.00849v1](http://arxiv.org/abs/2306.00849v1)|null|
+|**2023-06-01**|**On Masked Pre-training and the Marginal Likelihood**|Pablo Moreno-Muñoz et.al.|[2306.00520v1](http://arxiv.org/abs/2306.00520v1)|[link](https://github.com/pmorenoz/mpt-lml)|
+|**2023-05-31**|**Discrete $q$-exponential limit order cancellation time distribution**|Vygintas Gontis et.al.|[2306.00093v1](http://arxiv.org/abs/2306.00093v1)|null|
+|**2019-03-29**|**Lasso in infinite dimension: application to variable selection in functional multivariate linear regression**|Angelina Roche et.al.|[1903.12414v5](http://arxiv.org/abs/1903.12414v5)|null|
+|**2023-05-30**|**Model averaging approaches to data subset selection**|Ethan T. Neil et.al.|[2305.19417v1](http://arxiv.org/abs/2305.19417v1)|[link](https://github.com/jwsitison/data_subset_variation)|
+|**2023-05-27**|**Structured model selection via $\ell_1-\ell_2$ optimization**|Xiaofan Lu et.al.|[2305.17467v2](http://arxiv.org/abs/2305.17467v2)|[link](https://github.com/linanzhang/nonconvexsparsecyclicrecovery)|
+|**2023-05-26**|**Zero-shot Visual Question Answering with Language Model Feedback**|Yifan Du et.al.|[2305.17006v1](http://arxiv.org/abs/2305.17006v1)|[link](https://github.com/rucaibox/lamoc)|
+|**2023-05-26**|**Green Runner: A tool for efficient model selection from model repositories**|Jai Kannan et.al.|[2305.16849v1](http://arxiv.org/abs/2305.16849v1)|null|
+|**2023-05-26**|**Free Lunch: Robust Cross-Lingual Transfer via Model Checkpoint Averaging**|Fabian David Schmidt et.al.|[2305.16834v1](http://arxiv.org/abs/2305.16834v1)|[link](https://github.com/fdschmidt93/free-lunch-xlt)|
+|**2023-05-04**|**Quantile Importance Sampling**|Jyotishka Datta et.al.|[2305.03158v2](http://arxiv.org/abs/2305.03158v2)|null|
+|**2023-05-25**|**Flexible Variable Selection for Clustering and Classification**|Mackenzie R. Neal et.al.|[2305.16464v1](http://arxiv.org/abs/2305.16464v1)|null|
+|**2023-05-25**|**Model-independent reconstruction of the Interacting Dark Energy Kernel: Binned and Gaussian process**|Luis A. Escamilla et.al.|[2305.16290v1](http://arxiv.org/abs/2305.16290v1)|null|
+|**2023-02-15**|**Variable Selection for Kernel Two-Sample Tests**|Jie Wang et.al.|[2302.07415v2](http://arxiv.org/abs/2302.07415v2)|null|
