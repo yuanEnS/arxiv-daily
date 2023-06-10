@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-10 07:22:24 Asia/Shanghai
+ Automated deployment @ 2023-06-10 19:18:44 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2023-06-07**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791v1](http://arxiv.org/abs/2306.04791v1)|null|
 |**2023-06-07**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|null|
 |**2023-02-04**|**A Theory of Link Prediction via Relational Weisfeiler-Leman**|Xingyue Huang et.al.|[2302.02209v3](http://arxiv.org/abs/2302.02209v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-08**|**Emergent circulation patterns from anonymized mobility data: Clustering Italy in the time of Covid**|Jules Morand et.al.|[2306.05302v1](http://arxiv.org/abs/2306.05302v1)|null|
+|**2023-06-08**|**Comprehensive Stepwise Selection for Logistic Regression**|Bernd Engelmann et.al.|[2306.04876v1](http://arxiv.org/abs/2306.04876v1)|null|
+|**2023-02-16**|**Infinite Action Contextual Bandits with Reusable Data Exhaust**|Mark Rucker et.al.|[2302.08551v2](http://arxiv.org/abs/2302.08551v2)|null|
+|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v2](http://arxiv.org/abs/2303.17856v2)|null|
+|**2023-06-06**|**Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels**|Alexander Immer et.al.|[2306.03968v1](http://arxiv.org/abs/2306.03968v1)|[link](https://github.com/aleximmer/ntk-marglik)|
+|**2023-06-06**|**Follow-up analyses to the O3 LIGO-Virgo-KAGRA lensing searches**|Justin Janquart et.al.|[2306.03827v1](http://arxiv.org/abs/2306.03827v1)|null|
+|**2023-01-31**|**Revisiting Bellman Errors for Offline Model Selection**|Joshua P. Zitovsky et.al.|[2302.00141v2](http://arxiv.org/abs/2302.00141v2)|[link](https://github.com/jzitovsky/sbv)|
+|**2023-05-08**|**Exploring departures from Schwarzschild black hole in $f(R)$ gravity**|Vittorio De Falco et.al.|[2305.04695v2](http://arxiv.org/abs/2305.04695v2)|null|
+|**2023-06-06**|**On Pitfalls of Test-Time Adaptation**|Hao Zhao et.al.|[2306.03536v1](http://arxiv.org/abs/2306.03536v1)|[link](https://github.com/lins-lab/ttab)|
+|**2023-02-06**|**In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation**|Alicia Curth et.al.|[2302.02923v2](http://arxiv.org/abs/2302.02923v2)|[link](https://github.com/aliciacurth/cateselection)|
+|**2023-06-05**|**Signatures of primordial black holes in gravitational wave clustering**|Sarah Libanore et.al.|[2306.03087v1](http://arxiv.org/abs/2306.03087v1)|null|
+|**2023-06-05**|**Causal Discovery using Bayesian Model Selection**|Anish Dhir et.al.|[2306.02931v1](http://arxiv.org/abs/2306.02931v1)|null|
+|**2023-06-05**|**Data-Driven Regret Balancing for Online Model Selection in Bandits**|Aldo Pacchiano et.al.|[2306.02869v1](http://arxiv.org/abs/2306.02869v1)|null|
+|**2022-02-25**|**Exploratory Hidden Markov Factor Models for Longitudinal Mobile Health Data: Application to Adverse Posttraumatic Neuropsychiatric Sequelae**|Lin Ge et.al.|[2202.12819v2](http://arxiv.org/abs/2202.12819v2)|null|
+|**2022-02-06**|**Evaluating natural language processing models with generalization metrics that do not need access to any training or testing data**|Yaoqing Yang et.al.|[2202.02842v3](http://arxiv.org/abs/2202.02842v3)|[link](https://github.com/nsfzyzz/generalization_metrics_for_nlp)|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 |**2020-09-28**|**Shrinkage Estimation of the Frechet Mean in Lie groups**|Chun-Hao Yang et.al.|[2009.13020v3](http://arxiv.org/abs/2009.13020v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-06-08**|**Emergent circulation patterns from anonymized mobility data: Clustering Italy in the time of Covid**|Jules Morand et.al.|[2306.05302v1](http://arxiv.org/abs/2306.05302v1)|null|
-|**2023-06-08**|**Comprehensive Stepwise Selection for Logistic Regression**|Bernd Engelmann et.al.|[2306.04876v1](http://arxiv.org/abs/2306.04876v1)|null|
-|**2023-02-16**|**Infinite Action Contextual Bandits with Reusable Data Exhaust**|Mark Rucker et.al.|[2302.08551v2](http://arxiv.org/abs/2302.08551v2)|null|
-|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v2](http://arxiv.org/abs/2303.17856v2)|null|
-|**2023-06-06**|**Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels**|Alexander Immer et.al.|[2306.03968v1](http://arxiv.org/abs/2306.03968v1)|[link](https://github.com/aleximmer/ntk-marglik)|
-|**2023-06-06**|**Follow-up analyses to the O3 LIGO-Virgo-KAGRA lensing searches**|Justin Janquart et.al.|[2306.03827v1](http://arxiv.org/abs/2306.03827v1)|null|
-|**2023-01-31**|**Revisiting Bellman Errors for Offline Model Selection**|Joshua P. Zitovsky et.al.|[2302.00141v2](http://arxiv.org/abs/2302.00141v2)|[link](https://github.com/jzitovsky/sbv)|
-|**2023-05-08**|**Exploring departures from Schwarzschild black hole in $f(R)$ gravity**|Vittorio De Falco et.al.|[2305.04695v2](http://arxiv.org/abs/2305.04695v2)|null|
-|**2023-06-06**|**On Pitfalls of Test-Time Adaptation**|Hao Zhao et.al.|[2306.03536v1](http://arxiv.org/abs/2306.03536v1)|[link](https://github.com/lins-lab/ttab)|
-|**2023-02-06**|**In Search of Insights, Not Magic Bullets: Towards Demystification of the Model Selection Dilemma in Heterogeneous Treatment Effect Estimation**|Alicia Curth et.al.|[2302.02923v2](http://arxiv.org/abs/2302.02923v2)|[link](https://github.com/aliciacurth/cateselection)|
-|**2023-06-05**|**Signatures of primordial black holes in gravitational wave clustering**|Sarah Libanore et.al.|[2306.03087v1](http://arxiv.org/abs/2306.03087v1)|null|
-|**2023-06-05**|**Causal Discovery using Bayesian Model Selection**|Anish Dhir et.al.|[2306.02931v1](http://arxiv.org/abs/2306.02931v1)|null|
-|**2023-06-05**|**Data-Driven Regret Balancing for Online Model Selection in Bandits**|Aldo Pacchiano et.al.|[2306.02869v1](http://arxiv.org/abs/2306.02869v1)|null|
-|**2022-02-25**|**Exploratory Hidden Markov Factor Models for Longitudinal Mobile Health Data: Application to Adverse Posttraumatic Neuropsychiatric Sequelae**|Lin Ge et.al.|[2202.12819v2](http://arxiv.org/abs/2202.12819v2)|null|
-|**2022-02-06**|**Evaluating natural language processing models with generalization metrics that do not need access to any training or testing data**|Yaoqing Yang et.al.|[2202.02842v3](http://arxiv.org/abs/2202.02842v3)|[link](https://github.com/nsfzyzz/generalization_metrics_for_nlp)|
