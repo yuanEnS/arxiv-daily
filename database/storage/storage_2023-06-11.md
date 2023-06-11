@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-11 07:21:15 Asia/Shanghai
+ Automated deployment @ 2023-06-11 19:18:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -30,7 +30,7 @@
 |**2023-06-07**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation**|Ziyang Liu et.al.|[2306.04095v2](http://arxiv.org/abs/2306.04095v2)|null|
 |**2023-06-07**|**Empowering Counterfactual Reasoning over Graph Neural Networks through Inductivity**|Samidha Verma et.al.|[2306.04835v1](http://arxiv.org/abs/2306.04835v1)|[link](https://github.com/idea-iitd/induce)|
 |**2023-06-07**|**XInsight: Revealing Model Insights for GNNs with Flow-based Explanations**|Eli Laird et.al.|[2306.04791v1](http://arxiv.org/abs/2306.04791v1)|null|
-|**2023-06-07**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|null|
+|**2023-06-07**|**Automatic graph representation algorithm for heterogeneous catalysis**|Zachary Gariepy et.al.|[2306.04742v1](http://arxiv.org/abs/2306.04742v1)|[link](https://github.com/feugmo-group/agra)|
 |**2023-02-04**|**A Theory of Link Prediction via Relational Weisfeiler-Leman**|Xingyue Huang et.al.|[2302.02209v3](http://arxiv.org/abs/2302.02209v3)|null|
 
 ## Non-Euclidean Staistics
@@ -79,7 +79,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-06-08**|**Emergent circulation patterns from anonymized mobility data: Clustering Italy in the time of Covid**|Jules Morand et.al.|[2306.05302v1](http://arxiv.org/abs/2306.05302v1)|null|
-|**2023-06-08**|**Comprehensive Stepwise Selection for Logistic Regression**|Bernd Engelmann et.al.|[2306.04876v1](http://arxiv.org/abs/2306.04876v1)|null|
+|**2023-06-08**|**Comprehensive Stepwise Selection for Logistic Regression**|Bernd Engelmann et.al.|[2306.04876v1](http://arxiv.org/abs/2306.04876v1)|[link](https://github.com/berndengelmann/csslr)|
 |**2023-02-16**|**Infinite Action Contextual Bandits with Reusable Data Exhaust**|Mark Rucker et.al.|[2302.08551v2](http://arxiv.org/abs/2302.08551v2)|null|
 |**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v2](http://arxiv.org/abs/2303.17856v2)|null|
 |**2023-06-06**|**Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels**|Alexander Immer et.al.|[2306.03968v1](http://arxiv.org/abs/2306.03968v1)|[link](https://github.com/aleximmer/ntk-marglik)|
