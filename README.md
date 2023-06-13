@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-13 07:22:10 Asia/Shanghai
+ Automated deployment @ 2023-06-13 19:19:23 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-09**|**A Dynamical Graph Prior for Relational Inference**|Liming Pan et.al.|[2306.06041v1](http://arxiv.org/abs/2306.06041v1)|[link](https://github.com/dadacheng/dygr)|
-|**2023-06-09**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955v1](http://arxiv.org/abs/2306.05955v1)|[link](https://github.com/gasmichel/pathnns_expressive)|
-|**2023-01-04**|**CI-GNN: A Granger Causality-Inspired Graph Neural Network for Interpretable Brain Network-Based Psychiatric Diagnosis**|Kaizhong Zheng et.al.|[2301.01642v2](http://arxiv.org/abs/2301.01642v2)|null|
-|**2022-07-10**|**Graph Generative Model for Benchmarking Graph Neural Networks**|Minji Yoon et.al.|[2207.04396v4](http://arxiv.org/abs/2207.04396v4)|[link](https://github.com/minjiyoon/cgt)|
-|**2023-06-09**|**DynaBench: A benchmark dataset for learning dynamical systems from low-resolution data**|Andrzej Dulny et.al.|[2306.05805v1](http://arxiv.org/abs/2306.05805v1)|null|
-|**2023-06-09**|**Efficient GNN Explanation via Learning Removal-based Attribution**|Yao Rong et.al.|[2306.05760v1](http://arxiv.org/abs/2306.05760v1)|null|
-|**2023-06-09**|**Quantifying the Knowledge in GNNs for Reliable Distillation into MLPs**|Lirong Wu et.al.|[2306.05628v1](http://arxiv.org/abs/2306.05628v1)|[link](https://github.com/lirongwu/rkd)|
-|**2023-06-08**|**On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks**|Donald Loveland et.al.|[2306.05557v1](http://arxiv.org/abs/2306.05557v1)|null|
-|**2023-06-08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420v1](http://arxiv.org/abs/2306.05420v1)|[link](https://github.com/google-research/spherical-cnn)|
-|**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
-|**2023-03-29**|**When to Pre-Train Graph Neural Networks? From Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458v4](http://arxiv.org/abs/2303.16458v4)|null|
-|**2023-06-08**|**Comprehensive evaluation of deep and graph learning on drug-drug interactions prediction**|Xuan Lin et.al.|[2306.05257v1](http://arxiv.org/abs/2306.05257v1)|[link](https://github.com/xzenglab/resources-for-ddis-prediction-using-dl)|
-|**2023-06-08**|**Point-Voxel Absorbing Graph Representation Learning for Event Stream based Recognition**|Bo Jiang et.al.|[2306.05239v1](http://arxiv.org/abs/2306.05239v1)|null|
-|**2023-06-08**|**Hybrid Graph: A Unified Graph Representation with Datasets and Benchmarks for Complex Graphs**|Zehui Li et.al.|[2306.05108v1](http://arxiv.org/abs/2306.05108v1)|null|
-|**2023-05-03**|**Heterogeneous GNN-RL Based Task Offloading for UAV-aided Smart Agriculture**|Turgay Pamuklu et.al.|[2305.02112v2](http://arxiv.org/abs/2305.02112v2)|null|
+|**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
+|**2023-03-14**|**Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean Networks**|Nan Wu et.al.|[2303.08256v2](http://arxiv.org/abs/2303.08256v2)|null|
+|**2023-05-26**|**Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training**|Jie Sun et.al.|[2305.16588v2](http://arxiv.org/abs/2305.16588v2)|null|
+|**2023-06-12**|**LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types**|Xin-Cheng Wen et.al.|[2306.06935v1](http://arxiv.org/abs/2306.06935v1)|[link](https://github.com/livable01/livable)|
+|**2023-06-12**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930v1](http://arxiv.org/abs/2306.06930v1)|null|
+|**2023-06-12**|**Graph Agent Network: Empowering Nodes with Decentralized Communications Capabilities for Adversarial Resilience**|Ao Liu et.al.|[2306.06909v1](http://arxiv.org/abs/2306.06909v1)|null|
+|**2023-06-11**|**Graph Mixup with Soft Alignments**|Hongyi Ling et.al.|[2306.06788v1](http://arxiv.org/abs/2306.06788v1)|null|
+|**2023-04-27**|**Interactive Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540v2](http://arxiv.org/abs/2304.14540v2)|null|
+|**2023-06-11**|**Between-Sample Relationship in Learning Tabular Data Using Graph and Attention Networks**|Shourav B. Rabbani et.al.|[2306.06772v1](http://arxiv.org/abs/2306.06772v1)|null|
+|**2023-05-31**|**Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization**|Kaixuan Chen et.al.|[2305.19903v3](http://arxiv.org/abs/2305.19903v3)|[link](https://github.com/chenchkx/supernorm)|
+|**2022-10-06**|**On the Effectiveness of Hybrid Pooling in Mixup-Based Graph Learning for Language Processing**|Zeming Dong et.al.|[2210.03123v2](http://arxiv.org/abs/2210.03123v2)|null|
+|**2023-06-11**|**Local-to-global Perspectives on Graph Neural Networks**|Chen Cai et.al.|[2306.06547v1](http://arxiv.org/abs/2306.06547v1)|null|
+|**2022-11-28**|**Confidence-Aware Graph Neural Networks for Learning Reliability Assessment Commitments**|Seonho Park et.al.|[2211.15755v3](http://arxiv.org/abs/2211.15755v3)|null|
+|**2023-06-10**|**Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem**|Tal Amir et.al.|[2306.06529v1](http://arxiv.org/abs/2306.06529v1)|null|
+|**2023-06-10**|**Finding Hamiltonian cycles with graph neural networks**|Filip Bosnić et.al.|[2306.06523v1](http://arxiv.org/abs/2306.06523v1)|[link](https://github.com/lbcb-sci/gnns-hamiltonian-cycles)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-06-12**|**Conditional Matrix Flows for Gaussian Graphical Models**|Marcello Massimo Negri et.al.|[2306.07255v1](http://arxiv.org/abs/2306.07255v1)|null|
+|**2021-07-10**|**The EAS approach to variable selection for multivariate response data in high-dimensional settings**|Salil Koner et.al.|[2107.04873v3](http://arxiv.org/abs/2107.04873v3)|null|
+|**2023-06-11**|**Statistical inference for the penalized EM algorithm to test differential item functioning**|Weimeng Wang et.al.|[2306.06726v1](http://arxiv.org/abs/2306.06726v1)|null|
+|**2022-02-21**|**On the bias of K-fold cross validation with stable learners**|Anass Aghbalou et.al.|[2202.10211v2](http://arxiv.org/abs/2202.10211v2)|null|
+|**2021-10-14**|**Asymptotic Distribution-Free Independence Test for High Dimension Data**|Zhanrui Cai et.al.|[2110.07652v4](http://arxiv.org/abs/2110.07652v4)|null|
+|**2023-06-10**|**Sliding Window Neural Generated Tracking Based on Measurement Model**|Haya Ejjawi et.al.|[2306.06434v1](http://arxiv.org/abs/2306.06434v1)|null|
+|**2021-06-24**|**On a Projection Estimator of the Regression Function Derivative**|Fabienne Comte et.al.|[2106.13293v2](http://arxiv.org/abs/2106.13293v2)|null|
+|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v2](http://arxiv.org/abs/2303.03521v2)|null|
+|**2022-11-23**|**A Latent Shrinkage Position Model for Binary and Count Network Data**|Xian Yao Gwee et.al.|[2211.13034v2](http://arxiv.org/abs/2211.13034v2)|null|
+|**2023-06-09**|**TreeDQN: Learning to minimize Branch-and-Bound tree**|Dmitry Sorokin et.al.|[2306.05905v1](http://arxiv.org/abs/2306.05905v1)|null|
+|**2022-07-19**|**TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes**|Antoine D. Meyer et.al.|[2207.09327v3](http://arxiv.org/abs/2207.09327v3)|null|
+|**2023-06-09**|**Two-level histograms for dealing with outliers and heavy tail distributions**|Marc Boullé et.al.|[2306.05786v1](http://arxiv.org/abs/2306.05786v1)|null|
+|**2023-06-09**|**Variable screening using factor analysis for high-dimensional data with multicollinearity**|Shuntaro Tanaka et.al.|[2306.05702v1](http://arxiv.org/abs/2306.05702v1)|null|
+|**2023-06-09**|**Embodied Executable Policy Learning with Language-based Scene Summarization**|Jielin Qiu et.al.|[2306.05696v1](http://arxiv.org/abs/2306.05696v1)|null|
+|**2022-06-18**|**MetaGL: Evaluation-Free Selection of Graph Learning Models via Meta-Learning**|Namyong Park et.al.|[2206.09280v3](http://arxiv.org/abs/2206.09280v3)|[link](https://github.com/namyongpark/metagl)|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2022-10-21**|**0/1 Constrained Optimization Solving Sample Average Approximation for Chance Constrained Programming**|Shenglong Zhou et.al.|[2210.11889v3](http://arxiv.org/abs/2210.11889v3)|null|
 |**2023-05-12**|**Spider GAN: Leveraging Friendly Neighbors to Accelerate GAN Training**|Siddarth Asokan et.al.|[2305.07613v1](http://arxiv.org/abs/2305.07613v1)|null|
 |**2021-11-09**|**Ideal approach to convergence in functional spaces**|Serhii Bardyla et.al.|[2111.05049v3](http://arxiv.org/abs/2111.05049v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v2](http://arxiv.org/abs/2303.03521v2)|null|
-|**2022-11-23**|**A Latent Shrinkage Position Model for Binary and Count Network Data**|Xian Yao Gwee et.al.|[2211.13034v2](http://arxiv.org/abs/2211.13034v2)|null|
-|**2023-06-09**|**TreeDQN: Learning to minimize Branch-and-Bound tree**|Dmitry Sorokin et.al.|[2306.05905v1](http://arxiv.org/abs/2306.05905v1)|null|
-|**2022-07-19**|**TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes**|Antoine D. Meyer et.al.|[2207.09327v3](http://arxiv.org/abs/2207.09327v3)|null|
-|**2023-06-09**|**Two-level histograms for dealing with outliers and heavy tail distributions**|Marc Boullé et.al.|[2306.05786v1](http://arxiv.org/abs/2306.05786v1)|null|
-|**2023-06-09**|**Variable screening using factor analysis for high-dimensional data with multicollinearity**|Shuntaro Tanaka et.al.|[2306.05702v1](http://arxiv.org/abs/2306.05702v1)|null|
-|**2023-06-09**|**Embodied Executable Policy Learning with Language-based Scene Summarization**|Jielin Qiu et.al.|[2306.05696v1](http://arxiv.org/abs/2306.05696v1)|null|
-|**2022-06-18**|**MetaGL: Evaluation-Free Selection of Graph Learning Models via Meta-Learning**|Namyong Park et.al.|[2206.09280v3](http://arxiv.org/abs/2206.09280v3)|[link](https://github.com/namyongpark/metagl)|
-|**2023-06-08**|**SGLD-Based Information Criteria and the Over-Parameterized Regime**|Haobo Chen et.al.|[2306.05583v1](http://arxiv.org/abs/2306.05583v1)|null|
-|**2023-06-08**|**Emergent circulation patterns from anonymized mobility data: Clustering Italy in the time of Covid**|Jules Morand et.al.|[2306.05302v1](http://arxiv.org/abs/2306.05302v1)|null|
-|**2023-06-08**|**Comprehensive Stepwise Selection for Logistic Regression**|Bernd Engelmann et.al.|[2306.04876v1](http://arxiv.org/abs/2306.04876v1)|[link](https://github.com/berndengelmann/csslr)|
-|**2023-02-16**|**Infinite Action Contextual Bandits with Reusable Data Exhaust**|Mark Rucker et.al.|[2302.08551v2](http://arxiv.org/abs/2302.08551v2)|null|
-|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v2](http://arxiv.org/abs/2303.17856v2)|null|
-|**2023-06-06**|**Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels**|Alexander Immer et.al.|[2306.03968v1](http://arxiv.org/abs/2306.03968v1)|[link](https://github.com/aleximmer/ntk-marglik)|
-|**2023-06-06**|**Follow-up analyses to the O3 LIGO-Virgo-KAGRA lensing searches**|Justin Janquart et.al.|[2306.03827v1](http://arxiv.org/abs/2306.03827v1)|null|
