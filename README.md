@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-16 07:22:38 Asia/Shanghai
+ Automated deployment @ 2023-06-16 19:19:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2021-10-09**|**Towards Open-World Feature Extrapolation: An Inductive Graph Learning Approach**|Qitian Wu et.al.|[2110.04514v2](http://arxiv.org/abs/2110.04514v2)|[link](https://github.com/qitianwu/FATE)|
-|**2022-12-26**|**Homophily modulates double descent generalization in graph convolution networks**|Cheng Shi et.al.|[2212.13069v2](http://arxiv.org/abs/2212.13069v2)|null|
-|**2023-06-13**|**Vector-Quantized Graph Auto-Encoder**|Yoann Boget et.al.|[2306.07735v1](http://arxiv.org/abs/2306.07735v1)|null|
-|**2022-11-26**|**Distribution Free Prediction Sets for Node Classification**|Jase Clarkson et.al.|[2211.14555v2](http://arxiv.org/abs/2211.14555v2)|[link](https://github.com/jase-clarkson/graph_cp)|
-|**2021-11-25**|**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**|Chuanpan Zheng et.al.|[2111.13684v3](http://arxiv.org/abs/2111.13684v3)|null|
-|**2023-06-13**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618v1](http://arxiv.org/abs/2306.07618v1)|null|
-|**2020-09-01**|**Solving the single-track train scheduling problem via Deep Reinforcement Learning**|Valerio Agasucci et.al.|[2009.00433v2](http://arxiv.org/abs/2009.00433v2)|null|
-|**2023-05-04**|**PGB: A PubMed Graph Benchmark for Heterogeneous Network Representation Learning**|Eric W Lee et.al.|[2305.02691v2](http://arxiv.org/abs/2305.02691v2)|[link](https://github.com/ewhlee/pgb)|
-|**2023-06-13**|**Von Mises Mixture Distributions for Molecular Conformation Generation**|Kirk Swanson et.al.|[2306.07472v1](http://arxiv.org/abs/2306.07472v1)|[link](https://github.com/thejonaslab/vonmises-icml-2023)|
-|**2022-09-19**|**Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2209.08812v3](http://arxiv.org/abs/2209.08812v3)|[link](https://github.com/utiasstars/generative-graphik)|
-|**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266v1](http://arxiv.org/abs/2306.07266v1)|null|
-|**2023-03-14**|**Gamora: Graph Learning based Symbolic Reasoning for Large-Scale Boolean Networks**|Nan Wu et.al.|[2303.08256v2](http://arxiv.org/abs/2303.08256v2)|[link](https://github.com/yu-utah/gamora)|
-|**2023-05-26**|**Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training**|Jie Sun et.al.|[2305.16588v2](http://arxiv.org/abs/2305.16588v2)|[link](https://github.com/rc4ml/legion)|
-|**2023-06-12**|**LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types**|Xin-Cheng Wen et.al.|[2306.06935v1](http://arxiv.org/abs/2306.06935v1)|[link](https://github.com/livable01/livable)|
-|**2023-06-12**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930v1](http://arxiv.org/abs/2306.06930v1)|null|
+|**2023-06-12**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930v2](http://arxiv.org/abs/2306.06930v2)|null|
+|**2023-06-15**|**The Split Matters: Flat Minima Methods for Improving the Performance of GNNs**|Nicolas Lell et.al.|[2306.09121v1](http://arxiv.org/abs/2306.09121v1)|[link](https://github.com/foisunt/fmms-in-gnns)|
+|**2023-06-15**|**On Strengthening and Defending Graph Reconstruction Attack with Markov Chain Approximation**|Zhanke Zhou et.al.|[2306.09104v1](http://arxiv.org/abs/2306.09104v1)|[link](https://github.com/tmlr-group/mc-gra)|
+|**2023-05-29**|**On the Correspondence Between Monotonic Max-Sum GNNs and Datalog**|David Tena Cucala et.al.|[2305.18015v3](http://arxiv.org/abs/2305.18015v3)|null|
+|**2023-06-15**|**Scalable Resource Management for Dynamic MEC: An Unsupervised Link-Output Graph Neural Network Approach**|Xiucheng Wang et.al.|[2306.08938v1](http://arxiv.org/abs/2306.08938v1)|[link](https://github.com/UNIC-Lab/LOGNN)|
+|**2023-06-15**|**Multi-Temporal Relationship Inference in Urban Areas**|Shuangli Li et.al.|[2306.08921v1](http://arxiv.org/abs/2306.08921v1)|[link](https://github.com/agave233/seenet)|
+|**2023-05-23**|**Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks**|Peng Xu et.al.|[2305.14065v2](http://arxiv.org/abs/2305.14065v2)|[link](https://github.com/shipxu123/NAC)|
+|**2023-06-13**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618v2](http://arxiv.org/abs/2306.07618v2)|null|
+|**2022-11-25**|**GREAD: Graph Neural Reaction-Diffusion Networks**|Jeongwhan Choi et.al.|[2211.14208v3](http://arxiv.org/abs/2211.14208v3)|[link](https://github.com/jeongwhanchoi/gread)|
+|**2023-06-14**|**A Unified Framework of Graph Information Bottleneck for Robustness and Membership Privacy**|Enyan Dai et.al.|[2306.08604v1](http://arxiv.org/abs/2306.08604v1)|null|
+|**2023-05-22**|**Road Planning for Slums via Deep Reinforcement Learning**|Yu Zheng et.al.|[2305.13060v3](http://arxiv.org/abs/2305.13060v3)|[link](https://github.com/tsinghua-fib-lab/road-planning-for-slums)|
+|**2023-02-16**|**LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation**|Xuheng Cai et.al.|[2302.08191v3](http://arxiv.org/abs/2302.08191v3)|[link](https://github.com/hkuds/lightgcl)|
+|**2023-02-07**|**Reducing SO(3) Convolutions to SO(2) for Efficient Equivariant GNNs**|Saro Passaro et.al.|[2302.03655v2](http://arxiv.org/abs/2302.03655v2)|null|
+|**2023-06-14**|**Self-supervised Learning and Graph Classification under Heterophily**|Yilin Ding et.al.|[2306.08469v1](http://arxiv.org/abs/2306.08469v1)|null|
+|**2023-06-14**|**NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification**|Qitian Wu et.al.|[2306.08385v1](http://arxiv.org/abs/2306.08385v1)|[link](https://github.com/qitianwu/nodeformer)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,14 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v2](http://arxiv.org/abs/2306.03827v2)|null|
+|**2022-11-15**|**Sensitivity to control signals in triphasic rhythmic neural systems: a comparative mechanistic analysis via infinitesimal local timing response curves**|Zhuojun Yu et.al.|[2211.07834v2](http://arxiv.org/abs/2211.07834v2)|[link](https://github.com/zhuojunyu-appliedmath/triphasic-control)|
+|**2023-06-01**|**Efficient Approximation of Molecular Kinetics using Random Fourier Features**|Feliks Nüske et.al.|[2306.00849v2](http://arxiv.org/abs/2306.00849v2)|null|
+|**2022-07-10**|**Energy Trees: Regression and Classification With Structured and Mixed-Type Covariates**|Riccardo Giubilei et.al.|[2207.04430v2](http://arxiv.org/abs/2207.04430v2)|null|
+|**2021-07-07**|**Bounded support in linear random coefficient models: Identification and variable selection**|Philipp Hermann et.al.|[2107.03245v2](http://arxiv.org/abs/2107.03245v2)|null|
+|**2023-06-15**|**LOVM: Language-Only Vision Model Selection**|Orr Zohar et.al.|[2306.08893v1](http://arxiv.org/abs/2306.08893v1)|null|
+|**2023-06-14**|**The generalized hyperbolic family and automatic model selection through the multiple-choice LASSO**|Luca Bagnato et.al.|[2306.08692v1](http://arxiv.org/abs/2306.08692v1)|null|
+|**2023-06-14**|**Extreme eigenvalues of principal minors of random matrix with moment conditions**|Jianwei Hu et.al.|[2306.08335v1](http://arxiv.org/abs/2306.08335v1)|null|
 |**2020-07-30**|**Additive interaction modelling using I-priors**|Wicher Bergsma et.al.|[2007.15766v4](http://arxiv.org/abs/2007.15766v4)|[link](https://github.com/haziqj/iprior-interaction)|
 |**2015-03-07**|**Model selection of polynomial kernel regression**|Shaobo Lin et.al.|[1503.02143v2](http://arxiv.org/abs/1503.02143v2)|null|
 |**2022-08-10**|**Distribution-Free Location-Scale Regression**|Sandra Siegfried et.al.|[2208.05302v4](http://arxiv.org/abs/2208.05302v4)|[link](https://CRAN.R-project.org/package=tram)|
@@ -85,11 +93,3 @@
 |**2023-06-12**|**Conditional Matrix Flows for Gaussian Graphical Models**|Marcello Massimo Negri et.al.|[2306.07255v1](http://arxiv.org/abs/2306.07255v1)|null|
 |**2021-07-10**|**The EAS approach to variable selection for multivariate response data in high-dimensional settings**|Salil Koner et.al.|[2107.04873v3](http://arxiv.org/abs/2107.04873v3)|null|
 |**2023-06-11**|**Statistical inference for the penalized EM algorithm to test differential item functioning**|Weimeng Wang et.al.|[2306.06726v1](http://arxiv.org/abs/2306.06726v1)|null|
-|**2022-02-21**|**On the bias of K-fold cross validation with stable learners**|Anass Aghbalou et.al.|[2202.10211v2](http://arxiv.org/abs/2202.10211v2)|null|
-|**2021-10-14**|**Asymptotic Distribution-Free Independence Test for High Dimension Data**|Zhanrui Cai et.al.|[2110.07652v4](http://arxiv.org/abs/2110.07652v4)|null|
-|**2023-06-10**|**Sliding Window Neural Generated Tracking Based on Measurement Model**|Haya Ejjawi et.al.|[2306.06434v1](http://arxiv.org/abs/2306.06434v1)|null|
-|**2021-06-24**|**On a Projection Estimator of the Regression Function Derivative**|Fabienne Comte et.al.|[2106.13293v2](http://arxiv.org/abs/2106.13293v2)|null|
-|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v2](http://arxiv.org/abs/2303.03521v2)|null|
-|**2022-11-23**|**A Latent Shrinkage Position Model for Binary and Count Network Data**|Xian Yao Gwee et.al.|[2211.13034v2](http://arxiv.org/abs/2211.13034v2)|null|
-|**2023-06-09**|**TreeDQN: Learning to minimize Branch-and-Bound tree**|Dmitry Sorokin et.al.|[2306.05905v1](http://arxiv.org/abs/2306.05905v1)|[link](https://github.com/dmitrysorokin/treedqn)|
-|**2022-07-19**|**TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes**|Antoine D. Meyer et.al.|[2207.09327v3](http://arxiv.org/abs/2207.09327v3)|null|
