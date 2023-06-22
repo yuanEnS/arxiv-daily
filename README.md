@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-22 07:22:19 Asia/Shanghai
+ Automated deployment @ 2023-06-22 19:19:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,13 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-24**|**Neighborhood Homophily-based Graph Convolutional Network**|Shengbo Gong et.al.|[2301.09851v2](http://arxiv.org/abs/2301.09851v2)|null|
+|**2023-06-21**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327v1](http://arxiv.org/abs/2306.12327v1)|null|
+|**2023-06-21**|**GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection**|Jianheng Tang et.al.|[2306.12251v1](http://arxiv.org/abs/2306.12251v1)|[link](https://github.com/squareroot3/gadbench)|
+|**2023-06-21**|**Predicting protein variants with equivariant graph neural networks**|Antonia Boca et.al.|[2306.12231v1](http://arxiv.org/abs/2306.12231v1)|null|
+|**2022-01-28**|**RiskNet: Neural Risk Assessment in Networks of Unreliable Resources**|Krzysztof Rusek et.al.|[2201.12263v2](http://arxiv.org/abs/2201.12263v2)|null|
+|**2023-06-21**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139v1](http://arxiv.org/abs/2306.12139v1)|null|
+|**2023-02-28**|**CHGNet: Pretrained universal neural network potential for charge-informed atomistic modeling**|Bowen Deng et.al.|[2302.14231v2](http://arxiv.org/abs/2302.14231v2)|[link](https://github.com/CederGroupHub/chgnet)|
 |**2022-05-25**|**QGNN: Value Function Factorisation with Graph Neural Networks**|Ryan Kortvelesy et.al.|[2205.13005v2](http://arxiv.org/abs/2205.13005v2)|[link](https://github.com/Acciorocketships/pymarl2)|
 |**2023-06-20**|**Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668v1](http://arxiv.org/abs/2306.11668v1)|null|
 |**2023-06-20**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586v1](http://arxiv.org/abs/2306.11586v1)|null|
@@ -25,13 +32,6 @@
 |**2023-06-20**|**Graph Neural Stochastic Differential Equations for Learning Brownian Dynamics**|Suresh Bishnoi et.al.|[2306.11435v1](http://arxiv.org/abs/2306.11435v1)|null|
 |**2023-06-20**|**Hierarchical GNNs for Large Graph Generation**|Alex O. Davies et.al.|[2306.11412v1](http://arxiv.org/abs/2306.11412v1)|null|
 |**2023-04-12**|**SuperpixelGraph: Semi-automatic generation of building footprint through semantic-sensitive superpixel and neural graph networks**|Haojia Yu et.al.|[2304.05661v2](http://arxiv.org/abs/2304.05661v2)|null|
-|**2023-06-20**|**Low Latency Edge Classification GNN for Particle Trajectory Tracking on FPGAs**|Shi-Yu Huang et.al.|[2306.11330v1](http://arxiv.org/abs/2306.11330v1)|null|
-|**2023-06-20**|**Deep graph kernel point processes**|Zheng Dong et.al.|[2306.11313v1](http://arxiv.org/abs/2306.11313v1)|null|
-|**2023-06-20**|**GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks**|Wentao Zhao et.al.|[2306.11264v1](http://arxiv.org/abs/2306.11264v1)|[link](https://github.com/wtaozhao/graphglow)|
-|**2023-05-20**|**Stability and Generalization of lp-Regularized Stochastic Learning for GCN**|Shiyu Liu et.al.|[2305.12085v3](http://arxiv.org/abs/2305.12085v3)|null|
-|**2023-02-09**|**Generalization in Graph Neural Networks: Improved PAC-Bayesian Bounds on Graph Diffusion**|Haotian Ju et.al.|[2302.04451v2](http://arxiv.org/abs/2302.04451v2)|[link](https://github.com/neu-statsml-research/generalization-in-graph-neural-networks)|
-|**2023-06-15**|**Scalable Resource Management for Dynamic MEC: An Unsupervised Link-Output Graph Neural Network Approach**|Xiucheng Wang et.al.|[2306.08938v2](http://arxiv.org/abs/2306.08938v2)|[link](https://github.com/UNIC-Lab/LOGNN)|
-|**2023-06-19**|**Learning Models of Adversarial Agent Behavior under Partial Observability**|Sean Ye et.al.|[2306.11168v1](http://arxiv.org/abs/2306.11168v1)|[link](https://github.com/core-robotics-lab/opponent-modeling)|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,9 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v2](http://arxiv.org/abs/2305.15905v2)|null|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v2](http://arxiv.org/abs/2306.08013v2)|null|
+|**2023-06-21**|**Fréchet Covariance and MANOVA Tests for Random Objects in Multiple Metric Spaces**|Alex Fout et.al.|[2306.12066v1](http://arxiv.org/abs/2306.12066v1)|null|
 |**2023-06-20**|**Eliminating Lipschitz Singularities in Diffusion Models**|Zhantao Yang et.al.|[2306.11251v1](http://arxiv.org/abs/2306.11251v1)|null|
 |**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v1](http://arxiv.org/abs/2306.10065v1)|[link](https://github.com/viiika/diffusion-conductor)|
 |**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
@@ -67,17 +70,16 @@
 |**2023-05-29**|**Suppressing Instability in a Vlasov-Poisson System by an External Electric Field Through Constrained Optimization**|Lukas Einkemmer et.al.|[2305.17994v1](http://arxiv.org/abs/2305.17994v1)|null|
 |**2023-05-29**|**Conditional Diffusion Models for Semantic 3D Medical Image Synthesis**|Zolnamar Dorjsembe et.al.|[2305.18453v1](http://arxiv.org/abs/2305.18453v1)|null|
 |**2023-05-26**|**Selective separability properties of Fréchet-Urysohn spaces and their products**|Serhii Bardyla et.al.|[2305.17059v1](http://arxiv.org/abs/2305.17059v1)|null|
-|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v1](http://arxiv.org/abs/2305.15905v1)|null|
 |**2023-02-19**|**The Fréchet derivative of the tensor t-function**|Kathryn Lund et.al.|[2302.09687v3](http://arxiv.org/abs/2302.09687v3)|[link](https://gitlab.com/katlund/t-frechet)|
 |**2023-05-22**|**U-DiT TTS: U-Diffusion Vision Transformer for Text-to-Speech**|Xin Jing et.al.|[2305.13195v1](http://arxiv.org/abs/2305.13195v1)|null|
-|**2022-02-10**|**Random Forest Weighted Local Fréchet Regression with Random Objects**|Rui Qiu et.al.|[2202.04912v3](http://arxiv.org/abs/2202.04912v3)|null|
-|**2023-05-16**|**Errors-in-variables Fréchet Regression with Low-rank Covariate Approximation**|Kyunghee Han et.al.|[2305.09282v1](http://arxiv.org/abs/2305.09282v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-21**|**Post-hoc Selection of Pareto-Optimal Solutions in Search and Recommendation**|Vincenzo Paparella et.al.|[2306.12165v1](http://arxiv.org/abs/2306.12165v1)|null|
+|**2023-06-20**|**The Bayesian Regularized Quantile Varying Coefficient Model**|Fei Zhou et.al.|[2306.11880v1](http://arxiv.org/abs/2306.11880v1)|null|
 |**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v1](http://arxiv.org/abs/2306.11518v1)|null|
 |**2023-01-11**|**RobustIV and controlfunctionIV: Causal Inference for Linear and Nonlinear Models with Invalid Instrumental Variables**|Taehyeon Koo et.al.|[2301.04412v2](http://arxiv.org/abs/2301.04412v2)|null|
 |**2023-06-19**|**Bayesian Variable Selection in Double Generalized Linear Tweedie Spatial Process Models**|Aritra Halder et.al.|[2306.11165v1](http://arxiv.org/abs/2306.11165v1)|null|
@@ -91,5 +93,3 @@
 |**2023-06-16**|**Optimizer's Information Criterion: Dissecting and Correcting Bias in Data-Driven Optimization**|Garud Iyengar et.al.|[2306.10081v1](http://arxiv.org/abs/2306.10081v1)|null|
 |**2023-06-08**|**Comprehensive Stepwise Selection for Logistic Regression**|Bernd Engelmann et.al.|[2306.04876v2](http://arxiv.org/abs/2306.04876v2)|[link](https://github.com/berndengelmann/csslr)|
 |**2023-06-15**|**AQuA: A Benchmarking Tool for Label Quality Assessment**|Mononito Goswami et.al.|[2306.09467v1](http://arxiv.org/abs/2306.09467v1)|null|
-|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v2](http://arxiv.org/abs/2306.03827v2)|null|
-|**2022-11-15**|**Sensitivity to control signals in triphasic rhythmic neural systems: a comparative mechanistic analysis via infinitesimal local timing response curves**|Zhuojun Yu et.al.|[2211.07834v2](http://arxiv.org/abs/2211.07834v2)|null|
