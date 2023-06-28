@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-06-28 07:25:08 Asia/Shanghai
+ Automated deployment @ 2023-06-28 19:22:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,44 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-26**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857v1](http://arxiv.org/abs/2306.14857v1)|null|
+|**2022-11-26**|**Latent Graph Inference using Product Manifolds**|Haitz Sáez de Ocáriz Borde et.al.|[2211.16199v3](http://arxiv.org/abs/2211.16199v3)|null|
+|**2023-06-27**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v1](http://arxiv.org/abs/2306.15632v1)|null|
+|**2023-06-20**|**Low Latency Edge Classification GNN for Particle Trajectory Tracking on FPGAs**|Shi-Yu Huang et.al.|[2306.11330v2](http://arxiv.org/abs/2306.11330v2)|null|
+|**2023-06-27**|**Higher-order Graph Attention Network for Stock Selection with Joint Analysis**|Yang Qiao et.al.|[2306.15526v1](http://arxiv.org/abs/2306.15526v1)|null|
+|**2023-02-15**|**Project Elements: A computational entity-component-system in a scene-graph pythonic framework, for a neural, geometric computer graphics curriculum**|George Papagiannakis et.al.|[2302.07691v3](http://arxiv.org/abs/2302.07691v3)|null|
+|**2023-04-21**|**Smart Learning to Find Dumb Contracts (Extended Version)**|Tamer Abdelaziz et.al.|[2304.10726v2](http://arxiv.org/abs/2304.10726v2)|null|
+|**2023-02-24**|**GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification**|Mengting Zhou et.al.|[2302.12814v2](http://arxiv.org/abs/2302.12814v2)|null|
+|**2023-06-26**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857v2](http://arxiv.org/abs/2306.14857v2)|null|
+|**2023-06-27**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427v1](http://arxiv.org/abs/2306.15427v1)|null|
+|**2023-06-07**|**Permutation Equivariant Graph Framelets for Heterophilous Graph Learning**|Jianfei Li et.al.|[2306.04265v2](http://arxiv.org/abs/2306.04265v2)|null|
+|**2023-01-31**|**DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models**|Haomin Wen et.al.|[2301.13629v2](http://arxiv.org/abs/2301.13629v2)|null|
+|**2023-04-27**|**Molecule-Morphology Contrastive Pretraining for Transferable Molecular Representation**|Cuong Q. Nguyen et.al.|[2305.09790v2](http://arxiv.org/abs/2305.09790v2)|[link](https://github.com/GSK-AI/mocop)|
+|**2023-06-27**|**Input-sensitive dense-sparse primitive compositions for GNN acceleration**|Damitha Lenadora et.al.|[2306.15155v1](http://arxiv.org/abs/2306.15155v1)|null|
+|**2022-09-14**|**MGG: Accelerating Graph Neural Networks with Fine-grained intra-kernel Communication-Computation Pipelining on Multi-GPU Platforms**|Yuke Wang et.al.|[2209.06800v3](http://arxiv.org/abs/2209.06800v3)|[link](https://github.com/YukeWang96/MGG-OSDI23-AE)|
 |**2023-06-26**|**Accelerating Molecular Graph Neural Networks via Knowledge Distillation**|Filip Ekström Kelvinius et.al.|[2306.14818v1](http://arxiv.org/abs/2306.14818v1)|null|
-|**2023-01-04**|**Deep Statistical Solver for Distribution System State Estimation**|Benjamin Habib et.al.|[2301.01835v3](http://arxiv.org/abs/2301.01835v3)|[link](https://github.com/tu-delft-ai-energy-lab/deep-statistical-solver-for-distribution-system-state-estimation)|
-|**2023-06-26**|**RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools**|Haochen Shi et.al.|[2306.14447v1](http://arxiv.org/abs/2306.14447v1)|null|
-|**2023-05-29**|**Networked Time Series Imputation via Position-aware Graph Enhanced Variational Autoencoders**|Dingsu Wang et.al.|[2305.18612v2](http://arxiv.org/abs/2305.18612v2)|null|
-|**2023-06-26**|**Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks**|Gaotang Li et.al.|[2306.14375v1](http://arxiv.org/abs/2306.14375v1)|[link](https://github.com/motivationss/igs)|
-|**2023-06-25**|**GPatcher: A Simple and Adaptive MLP Model for Alleviating Graph Heterophily**|Shuaicheng Zhang et.al.|[2306.14340v1](http://arxiv.org/abs/2306.14340v1)|null|
-|**2023-06-25**|**Real-time Seismic Intensity Prediction using Self-supervised Contrastive GNN for Earthquake Early Warning**|Rafid Umayer Murshed et.al.|[2306.14336v1](http://arxiv.org/abs/2306.14336v1)|null|
-|**2021-06-16**|**On the approximation capability of GNNs in node classification/regression tasks**|Giuseppe Alessio D'Inverno et.al.|[2106.08992v5](http://arxiv.org/abs/2106.08992v5)|null|
-|**2023-06-25**|**GPT-assisted learning of structure-property relationships by graph neural networks: Application to rare-earth doped phosphors**|Xiang Zhang et.al.|[2306.14238v1](http://arxiv.org/abs/2306.14238v1)|null|
-|**2023-06-25**|**Weisfeiler-Lehman Graph Kernel Method: A New Approach to Weak Chemical Tagging**|Yuan-Sen Ting et.al.|[2306.14206v1](http://arxiv.org/abs/2306.14206v1)|null|
-|**2023-05-28**|**ChatGPT Informed Graph Neural Network for Stock Movement Prediction**|Zihan Chen et.al.|[2306.03763v3](http://arxiv.org/abs/2306.03763v3)|null|
-|**2023-06-24**|**Leveraging Brain Modularity Prior for Interpretable Representation Learning of fMRI**|Qianqian Wang et.al.|[2306.14080v1](http://arxiv.org/abs/2306.14080v1)|null|
-|**2023-06-24**|**Modeling Graphs Beyond Hyperbolic: Graph Neural Networks in Symmetric Positive Definite Matrices**|Wei Zhao et.al.|[2306.14064v1](http://arxiv.org/abs/2306.14064v1)|[link](https://github.com/andyweizhao/spd4gnns)|
-|**2023-06-24**|**A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware**|Shichang Zhang et.al.|[2306.14052v1](http://arxiv.org/abs/2306.14052v1)|null|
 
-## Non-Euclidean Staistics
+## Variable Selection
 
-### Non Eculidean
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-23**|**Penalty Gradient Normalization for Generative Adversarial Networks**|Tian Xia et.al.|[2306.13576v1](http://arxiv.org/abs/2306.13576v1)|[link](https://github.com/sumorday/edgan-pytorch)|
-|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v2](http://arxiv.org/abs/2204.02482v2)|null|
-|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v2](http://arxiv.org/abs/2305.15905v2)|null|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v2](http://arxiv.org/abs/2306.08013v2)|null|
-|**2023-06-21**|**Fréchet Covariance and MANOVA Tests for Random Objects in Multiple Metric Spaces**|Alex Fout et.al.|[2306.12066v1](http://arxiv.org/abs/2306.12066v1)|null|
-|**2023-06-20**|**Eliminating Lipschitz Singularities in Diffusion Models**|Zhantao Yang et.al.|[2306.11251v1](http://arxiv.org/abs/2306.11251v1)|null|
-|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v1](http://arxiv.org/abs/2306.10065v1)|[link](https://github.com/viiika/diffusion-conductor)|
-|**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
-|**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
-|**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v3](http://arxiv.org/abs/2301.04218v3)|null|
-|**2023-06-05**|**Nonlinear Distributionally Robust Optimization**|Mohammed Rayyan Sheriff et.al.|[2306.03202v1](http://arxiv.org/abs/2306.03202v1)|null|
-|**2023-06-03**|**GAT-GAN : A Graph-Attention-based Time-Series Generative Adversarial Network**|Srikrishna Iyer et.al.|[2306.01999v1](http://arxiv.org/abs/2306.01999v1)|null|
-|**2023-05-29**|**Suppressing Instability in a Vlasov-Poisson System by an External Electric Field Through Constrained Optimization**|Lukas Einkemmer et.al.|[2305.17994v1](http://arxiv.org/abs/2305.17994v1)|null|
-|**2023-05-29**|**Conditional Diffusion Models for Semantic 3D Medical Image Synthesis**|Zolnamar Dorjsembe et.al.|[2305.18453v1](http://arxiv.org/abs/2305.18453v1)|null|
-|**2023-05-26**|**Selective separability properties of Fréchet-Urysohn spaces and their products**|Serhii Bardyla et.al.|[2305.17059v1](http://arxiv.org/abs/2305.17059v1)|null|
+|**2023-06-27**|**Robust and efficient projection predictive inference**|Yann McLatchie et.al.|[2306.15581v1](http://arxiv.org/abs/2306.15581v1)|null|
+|**2023-04-29**|**Limits of Model Selection under Transfer Learning**|Steve Hanneke et.al.|[2305.00152v2](http://arxiv.org/abs/2305.00152v2)|null|
+|**2022-08-05**|**A Proper Concordance Index for Time-Varying Risk**|A. Gandy et.al.|[2208.03213v2](http://arxiv.org/abs/2208.03213v2)|null|
+|**2023-01-08**|**A Modelling Framework for Regression with Collinearity**|Takeaki Kariya et.al.|[2301.03015v2](http://arxiv.org/abs/2301.03015v2)|null|
+|**2023-06-24**|**Post-Selection Inference for the Cox Model with Interval-Censored Data**|Jianrui Zhang et.al.|[2306.13870v1](http://arxiv.org/abs/2306.13870v1)|null|
+|**2023-06-24**|**High-dimensional outlier detection and variable selection via adaptive weighted mean regression**|Jiaqi Li et.al.|[2306.13850v1](http://arxiv.org/abs/2306.13850v1)|null|
+|**2023-06-23**|**Efficient Model Selection for Predictive Pattern Mining Model by Safe Pattern Pruning**|Takumi Yoshida et.al.|[2306.13561v1](http://arxiv.org/abs/2306.13561v1)|null|
+|**2023-06-04**|**The Functional Graphical Lasso**|Kartik G. Waghmare et.al.|[2306.02347v2](http://arxiv.org/abs/2306.02347v2)|null|
+|**2023-05-18**|**The warm inflation story**|Arjun Berera et.al.|[2305.10879v2](http://arxiv.org/abs/2305.10879v2)|null|
+|**2022-11-04**|**scikit-fda: A Python Package for Functional Data Analysis**|Carlos Ramos-Carreño et.al.|[2211.02566v2](http://arxiv.org/abs/2211.02566v2)|null|
+|**2023-06-22**|**Generalized Low-Rank Update: Model Parameter Bounds for Low-Rank Training Data Modifications**|Hiroyuki Hanada et.al.|[2306.12670v1](http://arxiv.org/abs/2306.12670v1)|null|
+|**2023-06-21**|**Structured Learning in Time-dependent Cox Models**|Guanbo Wang et.al.|[2306.12528v1](http://arxiv.org/abs/2306.12528v1)|[link](https://github.com/guanbo-w/sox_sim)|
+|**2023-06-21**|**Post-hoc Selection of Pareto-Optimal Solutions in Search and Recommendation**|Vincenzo Paparella et.al.|[2306.12165v1](http://arxiv.org/abs/2306.12165v1)|null|
+|**2023-06-20**|**The Bayesian Regularized Quantile Varying Coefficient Model**|Fei Zhou et.al.|[2306.11880v1](http://arxiv.org/abs/2306.11880v1)|[link](https://github.com/cenwu/pqrbayes)|
+|**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v1](http://arxiv.org/abs/2306.11518v1)|null|
+
+## Non-Euclidean Staistics
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,23 +75,21 @@
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 
-## Variable Selection
-
-### Variable selection
+### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-08-05**|**A Proper Concordance Index for Time-Varying Risk**|A. Gandy et.al.|[2208.03213v2](http://arxiv.org/abs/2208.03213v2)|null|
-|**2023-01-08**|**A Modelling Framework for Regression with Collinearity**|Takeaki Kariya et.al.|[2301.03015v2](http://arxiv.org/abs/2301.03015v2)|null|
-|**2023-06-24**|**Post-Selection Inference for the Cox Model with Interval-Censored Data**|Jianrui Zhang et.al.|[2306.13870v1](http://arxiv.org/abs/2306.13870v1)|null|
-|**2023-06-24**|**High-dimensional outlier detection and variable selection via adaptive weighted mean regression**|Jiaqi Li et.al.|[2306.13850v1](http://arxiv.org/abs/2306.13850v1)|null|
-|**2023-06-23**|**Efficient Model Selection for Predictive Pattern Mining Model by Safe Pattern Pruning**|Takumi Yoshida et.al.|[2306.13561v1](http://arxiv.org/abs/2306.13561v1)|null|
-|**2023-06-04**|**The Functional Graphical Lasso**|Kartik G. Waghmare et.al.|[2306.02347v2](http://arxiv.org/abs/2306.02347v2)|null|
-|**2023-05-18**|**The warm inflation story**|Arjun Berera et.al.|[2305.10879v2](http://arxiv.org/abs/2305.10879v2)|null|
-|**2022-11-04**|**scikit-fda: A Python Package for Functional Data Analysis**|Carlos Ramos-Carreño et.al.|[2211.02566v2](http://arxiv.org/abs/2211.02566v2)|null|
-|**2023-06-22**|**Generalized Low-Rank Update: Model Parameter Bounds for Low-Rank Training Data Modifications**|Hiroyuki Hanada et.al.|[2306.12670v1](http://arxiv.org/abs/2306.12670v1)|null|
-|**2023-06-21**|**Structured Learning in Time-dependent Cox Models**|Guanbo Wang et.al.|[2306.12528v1](http://arxiv.org/abs/2306.12528v1)|[link](https://github.com/guanbo-w/sox_sim)|
-|**2023-06-21**|**Post-hoc Selection of Pareto-Optimal Solutions in Search and Recommendation**|Vincenzo Paparella et.al.|[2306.12165v1](http://arxiv.org/abs/2306.12165v1)|null|
-|**2023-06-20**|**The Bayesian Regularized Quantile Varying Coefficient Model**|Fei Zhou et.al.|[2306.11880v1](http://arxiv.org/abs/2306.11880v1)|[link](https://github.com/cenwu/pqrbayes)|
-|**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v1](http://arxiv.org/abs/2306.11518v1)|null|
-|**2023-01-11**|**RobustIV and controlfunctionIV: Causal Inference for Linear and Nonlinear Models with Invalid Instrumental Variables**|Taehyeon Koo et.al.|[2301.04412v2](http://arxiv.org/abs/2301.04412v2)|null|
-|**2023-06-19**|**Bayesian Variable Selection in Double Generalized Linear Tweedie Spatial Process Models**|Aritra Halder et.al.|[2306.11165v1](http://arxiv.org/abs/2306.11165v1)|[link](https://github.com/arh926/sptwdglm)|
+|**2023-06-23**|**Penalty Gradient Normalization for Generative Adversarial Networks**|Tian Xia et.al.|[2306.13576v1](http://arxiv.org/abs/2306.13576v1)|[link](https://github.com/sumorday/edgan-pytorch)|
+|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v2](http://arxiv.org/abs/2204.02482v2)|null|
+|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v2](http://arxiv.org/abs/2305.15905v2)|null|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v2](http://arxiv.org/abs/2306.08013v2)|null|
+|**2023-06-21**|**Fréchet Covariance and MANOVA Tests for Random Objects in Multiple Metric Spaces**|Alex Fout et.al.|[2306.12066v1](http://arxiv.org/abs/2306.12066v1)|null|
+|**2023-06-20**|**Eliminating Lipschitz Singularities in Diffusion Models**|Zhantao Yang et.al.|[2306.11251v1](http://arxiv.org/abs/2306.11251v1)|null|
+|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v1](http://arxiv.org/abs/2306.10065v1)|[link](https://github.com/viiika/diffusion-conductor)|
+|**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
+|**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
+|**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v3](http://arxiv.org/abs/2301.04218v3)|null|
+|**2023-06-05**|**Nonlinear Distributionally Robust Optimization**|Mohammed Rayyan Sheriff et.al.|[2306.03202v1](http://arxiv.org/abs/2306.03202v1)|null|
+|**2023-06-03**|**GAT-GAN : A Graph-Attention-based Time-Series Generative Adversarial Network**|Srikrishna Iyer et.al.|[2306.01999v1](http://arxiv.org/abs/2306.01999v1)|null|
+|**2023-05-29**|**Suppressing Instability in a Vlasov-Poisson System by an External Electric Field Through Constrained Optimization**|Lukas Einkemmer et.al.|[2305.17994v1](http://arxiv.org/abs/2305.17994v1)|null|
+|**2023-05-29**|**Conditional Diffusion Models for Semantic 3D Medical Image Synthesis**|Zolnamar Dorjsembe et.al.|[2305.18453v1](http://arxiv.org/abs/2305.18453v1)|null|
+|**2023-05-26**|**Selective separability properties of Fréchet-Urysohn spaces and their products**|Serhii Bardyla et.al.|[2305.17059v1](http://arxiv.org/abs/2305.17059v1)|null|
