@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-03 07:23:46 Asia/Shanghai
+ Automated deployment @ 2023-07-03 19:21:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,44 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-30**|**Topologically Attributed Graphs for Shape Discrimination**|Justin Curry et.al.|[2306.17805v1](http://arxiv.org/abs/2306.17805v1)|null|
+|**2023-04-11**|**GRIL: A $2$-parameter Persistence Based Vectorization for Machine Learning**|Cheng Xin et.al.|[2304.04970v2](http://arxiv.org/abs/2304.04970v2)|[link](https://github.com/soham0209/mpml-graph)|
+|**2023-06-02**|**Transfer learning for atomistic simulations using GNNs and kernel mean embeddings**|John Falk et.al.|[2306.01589v2](http://arxiv.org/abs/2306.01589v2)|[link](https://github.com/isakfalk/atomistic_transfer_mekrr)|
+|**2023-06-30**|**Graphtester: Exploring Theoretical Boundaries of GNNs on Graph Datasets**|Eren Akbiyik et.al.|[2306.17482v1](http://arxiv.org/abs/2306.17482v1)|null|
+|**2023-06-30**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v1](http://arxiv.org/abs/2306.17408v1)|null|
+|**2023-06-29**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700v2](http://arxiv.org/abs/2306.16700v2)|null|
+|**2023-06-29**|**A Neural Separation Algorithm for the Rounded Capacity Inequalities**|Hyeonah Kim et.al.|[2306.17283v1](http://arxiv.org/abs/2306.17283v1)|null|
 |**2023-06-29**|**Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting**|Ngoc-Dung Do et.al.|[2306.17090v1](http://arxiv.org/abs/2306.17090v1)|null|
 |**2023-06-29**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976v1](http://arxiv.org/abs/2306.16976v1)|null|
-|**2023-06-29**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700v1](http://arxiv.org/abs/2306.16700v1)|null|
 |**2023-04-24**|**Impact-Oriented Contextual Scholar Profiling using Self-Citation Graphs**|Yuankai Luo et.al.|[2304.12217v3](http://arxiv.org/abs/2304.12217v3)|[link](https://github.com/visdata/geneticflow)|
 |**2022-10-24**|**Transformers over Directed Acyclic Graphs**|Yuankai Luo et.al.|[2210.13148v5](http://arxiv.org/abs/2210.13148v5)|[link](https://github.com/luoyk1999/dagformer)|
 |**2019-11-14**|**Understanding Graph Neural Networks with Generalized Geometric Scattering Transforms**|Michael Perlmutter et.al.|[1911.06253v5](http://arxiv.org/abs/1911.06253v5)|[link](https://github.com/atong01/trainable_symmetry)|
 |**2023-05-29**|**GazeGNN: A Gaze-Guided Graph Neural Network for Chest X-ray Classification**|Bin Wang et.al.|[2305.18221v2](http://arxiv.org/abs/2305.18221v2)|null|
 |**2022-06-13**|**Superiority of GNN over NN in generalizing bandlimited functions**|A. Martina Neuman et.al.|[2206.05904v7](http://arxiv.org/abs/2206.05904v7)|null|
 |**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384v1](http://arxiv.org/abs/2306.16384v1)|[link](https://github.com/jeongminpark417/gids)|
-|**2023-06-27**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v2](http://arxiv.org/abs/2306.15632v2)|null|
-|**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195v1](http://arxiv.org/abs/2306.16195v1)|null|
-|**2023-06-28**|**Mass Spectra Prediction with Structural Motif-based Graph Neural Networks**|Jiwon Park et.al.|[2306.16085v1](http://arxiv.org/abs/2306.16085v1)|null|
-|**2023-06-28**|**Graph neural networks for sound source localization on distributed microphone networks**|Eric Grinstein et.al.|[2306.16081v1](http://arxiv.org/abs/2306.16081v1)|[link](https://github.com/egrinstein/gnn_ssl)|
-|**2023-06-28**|**Graph Interpolation via Fast Fused-Gromovization**|Xinyu Ma et.al.|[2306.15963v1](http://arxiv.org/abs/2306.15963v1)|null|
-|**2023-06-28**|**Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting**|Arash Hajisafi et.al.|[2306.15927v1](http://arxiv.org/abs/2306.15927v1)|null|
 
-## Non-Euclidean Staistics
+## Variable Selection
 
-### Non Eculidean
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Yuan Sun et.al.|[2306.15857v1](http://arxiv.org/abs/2306.15857v1)|null|
-|**2023-06-23**|**Penalty Gradient Normalization for Generative Adversarial Networks**|Tian Xia et.al.|[2306.13576v1](http://arxiv.org/abs/2306.13576v1)|[link](https://github.com/sumorday/edgan-pytorch)|
-|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v2](http://arxiv.org/abs/2204.02482v2)|null|
-|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v2](http://arxiv.org/abs/2305.15905v2)|null|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v2](http://arxiv.org/abs/2306.08013v2)|null|
-|**2023-06-21**|**Fréchet Covariance and MANOVA Tests for Random Objects in Multiple Metric Spaces**|Alex Fout et.al.|[2306.12066v1](http://arxiv.org/abs/2306.12066v1)|null|
-|**2023-06-20**|**Eliminating Lipschitz Singularities in Diffusion Models**|Zhantao Yang et.al.|[2306.11251v1](http://arxiv.org/abs/2306.11251v1)|null|
-|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v1](http://arxiv.org/abs/2306.10065v1)|[link](https://github.com/viiika/diffusion-conductor)|
-|**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
-|**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
-|**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v3](http://arxiv.org/abs/2301.04218v3)|null|
-|**2023-06-05**|**Nonlinear Distributionally Robust Optimization**|Mohammed Rayyan Sheriff et.al.|[2306.03202v1](http://arxiv.org/abs/2306.03202v1)|null|
-|**2023-06-03**|**GAT-GAN : A Graph-Attention-based Time-Series Generative Adversarial Network**|Srikrishna Iyer et.al.|[2306.01999v1](http://arxiv.org/abs/2306.01999v1)|null|
-|**2023-05-29**|**Suppressing Instability in a Vlasov-Poisson System by an External Electric Field Through Constrained Optimization**|Lukas Einkemmer et.al.|[2305.17994v1](http://arxiv.org/abs/2305.17994v1)|null|
-|**2023-05-29**|**Conditional Diffusion Models for Semantic 3D Medical Image Synthesis**|Zolnamar Dorjsembe et.al.|[2305.18453v1](http://arxiv.org/abs/2305.18453v1)|null|
+|**2023-04-29**|**Limits of Model Selection under Transfer Learning**|Steve Hanneke et.al.|[2305.00152v3](http://arxiv.org/abs/2305.00152v3)|null|
+|**2023-06-29**|**Footprints of the QCD Crossover on Cosmological Gravitational Waves at Pulsar Timing Arrays**|Gabriele Franciolini et.al.|[2306.17136v1](http://arxiv.org/abs/2306.17136v1)|null|
+|**2023-06-29**|**Zipper: Addressing degeneracy in algorithm-agnostic inference**|Geng Chen et.al.|[2306.16852v1](http://arxiv.org/abs/2306.16852v1)|null|
+|**2022-05-09**|**Inference of multivariate exponential Hawkes processes with inhibition and application to neuronal activity**|Anna Bonnet et.al.|[2205.04107v4](http://arxiv.org/abs/2205.04107v4)|[link](https://github.com/migmtz/multivariate-hawkes-inhibition)|
+|**2023-06-29**|**Estimation and variable selection in a joint model of survival times and longitudinal outcomes with random effects**|Antoine Caillebotte et.al.|[2306.16765v1](http://arxiv.org/abs/2306.16765v1)|null|
+|**2021-03-10**|**Analyzing cross-talk between superimposed signals: Vector norm dependent hidden Markov models and applications to ion channels**|Laura Jula Vanegas et.al.|[2103.06071v3](http://arxiv.org/abs/2103.06071v3)|null|
+|**2023-06-28**|**The second data release from the European Pulsar Timing Array II. Customised pulsar noise models for spatially correlated gravitational waves**|J. Antoniadis et.al.|[2306.16225v1](http://arxiv.org/abs/2306.16225v1)|null|
+|**2023-06-28**|**Functional and variables selection in extreme value models for regional flood frequency analysis**|Aldo Gardini et.al.|[2306.16033v1](http://arxiv.org/abs/2306.16033v1)|null|
+|**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v3](http://arxiv.org/abs/2209.14509v3)|[link](https://github.com/yunfang1/smbhb-merger-delay)|
+|**2023-06-28**|**Evaluation of dynamic causal modelling and Bayesian model selection using simulations of networks of spiking neurons**|Matthew G. Thomas et.al.|[2306.15859v1](http://arxiv.org/abs/2306.15859v1)|[link](https://github.com/mgthomas1/thomas2023)|
+|**2023-06-27**|**Confidence-based Ensembles of End-to-End Speech Recognition Models**|Igor Gitman et.al.|[2306.15824v1](http://arxiv.org/abs/2306.15824v1)|null|
+|**2022-11-04**|**Near-optimal multiple testing in Bayesian linear models with finite-sample FDR control**|Taejoo Ahn et.al.|[2211.02778v2](http://arxiv.org/abs/2211.02778v2)|null|
+|**2023-03-16**|**PyVBMC: Efficient Bayesian inference in Python**|Bobby Huggins et.al.|[2303.09519v2](http://arxiv.org/abs/2303.09519v2)|[link](https://github.com/acerbilab/pyvbmc)|
+|**2023-06-27**|**Robust and efficient projection predictive inference**|Yann McLatchie et.al.|[2306.15581v1](http://arxiv.org/abs/2306.15581v1)|[link](https://github.com/yannmclatchie/projpred-workflow)|
+|**2022-08-05**|**A Proper Concordance Index for Time-Varying Risk**|A. Gandy et.al.|[2208.03213v2](http://arxiv.org/abs/2208.03213v2)|null|
+
+## Non-Euclidean Staistics
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,23 +75,21 @@
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 
-## Variable Selection
-
-### Variable selection
+### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-06-29**|**Footprints of the QCD Crossover on Cosmological Gravitational Waves at Pulsar Timing Arrays**|Gabriele Franciolini et.al.|[2306.17136v1](http://arxiv.org/abs/2306.17136v1)|null|
-|**2023-06-29**|**Zipper: Addressing degeneracy in algorithm-agnostic inference**|Geng Chen et.al.|[2306.16852v1](http://arxiv.org/abs/2306.16852v1)|null|
-|**2022-05-09**|**Inference of multivariate exponential Hawkes processes with inhibition and application to neuronal activity**|Anna Bonnet et.al.|[2205.04107v4](http://arxiv.org/abs/2205.04107v4)|[link](https://github.com/migmtz/multivariate-hawkes-inhibition)|
-|**2023-06-29**|**Estimation and variable selection in a joint model of survival times and longitudinal outcomes with random effects**|Antoine Caillebotte et.al.|[2306.16765v1](http://arxiv.org/abs/2306.16765v1)|null|
-|**2021-03-10**|**Analyzing cross-talk between superimposed signals: Vector norm dependent hidden Markov models and applications to ion channels**|Laura Jula Vanegas et.al.|[2103.06071v3](http://arxiv.org/abs/2103.06071v3)|null|
-|**2023-06-28**|**The second data release from the European Pulsar Timing Array II. Customised pulsar noise models for spatially correlated gravitational waves**|J. Antoniadis et.al.|[2306.16225v1](http://arxiv.org/abs/2306.16225v1)|null|
-|**2023-06-28**|**Functional and variables selection in extreme value models for regional flood frequency analysis**|Aldo Gardini et.al.|[2306.16033v1](http://arxiv.org/abs/2306.16033v1)|null|
-|**2022-09-29**|**Probing the Delay Time of Supermassive Black Hole Binary Mergers With Gravitational Waves**|Yun Fang et.al.|[2209.14509v3](http://arxiv.org/abs/2209.14509v3)|[link](https://github.com/yunfang1/smbhb-merger-delay)|
-|**2023-06-28**|**Evaluation of dynamic causal modelling and Bayesian model selection using simulations of networks of spiking neurons**|Matthew G. Thomas et.al.|[2306.15859v1](http://arxiv.org/abs/2306.15859v1)|[link](https://github.com/mgthomas1/thomas2023)|
-|**2023-06-27**|**Confidence-based Ensembles of End-to-End Speech Recognition Models**|Igor Gitman et.al.|[2306.15824v1](http://arxiv.org/abs/2306.15824v1)|null|
-|**2022-11-04**|**Near-optimal multiple testing in Bayesian linear models with finite-sample FDR control**|Taejoo Ahn et.al.|[2211.02778v2](http://arxiv.org/abs/2211.02778v2)|null|
-|**2023-03-16**|**PyVBMC: Efficient Bayesian inference in Python**|Bobby Huggins et.al.|[2303.09519v2](http://arxiv.org/abs/2303.09519v2)|[link](https://github.com/acerbilab/pyvbmc)|
-|**2023-06-27**|**Robust and efficient projection predictive inference**|Yann McLatchie et.al.|[2306.15581v1](http://arxiv.org/abs/2306.15581v1)|[link](https://github.com/yannmclatchie/projpred-workflow)|
-|**2023-04-29**|**Limits of Model Selection under Transfer Learning**|Steve Hanneke et.al.|[2305.00152v2](http://arxiv.org/abs/2305.00152v2)|null|
-|**2022-08-05**|**A Proper Concordance Index for Time-Varying Risk**|A. Gandy et.al.|[2208.03213v2](http://arxiv.org/abs/2208.03213v2)|null|
+|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Yuan Sun et.al.|[2306.15857v1](http://arxiv.org/abs/2306.15857v1)|null|
+|**2023-06-23**|**Penalty Gradient Normalization for Generative Adversarial Networks**|Tian Xia et.al.|[2306.13576v1](http://arxiv.org/abs/2306.13576v1)|[link](https://github.com/sumorday/edgan-pytorch)|
+|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v2](http://arxiv.org/abs/2204.02482v2)|null|
+|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v2](http://arxiv.org/abs/2305.15905v2)|null|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v2](http://arxiv.org/abs/2306.08013v2)|null|
+|**2023-06-21**|**Fréchet Covariance and MANOVA Tests for Random Objects in Multiple Metric Spaces**|Alex Fout et.al.|[2306.12066v1](http://arxiv.org/abs/2306.12066v1)|null|
+|**2023-06-20**|**Eliminating Lipschitz Singularities in Diffusion Models**|Zhantao Yang et.al.|[2306.11251v1](http://arxiv.org/abs/2306.11251v1)|null|
+|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v1](http://arxiv.org/abs/2306.10065v1)|[link](https://github.com/viiika/diffusion-conductor)|
+|**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
+|**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
+|**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v3](http://arxiv.org/abs/2301.04218v3)|null|
+|**2023-06-05**|**Nonlinear Distributionally Robust Optimization**|Mohammed Rayyan Sheriff et.al.|[2306.03202v1](http://arxiv.org/abs/2306.03202v1)|null|
+|**2023-06-03**|**GAT-GAN : A Graph-Attention-based Time-Series Generative Adversarial Network**|Srikrishna Iyer et.al.|[2306.01999v1](http://arxiv.org/abs/2306.01999v1)|null|
+|**2023-05-29**|**Suppressing Instability in a Vlasov-Poisson System by an External Electric Field Through Constrained Optimization**|Lukas Einkemmer et.al.|[2305.17994v1](http://arxiv.org/abs/2305.17994v1)|null|
+|**2023-05-29**|**Conditional Diffusion Models for Semantic 3D Medical Image Synthesis**|Zolnamar Dorjsembe et.al.|[2305.18453v1](http://arxiv.org/abs/2305.18453v1)|null|
