@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-04 07:25:59 Asia/Shanghai
+ Automated deployment @ 2023-07-04 19:22:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-10-11**|**Embeddings as Epistemic States: Limitations on the Use of Pooling Operators for Accumulating Knowledge**|Steven Schockaert et.al.|[2210.05723v2](http://arxiv.org/abs/2210.05723v2)|null|
+|**2023-06-30**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v2](http://arxiv.org/abs/2306.17408v2)|null|
+|**2021-12-30**|**Motif Graph Neural Network**|Xuexin Chen et.al.|[2112.14900v3](http://arxiv.org/abs/2112.14900v3)|null|
+|**2023-04-16**|**Towards Better Evaluation of GNN Expressiveness with BREC Dataset**|Yanbo Wang et.al.|[2304.07702v3](http://arxiv.org/abs/2304.07702v3)|[link](https://github.com/graphpku/brec)|
+|**2023-06-02**|**Transfer learning for atomistic simulations using GNNs and kernel mean embeddings**|John Falk et.al.|[2306.01589v3](http://arxiv.org/abs/2306.01589v3)|[link](https://github.com/isakfalk/atomistic_transfer_mekrr)|
+|**2022-10-19**|**RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations**|Zirui Liu et.al.|[2210.10737v2](http://arxiv.org/abs/2210.10737v2)|null|
+|**2023-06-22**|**On Addressing the Limitations of Graph Neural Networks**|Sitao Luan et.al.|[2306.12640v2](http://arxiv.org/abs/2306.12640v2)|null|
+|**2023-02-21**|**Likelihood Annealing: Fast Calibrated Uncertainty for Regression**|Uddeshya Upadhyay et.al.|[2302.11012v2](http://arxiv.org/abs/2302.11012v2)|null|
+|**2023-06-01**|**Reconstructing Graph Diffusion History from a Single Snapshot**|Ruizhong Qiu et.al.|[2306.00488v3](http://arxiv.org/abs/2306.00488v3)|[link](https://github.com/q-rz/kdd23-ditto)|
+|**2022-11-06**|**Unlearning Graph Classifiers with Limited Data Resources**|Chao Pan et.al.|[2211.03216v2](http://arxiv.org/abs/2211.03216v2)|null|
+|**2023-02-24**|**Graph Neural Networks with Learnable and Optimal Polynomial Bases**|Yuhe Guo et.al.|[2302.12432v2](http://arxiv.org/abs/2302.12432v2)|[link](https://github.com/yuziGuo/FarOptBasis)|
+|**2023-04-27**|**Interactive Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540v3](http://arxiv.org/abs/2304.14540v3)|null|
 |**2023-06-30**|**Topologically Attributed Graphs for Shape Discrimination**|Justin Curry et.al.|[2306.17805v1](http://arxiv.org/abs/2306.17805v1)|null|
 |**2023-04-11**|**GRIL: A $2$-parameter Persistence Based Vectorization for Machine Learning**|Cheng Xin et.al.|[2304.04970v2](http://arxiv.org/abs/2304.04970v2)|[link](https://github.com/soham0209/mpml-graph)|
-|**2023-06-02**|**Transfer learning for atomistic simulations using GNNs and kernel mean embeddings**|John Falk et.al.|[2306.01589v2](http://arxiv.org/abs/2306.01589v2)|[link](https://github.com/isakfalk/atomistic_transfer_mekrr)|
 |**2023-06-30**|**Graphtester: Exploring Theoretical Boundaries of GNNs on Graph Datasets**|Eren Akbiyik et.al.|[2306.17482v1](http://arxiv.org/abs/2306.17482v1)|null|
-|**2023-06-30**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v1](http://arxiv.org/abs/2306.17408v1)|null|
-|**2023-06-29**|**Dynamic-Resolution Model Learning for Object Pile Manipulation**|Yixuan Wang et.al.|[2306.16700v2](http://arxiv.org/abs/2306.16700v2)|null|
-|**2023-06-29**|**A Neural Separation Algorithm for the Rounded Capacity Inequalities**|Hyeonah Kim et.al.|[2306.17283v1](http://arxiv.org/abs/2306.17283v1)|null|
-|**2023-06-29**|**Sparsity exploitation via discovering graphical models in multi-variate time-series forecasting**|Ngoc-Dung Do et.al.|[2306.17090v1](http://arxiv.org/abs/2306.17090v1)|null|
-|**2023-06-29**|**Diffusion-Jump GNNs: Homophiliation via Learnable Metric Filters**|Ahmed Begga et.al.|[2306.16976v1](http://arxiv.org/abs/2306.16976v1)|null|
-|**2023-04-24**|**Impact-Oriented Contextual Scholar Profiling using Self-Citation Graphs**|Yuankai Luo et.al.|[2304.12217v3](http://arxiv.org/abs/2304.12217v3)|[link](https://github.com/visdata/geneticflow)|
-|**2022-10-24**|**Transformers over Directed Acyclic Graphs**|Yuankai Luo et.al.|[2210.13148v5](http://arxiv.org/abs/2210.13148v5)|[link](https://github.com/luoyk1999/dagformer)|
-|**2019-11-14**|**Understanding Graph Neural Networks with Generalized Geometric Scattering Transforms**|Michael Perlmutter et.al.|[1911.06253v5](http://arxiv.org/abs/1911.06253v5)|[link](https://github.com/atong01/trainable_symmetry)|
-|**2023-05-29**|**GazeGNN: A Gaze-Guided Graph Neural Network for Chest X-ray Classification**|Bin Wang et.al.|[2305.18221v2](http://arxiv.org/abs/2305.18221v2)|null|
-|**2022-06-13**|**Superiority of GNN over NN in generalizing bandlimited functions**|A. Martina Neuman et.al.|[2206.05904v7](http://arxiv.org/abs/2206.05904v7)|null|
-|**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384v1](http://arxiv.org/abs/2306.16384v1)|[link](https://github.com/jeongminpark417/gids)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-07-22**|**Direct determination of optimal real-space orbitals for correlated electronic structure of molecules**|Edward F. Valeev et.al.|[2207.10841v2](http://arxiv.org/abs/2207.10841v2)|null|
+|**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v3](http://arxiv.org/abs/2303.17856v3)|null|
 |**2023-04-29**|**Limits of Model Selection under Transfer Learning**|Steve Hanneke et.al.|[2305.00152v3](http://arxiv.org/abs/2305.00152v3)|null|
 |**2023-06-29**|**Footprints of the QCD Crossover on Cosmological Gravitational Waves at Pulsar Timing Arrays**|Gabriele Franciolini et.al.|[2306.17136v1](http://arxiv.org/abs/2306.17136v1)|null|
 |**2023-06-29**|**Zipper: Addressing degeneracy in algorithm-agnostic inference**|Geng Chen et.al.|[2306.16852v1](http://arxiv.org/abs/2306.16852v1)|null|
@@ -91,5 +93,3 @@
 |**2023-06-27**|**Confidence-based Ensembles of End-to-End Speech Recognition Models**|Igor Gitman et.al.|[2306.15824v1](http://arxiv.org/abs/2306.15824v1)|null|
 |**2022-11-04**|**Near-optimal multiple testing in Bayesian linear models with finite-sample FDR control**|Taejoo Ahn et.al.|[2211.02778v2](http://arxiv.org/abs/2211.02778v2)|null|
 |**2023-03-16**|**PyVBMC: Efficient Bayesian inference in Python**|Bobby Huggins et.al.|[2303.09519v2](http://arxiv.org/abs/2303.09519v2)|[link](https://github.com/acerbilab/pyvbmc)|
-|**2023-06-27**|**Robust and efficient projection predictive inference**|Yann McLatchie et.al.|[2306.15581v1](http://arxiv.org/abs/2306.15581v1)|[link](https://github.com/yannmclatchie/projpred-workflow)|
-|**2022-08-05**|**A Proper Concordance Index for Time-Varying Risk**|A. Gandy et.al.|[2208.03213v2](http://arxiv.org/abs/2208.03213v2)|null|
