@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-16 07:23:51 Asia/Shanghai
+ Automated deployment @ 2023-07-16 19:20:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -80,7 +80,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-01-27**|**A Deep Learning Method for Comparing Bayesian Hierarchical Models**|Lasse Elsemüller et.al.|[2301.11873v3](http://arxiv.org/abs/2301.11873v3)|[link](https://github.com/bayesflow-org/hierarchical-model-comparison)|
 |**2023-07-13**|**Introducing Foundation Models as Surrogate Models: Advancing Towards More Practical Adversarial Attacks**|Jiaming Zhang et.al.|[2307.06608v1](http://arxiv.org/abs/2307.06608v1)|null|
-|**2023-07-13**|**DSV: An Alignment Validation Loss for Self-supervised Outlier Model Selection**|Jaemin Yoo et.al.|[2307.06534v1](http://arxiv.org/abs/2307.06534v1)|null|
+|**2023-07-13**|**DSV: An Alignment Validation Loss for Self-supervised Outlier Model Selection**|Jaemin Yoo et.al.|[2307.06534v1](http://arxiv.org/abs/2307.06534v1)|[link](https://github.com/jaeminyoo/dsv)|
 |**2023-04-14**|**Spectroscopic follow-up of black hole and neutron star candidates in ellipsoidal variables from Gaia DR3**|Pranav Nagarajan et.al.|[2304.07324v2](http://arxiv.org/abs/2304.07324v2)|null|
 |**2023-07-12**|**Deep learning for dynamic graphs: models and benchmarks**|Alessio Gravina et.al.|[2307.06104v1](http://arxiv.org/abs/2307.06104v1)|null|
 |**2023-07-12**|**Online Laplace Model Selection Revisited**|Jihao Andreas Lin et.al.|[2307.06093v1](http://arxiv.org/abs/2307.06093v1)|null|
