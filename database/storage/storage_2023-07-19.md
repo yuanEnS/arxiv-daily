@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-19 07:21:53 Asia/Shanghai
+ Automated deployment @ 2023-07-19 19:19:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-18**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|null|
+|**2023-05-22**|**Causal-Based Supervision of Attention in Graph Neural Network: A Better and Simpler Choice towards Powerful Attention**|Hongjun Wang et.al.|[2305.13115v2](http://arxiv.org/abs/2305.13115v2)|null|
+|**2023-05-02**|**Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks**|Philipp Christmann et.al.|[2305.01548v2](http://arxiv.org/abs/2305.01548v2)|null|
+|**2023-07-18**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065v1](http://arxiv.org/abs/2307.09065v1)|null|
+|**2023-07-18**|**Sharpness-Aware Graph Collaborative Filtering**|Huiyuan Chen et.al.|[2307.08910v1](http://arxiv.org/abs/2307.08910v1)|null|
+|**2023-07-17**|**Disentangling Node Attributes from Graph Topology for Improved Generalizability in Link Prediction**|Ayan Chatterjee et.al.|[2307.08877v1](http://arxiv.org/abs/2307.08877v1)|[link](https://github.com/chatterjeeayan/upna)|
+|**2023-07-17**|**Latent Space Representations of Neural Algorithmic Reasoners**|Vladimir V. Mirjanić et.al.|[2307.08874v1](http://arxiv.org/abs/2307.08874v1)|[link](https://github.com/mirjanic/nar-latent-spaces)|
+|**2023-07-17**|**Curriculum Learning for Graph Neural Networks: A Multiview Competence-based Approach**|Nidhi Vakil et.al.|[2307.08859v1](http://arxiv.org/abs/2307.08859v1)|null|
 |**2023-07-17**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636v1](http://arxiv.org/abs/2307.08636v1)|null|
 |**2023-07-17**|**G-Scan: Graph Neural Networks for Line-Level Vulnerability Identification in Smart Contracts**|Christoph Sendner et.al.|[2307.08549v1](http://arxiv.org/abs/2307.08549v1)|null|
 |**2023-07-17**|**Towards eXplainable AI for Mobility Data Science**|Anahid Jalali et.al.|[2307.08461v1](http://arxiv.org/abs/2307.08461v1)|null|
@@ -24,41 +32,13 @@
 |**2022-10-25**|**Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective from the Time-Frequency Analysis**|Ce Ju et.al.|[2211.02641v3](http://arxiv.org/abs/2211.02641v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2022-10-25**|**FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**|Yulin Zhu et.al.|[2210.13815v2](http://arxiv.org/abs/2210.13815v2)|null|
 |**2023-07-17**|**Long-range Dependency based Multi-Layer Perceptron for Heterogeneous Information Networks**|Chao Li et.al.|[2307.08430v1](http://arxiv.org/abs/2307.08430v1)|[link](https://github.com/jhl-hust/ldmlp)|
-|**2023-07-17**|**Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection**|Yu Zheng et.al.|[2307.08390v1](http://arxiv.org/abs/2307.08390v1)|null|
-|**2023-07-03**|**PIGNet2: A Versatile Deep Learning-based Protein-Ligand Interaction Prediction Model for Binding Affinity Scoring and Virtual Screening**|Seokhyun Moon et.al.|[2307.01066v2](http://arxiv.org/abs/2307.01066v2)|null|
-|**2022-06-26**|**Efficiently Leveraging Multi-level User Intent for Session-based Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v3](http://arxiv.org/abs/2206.12781v3)|[link](https://github.com/Peiyance/Atten-Mixer-torch)|
-|**2023-07-16**|**Heterogeneous graphs model spatial relationships between biological entities for breast cancer diagnosis**|Akhila Krishna K et.al.|[2307.08132v1](http://arxiv.org/abs/2307.08132v1)|null|
-|**2023-07-16**|**INFLECT-DGNN: Influencer Prediction with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2307.08131v1](http://arxiv.org/abs/2307.08131v1)|[link](https://github.com/banking-analytics-lab/inflect)|
-|**2023-07-16**|**MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment**|Mohanad Odema et.al.|[2307.08065v1](http://arxiv.org/abs/2307.08065v1)|null|
-|**2023-07-16**|**Automated Polynomial Filter Learning for Graph Neural Networks**|Wendi Yu et.al.|[2307.07956v1](http://arxiv.org/abs/2307.07956v1)|null|
-|**2023-07-11**|**Supervised Attention Using Homophily in Graph Neural Networks**|Michail Chatzianastasis et.al.|[2307.05217v2](http://arxiv.org/abs/2307.05217v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-16**|**Understanding Best Subset Selection: A Tale of Two C(omplex)ities**|Saptarshi Roy et.al.|[2301.06259v2](http://arxiv.org/abs/2301.06259v2)|null|
-|**2023-07-14**|**DataAssist: A Machine Learning Approach to Data Cleaning and Preparation**|Kartikay Goyle et.al.|[2307.07119v2](http://arxiv.org/abs/2307.07119v2)|null|
-|**2022-03-01**|**Fitting a stochastic model of intensive care occupancy to noisy hospitalization time series during the COVID-19 pandemic**|Achal Awasthi et.al.|[2203.00229v4](http://arxiv.org/abs/2203.00229v4)|null|
-|**2023-07-17**|**Zero-th Order Algorithm for Softmax Attention Optimization**|Yichuan Deng et.al.|[2307.08352v1](http://arxiv.org/abs/2307.08352v1)|null|
-|**2023-07-17**|**A Secure Aggregation for Federated Learning on Long-Tailed Data**|Yanna Jiang et.al.|[2307.08324v1](http://arxiv.org/abs/2307.08324v1)|null|
-|**2023-01-04**|**Projection predictive variable selection for discrete response families with finite support**|Frank Weber et.al.|[2301.01660v2](http://arxiv.org/abs/2301.01660v2)|null|
-|**2023-07-17**|**An Empirical Investigation of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration**|Hiroki Naganuma et.al.|[2307.08187v1](http://arxiv.org/abs/2307.08187v1)|null|
-|**2023-07-15**|**Determination of Lens Mass Density Profile from Strongly-Lensed Gravitational-Wave Signals**|Mick Wright et.al.|[2307.07852v1](http://arxiv.org/abs/2307.07852v1)|null|
-|**2023-07-15**|**The Interpolating Information Criterion for Overparameterized Models**|Liam Hodgkinson et.al.|[2307.07785v1](http://arxiv.org/abs/2307.07785v1)|null|
-|**2023-07-14**|**Sparsified Simultaneous Confidence Intervals for High-Dimensional Linear Models**|Xiaorui Zhu et.al.|[2307.07574v1](http://arxiv.org/abs/2307.07574v1)|null|
-|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v3](http://arxiv.org/abs/2206.04902v3)|null|
-|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336v1](http://arxiv.org/abs/2307.07336v1)|null|
-|**2023-01-27**|**A Deep Learning Method for Comparing Bayesian Hierarchical Models**|Lasse Elsemüller et.al.|[2301.11873v3](http://arxiv.org/abs/2301.11873v3)|[link](https://github.com/bayesflow-org/hierarchical-model-comparison)|
-|**2023-07-13**|**Introducing Foundation Models as Surrogate Models: Advancing Towards More Practical Adversarial Attacks**|Jiaming Zhang et.al.|[2307.06608v1](http://arxiv.org/abs/2307.06608v1)|null|
-|**2023-07-13**|**DSV: An Alignment Validation Loss for Self-supervised Outlier Model Selection**|Jaemin Yoo et.al.|[2307.06534v1](http://arxiv.org/abs/2307.06534v1)|[link](https://github.com/jaeminyoo/dsv)|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-18**|**A Fréchet-Lie group on distributions**|Manon Ryckebusch et.al.|[2307.09037v1](http://arxiv.org/abs/2307.09037v1)|null|
 |**2021-08-11**|**Single Index Fréchet Regression**|Satarupa Bhattacharjee et.al.|[2108.05437v2](http://arxiv.org/abs/2108.05437v2)|null|
 |**2023-07-10**|**On the first bifurcation of Stokes waves**|Vladimir Kozlov et.al.|[2307.05573v1](http://arxiv.org/abs/2307.05573v1)|null|
 |**2020-07-01**|**Deformations and embeddings of three-dimensional strictly pseudoconvex CR manifolds**|Sean N. Curry et.al.|[2007.00547v2](http://arxiv.org/abs/2007.00547v2)|null|
@@ -73,7 +53,6 @@
 |**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
 |**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
 |**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander Blasingame et.al.|[2301.04218v3](http://arxiv.org/abs/2301.04218v3)|null|
-|**2023-06-05**|**Nonlinear Distributionally Robust Optimization**|Mohammed Rayyan Sheriff et.al.|[2306.03202v1](http://arxiv.org/abs/2306.03202v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -93,3 +72,24 @@
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-18**|**Sparse Gaussian Graphical Models with Discrete Optimization: Computational and Statistical Perspectives**|Kayhan Behdin et.al.|[2307.09366v1](http://arxiv.org/abs/2307.09366v1)|null|
+|**2023-07-18**|**Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**|Kaavya Rekanar et.al.|[2307.09329v1](http://arxiv.org/abs/2307.09329v1)|[link](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)|
+|**2022-01-05**|**High-dimensional variable selection with heterogeneous signals: A precise asymptotic perspective**|Saptarshi Roy et.al.|[2201.01508v3](http://arxiv.org/abs/2201.01508v3)|null|
+|**2023-01-16**|**Understanding Best Subset Selection: A Tale of Two C(omplex)ities**|Saptarshi Roy et.al.|[2301.06259v2](http://arxiv.org/abs/2301.06259v2)|null|
+|**2023-07-14**|**DataAssist: A Machine Learning Approach to Data Cleaning and Preparation**|Kartikay Goyle et.al.|[2307.07119v2](http://arxiv.org/abs/2307.07119v2)|null|
+|**2022-03-01**|**Fitting a stochastic model of intensive care occupancy to noisy hospitalization time series during the COVID-19 pandemic**|Achal Awasthi et.al.|[2203.00229v4](http://arxiv.org/abs/2203.00229v4)|null|
+|**2023-07-17**|**Zero-th Order Algorithm for Softmax Attention Optimization**|Yichuan Deng et.al.|[2307.08352v1](http://arxiv.org/abs/2307.08352v1)|null|
+|**2023-07-17**|**A Secure Aggregation for Federated Learning on Long-Tailed Data**|Yanna Jiang et.al.|[2307.08324v1](http://arxiv.org/abs/2307.08324v1)|null|
+|**2023-01-04**|**Projection predictive variable selection for discrete response families with finite support**|Frank Weber et.al.|[2301.01660v2](http://arxiv.org/abs/2301.01660v2)|null|
+|**2023-07-17**|**An Empirical Investigation of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration**|Hiroki Naganuma et.al.|[2307.08187v1](http://arxiv.org/abs/2307.08187v1)|null|
+|**2023-07-15**|**Determination of Lens Mass Density Profile from Strongly-Lensed Gravitational-Wave Signals**|Mick Wright et.al.|[2307.07852v1](http://arxiv.org/abs/2307.07852v1)|null|
+|**2023-07-15**|**The Interpolating Information Criterion for Overparameterized Models**|Liam Hodgkinson et.al.|[2307.07785v1](http://arxiv.org/abs/2307.07785v1)|null|
+|**2023-07-14**|**Sparsified Simultaneous Confidence Intervals for High-Dimensional Linear Models**|Xiaorui Zhu et.al.|[2307.07574v1](http://arxiv.org/abs/2307.07574v1)|null|
+|**2022-06-10**|**Forecasting macroeconomic data with Bayesian VARs: Sparse or dense? It depends!**|Luis Gruber et.al.|[2206.04902v3](http://arxiv.org/abs/2206.04902v3)|null|
+|**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336v1](http://arxiv.org/abs/2307.07336v1)|null|
