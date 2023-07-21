@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-21 07:22:08 Asia/Shanghai
+ Automated deployment @ 2023-07-21 19:19:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,11 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-04-30**|**HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding**|Xiaosong Jia et.al.|[2205.09753v2](http://arxiv.org/abs/2205.09753v2)|[link](https://github.com/openperceptionx/hdgt)|
+|**2023-07-20**|**A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System Fault Detection**|Tianfu Li et.al.|[2307.10676v1](http://arxiv.org/abs/2307.10676v1)|null|
+|**2023-07-20**|**Air Traffic Controller Workload Level Prediction using Conformalized Dynamical Graph Learning**|Yutian Pang et.al.|[2307.10559v1](http://arxiv.org/abs/2307.10559v1)|[link](https://github.com/ymlasu/para-atm-collection)|
+|**2023-07-20**|**Power Allocation for Device-to-Device Interference Channel Using Truncated Graph Transformers**|Dohoon Kim et.al.|[2307.10538v1](http://arxiv.org/abs/2307.10538v1)|null|
+|**2023-07-19**|**Uncertainty Quantification for Molecular Property Predictions with Graph Neural Architecture Search**|Shengli Jiang et.al.|[2307.10438v1](http://arxiv.org/abs/2307.10438v1)|null|
 |**2022-03-28**|**Discovering dynamic laws from observations: the case of self-propelled, interacting colloids**|Miguel Ruiz-Garcia et.al.|[2203.14846v4](http://arxiv.org/abs/2203.14846v4)|null|
 |**2022-05-20**|**Tackling Provably Hard Representative Selection via Graph Neural Networks**|Mehran Kazemi et.al.|[2205.10403v2](http://arxiv.org/abs/2205.10403v2)|[link](https://github.com/google-research/google-research)|
 |**2023-07-19**|**AutoAMG($θ$): An Auto-tuned AMG Method Based on Deep Learning for Strong Threshold**|Haifeng Zou et.al.|[2307.09879v1](http://arxiv.org/abs/2307.09879v1)|null|
@@ -27,11 +32,6 @@
 |**2023-07-18**|**Anticipating Technical Expertise and Capability Evolution in Research Communities using Dynamic Graph Transformers**|Sameera Horawalavithana et.al.|[2307.09665v1](http://arxiv.org/abs/2307.09665v1)|null|
 |**2023-07-18**|**Neural Priority Queues for Graph Neural Networks**|Rishabh Jain et.al.|[2307.09660v1](http://arxiv.org/abs/2307.09660v1)|null|
 |**2023-07-18**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|null|
-|**2023-05-22**|**Causal-Based Supervision of Attention in Graph Neural Network: A Better and Simpler Choice towards Powerful Attention**|Hongjun Wang et.al.|[2305.13115v2](http://arxiv.org/abs/2305.13115v2)|null|
-|**2023-05-02**|**Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks**|Philipp Christmann et.al.|[2305.01548v2](http://arxiv.org/abs/2305.01548v2)|null|
-|**2023-07-18**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065v1](http://arxiv.org/abs/2307.09065v1)|null|
-|**2023-07-18**|**Sharpness-Aware Graph Collaborative Filtering**|Huiyuan Chen et.al.|[2307.08910v1](http://arxiv.org/abs/2307.08910v1)|null|
-|**2023-07-17**|**Disentangling Node Attributes from Graph Topology for Improved Generalizability in Link Prediction**|Ayan Chatterjee et.al.|[2307.08877v1](http://arxiv.org/abs/2307.08877v1)|[link](https://github.com/chatterjeeayan/upna)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,11 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2021-07-07**|**Model Selection for Generic Contextual Bandits**|Avishek Ghosh et.al.|[2107.03455v2](http://arxiv.org/abs/2107.03455v2)|null|
+|**2023-02-09**|**Consistent Group selection using Global-local prior in High dimensional setup**|Sayantan Paul et.al.|[2302.04715v2](http://arxiv.org/abs/2302.04715v2)|null|
+|**2022-12-05**|**Hubble constant by natural selection: Evolution chips in the Hubble tension**|Reginald Christian Bernardo et.al.|[2212.02203v3](http://arxiv.org/abs/2212.02203v3)|[link](https://github.com/reggiebernardo/notebooks)|
+|**2023-07-20**|**Fast Unsupervised Deep Outlier Model Selection with Hypernetworks**|Xueying Ding et.al.|[2307.10529v1](http://arxiv.org/abs/2307.10529v1)|null|
+|**2023-07-19**|**Latent Gaussian dynamic factor modeling and forecasting for multivariate count time series**|Younghoon Kim et.al.|[2307.10454v1](http://arxiv.org/abs/2307.10454v1)|null|
 |**2023-06-29**|**Footprints of the QCD Crossover on Cosmological Gravitational Waves at Pulsar Timing Arrays**|Gabriele Franciolini et.al.|[2306.17136v2](http://arxiv.org/abs/2306.17136v2)|null|
 |**2023-07-19**|**Robust Bayesian Functional Principal Component Analysis**|Jiarui Zhang et.al.|[2307.09731v1](http://arxiv.org/abs/2307.09731v1)|[link](https://github.com/sfu-stat-ml/rbfpca)|
 |**2023-07-18**|**Self-Compatibility: Evaluating Causal Discovery without Ground Truth**|Philipp M. Faller et.al.|[2307.09552v1](http://arxiv.org/abs/2307.09552v1)|null|
@@ -88,8 +93,3 @@
 |**2023-07-14**|**DataAssist: A Machine Learning Approach to Data Cleaning and Preparation**|Kartikay Goyle et.al.|[2307.07119v2](http://arxiv.org/abs/2307.07119v2)|null|
 |**2022-03-01**|**Fitting a stochastic model of intensive care occupancy to noisy hospitalization time series during the COVID-19 pandemic**|Achal Awasthi et.al.|[2203.00229v4](http://arxiv.org/abs/2203.00229v4)|null|
 |**2023-07-17**|**Zero-th Order Algorithm for Softmax Attention Optimization**|Yichuan Deng et.al.|[2307.08352v1](http://arxiv.org/abs/2307.08352v1)|null|
-|**2023-07-17**|**A Secure Aggregation for Federated Learning on Long-Tailed Data**|Yanna Jiang et.al.|[2307.08324v1](http://arxiv.org/abs/2307.08324v1)|null|
-|**2023-01-04**|**Projection predictive variable selection for discrete response families with finite support**|Frank Weber et.al.|[2301.01660v2](http://arxiv.org/abs/2301.01660v2)|null|
-|**2023-07-17**|**An Empirical Investigation of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration**|Hiroki Naganuma et.al.|[2307.08187v1](http://arxiv.org/abs/2307.08187v1)|null|
-|**2023-07-15**|**Determination of Lens Mass Density Profile from Strongly-Lensed Gravitational-Wave Signals**|Mick Wright et.al.|[2307.07852v1](http://arxiv.org/abs/2307.07852v1)|null|
-|**2023-07-15**|**The Interpolating Information Criterion for Overparameterized Models**|Liam Hodgkinson et.al.|[2307.07785v1](http://arxiv.org/abs/2307.07785v1)|null|
