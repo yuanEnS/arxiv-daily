@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-24 07:22:10 Asia/Shanghai
+ Automated deployment @ 2023-07-24 19:19:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v3](http://arxiv.org/abs/2307.06576v3)|[link](https://github.com/tinyrolls/glory)|
+|**2023-07-21**|**Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach**|Yuexin Li et.al.|[2307.11572v1](http://arxiv.org/abs/2307.11572v1)|null|
+|**2021-06-11**|**Is Homophily a Necessity for Graph Neural Networks?**|Yao Ma et.al.|[2106.06134v4](http://arxiv.org/abs/2106.06134v4)|null|
+|**2022-05-19**|**Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis**|Maciej Besta et.al.|[2205.09702v5](http://arxiv.org/abs/2205.09702v5)|null|
 |**2022-04-30**|**HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding**|Xiaosong Jia et.al.|[2205.09753v2](http://arxiv.org/abs/2205.09753v2)|[link](https://github.com/openperceptionx/hdgt)|
 |**2023-07-20**|**A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System Fault Detection**|Tianfu Li et.al.|[2307.10676v1](http://arxiv.org/abs/2307.10676v1)|null|
 |**2023-07-20**|**Air Traffic Controller Workload Level Prediction using Conformalized Dynamical Graph Learning**|Yutian Pang et.al.|[2307.10559v1](http://arxiv.org/abs/2307.10559v1)|[link](https://github.com/ymlasu/para-atm-collection)|
@@ -28,10 +32,6 @@
 |**2023-07-19**|**Detecting Vulnerable Nodes in Urban Infrastructure Interdependent Network**|Jinzhu Mao et.al.|[2307.09866v1](http://arxiv.org/abs/2307.09866v1)|[link](https://github.com/tsinghua-fib-lab/kdd2023-id546-urbaninfra)|
 |**2022-06-08**|**Alternately Optimized Graph Neural Networks**|Haoyu Han et.al.|[2206.03638v4](http://arxiv.org/abs/2206.03638v4)|null|
 |**2023-07-19**|**How Curvature Enhance the Adaptation Power of Framelet GCNs**|Dai Shi et.al.|[2307.09768v1](http://arxiv.org/abs/2307.09768v1)|[link](https://github.com/dshi3553usyd/curvature_enhanced_graph_convolution)|
-|**2023-02-27**|**Robust Field-level Likelihood-free Inference with Galaxies**|Natalí S. M. de Santi et.al.|[2302.14101v2](http://arxiv.org/abs/2302.14101v2)|null|
-|**2023-07-18**|**Anticipating Technical Expertise and Capability Evolution in Research Communities using Dynamic Graph Transformers**|Sameera Horawalavithana et.al.|[2307.09665v1](http://arxiv.org/abs/2307.09665v1)|null|
-|**2023-07-18**|**Neural Priority Queues for Graph Neural Networks**|Rishabh Jain et.al.|[2307.09660v1](http://arxiv.org/abs/2307.09660v1)|null|
-|**2023-07-18**|**Rumor Detection with Diverse Counterfactual Evidence**|Kaiwei Zhang et.al.|[2307.09296v1](http://arxiv.org/abs/2307.09296v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v3](http://arxiv.org/abs/2306.03827v3)|null|
+|**2023-07-11**|**Bayesian taut splines for estimating the number of modes**|José E. Chacón et.al.|[2307.05825v2](http://arxiv.org/abs/2307.05825v2)|null|
+|**2023-05-24**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness for Predictive Student Models**|Mélina Verger et.al.|[2305.15342v2](http://arxiv.org/abs/2305.15342v2)|[link](https://github.com/melinaverger/madd)|
+|**2022-10-21**|**Evidence of Vocal Tract Articulation in Self-Supervised Learning of Speech**|Cheol Jun Cho et.al.|[2210.11723v3](http://arxiv.org/abs/2210.11723v3)|null|
 |**2021-07-07**|**Model Selection for Generic Contextual Bandits**|Avishek Ghosh et.al.|[2107.03455v2](http://arxiv.org/abs/2107.03455v2)|null|
 |**2023-02-09**|**Consistent Group selection using Global-local prior in High dimensional setup**|Sayantan Paul et.al.|[2302.04715v2](http://arxiv.org/abs/2302.04715v2)|null|
 |**2022-12-05**|**Hubble constant by natural selection: Evolution chips in the Hubble tension**|Reginald Christian Bernardo et.al.|[2212.02203v3](http://arxiv.org/abs/2212.02203v3)|[link](https://github.com/reggiebernardo/notebooks)|
@@ -89,7 +93,3 @@
 |**2023-07-18**|**Sparse Gaussian Graphical Models with Discrete Optimization: Computational and Statistical Perspectives**|Kayhan Behdin et.al.|[2307.09366v1](http://arxiv.org/abs/2307.09366v1)|null|
 |**2023-07-18**|**Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**|Kaavya Rekanar et.al.|[2307.09329v1](http://arxiv.org/abs/2307.09329v1)|[link](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)|
 |**2022-01-05**|**High-dimensional variable selection with heterogeneous signals: A precise asymptotic perspective**|Saptarshi Roy et.al.|[2201.01508v3](http://arxiv.org/abs/2201.01508v3)|null|
-|**2023-01-16**|**Understanding Best Subset Selection: A Tale of Two C(omplex)ities**|Saptarshi Roy et.al.|[2301.06259v2](http://arxiv.org/abs/2301.06259v2)|null|
-|**2023-07-14**|**DataAssist: A Machine Learning Approach to Data Cleaning and Preparation**|Kartikay Goyle et.al.|[2307.07119v2](http://arxiv.org/abs/2307.07119v2)|null|
-|**2022-03-01**|**Fitting a stochastic model of intensive care occupancy to noisy hospitalization time series during the COVID-19 pandemic**|Achal Awasthi et.al.|[2203.00229v4](http://arxiv.org/abs/2203.00229v4)|null|
-|**2023-07-17**|**Zero-th Order Algorithm for Softmax Attention Optimization**|Yichuan Deng et.al.|[2307.08352v1](http://arxiv.org/abs/2307.08352v1)|null|
