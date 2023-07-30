@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-30 07:20:14 Asia/Shanghai
+ Automated deployment @ 2023-07-30 19:18:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-19**|**Efficient Non-Learning Similar Subtrajectory Search**|Jiabao Jin et.al.|[2307.10082v1](http://arxiv.org/abs/2307.10082v1)|null|
-|**2023-07-18**|**A Fréchet-Lie group on distributions**|Manon Ryckebusch et.al.|[2307.09037v1](http://arxiv.org/abs/2307.09037v1)|null|
-|**2021-08-11**|**Single Index Fréchet Regression**|Satarupa Bhattacharjee et.al.|[2108.05437v2](http://arxiv.org/abs/2108.05437v2)|null|
-|**2023-07-10**|**On the first bifurcation of Stokes waves**|Vladimir Kozlov et.al.|[2307.05573v1](http://arxiv.org/abs/2307.05573v1)|null|
-|**2020-07-01**|**Deformations and embeddings of three-dimensional strictly pseudoconvex CR manifolds**|Sean N. Curry et.al.|[2007.00547v2](http://arxiv.org/abs/2007.00547v2)|null|
-|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Yuan Sun et.al.|[2306.15857v1](http://arxiv.org/abs/2306.15857v1)|null|
-|**2023-06-23**|**Penalty Gradient Normalization for Generative Adversarial Networks**|Tian Xia et.al.|[2306.13576v1](http://arxiv.org/abs/2306.13576v1)|[link](https://github.com/sumorday/edgan-pytorch)|
-|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v2](http://arxiv.org/abs/2204.02482v2)|null|
-|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v2](http://arxiv.org/abs/2305.15905v2)|null|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v2](http://arxiv.org/abs/2306.08013v2)|null|
-|**2023-06-21**|**Fréchet Covariance and MANOVA Tests for Random Objects in Multiple Metric Spaces**|Alex Fout et.al.|[2306.12066v1](http://arxiv.org/abs/2306.12066v1)|null|
-|**2023-06-20**|**Eliminating Lipschitz Singularities in Diffusion Models**|Zhantao Yang et.al.|[2306.11251v1](http://arxiv.org/abs/2306.11251v1)|null|
-|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v1](http://arxiv.org/abs/2306.10065v1)|[link](https://github.com/viiika/diffusion-conductor)|
-|**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
-|**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -72,6 +53,25 @@
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-07-19**|**Efficient Non-Learning Similar Subtrajectory Search**|Jiabao Jin et.al.|[2307.10082v1](http://arxiv.org/abs/2307.10082v1)|null|
+|**2023-07-18**|**A Fréchet-Lie group on distributions**|Manon Ryckebusch et.al.|[2307.09037v1](http://arxiv.org/abs/2307.09037v1)|null|
+|**2021-08-11**|**Single Index Fréchet Regression**|Satarupa Bhattacharjee et.al.|[2108.05437v2](http://arxiv.org/abs/2108.05437v2)|null|
+|**2023-07-10**|**On the first bifurcation of Stokes waves**|Vladimir Kozlov et.al.|[2307.05573v1](http://arxiv.org/abs/2307.05573v1)|null|
+|**2020-07-01**|**Deformations and embeddings of three-dimensional strictly pseudoconvex CR manifolds**|Sean N. Curry et.al.|[2007.00547v2](http://arxiv.org/abs/2007.00547v2)|null|
+|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Yuan Sun et.al.|[2306.15857v1](http://arxiv.org/abs/2306.15857v1)|null|
+|**2023-06-23**|**Penalty Gradient Normalization for Generative Adversarial Networks**|Tian Xia et.al.|[2306.13576v1](http://arxiv.org/abs/2306.13576v1)|[link](https://github.com/sumorday/edgan-pytorch)|
+|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v2](http://arxiv.org/abs/2204.02482v2)|null|
+|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v2](http://arxiv.org/abs/2305.15905v2)|null|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v2](http://arxiv.org/abs/2306.08013v2)|null|
+|**2023-06-21**|**Fréchet Covariance and MANOVA Tests for Random Objects in Multiple Metric Spaces**|Alex Fout et.al.|[2306.12066v1](http://arxiv.org/abs/2306.12066v1)|null|
+|**2023-06-20**|**Eliminating Lipschitz Singularities in Diffusion Models**|Zhantao Yang et.al.|[2306.11251v1](http://arxiv.org/abs/2306.11251v1)|null|
+|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v1](http://arxiv.org/abs/2306.10065v1)|[link](https://github.com/viiika/diffusion-conductor)|
+|**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
+|**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419v1](http://arxiv.org/abs/2306.05419v1)|null|
 
 ## Variable Selection
 
