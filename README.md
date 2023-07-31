@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-07-31 07:21:14 Asia/Shanghai
+ Automated deployment @ 2023-07-31 19:19:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-10**|**Graph Neural Networks and 3-Dimensional Topology**|Pavel Putrov et.al.|[2305.05966v2](http://arxiv.org/abs/2305.05966v2)|[link](https://github.com/songjin91/learningplumbings)|
+|**2023-01-30**|**Automatic Intersection Management in Mixed Traffic Using Reinforcement Learning and Graph Neural Networks**|Marvin Klimke et.al.|[2301.12717v2](http://arxiv.org/abs/2301.12717v2)|null|
+|**2023-07-28**|**Co-attention Graph Pooling for Efficient Pairwise Graph Interaction Learning**|Junhyun Lee et.al.|[2307.15377v1](http://arxiv.org/abs/2307.15377v1)|[link](https://github.com/leejunhyun/coattentiongraphpooling)|
+|**2023-07-28**|**A universal equivariant graph neural network for the elasticity tensors of any crystal system**|Mingjian Wen et.al.|[2307.15242v1](http://arxiv.org/abs/2307.15242v1)|null|
 |**2023-02-02**|**Causal Lifting and Link Prediction**|Leonardo Cotta et.al.|[2302.01198v2](http://arxiv.org/abs/2302.01198v2)|null|
 |**2023-04-17**|**Inverse Design of Next-generation Superconductors Using Data-driven Deep Generative Models**|Daniel Wines et.al.|[2304.08446v4](http://arxiv.org/abs/2304.08446v4)|null|
 |**2022-10-18**|**Predicting Winning Regions in Parity Games via Graph Neural Networks (Extended Abstract)**|Tobias Hecking et.al.|[2210.09924v2](http://arxiv.org/abs/2210.09924v2)|null|
@@ -28,10 +32,6 @@
 |**2022-05-13**|**Search for nonresonant pair production of highly energetic Higgs bosons decaying to bottom quarks**|CMS Collaboration et.al.|[2205.06667v2](http://arxiv.org/abs/2205.06667v2)|null|
 |**2023-07-26**|**Distributed Computing of Functions of Structured Sources with Helper Side Information**|Derya Malak et.al.|[2307.13987v1](http://arxiv.org/abs/2307.13987v1)|null|
 |**2021-06-27**|**Sequential Recommendation with Graph Neural Networks**|Jianxin Chang et.al.|[2106.14226v2](http://arxiv.org/abs/2106.14226v2)|null|
-|**2023-07-26**|**Towards a cosmic ray composition measurement with the IceAct telescopes at the IceCube Neutrino Observatory**|Larissa Paul et.al.|[2307.13965v1](http://arxiv.org/abs/2307.13965v1)|null|
-|**2023-07-26**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength**|Tongya Zheng et.al.|[2307.13909v1](http://arxiv.org/abs/2307.13909v1)|[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)|
-|**2022-06-06**|**Efficient and Accurate Physics-aware Multiplex Graph Neural Networks for 3D Small Molecules and Macromolecule Complexes**|Shuo Zhang et.al.|[2206.02789v2](http://arxiv.org/abs/2206.02789v2)|[link](https://github.com/zetayue/Physics-aware-Multiplex-GNN)|
-|**2022-10-25**|**Teal: Learning-Accelerated Optimization of WAN Traffic Engineering**|Zhiying Xu et.al.|[2210.13763v3](http://arxiv.org/abs/2210.13763v3)|[link](https://github.com/harvard-cns/teal)|
 
 ## Non-Euclidean Staistics
 
@@ -78,18 +78,18 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-30**|**Proximal nested sampling with data-driven priors for physical scientists**|Jason D. McEwen et.al.|[2307.00056v2](http://arxiv.org/abs/2307.00056v2)|[link](https://github.com/astro-informatics/proxnest)|
+|**2023-07-18**|**Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**|Kaavya Rekanar et.al.|[2307.09329v2](http://arxiv.org/abs/2307.09329v2)|[link](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)|
+|**2023-07-28**|**A Critical Review of Large Language Models: Sensitivity, Bias, and the Path Toward Specialized AI**|Arash Hajikhani et.al.|[2307.15425v1](http://arxiv.org/abs/2307.15425v1)|null|
+|**2023-07-28**|**Stratified Principal Component Analysis**|Tom Szwagier et.al.|[2307.15348v1](http://arxiv.org/abs/2307.15348v1)|null|
+|**2023-02-23**|**Quantifying & Modeling Multimodal Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v3](http://arxiv.org/abs/2302.12247v3)|[link](https://github.com/pliang279/pid)|
+|**2023-04-14**|**Spectroscopic follow-up of black hole and neutron star candidates in ellipsoidal variables from Gaia DR3**|Pranav Nagarajan et.al.|[2304.07324v3](http://arxiv.org/abs/2304.07324v3)|null|
 |**2023-07-27**|**Learning cross-layer dependence structure in multilayer networks**|Jiaheng Li et.al.|[2307.14982v1](http://arxiv.org/abs/2307.14982v1)|null|
 |**2023-01-05**|**Learning a Generic Value-Selection Heuristic Inside a Constraint Programming Solver**|Tom Marty et.al.|[2301.01913v2](http://arxiv.org/abs/2301.01913v2)|null|
 |**2023-05-15**|**Is there an excess of black holes around $20 M_{\odot}$? Optimising the complexity of population models with the use of reversible jump MCMC**|Alexandre Toubiana et.al.|[2305.08909v2](http://arxiv.org/abs/2305.08909v2)|null|
 |**2023-07-26**|**Learning Disentangled Discrete Representations**|David Friede et.al.|[2307.14151v1](http://arxiv.org/abs/2307.14151v1)|[link](https://github.com/david-friede/lddr)|
-|**2023-02-23**|**Quantifying & Modeling Multimodal Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v2](http://arxiv.org/abs/2302.12247v2)|[link](https://github.com/pliang279/pid)|
 |**2023-07-25**|**Rational kernel-based interpolation for complex-valued frequency response functions**|Julien Bect et.al.|[2307.13484v1](http://arxiv.org/abs/2307.13484v1)|null|
 |**2023-07-25**|**VolTS: A Volatility-based Trading System to forecast Stock Markets Trend using Statistics and Machine Learning**|Ivan Letteri et.al.|[2307.13422v1](http://arxiv.org/abs/2307.13422v1)|null|
 |**2023-02-03**|**A mixture logistic model for panel data with a Markov structure**|Yu-Hsiang Cheng et.al.|[2302.01683v2](http://arxiv.org/abs/2302.01683v2)|null|
 |**2023-07-24**|**Consistent model selection in the spiked Wigner model via AIC-type criteria**|Soumendu Sundar Mukherjee et.al.|[2307.12982v1](http://arxiv.org/abs/2307.12982v1)|null|
 |**2023-07-24**|**Anytime Model Selection in Linear Bandits**|Parnian Kassraie et.al.|[2307.12897v1](http://arxiv.org/abs/2307.12897v1)|null|
-|**2023-05-18**|**Statistical Estimation for Covariance Structures with Tail Estimates using Nodewise Quantile Predictive Regression Models**|Christis Katsouris et.al.|[2305.11282v2](http://arxiv.org/abs/2305.11282v2)|null|
-|**2023-02-03**|**Trade-off between predictive performance and FDR control for high-dimensional Gaussian model selection**|Perrine Lacroix et.al.|[2302.01831v2](http://arxiv.org/abs/2302.01831v2)|[link](https://github.com/perrinelacroix/trade_off_fdr_pr)|
-|**2023-07-24**|**Stochastic Step-wise Feature Selection for Exponential Random Graph Models (ERGMs)**|Helal El-Zaatari et.al.|[2307.12862v1](http://arxiv.org/abs/2307.12862v1)|null|
-|**2023-07-24**|**Adaptive debiased machine learning using data-driven model selection techniques**|Lars van der Laan et.al.|[2307.12544v1](http://arxiv.org/abs/2307.12544v1)|null|
-|**2023-07-22**|**Bayesian Fractional Polynomial Approach to Quantile Regression and Variable Selection with Application in the Analysis of Blood Pressure among US Adults**|Sanna Soomro et.al.|[2307.12137v1](http://arxiv.org/abs/2307.12137v1)|null|
