@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-05 07:20:43 Asia/Shanghai
+ Automated deployment @ 2023-08-05 19:18:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2023-08-02**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890v1](http://arxiv.org/abs/2308.00890v1)|null|
 |**2023-08-02**|**Factor Graph Neural Networks**|Zhen Zhang et.al.|[2308.00887v1](http://arxiv.org/abs/2308.00887v1)|null|
 |**2023-02-14**|**Graph Attention Multi-Agent Fleet Autonomy for Advanced Air Mobility**|Malintha Fernando et.al.|[2302.07337v3](http://arxiv.org/abs/2302.07337v3)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-03**|**The use of the EM algorithm for regularization problems in high-dimensional linear mixed-effects models**|Daniela C. R. Oliveira et.al.|[2308.01518v1](http://arxiv.org/abs/2308.01518v1)|null|
-|**2023-08-02**|**Interpretable Machine Learning for Discovery: Statistical Challenges \& Opportunities**|Genevera I. Allen et.al.|[2308.01475v1](http://arxiv.org/abs/2308.01475v1)|null|
-|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v2](http://arxiv.org/abs/2210.12382v2)|null|
-|**2023-08-02**|**Model Selection for Exposure-Mediator Interaction**|Ruiyang Li et.al.|[2308.01178v1](http://arxiv.org/abs/2308.01178v1)|[link](https://github.com/ruiyangli1/xmint)|
-|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v3](http://arxiv.org/abs/2204.03887v3)|null|
-|**2023-08-01**|**Adaptive MCMC for Bayesian variable selection in generalised linear models and survival models**|Xitong Liang et.al.|[2308.00869v1](http://arxiv.org/abs/2308.00869v1)|null|
-|**2023-05-25**|**Accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v2](http://arxiv.org/abs/2305.15920v2)|null|
-|**2023-08-01**|**A Study of Unsupervised Evaluation Metrics for Practical and Automatic Domain Adaptation**|Minghao Chen et.al.|[2308.00287v1](http://arxiv.org/abs/2308.00287v1)|null|
-|**2023-08-01**|**Predictive Modeling through Hyper-Bayesian Optimization**|Manisha Senadeera et.al.|[2308.00285v1](http://arxiv.org/abs/2308.00285v1)|null|
-|**2023-08-01**|**Best-Subset Selection in Generalized Linear Models: A Fast and Consistent Algorithm via Splicing Technique**|Junxian Zhu et.al.|[2308.00251v1](http://arxiv.org/abs/2308.00251v1)|null|
-|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v1](http://arxiv.org/abs/2308.00139v1)|null|
-|**2022-06-08**|**Model Selection in Variational Mixed Effects Models**|Mark J. Meyer et.al.|[2206.04012v3](http://arxiv.org/abs/2206.04012v3)|[link](https://github.com/markjmeyer/vme)|
-|**2023-07-31**|**An Efficient Shapley Value Computation for the Naive Bayes Classifier**|Vincent Lemaire et.al.|[2307.16718v1](http://arxiv.org/abs/2307.16718v1)|null|
-|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v4](http://arxiv.org/abs/2211.10776v4)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
-|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v3](http://arxiv.org/abs/2301.06058v3)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-03**|**The use of the EM algorithm for regularization problems in high-dimensional linear mixed-effects models**|Daniela C. R. Oliveira et.al.|[2308.01518v1](http://arxiv.org/abs/2308.01518v1)|null|
+|**2023-08-02**|**Interpretable Machine Learning for Discovery: Statistical Challenges \& Opportunities**|Genevera I. Allen et.al.|[2308.01475v1](http://arxiv.org/abs/2308.01475v1)|null|
+|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v2](http://arxiv.org/abs/2210.12382v2)|null|
+|**2023-08-02**|**Model Selection for Exposure-Mediator Interaction**|Ruiyang Li et.al.|[2308.01178v1](http://arxiv.org/abs/2308.01178v1)|[link](https://github.com/ruiyangli1/xmint)|
+|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v3](http://arxiv.org/abs/2204.03887v3)|null|
+|**2023-08-01**|**Adaptive MCMC for Bayesian variable selection in generalised linear models and survival models**|Xitong Liang et.al.|[2308.00869v1](http://arxiv.org/abs/2308.00869v1)|null|
+|**2023-05-25**|**Accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v2](http://arxiv.org/abs/2305.15920v2)|null|
+|**2023-08-01**|**A Study of Unsupervised Evaluation Metrics for Practical and Automatic Domain Adaptation**|Minghao Chen et.al.|[2308.00287v1](http://arxiv.org/abs/2308.00287v1)|null|
+|**2023-08-01**|**Predictive Modeling through Hyper-Bayesian Optimization**|Manisha Senadeera et.al.|[2308.00285v1](http://arxiv.org/abs/2308.00285v1)|null|
+|**2023-08-01**|**Best-Subset Selection in Generalized Linear Models: A Fast and Consistent Algorithm via Splicing Technique**|Junxian Zhu et.al.|[2308.00251v1](http://arxiv.org/abs/2308.00251v1)|null|
+|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v1](http://arxiv.org/abs/2308.00139v1)|null|
+|**2022-06-08**|**Model Selection in Variational Mixed Effects Models**|Mark J. Meyer et.al.|[2206.04012v3](http://arxiv.org/abs/2206.04012v3)|[link](https://github.com/markjmeyer/vme)|
+|**2023-07-31**|**An Efficient Shapley Value Computation for the Naive Bayes Classifier**|Vincent Lemaire et.al.|[2307.16718v1](http://arxiv.org/abs/2307.16718v1)|null|
+|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v4](http://arxiv.org/abs/2211.10776v4)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
+|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v3](http://arxiv.org/abs/2301.06058v3)|null|
