@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-06 07:20:13 Asia/Shanghai
+ Automated deployment @ 2023-08-06 19:18:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -45,14 +45,14 @@
 |**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model}**|Georgios I. Papayiannis et.al.|[2010.02968v3](http://arxiv.org/abs/2010.02968v3)|null|
 |**2023-07-30**|**Mask-guided Data Augmentation for Multiparametric MRI Generation with a Rare Hepatocellular Carcinoma**|Karen Sanchez et.al.|[2307.16314v1](http://arxiv.org/abs/2307.16314v1)|null|
 |**2019-03-12**|**A Global Diffeomorphism Theorem for Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1903.05162v2](http://arxiv.org/abs/1903.05162v2)|null|
+|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v6](http://arxiv.org/abs/1804.08349v6)|null|
+|**2014-09-09**|**The Morse-Sard-Brown Theorem for Functionals on Bounded-Fréchet-Finsler Manifolds**|Kaveh Eftekharinasab et.al.|[1409.2818v2](http://arxiv.org/abs/1409.2818v2)|null|
+|**2013-03-05**|**Geometry of Bounded Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[1303.1128v5](http://arxiv.org/abs/1303.1128v5)|null|
 |**2023-07-19**|**Efficient Non-Learning Similar Subtrajectory Search**|Jiabao Jin et.al.|[2307.10082v1](http://arxiv.org/abs/2307.10082v1)|null|
 |**2023-07-18**|**A Fréchet-Lie group on distributions**|Manon Ryckebusch et.al.|[2307.09037v1](http://arxiv.org/abs/2307.09037v1)|null|
 |**2021-08-11**|**Single Index Fréchet Regression**|Satarupa Bhattacharjee et.al.|[2108.05437v2](http://arxiv.org/abs/2108.05437v2)|null|
 |**2023-07-10**|**On the first bifurcation of Stokes waves**|Vladimir Kozlov et.al.|[2307.05573v1](http://arxiv.org/abs/2307.05573v1)|null|
 |**2020-07-01**|**Deformations and embeddings of three-dimensional strictly pseudoconvex CR manifolds**|Sean N. Curry et.al.|[2007.00547v2](http://arxiv.org/abs/2007.00547v2)|null|
-|**2023-06-28**|**GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces**|Yuan Sun et.al.|[2306.15857v1](http://arxiv.org/abs/2306.15857v1)|null|
-|**2023-06-23**|**Penalty Gradient Normalization for Generative Adversarial Networks**|Tian Xia et.al.|[2306.13576v1](http://arxiv.org/abs/2306.13576v1)|[link](https://github.com/sumorday/edgan-pytorch)|
-|**2022-04-05**|**PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network**|Huifeng Zhu et.al.|[2204.02482v2](http://arxiv.org/abs/2204.02482v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
