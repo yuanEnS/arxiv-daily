@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-10 07:21:26 Asia/Shanghai
+ Automated deployment @ 2023-08-10 19:19:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-09**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068v1](http://arxiv.org/abs/2308.05068v1)|null|
+|**2023-08-09**|**Kairos: : Practical Intrusion Detection and Investigation using Whole-system Provenance**|Zijun Cheng et.al.|[2308.05034v1](http://arxiv.org/abs/2308.05034v1)|[link](https://github.com/provenanceanalytics/kairos)|
+|**2023-02-27**|**Connectivity Optimized Nested Graph Networks for Crystal Structures**|Robin Ruff et.al.|[2302.14102v2](http://arxiv.org/abs/2302.14102v2)|[link](https://github.com/matbench-submission-cogn/crystalgnns)|
+|**2023-07-16**|**INFLECT-DGNN: Influencer Prediction with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2307.08131v2](http://arxiv.org/abs/2307.08131v2)|[link](https://github.com/banking-analytics-lab/inflect)|
+|**2023-08-09**|**Differentially Private Graph Neural Network with Importance-Grained Noise Adaption**|Yuxin Qi et.al.|[2308.04943v1](http://arxiv.org/abs/2308.04943v1)|null|
+|**2023-08-09**|**GraphCC: A Practical Graph Learning-based Approach to Congestion Control in Datacenters**|Guillermo Bernárdez et.al.|[2308.04905v1](http://arxiv.org/abs/2308.04905v1)|null|
+|**2023-07-07**|**A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**|Ming Jin et.al.|[2307.03759v2](http://arxiv.org/abs/2307.03759v2)|[link](https://github.com/kimmeen/awesome-gnn4ts)|
+|**2023-08-05**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914v2](http://arxiv.org/abs/2308.02914v2)|null|
+|**2023-04-01**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409v2](http://arxiv.org/abs/2304.00409v2)|[link](https://github.com/wagner-group/diversevul)|
 |**2023-08-08**|**Semantic Interpretation and Validation of Graph Attention-based Explanations for GNN Models**|Efimia Panagiotaki et.al.|[2308.04220v1](http://arxiv.org/abs/2308.04220v1)|null|
 |**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172v1](http://arxiv.org/abs/2308.04172v1)|null|
 |**2023-03-29**|**GNNBuilder: An Automated Framework for Generic Graph Neural Network Accelerator Generation, Simulation, and Optimization**|Stefan Abi-Karam et.al.|[2303.16459v2](http://arxiv.org/abs/2303.16459v2)|[link](https://github.com/sharc-lab/gnn-builder)|
 |**2021-12-09**|**Transferability Properties of Graph Neural Networks**|Luana Ruiz et.al.|[2112.04629v4](http://arxiv.org/abs/2112.04629v4)|null|
 |**2022-10-24**|**Abductive Action Inference**|Clement Tan et.al.|[2210.13984v4](http://arxiv.org/abs/2210.13984v4)|null|
 |**2023-08-07**|**Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation**|Taichi Liu et.al.|[2308.03470v1](http://arxiv.org/abs/2308.03470v1)|null|
-|**2023-08-07**|**Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378v1](http://arxiv.org/abs/2308.03378v1)|null|
-|**2023-08-07**|**Implicit Graph Neural Diffusion Based on Constrained Dirichlet Energy Minimization**|Guoji Fu et.al.|[2308.03306v1](http://arxiv.org/abs/2308.03306v1)|null|
-|**2023-08-07**|**Local Structure-aware Graph Contrastive Representation Learning**|Kai Yang et.al.|[2308.03271v1](http://arxiv.org/abs/2308.03271v1)|null|
-|**2023-08-07**|**Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion**|Jiawei Li et.al.|[2308.03256v1](http://arxiv.org/abs/2308.03256v1)|[link](https://github.com/lok-18/ignet)|
-|**2022-05-19**|**Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis**|Maciej Besta et.al.|[2205.09702v6](http://arxiv.org/abs/2205.09702v6)|null|
-|**2023-08-06**|**Communication-Free Distributed GNN Training with Vertex Cut**|Kaidi Cao et.al.|[2308.03209v1](http://arxiv.org/abs/2308.03209v1)|null|
-|**2023-08-05**|**Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket**|Yuwen Wang et.al.|[2308.02916v1](http://arxiv.org/abs/2308.02916v1)|null|
-|**2023-08-05**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914v1](http://arxiv.org/abs/2308.02914v1)|null|
-|**2023-08-04**|**Exploiting On-chip Heterogeneity of Versal Architecture for GNN Inference Acceleration**|Paul Chen et.al.|[2308.02749v1](http://arxiv.org/abs/2308.02749v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v2](http://arxiv.org/abs/2210.05983v2)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
+|**2023-08-07**|**Impact of ringdown higher-order modes on black-hole mergers in dense environments: the scalar field case, detectability and parameter biases**|Samson H. W. Leong et.al.|[2308.03250v2](http://arxiv.org/abs/2308.03250v2)|null|
+|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v2](http://arxiv.org/abs/2308.00139v2)|null|
+|**2023-08-07**|**A Branch-and-Cut-and-Price Algorithm for Cutting Stock and Related Problems**|Renan F. F. da Silva et.al.|[2308.03595v1](http://arxiv.org/abs/2308.03595v1)|null|
+|**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v2](http://arxiv.org/abs/2306.11518v2)|null|
+|**2022-07-22**|**Statistical and Computational Trade-offs in Variational Inference: A Case Study in Inferential Model Selection**|Kush Bhatia et.al.|[2207.11208v2](http://arxiv.org/abs/2207.11208v2)|null|
+|**2023-08-06**|**Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error**|Zixin Wang et.al.|[2308.03003v1](http://arxiv.org/abs/2308.03003v1)|[link](https://github.com/jo-wang/cal-sfda)|
+|**2023-08-04**|**Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation**|Sagnik Bhadury et.al.|[2308.02713v1](http://arxiv.org/abs/2308.02713v1)|null|
+|**2022-01-28**|**Asymptotic behaviour of penalized robust estimators in logistic regression when dimension increases**|Ana M. Bianco et.al.|[2201.12449v2](http://arxiv.org/abs/2201.12449v2)|null|
+|**2023-08-04**|**A Review of Change of Variable Formulas for Generative Modeling**|Ullrich Köthe et.al.|[2308.02652v1](http://arxiv.org/abs/2308.02652v1)|null|
+|**2023-06-30**|**Learned harmonic mean estimation of the marginal likelihood with normalizing flows**|Alicja Polanska et.al.|[2307.00048v2](http://arxiv.org/abs/2307.00048v2)|[link](https://github.com/astro-informatics/harmonic)|
+|**2023-08-03**|**The use of the EM algorithm for regularization problems in high-dimensional linear mixed-effects models**|Daniela C. R. Oliveira et.al.|[2308.01518v1](http://arxiv.org/abs/2308.01518v1)|null|
+|**2023-08-02**|**Interpretable Machine Learning for Discovery: Statistical Challenges \& Opportunities**|Genevera I. Allen et.al.|[2308.01475v1](http://arxiv.org/abs/2308.01475v1)|null|
+|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v2](http://arxiv.org/abs/2210.12382v2)|null|
+|**2023-08-02**|**Model Selection for Exposure-Mediator Interaction**|Ruiyang Li et.al.|[2308.01178v1](http://arxiv.org/abs/2308.01178v1)|[link](https://github.com/ruiyangli1/xmint)|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2014-09-09**|**The Morse-Sard-Brown Theorem for Functionals on Bounded-Fréchet-Finsler Manifolds**|Kaveh Eftekharinasab et.al.|[1409.2818v2](http://arxiv.org/abs/1409.2818v2)|null|
 |**2013-03-05**|**Geometry of Bounded Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[1303.1128v5](http://arxiv.org/abs/1303.1128v5)|null|
 |**2023-07-23**|**Assessing Intra-class Diversity and Quality of Synthetically Generated Images in a Biomedical and Non-biomedical Setting**|Muhammad Muneeb Saad et.al.|[2308.02505v1](http://arxiv.org/abs/2308.02505v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v2](http://arxiv.org/abs/2308.00139v2)|null|
-|**2023-08-07**|**A Branch-and-Cut-and-Price Algorithm for Cutting Stock and Related Problems**|Renan F. F. da Silva et.al.|[2308.03595v1](http://arxiv.org/abs/2308.03595v1)|null|
-|**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v2](http://arxiv.org/abs/2306.11518v2)|null|
-|**2023-08-07**|**Impact of ringdown higher-order modes on black-hole mergers in dense environments: the scalar field case, detectability and parameter biases**|Samson H. W. Leong et.al.|[2308.03250v1](http://arxiv.org/abs/2308.03250v1)|null|
-|**2022-07-22**|**Statistical and Computational Trade-offs in Variational Inference: A Case Study in Inferential Model Selection**|Kush Bhatia et.al.|[2207.11208v2](http://arxiv.org/abs/2207.11208v2)|null|
-|**2023-08-06**|**Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error**|Zixin Wang et.al.|[2308.03003v1](http://arxiv.org/abs/2308.03003v1)|[link](https://github.com/jo-wang/cal-sfda)|
-|**2023-08-04**|**Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation**|Sagnik Bhadury et.al.|[2308.02713v1](http://arxiv.org/abs/2308.02713v1)|null|
-|**2022-01-28**|**Asymptotic behaviour of penalized robust estimators in logistic regression when dimension increases**|Ana M. Bianco et.al.|[2201.12449v2](http://arxiv.org/abs/2201.12449v2)|null|
-|**2023-08-04**|**A Review of Change of Variable Formulas for Generative Modeling**|Ullrich Köthe et.al.|[2308.02652v1](http://arxiv.org/abs/2308.02652v1)|null|
-|**2023-06-30**|**Learned harmonic mean estimation of the marginal likelihood with normalizing flows**|Alicja Polanska et.al.|[2307.00048v2](http://arxiv.org/abs/2307.00048v2)|[link](https://github.com/astro-informatics/harmonic)|
-|**2023-08-03**|**The use of the EM algorithm for regularization problems in high-dimensional linear mixed-effects models**|Daniela C. R. Oliveira et.al.|[2308.01518v1](http://arxiv.org/abs/2308.01518v1)|null|
-|**2023-08-02**|**Interpretable Machine Learning for Discovery: Statistical Challenges \& Opportunities**|Genevera I. Allen et.al.|[2308.01475v1](http://arxiv.org/abs/2308.01475v1)|null|
-|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v2](http://arxiv.org/abs/2210.12382v2)|null|
-|**2023-08-02**|**Model Selection for Exposure-Mediator Interaction**|Ruiyang Li et.al.|[2308.01178v1](http://arxiv.org/abs/2308.01178v1)|[link](https://github.com/ruiyangli1/xmint)|
-|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v3](http://arxiv.org/abs/2204.03887v3)|null|
