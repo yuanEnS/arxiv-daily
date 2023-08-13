@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-13 07:19:41 Asia/Shanghai
+ Automated deployment @ 2023-08-13 19:18:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2023-08-09**|**Differentially Private Graph Neural Network with Importance-Grained Noise Adaption**|Yuxin Qi et.al.|[2308.04943v1](http://arxiv.org/abs/2308.04943v1)|null|
 |**2023-08-09**|**GraphCC: A Practical Graph Learning-based Approach to Congestion Control in Datacenters**|Guillermo Bernárdez et.al.|[2308.04905v1](http://arxiv.org/abs/2308.04905v1)|null|
 |**2023-07-07**|**A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**|Ming Jin et.al.|[2307.03759v2](http://arxiv.org/abs/2307.03759v2)|[link](https://github.com/kimmeen/awesome-gnn4ts)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-10**|**Updating Clinical Risk Stratification Models Using Rank-Based Compatibility: Approaches for Evaluating and Optimizing Clinician-Model Team Performance**|Erkin Ötleş et.al.|[2308.05619v1](http://arxiv.org/abs/2308.05619v1)|null|
-|**2023-08-10**|**A coupled-mechanisms modelling framework for neurodegeneration**|Tiantian He et.al.|[2308.05536v1](http://arxiv.org/abs/2308.05536v1)|null|
-|**2023-08-10**|**Quantile regression outcome-adaptive lasso: variable selection for causal quantile treatment effect estimation**|Yahang Liu et.al.|[2308.05517v1](http://arxiv.org/abs/2308.05517v1)|null|
-|**2022-02-19**|**Distributed Out-of-Memory NMF on CPU/GPU Architectures**|Ismael Boureima et.al.|[2202.09518v3](http://arxiv.org/abs/2202.09518v3)|[link](https://github.com/lanl/pyDNMFk)|
-|**2020-01-11**|**Empirical bias-reducing adjustments to estimating functions**|Ioannis Kosmidis et.al.|[2001.03786v4](http://arxiv.org/abs/2001.03786v4)|[link](https://github.com/ikosmidis/MEstimation.jl)|
-|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v2](http://arxiv.org/abs/2210.05983v2)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
-|**2023-08-07**|**Impact of ringdown higher-order modes on black-hole mergers in dense environments: the scalar field case, detectability and parameter biases**|Samson H. W. Leong et.al.|[2308.03250v2](http://arxiv.org/abs/2308.03250v2)|null|
-|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v2](http://arxiv.org/abs/2308.00139v2)|null|
-|**2023-08-07**|**A Branch-and-Cut-and-Price Algorithm for Cutting Stock and Related Problems**|Renan F. F. da Silva et.al.|[2308.03595v1](http://arxiv.org/abs/2308.03595v1)|[link](https://gitlab.com/renanfernandofranco/a-branch-and-cut-and-price-algorithm-for-cutting-stock-and-related-problems)|
-|**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v2](http://arxiv.org/abs/2306.11518v2)|null|
-|**2022-07-22**|**Statistical and Computational Trade-offs in Variational Inference: A Case Study in Inferential Model Selection**|Kush Bhatia et.al.|[2207.11208v2](http://arxiv.org/abs/2207.11208v2)|null|
-|**2023-08-06**|**Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error**|Zixin Wang et.al.|[2308.03003v1](http://arxiv.org/abs/2308.03003v1)|[link](https://github.com/jo-wang/cal-sfda)|
-|**2023-08-04**|**Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation**|Sagnik Bhadury et.al.|[2308.02713v1](http://arxiv.org/abs/2308.02713v1)|null|
-|**2022-01-28**|**Asymptotic behaviour of penalized robust estimators in logistic regression when dimension increases**|Ana M. Bianco et.al.|[2201.12449v2](http://arxiv.org/abs/2201.12449v2)|null|
-|**2023-08-04**|**A Review of Change of Variable Formulas for Generative Modeling**|Ullrich Köthe et.al.|[2308.02652v1](http://arxiv.org/abs/2308.02652v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-10**|**Updating Clinical Risk Stratification Models Using Rank-Based Compatibility: Approaches for Evaluating and Optimizing Clinician-Model Team Performance**|Erkin Ötleş et.al.|[2308.05619v1](http://arxiv.org/abs/2308.05619v1)|null|
+|**2023-08-10**|**A coupled-mechanisms modelling framework for neurodegeneration**|Tiantian He et.al.|[2308.05536v1](http://arxiv.org/abs/2308.05536v1)|null|
+|**2023-08-10**|**Quantile regression outcome-adaptive lasso: variable selection for causal quantile treatment effect estimation**|Yahang Liu et.al.|[2308.05517v1](http://arxiv.org/abs/2308.05517v1)|null|
+|**2022-02-19**|**Distributed Out-of-Memory NMF on CPU/GPU Architectures**|Ismael Boureima et.al.|[2202.09518v3](http://arxiv.org/abs/2202.09518v3)|[link](https://github.com/lanl/pyDNMFk)|
+|**2020-01-11**|**Empirical bias-reducing adjustments to estimating functions**|Ioannis Kosmidis et.al.|[2001.03786v4](http://arxiv.org/abs/2001.03786v4)|[link](https://github.com/ikosmidis/MEstimation.jl)|
+|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v2](http://arxiv.org/abs/2210.05983v2)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
+|**2023-08-07**|**Impact of ringdown higher-order modes on black-hole mergers in dense environments: the scalar field case, detectability and parameter biases**|Samson H. W. Leong et.al.|[2308.03250v2](http://arxiv.org/abs/2308.03250v2)|null|
+|**2023-07-31**|**Geometric ergodicity of trans-dimensional Markov chain Monte Carlo algorithms**|Qian Qin et.al.|[2308.00139v2](http://arxiv.org/abs/2308.00139v2)|null|
+|**2023-08-07**|**A Branch-and-Cut-and-Price Algorithm for Cutting Stock and Related Problems**|Renan F. F. da Silva et.al.|[2308.03595v1](http://arxiv.org/abs/2308.03595v1)|[link](https://gitlab.com/renanfernandofranco/a-branch-and-cut-and-price-algorithm-for-cutting-stock-and-related-problems)|
+|**2023-06-20**|**One model to rule them all: ranking Slovene summarizers**|Aleš Žagar et.al.|[2306.11518v2](http://arxiv.org/abs/2306.11518v2)|null|
+|**2022-07-22**|**Statistical and Computational Trade-offs in Variational Inference: A Case Study in Inferential Model Selection**|Kush Bhatia et.al.|[2207.11208v2](http://arxiv.org/abs/2207.11208v2)|null|
+|**2023-08-06**|**Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error**|Zixin Wang et.al.|[2308.03003v1](http://arxiv.org/abs/2308.03003v1)|[link](https://github.com/jo-wang/cal-sfda)|
+|**2023-08-04**|**Fast Bayesian High-Dimensional Gaussian Graphical Model Estimation**|Sagnik Bhadury et.al.|[2308.02713v1](http://arxiv.org/abs/2308.02713v1)|null|
+|**2022-01-28**|**Asymptotic behaviour of penalized robust estimators in logistic regression when dimension increases**|Ana M. Bianco et.al.|[2201.12449v2](http://arxiv.org/abs/2201.12449v2)|null|
+|**2023-08-04**|**A Review of Change of Variable Formulas for Generative Modeling**|Ullrich Köthe et.al.|[2308.02652v1](http://arxiv.org/abs/2308.02652v1)|null|
