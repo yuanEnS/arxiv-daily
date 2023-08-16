@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-16 07:20:21 Asia/Shanghai
+ Automated deployment @ 2023-08-16 19:18:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-15**|**Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations**|Lekang Jiang et.al.|[2308.07883v1](http://arxiv.org/abs/2308.07883v1)|[link](https://github.com/scylj1/gnn_edge_regression)|
+|**2022-09-17**|**ChemNLP: A Natural Language Processing based Library for Materials Chemistry Text Data**|Kamal Choudhary et.al.|[2209.08203v3](http://arxiv.org/abs/2209.08203v3)|[link](https://github.com/usnistgov/chemnlp)|
+|**2023-08-15**|**Simple and Efficient Partial Graph Adversarial Attack: A New Perspective**|Guanghui Zhu et.al.|[2308.07834v1](http://arxiv.org/abs/2308.07834v1)|[link](https://github.com/pasalab/pga)|
+|**2023-08-15**|**A Graph Encoder-Decoder Network for Unsupervised Anomaly Detection**|Mahsa Mesgaran et.al.|[2308.07774v1](http://arxiv.org/abs/2308.07774v1)|null|
+|**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752v1](http://arxiv.org/abs/2308.07752v1)|null|
+|**2023-02-27**|**Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks**|Xinyi Gao et.al.|[2302.14061v2](http://arxiv.org/abs/2302.14061v2)|null|
+|**2023-08-13**|**SAILOR: Structural Augmentation Based Tail Node Representation Learning**|Jie Liao et.al.|[2308.06801v2](http://arxiv.org/abs/2308.06801v2)|[link](https://github.com/jie-re/sailor)|
+|**2023-08-14**|**ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting**|Zepu Wang et.al.|[2308.07496v1](http://arxiv.org/abs/2308.07496v1)|null|
+|**2023-08-14**|**Interaction-Aware Personalized Vehicle Trajectory Prediction Using Temporal Graph Neural Networks**|Amr Abdelraouf et.al.|[2308.07439v1](http://arxiv.org/abs/2308.07439v1)|null|
+|**2023-08-14**|**Conformal Predictions Enhanced Expert-guided Meshing with Graph Neural Networks**|Amin Heyrani Nobari et.al.|[2308.07358v1](http://arxiv.org/abs/2308.07358v1)|[link](https://github.com/ahnobari/autosurf)|
 |**2023-06-24**|**Graph Neural Networks Provably Benefit from Structural Information: A Feature Learning Perspective**|Wei Huang et.al.|[2306.13926v2](http://arxiv.org/abs/2306.13926v2)|null|
 |**2021-05-21**|**Adaptive Filters in Graph Convolutional Neural Networks**|Andrea Apicella et.al.|[2105.10377v4](http://arxiv.org/abs/2105.10377v4)|null|
 |**2023-08-14**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks**|Zhili Wang et.al.|[2308.06960v1](http://arxiv.org/abs/2308.06960v1)|null|
 |**2022-10-25**|**A jet tagging algorithm of graph network with HaarPooling message passing**|Fei Ma et.al.|[2210.13869v4](http://arxiv.org/abs/2210.13869v4)|null|
 |**2023-03-29**|**CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**|Ruyi Lian et.al.|[2303.16874v2](http://arxiv.org/abs/2303.16874v2)|[link](https://github.com/ruyilian/checkerpose)|
-|**2022-11-06**|**Rotation-equivariant Graph Neural Networks for Learning Glassy Liquids Representations**|Francesco Saverio Pezzicoli et.al.|[2211.03226v2](http://arxiv.org/abs/2211.03226v2)|null|
-|**2023-08-13**|**Generalizing Topological Graph Neural Networks with Paths**|Quang Truong et.al.|[2308.06838v1](http://arxiv.org/abs/2308.06838v1)|null|
-|**2022-01-26**|**On the Power of Gradual Network Alignment Using Dual-Perception Similarities**|Jin-Duk Park et.al.|[2201.10945v2](http://arxiv.org/abs/2201.10945v2)|[link](https://github.com/jindeok/grad-align-full)|
-|**2023-08-13**|**SAILOR: Structural Augmentation Based Tail Node Representation Learning**|Jie Liao et.al.|[2308.06801v1](http://arxiv.org/abs/2308.06801v1)|[link](https://github.com/jie-re/sailor)|
-|**2023-07-04**|**Nexus sine qua non: Essentially Connected Networks for Traffic Forecasting**|Tong Nie et.al.|[2307.01482v4](http://arxiv.org/abs/2307.01482v4)|null|
-|**2023-08-13**|**Learning on Graphs with Out-of-Distribution Nodes**|Yu Song et.al.|[2308.06714v1](http://arxiv.org/abs/2308.06714v1)|[link](https://github.com/songyyyy/kdd22-oodgat)|
-|**2023-08-09**|**Kairos: Practical Intrusion Detection and Investigation using Whole-system Provenance**|Zijun Cheng et.al.|[2308.05034v2](http://arxiv.org/abs/2308.05034v2)|[link](https://github.com/provenanceanalytics/kairos)|
-|**2023-02-22**|**Time-varying Signals Recovery via Graph Neural Networks**|Jhon A. Castro-Correa et.al.|[2302.11313v3](http://arxiv.org/abs/2302.11313v3)|null|
-|**2023-05-18**|**Seq-HGNN: Learning Sequential Node Representation on Heterogeneous Graph**|Chenguang Du et.al.|[2305.10771v2](http://arxiv.org/abs/2305.10771v2)|[link](https://github.com/nobrowning/seq_hgnn)|
-|**2022-12-05**|**On the Trade-off between Over-smoothing and Over-squashing in Deep Graph Neural Networks**|Jhony H. Giraldo et.al.|[2212.02374v2](http://arxiv.org/abs/2212.02374v2)|[link](https://github.com/jhonygiraldo/sjlr)|
 
 ## Non-Euclidean Staistics
 
@@ -57,8 +57,8 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v2](http://arxiv.org/abs/2308.06769v2)|null|
 |**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v2](http://arxiv.org/abs/2209.05676v2)|null|
-|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v1](http://arxiv.org/abs/2308.06769v1)|null|
 |**2023-07-19**|**Efficient Non-Learning Similar Subtrajectory Search**|Jiabao Jin et.al.|[2307.10082v2](http://arxiv.org/abs/2307.10082v2)|null|
 |**2023-08-02**|**Function Theory off the complexified unit circle: Fréchet space structure and automorphisms**|Michael Heins et.al.|[2308.01107v2](http://arxiv.org/abs/2308.01107v2)|null|
 |**2023-08-04**|**Generation of Realistic Synthetic Raw Radar Data for Automated Driving Applications using Generative Adversarial Networks**|Eduardo C. Fidelis et.al.|[2308.02632v2](http://arxiv.org/abs/2308.02632v2)|null|
@@ -78,6 +78,7 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v4](http://arxiv.org/abs/2306.03827v4)|null|
 |**2023-08-14**|**LCE -- An Augmented Combination of Bagging and Boosting in Python**|Kevin Fauvel et.al.|[2308.07250v1](http://arxiv.org/abs/2308.07250v1)|[link](https://github.com/localcascadeensemble/lce)|
 |**2023-08-14**|**No Regularization is Needed: An Efficient and Effective Model for Incomplete Label Distribution Learning**|Xiang Li et.al.|[2308.07047v1](http://arxiv.org/abs/2308.07047v1)|null|
 |**2023-08-10**|**Quantile regression outcome-adaptive lasso: variable selection for causal quantile treatment effect estimation**|Yahang Liu et.al.|[2308.05517v2](http://arxiv.org/abs/2308.05517v2)|null|
@@ -92,4 +93,3 @@
 |**2023-08-10**|**Updating Clinical Risk Stratification Models Using Rank-Based Compatibility: Approaches for Evaluating and Optimizing Clinician-Model Team Performance**|Erkin Ötleş et.al.|[2308.05619v1](http://arxiv.org/abs/2308.05619v1)|null|
 |**2023-08-10**|**A coupled-mechanisms modelling framework for neurodegeneration**|Tiantian He et.al.|[2308.05536v1](http://arxiv.org/abs/2308.05536v1)|null|
 |**2022-02-19**|**Distributed Out-of-Memory NMF on CPU/GPU Architectures**|Ismael Boureima et.al.|[2202.09518v3](http://arxiv.org/abs/2202.09518v3)|[link](https://github.com/lanl/pyDNMFk)|
-|**2020-01-11**|**Empirical bias-reducing adjustments to estimating functions**|Ioannis Kosmidis et.al.|[2001.03786v4](http://arxiv.org/abs/2001.03786v4)|[link](https://github.com/ikosmidis/MEstimation.jl)|
