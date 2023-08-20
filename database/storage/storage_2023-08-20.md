@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-20 07:19:47 Asia/Shanghai
+ Automated deployment @ 2023-08-20 19:18:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -33,28 +33,26 @@
 |**2023-08-15**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072v1](http://arxiv.org/abs/2308.08072v1)|null|
 |**2023-08-15**|**Freshness or Accuracy, Why Not Both? Addressing Delayed Feedback via Dynamic Graph Neural Networks**|Xiaolin Zheng et.al.|[2308.08071v1](http://arxiv.org/abs/2308.08071v1)|null|
 
-## Variable Selection
+## Non-Euclidean Staistics
 
-### Variable selection
+### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-16**|**Multiplicative deconvolution under unknown error distribution**|Sergio Brenner Miguel et.al.|[2308.08423v1](http://arxiv.org/abs/2308.08423v1)|null|
-|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v4](http://arxiv.org/abs/2204.03887v4)|null|
-|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v3](http://arxiv.org/abs/2303.03207v3)|null|
-|**2023-08-14**|**LCE: An Augmented Combination of Bagging and Boosting in Python**|Kevin Fauvel et.al.|[2308.07250v2](http://arxiv.org/abs/2308.07250v2)|[link](https://github.com/localcascadeensemble/lce)|
-|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v4](http://arxiv.org/abs/2306.03827v4)|null|
-|**2023-08-14**|**No Regularization is Needed: An Efficient and Effective Model for Incomplete Label Distribution Learning**|Xiang Li et.al.|[2308.07047v1](http://arxiv.org/abs/2308.07047v1)|null|
-|**2023-08-10**|**Quantile regression outcome-adaptive lasso: variable selection for causal quantile treatment effect estimation**|Yahang Liu et.al.|[2308.05517v2](http://arxiv.org/abs/2308.05517v2)|null|
-|**2022-06-28**|**Bayesian Multi-task Variable Selection with an Application to Differential DAG Analysis**|Guanxun Li et.al.|[2206.14303v2](http://arxiv.org/abs/2206.14303v2)|null|
-|**2023-08-11**|**The N-ary in the Coal Mine: Avoiding Mixture Model Failure with Proper Validation**|Travis Maxfield et.al.|[2308.06347v1](http://arxiv.org/abs/2308.06347v1)|null|
-|**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|[link](https://github.com/opengvlab/multitask-model-selector)|
-|**2023-07-10**|**Automatic Debiased Machine Learning for Covariate Shifts**|Victor Chernozhukov et.al.|[2307.04527v2](http://arxiv.org/abs/2307.04527v2)|null|
-|**2022-06-16**|**A new method for clustered survival data]{A new method for clustered survival data: Estimation of treatment effect heterogeneity and variable selection**|Liangyuan Hu et.al.|[2206.08271v2](http://arxiv.org/abs/2206.08271v2)|null|
-|**2023-08-11**|**Sampling and Filtering with Markov Chains**|Michael A. Kouritzin et.al.|[2308.06192v1](http://arxiv.org/abs/2308.06192v1)|null|
-|**2023-08-10**|**Inconsistency and Acausality of Model Selection in Bayesian Inverse Problems**|Klaus Mosegaard et.al.|[2308.05858v1](http://arxiv.org/abs/2308.05858v1)|null|
-|**2023-08-10**|**The Galactic Interstellar Object Population: A Framework for Prediction and Inference**|Matthew J. Hopkins et.al.|[2308.05801v1](http://arxiv.org/abs/2308.05801v1)|null|
-
-## Non-Euclidean Staistics
+|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339v1](http://arxiv.org/abs/2308.08339v1)|[link](https://github.com/aaleka/retree)|
+|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v2](http://arxiv.org/abs/2308.06769v2)|null|
+|**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v2](http://arxiv.org/abs/2209.05676v2)|null|
+|**2023-07-19**|**Efficient Non-Learning Similar Subtrajectory Search**|Jiabao Jin et.al.|[2307.10082v2](http://arxiv.org/abs/2307.10082v2)|null|
+|**2023-08-02**|**Function Theory off the complexified unit circle: Fréchet space structure and automorphisms**|Michael Heins et.al.|[2308.01107v2](http://arxiv.org/abs/2308.01107v2)|null|
+|**2023-08-04**|**Generation of Realistic Synthetic Raw Radar Data for Automated Driving Applications using Generative Adversarial Networks**|Eduardo C. Fidelis et.al.|[2308.02632v2](http://arxiv.org/abs/2308.02632v2)|null|
+|**2023-08-07**|**Quadratic-exponential coherent feedback control of linear quantum stochastic systems**|Igor G. Vladimirov et.al.|[2308.03918v1](http://arxiv.org/abs/2308.03918v1)|null|
+|**2023-08-04**|**Optimal Control of Stationary Doubly Diffusive Flows on Two and Three Dimensional Bounded Lipschitz Domains: A Theoretical Study**|Jai Tushar et.al.|[2308.02178v1](http://arxiv.org/abs/2308.02178v1)|null|
+|**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v2](http://arxiv.org/abs/2307.15955v2)|null|
+|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v2](http://arxiv.org/abs/2307.16865v2)|null|
+|**2023-08-02**|**Metric and Path-Connectedness Properties of the Frechet Distance for Paths and Graphs**|Erin Chambers et.al.|[2308.00900v1](http://arxiv.org/abs/2308.00900v1)|null|
+|**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model}**|Georgios I. Papayiannis et.al.|[2010.02968v3](http://arxiv.org/abs/2010.02968v3)|null|
+|**2023-07-30**|**Mask-guided Data Augmentation for Multiparametric MRI Generation with a Rare Hepatocellular Carcinoma**|Karen Sanchez et.al.|[2307.16314v1](http://arxiv.org/abs/2307.16314v1)|null|
+|**2019-03-12**|**A Global Diffeomorphism Theorem for Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1903.05162v2](http://arxiv.org/abs/1903.05162v2)|null|
+|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v6](http://arxiv.org/abs/1804.08349v6)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -75,21 +73,23 @@
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
 
-### Non Eculidean
+## Variable Selection
+
+### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339v1](http://arxiv.org/abs/2308.08339v1)|[link](https://github.com/aaleka/retree)|
-|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v2](http://arxiv.org/abs/2308.06769v2)|null|
-|**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v2](http://arxiv.org/abs/2209.05676v2)|null|
-|**2023-07-19**|**Efficient Non-Learning Similar Subtrajectory Search**|Jiabao Jin et.al.|[2307.10082v2](http://arxiv.org/abs/2307.10082v2)|null|
-|**2023-08-02**|**Function Theory off the complexified unit circle: Fréchet space structure and automorphisms**|Michael Heins et.al.|[2308.01107v2](http://arxiv.org/abs/2308.01107v2)|null|
-|**2023-08-04**|**Generation of Realistic Synthetic Raw Radar Data for Automated Driving Applications using Generative Adversarial Networks**|Eduardo C. Fidelis et.al.|[2308.02632v2](http://arxiv.org/abs/2308.02632v2)|null|
-|**2023-08-07**|**Quadratic-exponential coherent feedback control of linear quantum stochastic systems**|Igor G. Vladimirov et.al.|[2308.03918v1](http://arxiv.org/abs/2308.03918v1)|null|
-|**2023-08-04**|**Optimal Control of Stationary Doubly Diffusive Flows on Two and Three Dimensional Bounded Lipschitz Domains: A Theoretical Study**|Jai Tushar et.al.|[2308.02178v1](http://arxiv.org/abs/2308.02178v1)|null|
-|**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v2](http://arxiv.org/abs/2307.15955v2)|null|
-|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v2](http://arxiv.org/abs/2307.16865v2)|null|
-|**2023-08-02**|**Metric and Path-Connectedness Properties of the Frechet Distance for Paths and Graphs**|Erin Chambers et.al.|[2308.00900v1](http://arxiv.org/abs/2308.00900v1)|null|
-|**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model}**|Georgios I. Papayiannis et.al.|[2010.02968v3](http://arxiv.org/abs/2010.02968v3)|null|
-|**2023-07-30**|**Mask-guided Data Augmentation for Multiparametric MRI Generation with a Rare Hepatocellular Carcinoma**|Karen Sanchez et.al.|[2307.16314v1](http://arxiv.org/abs/2307.16314v1)|null|
-|**2019-03-12**|**A Global Diffeomorphism Theorem for Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1903.05162v2](http://arxiv.org/abs/1903.05162v2)|null|
-|**2018-04-23**|**On the existence of a global diffeomorphism between Fréchet spaces**|Kaveh Eftekharinasab et.al.|[1804.08349v6](http://arxiv.org/abs/1804.08349v6)|null|
+|**2023-08-16**|**Multiplicative deconvolution under unknown error distribution**|Sergio Brenner Miguel et.al.|[2308.08423v1](http://arxiv.org/abs/2308.08423v1)|null|
+|**2022-04-08**|**Uniformly Valid Inference Based on the Lasso in Linear Mixed Models**|Peter Kramlinger et.al.|[2204.03887v4](http://arxiv.org/abs/2204.03887v4)|null|
+|**2023-03-06**|**Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation**|Davide Corsi et.al.|[2303.03207v3](http://arxiv.org/abs/2303.03207v3)|null|
+|**2023-08-14**|**LCE: An Augmented Combination of Bagging and Boosting in Python**|Kevin Fauvel et.al.|[2308.07250v2](http://arxiv.org/abs/2308.07250v2)|[link](https://github.com/localcascadeensemble/lce)|
+|**2023-06-06**|**Follow-up Analyses to the O3 LIGO-Virgo-KAGRA Lensing Searches**|Justin Janquart et.al.|[2306.03827v4](http://arxiv.org/abs/2306.03827v4)|null|
+|**2023-08-14**|**No Regularization is Needed: An Efficient and Effective Model for Incomplete Label Distribution Learning**|Xiang Li et.al.|[2308.07047v1](http://arxiv.org/abs/2308.07047v1)|null|
+|**2023-08-10**|**Quantile regression outcome-adaptive lasso: variable selection for causal quantile treatment effect estimation**|Yahang Liu et.al.|[2308.05517v2](http://arxiv.org/abs/2308.05517v2)|null|
+|**2022-06-28**|**Bayesian Multi-task Variable Selection with an Application to Differential DAG Analysis**|Guanxun Li et.al.|[2206.14303v2](http://arxiv.org/abs/2206.14303v2)|null|
+|**2023-08-11**|**The N-ary in the Coal Mine: Avoiding Mixture Model Failure with Proper Validation**|Travis Maxfield et.al.|[2308.06347v1](http://arxiv.org/abs/2308.06347v1)|null|
+|**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|[link](https://github.com/opengvlab/multitask-model-selector)|
+|**2023-07-10**|**Automatic Debiased Machine Learning for Covariate Shifts**|Victor Chernozhukov et.al.|[2307.04527v2](http://arxiv.org/abs/2307.04527v2)|null|
+|**2022-06-16**|**A new method for clustered survival data]{A new method for clustered survival data: Estimation of treatment effect heterogeneity and variable selection**|Liangyuan Hu et.al.|[2206.08271v2](http://arxiv.org/abs/2206.08271v2)|null|
+|**2023-08-11**|**Sampling and Filtering with Markov Chains**|Michael A. Kouritzin et.al.|[2308.06192v1](http://arxiv.org/abs/2308.06192v1)|null|
+|**2023-08-10**|**Inconsistency and Acausality of Model Selection in Bayesian Inverse Problems**|Klaus Mosegaard et.al.|[2308.05858v1](http://arxiv.org/abs/2308.05858v1)|null|
+|**2023-08-10**|**The Galactic Interstellar Object Population: A Framework for Prediction and Inference**|Matthew J. Hopkins et.al.|[2308.05801v1](http://arxiv.org/abs/2308.05801v1)|null|
