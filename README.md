@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-08-27 07:20:24 Asia/Shanghai
+ Automated deployment @ 2023-08-27 19:18:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2022-09-19**|**Interpreting the Mechanism of Synergism for Drug Combinations Using Attention-Based Hierarchical Graph Pooling**|Zehao Dong et.al.|[2209.09245v2](http://arxiv.org/abs/2209.09245v2)|null|
 |**2023-06-08**|**On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks**|Donald Loveland et.al.|[2306.05557v2](http://arxiv.org/abs/2306.05557v2)|null|
 |**2023-08-22**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335v1](http://arxiv.org/abs/2308.11335v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-04-04**|**Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model**|Brandon Theodorou et.al.|[2304.02169v2](http://arxiv.org/abs/2304.02169v2)|[link](https://github.com/btheodorou99/halo_inpatient)|
+|**2023-08-23**|**Bayesian blockwise inference for joint models of longitudinal and multistate processes**|Sida Chen et.al.|[2308.12460v1](http://arxiv.org/abs/2308.12460v1)|null|
+|**2023-08-22**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|null|
+|**2023-08-20**|**Model Selection over Partially Ordered Sets**|Armeen Taeb et.al.|[2308.10375v2](http://arxiv.org/abs/2308.10375v2)|[link](https://github.com/armeentaeb/model-selection-over-posets)|
+|**2020-08-25**|**Inference for parameters identified by conditional moment restrictions using a generalized Bierens maximum statistic**|Xiaohong Chen et.al.|[2008.11140v5](http://arxiv.org/abs/2008.11140v5)|null|
+|**2023-08-22**|**Nonparametric Assessment of Variable Selection and Ranking Algorithms**|Zhou Tang et.al.|[2308.11593v1](http://arxiv.org/abs/2308.11593v1)|null|
+|**2023-08-22**|**Non-Bayesian Post-Model-Selection Estimation as Estimation Under Model Misspecification**|Nadav Harel et.al.|[2308.11359v1](http://arxiv.org/abs/2308.11359v1)|null|
+|**2022-06-21**|**Comment on "Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection"**|Jonte R. Hance et.al.|[2206.10619v3](http://arxiv.org/abs/2206.10619v3)|null|
+|**2023-08-21**|**Information content and maximum entropy of compartmental systems in equilibrium**|Holger Metzler et.al.|[2308.10956v1](http://arxiv.org/abs/2308.10956v1)|[link](https://github.com/goujou/entropy_and_complexity_in_eq)|
+|**2023-08-20**|**An Exact Sampler for Inference after Polyhedral Model Selection**|Sifan Liu et.al.|[2308.10346v1](http://arxiv.org/abs/2308.10346v1)|null|
+|**2023-08-20**|**Adaptive Uncertainty-Guided Model Selection for Data-Driven PDE Discovery**|Pongpisit Thanasutives et.al.|[2308.10283v1](http://arxiv.org/abs/2308.10283v1)|[link](https://github.com/pongpisit-thanasutives/ubic)|
+|**2023-08-19**|**Open, Closed, or Small Language Models for Text Classification?**|Hao Yu et.al.|[2308.10092v1](http://arxiv.org/abs/2308.10092v1)|null|
+|**2023-06-05**|**Signatures of primordial black holes in gravitational wave clustering**|Sarah Libanore et.al.|[2306.03087v2](http://arxiv.org/abs/2306.03087v2)|null|
+|**2023-05-01**|**Bayesian system identification for structures considering spatial and temporal correlation**|Ioannis Koune et.al.|[2305.00867v2](http://arxiv.org/abs/2305.00867v2)|[link](https://github.com/JanKoune/bayesian_si_with_correlation)|
+|**2023-08-17**|**Sparse reconstruction of ordinary differential equations with inference**|Sara Venkatraman et.al.|[2308.09166v1](http://arxiv.org/abs/2308.09166v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 |**2020-01-17**|**Distributional synthetic controls**|Florian Gunsilius et.al.|[2001.06118v5](http://arxiv.org/abs/2001.06118v5)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-04**|**Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model**|Brandon Theodorou et.al.|[2304.02169v2](http://arxiv.org/abs/2304.02169v2)|[link](https://github.com/btheodorou99/halo_inpatient)|
-|**2023-08-23**|**Bayesian blockwise inference for joint models of longitudinal and multistate processes**|Sida Chen et.al.|[2308.12460v1](http://arxiv.org/abs/2308.12460v1)|null|
-|**2023-08-22**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|null|
-|**2023-08-20**|**Model Selection over Partially Ordered Sets**|Armeen Taeb et.al.|[2308.10375v2](http://arxiv.org/abs/2308.10375v2)|[link](https://github.com/armeentaeb/model-selection-over-posets)|
-|**2020-08-25**|**Inference for parameters identified by conditional moment restrictions using a generalized Bierens maximum statistic**|Xiaohong Chen et.al.|[2008.11140v5](http://arxiv.org/abs/2008.11140v5)|null|
-|**2023-08-22**|**Nonparametric Assessment of Variable Selection and Ranking Algorithms**|Zhou Tang et.al.|[2308.11593v1](http://arxiv.org/abs/2308.11593v1)|null|
-|**2023-08-22**|**Non-Bayesian Post-Model-Selection Estimation as Estimation Under Model Misspecification**|Nadav Harel et.al.|[2308.11359v1](http://arxiv.org/abs/2308.11359v1)|null|
-|**2022-06-21**|**Comment on "Experimentally adjudicating between different causal accounts of Bell-inequality violations via statistical model selection"**|Jonte R. Hance et.al.|[2206.10619v3](http://arxiv.org/abs/2206.10619v3)|null|
-|**2023-08-21**|**Information content and maximum entropy of compartmental systems in equilibrium**|Holger Metzler et.al.|[2308.10956v1](http://arxiv.org/abs/2308.10956v1)|[link](https://github.com/goujou/entropy_and_complexity_in_eq)|
-|**2023-08-20**|**An Exact Sampler for Inference after Polyhedral Model Selection**|Sifan Liu et.al.|[2308.10346v1](http://arxiv.org/abs/2308.10346v1)|null|
-|**2023-08-20**|**Adaptive Uncertainty-Guided Model Selection for Data-Driven PDE Discovery**|Pongpisit Thanasutives et.al.|[2308.10283v1](http://arxiv.org/abs/2308.10283v1)|[link](https://github.com/pongpisit-thanasutives/ubic)|
-|**2023-08-19**|**Open, Closed, or Small Language Models for Text Classification?**|Hao Yu et.al.|[2308.10092v1](http://arxiv.org/abs/2308.10092v1)|null|
-|**2023-06-05**|**Signatures of primordial black holes in gravitational wave clustering**|Sarah Libanore et.al.|[2306.03087v2](http://arxiv.org/abs/2306.03087v2)|null|
-|**2023-05-01**|**Bayesian system identification for structures considering spatial and temporal correlation**|Ioannis Koune et.al.|[2305.00867v2](http://arxiv.org/abs/2305.00867v2)|[link](https://github.com/JanKoune/bayesian_si_with_correlation)|
-|**2023-08-17**|**Sparse reconstruction of ordinary differential equations with inference**|Sara Venkatraman et.al.|[2308.09166v1](http://arxiv.org/abs/2308.09166v1)|null|
