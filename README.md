@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-02 07:20:41 Asia/Shanghai
+ Automated deployment @ 2023-09-02 19:18:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2022-04-14**|**Solving AC Power Flow with Graph Neural Networks under Realistic Constraints**|Luis Böttcher et.al.|[2204.07000v2](http://arxiv.org/abs/2204.07000v2)|null|
 |**2023-02-17**|**G-Signatures: Global Graph Propagation With Randomized Signatures**|Bernhard Schäfl et.al.|[2302.08811v2](http://arxiv.org/abs/2302.08811v2)|null|
 |**2023-08-30**|**MSGNN: Multi-scale Spatio-temporal Graph Neural Network for Epidemic Forecasting**|Mingjie Qiu et.al.|[2308.15840v1](http://arxiv.org/abs/2308.15840v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-08-20**|**Adaptive Uncertainty-Guided Model Selection for Data-Driven PDE Discovery**|Pongpisit Thanasutives et.al.|[2308.10283v2](http://arxiv.org/abs/2308.10283v2)|[link](https://github.com/pongpisit-thanasutives/ubic)|
+|**2023-08-31**|**Model Selection for Ordinary Differential Equations: a Statistical Testing Approach**|Itai Dattner et.al.|[2308.16438v1](http://arxiv.org/abs/2308.16438v1)|null|
+|**2023-08-30**|**Adaptive Lasso, Transfer Lasso, and Beyond: An Asymptotic Perspective**|Masaaki Takada et.al.|[2308.15838v1](http://arxiv.org/abs/2308.15838v1)|null|
+|**2023-08-30**|**SharpSAT-TD in Model Counting Competitions 2021-2023**|Tuukka Korhonen et.al.|[2308.15819v1](http://arxiv.org/abs/2308.15819v1)|[link](https://github.com/laakeri/sharpsat-td)|
+|**2021-09-08**|**Differentially private methods for managing model uncertainty in linear regression models**|Víctor Peña et.al.|[2109.03949v4](http://arxiv.org/abs/2109.03949v4)|null|
+|**2023-08-29**|**Small Area Estimation with Random Forests and the LASSO**|Victoire Michal et.al.|[2308.15180v1](http://arxiv.org/abs/2308.15180v1)|null|
+|**2023-08-26**|**A flexible Bayesian tool for CoDa mixed models: logistic-normal distribution with Dirichlet covariance**|Joaquín Martínez-Minaya et.al.|[2308.13928v2](http://arxiv.org/abs/2308.13928v2)|null|
+|**2023-08-29**|**Exploring Model Transferability through the Lens of Potential Energy**|Xiaotong Li et.al.|[2308.15074v1](http://arxiv.org/abs/2308.15074v1)|[link](https://github.com/lixiaotong97/ped)|
+|**2023-08-28**|**Systematic reduction of Hyperspectral Images for high-throughput Plastic Characterization**|Mahdiyeh Ghaffari et.al.|[2308.14776v1](http://arxiv.org/abs/2308.14776v1)|null|
+|**2023-08-28**|**Self-Supervision for Tackling Unsupervised Anomaly Detection: Pitfalls and Opportunities**|Leman Akoglu et.al.|[2308.14380v1](http://arxiv.org/abs/2308.14380v1)|null|
+|**2023-08-26**|**Sparse Models for Machine Learning**|Jianyi Lin et.al.|[2308.13960v1](http://arxiv.org/abs/2308.13960v1)|null|
+|**2023-08-25**|**Degrees of Freedom: Search Cost and Self-consistency**|Lijun Wang et.al.|[2308.13630v1](http://arxiv.org/abs/2308.13630v1)|[link](https://github.com/szcf-weiya/earth.dof.patch)|
+|**2023-04-04**|**Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model**|Brandon Theodorou et.al.|[2304.02169v2](http://arxiv.org/abs/2304.02169v2)|[link](https://github.com/btheodorou99/halo_inpatient)|
+|**2023-08-23**|**Bayesian blockwise inference for joint models of longitudinal and multistate processes**|Sida Chen et.al.|[2308.12460v1](http://arxiv.org/abs/2308.12460v1)|null|
+|**2023-08-22**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v2](http://arxiv.org/abs/2307.15955v2)|null|
 |**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v2](http://arxiv.org/abs/2307.16865v2)|null|
 |**2023-08-02**|**Metric and Path-Connectedness Properties of the Frechet Distance for Paths and Graphs**|Erin Chambers et.al.|[2308.00900v1](http://arxiv.org/abs/2308.00900v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-08-20**|**Adaptive Uncertainty-Guided Model Selection for Data-Driven PDE Discovery**|Pongpisit Thanasutives et.al.|[2308.10283v2](http://arxiv.org/abs/2308.10283v2)|[link](https://github.com/pongpisit-thanasutives/ubic)|
-|**2023-08-31**|**Model Selection for Ordinary Differential Equations: a Statistical Testing Approach**|Itai Dattner et.al.|[2308.16438v1](http://arxiv.org/abs/2308.16438v1)|null|
-|**2023-08-30**|**Adaptive Lasso, Transfer Lasso, and Beyond: An Asymptotic Perspective**|Masaaki Takada et.al.|[2308.15838v1](http://arxiv.org/abs/2308.15838v1)|null|
-|**2023-08-30**|**SharpSAT-TD in Model Counting Competitions 2021-2023**|Tuukka Korhonen et.al.|[2308.15819v1](http://arxiv.org/abs/2308.15819v1)|[link](https://github.com/laakeri/sharpsat-td)|
-|**2021-09-08**|**Differentially private methods for managing model uncertainty in linear regression models**|Víctor Peña et.al.|[2109.03949v4](http://arxiv.org/abs/2109.03949v4)|null|
-|**2023-08-29**|**Small Area Estimation with Random Forests and the LASSO**|Victoire Michal et.al.|[2308.15180v1](http://arxiv.org/abs/2308.15180v1)|null|
-|**2023-08-26**|**A flexible Bayesian tool for CoDa mixed models: logistic-normal distribution with Dirichlet covariance**|Joaquín Martínez-Minaya et.al.|[2308.13928v2](http://arxiv.org/abs/2308.13928v2)|null|
-|**2023-08-29**|**Exploring Model Transferability through the Lens of Potential Energy**|Xiaotong Li et.al.|[2308.15074v1](http://arxiv.org/abs/2308.15074v1)|[link](https://github.com/lixiaotong97/ped)|
-|**2023-08-28**|**Systematic reduction of Hyperspectral Images for high-throughput Plastic Characterization**|Mahdiyeh Ghaffari et.al.|[2308.14776v1](http://arxiv.org/abs/2308.14776v1)|null|
-|**2023-08-28**|**Self-Supervision for Tackling Unsupervised Anomaly Detection: Pitfalls and Opportunities**|Leman Akoglu et.al.|[2308.14380v1](http://arxiv.org/abs/2308.14380v1)|null|
-|**2023-08-26**|**Sparse Models for Machine Learning**|Jianyi Lin et.al.|[2308.13960v1](http://arxiv.org/abs/2308.13960v1)|null|
-|**2023-08-25**|**Degrees of Freedom: Search Cost and Self-consistency**|Lijun Wang et.al.|[2308.13630v1](http://arxiv.org/abs/2308.13630v1)|[link](https://github.com/szcf-weiya/earth.dof.patch)|
-|**2023-04-04**|**Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model**|Brandon Theodorou et.al.|[2304.02169v2](http://arxiv.org/abs/2304.02169v2)|[link](https://github.com/btheodorou99/halo_inpatient)|
-|**2023-08-23**|**Bayesian blockwise inference for joint models of longitudinal and multistate processes**|Sida Chen et.al.|[2308.12460v1](http://arxiv.org/abs/2308.12460v1)|null|
-|**2023-08-22**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|null|
