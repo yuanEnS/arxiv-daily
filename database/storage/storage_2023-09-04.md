@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-04 07:21:03 Asia/Shanghai
+ Automated deployment @ 2023-09-04 19:19:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-01**|**Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models**|Janghoon Ock et.al.|[2309.00563v1](http://arxiv.org/abs/2309.00563v1)|null|
+|**2023-09-01**|**Application of Deep Learning Methods in Monitoring and Optimization of Electric Power Systems**|Ognjen Kundacina et.al.|[2309.00498v1](http://arxiv.org/abs/2309.00498v1)|null|
+|**2023-09-01**|**A Locality-based Neural Solver for Optical Motion Capture**|Xiaoyu Pan et.al.|[2309.00428v1](http://arxiv.org/abs/2309.00428v1)|[link](https://github.com/non-void/localmocap)|
+|**2022-12-02**|**Identifying Generalized Neural Representation Across Hamiltonian Manifolds via Meta-learning**|Yeongwoo Song et.al.|[2212.01168v2](http://arxiv.org/abs/2212.01168v2)|null|
+|**2023-08-02**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890v2](http://arxiv.org/abs/2308.00890v2)|null|
+|**2022-07-06**|**Simple and Efficient Heterogeneous Graph Neural Network**|Xiaocheng Yang et.al.|[2207.02547v3](http://arxiv.org/abs/2207.02547v3)|[link](https://github.com/ict-gimlab/sehgnn)|
+|**2023-08-30**|**Efficient and Explainable Graph Neural Architecture Search via Monte-Carlo Tree Search**|Yuya Sasaki et.al.|[2308.15734v2](http://arxiv.org/abs/2308.15734v2)|null|
+|**2023-08-31**|**Pose-Graph Attentional Graph Neural Network for Lidar Place Recognition**|Milad Ramezani et.al.|[2309.00168v1](http://arxiv.org/abs/2309.00168v1)|null|
 |**2023-08-31**|**Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images**|Chinmay Prabhakar et.al.|[2308.16863v1](http://arxiv.org/abs/2308.16863v1)|[link](https://github.com/chinmay5/ms_ida)|
 |**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800v1](http://arxiv.org/abs/2308.16800v1)|[link](https://github.com/roth-andreas/rank_collapse)|
 |**2023-03-27**|**Knowledge Enhanced Graph Neural Networks for Graph Completion**|Luisa Werner et.al.|[2303.15487v3](http://arxiv.org/abs/2303.15487v3)|null|
@@ -24,20 +32,16 @@
 |**2023-08-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shen et.al.|[2308.16470v1](http://arxiv.org/abs/2308.16470v1)|[link](https://github.com/shenxiaocam/dm_gnn)|
 |**2023-08-31**|**CktGNN: Circuit Graph Neural Network for Electronic Design Automation**|Zehao Dong et.al.|[2308.16406v1](http://arxiv.org/abs/2308.16406v1)|[link](https://github.com/zehao-dong/CktGNN)|
 |**2022-01-31**|**MGNN: Graph Neural Networks Inspired by Distance Geometry Problem**|Guanyu Cui et.al.|[2201.12994v4](http://arxiv.org/abs/2201.12994v4)|[link](https://github.com/guanyucui/mgnn)|
-|**2023-08-31**|**BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks**|Qiang Huang et.al.|[2308.16385v1](http://arxiv.org/abs/2308.16385v1)|[link](https://github.com/qianghuangwhu/benchtemp)|
-|**2023-08-31**|**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**|Yi Zhang et.al.|[2308.16375v1](http://arxiv.org/abs/2308.16375v1)|[link](https://github.com/nds-vu/awesome-gnn-privacy)|
-|**2023-08-30**|**Spatial Graph Coarsening: Weather and Weekday Prediction with London's Bike-Sharing Service using GNN**|Yuta Sato et.al.|[2308.16122v1](http://arxiv.org/abs/2308.16122v1)|null|
-|**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984v1](http://arxiv.org/abs/2308.15984v1)|null|
-|**2023-08-30**|**Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems**|Hengchang Hu et.al.|[2308.15980v1](http://arxiv.org/abs/2308.15980v1)|[link](https://github.com/holdenhu/mmsr)|
-|**2022-04-14**|**Solving AC Power Flow with Graph Neural Networks under Realistic Constraints**|Luis Böttcher et.al.|[2204.07000v2](http://arxiv.org/abs/2204.07000v2)|null|
-|**2023-02-17**|**G-Signatures: Global Graph Propagation With Randomized Signatures**|Bernhard Schäfl et.al.|[2302.08811v2](http://arxiv.org/abs/2302.08811v2)|null|
-|**2023-08-30**|**MSGNN: Multi-scale Spatio-temporal Graph Neural Network for Epidemic Forecasting**|Mingjie Qiu et.al.|[2308.15840v1](http://arxiv.org/abs/2308.15840v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-03**|**Learning permutation symmetries with gips in R**|Adam Chojecki et.al.|[2307.00790v2](http://arxiv.org/abs/2307.00790v2)|[link](https://github.com/przechoj/gips)|
+|**2023-07-25**|**Rational kernel-based interpolation for complex-valued frequency response functions**|Julien Bect et.al.|[2307.13484v2](http://arxiv.org/abs/2307.13484v2)|null|
+|**2023-09-01**|**Subjectivity in Unsupervised Machine Learning Model Selection**|Wanyi Chen et.al.|[2309.00201v1](http://arxiv.org/abs/2309.00201v1)|null|
+|**2022-01-02**|**Bayesian Generalized Additive Model Selection Including a Fast Variational Option**|Virginia X. He et.al.|[2201.00412v5](http://arxiv.org/abs/2201.00412v5)|null|
 |**2023-08-20**|**Adaptive Uncertainty-Guided Model Selection for Data-Driven PDE Discovery**|Pongpisit Thanasutives et.al.|[2308.10283v2](http://arxiv.org/abs/2308.10283v2)|[link](https://github.com/pongpisit-thanasutives/ubic)|
 |**2023-08-31**|**Model Selection for Ordinary Differential Equations: a Statistical Testing Approach**|Itai Dattner et.al.|[2308.16438v1](http://arxiv.org/abs/2308.16438v1)|null|
 |**2023-08-30**|**Adaptive Lasso, Transfer Lasso, and Beyond: An Asymptotic Perspective**|Masaaki Takada et.al.|[2308.15838v1](http://arxiv.org/abs/2308.15838v1)|null|
@@ -49,31 +53,8 @@
 |**2023-08-28**|**Systematic reduction of Hyperspectral Images for high-throughput Plastic Characterization**|Mahdiyeh Ghaffari et.al.|[2308.14776v1](http://arxiv.org/abs/2308.14776v1)|null|
 |**2023-08-28**|**Self-Supervision for Tackling Unsupervised Anomaly Detection: Pitfalls and Opportunities**|Leman Akoglu et.al.|[2308.14380v1](http://arxiv.org/abs/2308.14380v1)|null|
 |**2023-08-26**|**Sparse Models for Machine Learning**|Jianyi Lin et.al.|[2308.13960v1](http://arxiv.org/abs/2308.13960v1)|null|
-|**2023-08-25**|**Degrees of Freedom: Search Cost and Self-consistency**|Lijun Wang et.al.|[2308.13630v1](http://arxiv.org/abs/2308.13630v1)|[link](https://github.com/szcf-weiya/earth.dof.patch)|
-|**2023-04-04**|**Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model**|Brandon Theodorou et.al.|[2304.02169v2](http://arxiv.org/abs/2304.02169v2)|[link](https://github.com/btheodorou99/halo_inpatient)|
-|**2023-08-23**|**Bayesian blockwise inference for joint models of longitudinal and multistate processes**|Sida Chen et.al.|[2308.12460v1](http://arxiv.org/abs/2308.12460v1)|null|
-|**2023-08-22**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v2](http://arxiv.org/abs/2301.10611v2)|null|
-|**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v1](http://arxiv.org/abs/2308.14569v1)|null|
-|**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
-|**2023-08-16**|**Fair GANs through model rebalancing with synthetic data**|Anubhav Jain et.al.|[2308.08638v1](http://arxiv.org/abs/2308.08638v1)|null|
-|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339v1](http://arxiv.org/abs/2308.08339v1)|[link](https://github.com/aaleka/retree)|
-|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v2](http://arxiv.org/abs/2308.06769v2)|null|
-|**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v2](http://arxiv.org/abs/2209.05676v2)|null|
-|**2023-07-19**|**Efficient Non-Learning Similar Subtrajectory Search**|Jiabao Jin et.al.|[2307.10082v2](http://arxiv.org/abs/2307.10082v2)|null|
-|**2023-08-02**|**Function Theory off the complexified unit circle: Fréchet space structure and automorphisms**|Michael Heins et.al.|[2308.01107v2](http://arxiv.org/abs/2308.01107v2)|null|
-|**2023-08-04**|**Generation of Realistic Synthetic Raw Radar Data for Automated Driving Applications using Generative Adversarial Networks**|Eduardo C. Fidelis et.al.|[2308.02632v2](http://arxiv.org/abs/2308.02632v2)|[link](https://github.com/eduardo-candioto-fidelis/raw-radar-data-generation)|
-|**2023-08-07**|**Quadratic-exponential coherent feedback control of linear quantum stochastic systems**|Igor G. Vladimirov et.al.|[2308.03918v1](http://arxiv.org/abs/2308.03918v1)|null|
-|**2023-08-04**|**Optimal Control of Stationary Doubly Diffusive Flows on Two and Three Dimensional Bounded Lipschitz Domains: A Theoretical Study**|Jai Tushar et.al.|[2308.02178v1](http://arxiv.org/abs/2308.02178v1)|null|
-|**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v2](http://arxiv.org/abs/2307.15955v2)|null|
-|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v2](http://arxiv.org/abs/2307.16865v2)|null|
-|**2023-08-02**|**Metric and Path-Connectedness Properties of the Frechet Distance for Paths and Graphs**|Erin Chambers et.al.|[2308.00900v1](http://arxiv.org/abs/2308.00900v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -93,3 +74,22 @@
 |**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v2](http://arxiv.org/abs/2301.10611v2)|null|
+|**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v1](http://arxiv.org/abs/2308.14569v1)|null|
+|**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
+|**2023-08-16**|**Fair GANs through model rebalancing with synthetic data**|Anubhav Jain et.al.|[2308.08638v1](http://arxiv.org/abs/2308.08638v1)|null|
+|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339v1](http://arxiv.org/abs/2308.08339v1)|[link](https://github.com/aaleka/retree)|
+|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v2](http://arxiv.org/abs/2308.06769v2)|null|
+|**2022-09-13**|**Recovery from Non-Decomposable Distance Oracles**|Zhuangfei Hu et.al.|[2209.05676v2](http://arxiv.org/abs/2209.05676v2)|null|
+|**2023-07-19**|**Efficient Non-Learning Similar Subtrajectory Search**|Jiabao Jin et.al.|[2307.10082v2](http://arxiv.org/abs/2307.10082v2)|null|
+|**2023-08-02**|**Function Theory off the complexified unit circle: Fréchet space structure and automorphisms**|Michael Heins et.al.|[2308.01107v2](http://arxiv.org/abs/2308.01107v2)|null|
+|**2023-08-04**|**Generation of Realistic Synthetic Raw Radar Data for Automated Driving Applications using Generative Adversarial Networks**|Eduardo C. Fidelis et.al.|[2308.02632v2](http://arxiv.org/abs/2308.02632v2)|[link](https://github.com/eduardo-candioto-fidelis/raw-radar-data-generation)|
+|**2023-08-07**|**Quadratic-exponential coherent feedback control of linear quantum stochastic systems**|Igor G. Vladimirov et.al.|[2308.03918v1](http://arxiv.org/abs/2308.03918v1)|null|
+|**2023-08-04**|**Optimal Control of Stationary Doubly Diffusive Flows on Two and Three Dimensional Bounded Lipschitz Domains: A Theoretical Study**|Jai Tushar et.al.|[2308.02178v1](http://arxiv.org/abs/2308.02178v1)|null|
+|**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v2](http://arxiv.org/abs/2307.15955v2)|null|
+|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v2](http://arxiv.org/abs/2307.16865v2)|null|
+|**2023-08-02**|**Metric and Path-Connectedness Properties of the Frechet Distance for Paths and Graphs**|Erin Chambers et.al.|[2308.00900v1](http://arxiv.org/abs/2308.00900v1)|null|
