@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-08 07:21:21 Asia/Shanghai
+ Automated deployment @ 2023-09-08 19:18:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-06**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190v1](http://arxiv.org/abs/2309.03190v1)|null|
-|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169v1](http://arxiv.org/abs/2309.03169v1)|null|
+|**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773v1](http://arxiv.org/abs/2309.03773v1)|null|
+|**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v2](http://arxiv.org/abs/2306.13186v2)|[link](https://github.com/data-engineering-and-semantics/openkgbiblio)|
+|**2023-09-07**|**Characterizing Lipschitz Stability of GNN for Fairness**|Yaning Jia et.al.|[2309.03648v1](http://arxiv.org/abs/2309.03648v1)|null|
+|**2023-09-07**|**Filtration Surfaces for Dynamic Graph Classification**|Franz Srambical et.al.|[2309.03616v1](http://arxiv.org/abs/2309.03616v1)|null|
+|**2023-09-07**|**Enhancing 5G Radio Planning with Graph Representations and Deep Learning**|Paul Almasan et.al.|[2309.03603v1](http://arxiv.org/abs/2309.03603v1)|null|
+|**2023-09-06**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190v2](http://arxiv.org/abs/2309.03190v2)|null|
+|**2023-08-04**|**RAHNet: Retrieval Augmented Hybrid Network for Long-tailed Graph Classification**|Zhengyang Mao et.al.|[2308.02335v2](http://arxiv.org/abs/2308.02335v2)|null|
+|**2023-09-07**|**DGC: Training Dynamic Graphs with Spatio-Temporal Non-Uniformity using Graph Partitioning by Chunks**|Fahao Chen et.al.|[2309.03523v1](http://arxiv.org/abs/2309.03523v1)|null|
+|**2023-07-17**|**Towards eXplainable AI for Mobility Data Science**|Anahid Jalali et.al.|[2307.08461v3](http://arxiv.org/abs/2307.08461v3)|null|
+|**2020-12-11**|**Understanding Spectral Graph Neural Network**|Xinye Chen et.al.|[2012.06660v4](http://arxiv.org/abs/2012.06660v4)|null|
+|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169v2](http://arxiv.org/abs/2309.03169v2)|null|
 |**2023-09-06**|**Using Multiple Vector Channels Improves E(n)-Equivariant Graph Neural Networks**|Daniel Levy et.al.|[2309.03139v1](http://arxiv.org/abs/2309.03139v1)|null|
 |**2023-05-25**|**Learning Preconditioner for Conjugate Gradient PDE Solvers**|Yichen Li et.al.|[2305.16432v2](http://arxiv.org/abs/2305.16432v2)|null|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
-|**2023-07-17**|**Towards eXplainable AI for Mobility Data Science**|Anahid Jalali et.al.|[2307.08461v2](http://arxiv.org/abs/2307.08461v2)|null|
 |**2023-03-17**|**Neural-prior stochastic block model**|O. Duranthon et.al.|[2303.09995v2](http://arxiv.org/abs/2303.09995v2)|null|
-|**2023-04-10**|**A Unified Framework for Exploratory Learning-Aided Community Detection in Networks with Unknown Topology**|Yu Hou et.al.|[2304.04497v2](http://arxiv.org/abs/2304.04497v2)|null|
-|**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|
-|**2022-06-22**|**Understanding convolution on graphs via energies**|Francesco Di Giovanni et.al.|[2206.10991v5](http://arxiv.org/abs/2206.10991v5)|null|
-|**2023-09-06**|**Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond**|Zhiqi Shao et.al.|[2309.02769v1](http://arxiv.org/abs/2309.02769v1)|null|
-|**2023-09-06**|**Towards Unsupervised Graph Completion Learning on Graphs with Features and Structure Missing**|Sichao Fu et.al.|[2309.02762v1](http://arxiv.org/abs/2309.02762v1)|null|
-|**2023-09-06**|**Reinforcement Learning of Action and Query Policies with LTL Instructions under Uncertain Event Detector**|Wataru Hatanaka et.al.|[2309.02722v1](http://arxiv.org/abs/2309.02722v1)|null|
-|**2023-02-13**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Irene Li et.al.|[2302.06132v2](http://arxiv.org/abs/2302.06132v2)|null|
-|**2022-08-13**|**Revisiting Adversarial Attacks on Graph Neural Networks for Graph Classification**|Xin Wang et.al.|[2208.06651v2](http://arxiv.org/abs/2208.06651v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-07**|**On Large Language Models' Selection Bias in Multi-Choice Questions**|Chujie Zheng et.al.|[2309.03882v1](http://arxiv.org/abs/2309.03882v1)|null|
+|**2023-09-07**|**Neural lasso: a unifying approach of lasso and neural networks**|David Delgado et.al.|[2309.03770v1](http://arxiv.org/abs/2309.03770v1)|null|
+|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v1](http://arxiv.org/abs/2309.03742v1)|null|
+|**2023-09-07**|**Identifying spatial interdependence in panel data with large N and small T**|Deborah Gefang et.al.|[2309.03740v1](http://arxiv.org/abs/2309.03740v1)|null|
+|**2022-12-10**|**How to select an objective function using information theory**|Timothy O. Hodson et.al.|[2212.06566v2](http://arxiv.org/abs/2212.06566v2)|null|
+|**2023-04-19**|**An XAI framework for robust and transparent data-driven wind turbine power curve models**|Simon Letzgus et.al.|[2304.09835v2](http://arxiv.org/abs/2304.09835v2)|null|
+|**2023-09-05**|**A novel algebraic approach to time-reversible evolutionary models**|Marta Casanellas et.al.|[2309.02276v1](http://arxiv.org/abs/2309.02276v1)|null|
+|**2023-09-05**|**Granger Causal Inference in Multivariate Hawkes Processes by Minimum Message Length**|Katerina Hlavackova-Schindler et.al.|[2309.02027v1](http://arxiv.org/abs/2309.02027v1)|null|
+|**2022-11-30**|**Newton-type Methods with the Proximal Gradient Step for Sparse Estimation**|Ryosuke Shimmura et.al.|[2211.16804v2](http://arxiv.org/abs/2211.16804v2)|null|
+|**2023-09-05**|**Ab initio uncertainty quantification in scattering analysis of microscopy**|Mengyang Gu et.al.|[2309.02468v1](http://arxiv.org/abs/2309.02468v1)|null|
+|**2022-01-30**|**Two-Step Mixed-Type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v4](http://arxiv.org/abs/2201.12839v4)|[link](https://github.com/raybai07/mtmbsp)|
+|**2023-09-04**|**Adsorption Characteristics of Refrigerants for Thermochemical Energy Storage in Metal-Organic Frameworks**|J. M. Vicent-Luna et.al.|[2309.01777v1](http://arxiv.org/abs/2309.01777v1)|null|
+|**2023-09-04**|**Generalized Information Criteria for Structured Sparse Models**|Eduardo F. Mendes et.al.|[2309.01764v1](http://arxiv.org/abs/2309.01764v1)|null|
+|**2023-09-04**|**Parameter identifiability and model selection for partial differential equation models of cell invasion**|Yue Liu et.al.|[2309.01476v1](http://arxiv.org/abs/2309.01476v1)|null|
+|**2021-10-24**|**Robust Variable Selection under Cellwise Contamination**|Peng Su et.al.|[2110.12406v3](http://arxiv.org/abs/2110.12406v3)|[link](https://github.com/pengsu517/robcovsel)|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2023-08-04**|**Optimal Control of Stationary Doubly Diffusive Flows on Two and Three Dimensional Bounded Lipschitz Domains: A Theoretical Study**|Jai Tushar et.al.|[2308.02178v1](http://arxiv.org/abs/2308.02178v1)|null|
 |**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v2](http://arxiv.org/abs/2307.15955v2)|null|
 |**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v2](http://arxiv.org/abs/2307.16865v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-04-19**|**An XAI framework for robust and transparent data-driven wind turbine power curve models**|Simon Letzgus et.al.|[2304.09835v2](http://arxiv.org/abs/2304.09835v2)|null|
-|**2023-09-05**|**A novel algebraic approach to time-reversible evolutionary models**|Marta Casanellas et.al.|[2309.02276v1](http://arxiv.org/abs/2309.02276v1)|null|
-|**2023-09-05**|**Granger Causal Inference in Multivariate Hawkes Processes by Minimum Message Length**|Katerina Hlavackova-Schindler et.al.|[2309.02027v1](http://arxiv.org/abs/2309.02027v1)|null|
-|**2022-11-30**|**Newton-type Methods with the Proximal Gradient Step for Sparse Estimation**|Ryosuke Shimmura et.al.|[2211.16804v2](http://arxiv.org/abs/2211.16804v2)|null|
-|**2023-09-05**|**Ab initio uncertainty quantification in scattering analysis of microscopy**|Mengyang Gu et.al.|[2309.02468v1](http://arxiv.org/abs/2309.02468v1)|null|
-|**2022-01-30**|**Two-Step Mixed-Type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v4](http://arxiv.org/abs/2201.12839v4)|[link](https://github.com/raybai07/mtmbsp)|
-|**2023-09-04**|**Adsorption Characteristics of Refrigerants for Thermochemical Energy Storage in Metal-Organic Frameworks**|J. M. Vicent-Luna et.al.|[2309.01777v1](http://arxiv.org/abs/2309.01777v1)|null|
-|**2023-09-04**|**Generalized Information Criteria for Structured Sparse Models**|Eduardo F. Mendes et.al.|[2309.01764v1](http://arxiv.org/abs/2309.01764v1)|null|
-|**2023-09-04**|**Parameter identifiability and model selection for partial differential equation models of cell invasion**|Yue Liu et.al.|[2309.01476v1](http://arxiv.org/abs/2309.01476v1)|null|
-|**2021-10-24**|**Robust Variable Selection under Cellwise Contamination**|Peng Su et.al.|[2110.12406v3](http://arxiv.org/abs/2110.12406v3)|[link](https://github.com/pengsu517/robcovsel)|
-|**2023-09-03**|**Saturn: An Optimized Data System for Large Model Deep Learning Workloads**|Kabir Nagrecha et.al.|[2309.01226v1](http://arxiv.org/abs/2309.01226v1)|null|
-|**2023-09-03**|**AutoML-GPT: Large Language Model for AutoML**|Yun-Da Tsai et.al.|[2309.01125v1](http://arxiv.org/abs/2309.01125v1)|null|
-|**2019-11-05**|**Selective machine learning of doubly robust functionals**|Yifan Cui et.al.|[1911.02029v6](http://arxiv.org/abs/1911.02029v6)|null|
-|**2023-09-01**|**Model Selection with Baryonic Acoustic Oscillations in the Lyman-alpha Forest**|Fulvio Melia et.al.|[2309.00662v1](http://arxiv.org/abs/2309.00662v1)|null|
-|**2023-07-03**|**Learning permutation symmetries with gips in R**|Adam Chojecki et.al.|[2307.00790v2](http://arxiv.org/abs/2307.00790v2)|[link](https://github.com/przechoj/gips)|
