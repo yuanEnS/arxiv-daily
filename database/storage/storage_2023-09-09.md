@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-09 07:20:38 Asia/Shanghai
+ Automated deployment @ 2023-09-09 19:18:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Non-Euclidean Staistics
 
-### Frechet Mean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
-|**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model}**|Georgios I. Papayiannis et.al.|[2010.02968v3](http://arxiv.org/abs/2010.02968v3)|null|
-|**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
-|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v2](http://arxiv.org/abs/2207.03943v2)|null|
-|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v2](http://arxiv.org/abs/2302.11410v2)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
-|**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
-|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
-|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
-|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
-|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
-|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
-|**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
-|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
-|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
-|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
-
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -72,6 +53,25 @@
 |**2023-08-04**|**Optimal Control of Stationary Doubly Diffusive Flows on Two and Three Dimensional Bounded Lipschitz Domains: A Theoretical Study**|Jai Tushar et.al.|[2308.02178v1](http://arxiv.org/abs/2308.02178v1)|null|
 |**2023-07-29**|**Geometry Via Sprays on Frechet Manifolds**|Kaveh Eftekharinasab et.al.|[2307.15955v2](http://arxiv.org/abs/2307.15955v2)|null|
 |**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v2](http://arxiv.org/abs/2307.16865v2)|null|
+
+### Frechet Mean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
+|**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model}**|Georgios I. Papayiannis et.al.|[2010.02968v3](http://arxiv.org/abs/2010.02968v3)|null|
+|**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
+|**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v2](http://arxiv.org/abs/2207.03943v2)|null|
+|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v2](http://arxiv.org/abs/2302.11410v2)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
+|**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
+|**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+|**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
+|**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
+|**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
+|**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
+|**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
+|**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
+|**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
 
 ## Variable Selection
 
