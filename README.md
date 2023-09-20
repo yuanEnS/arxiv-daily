@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-20 07:20:58 Asia/Shanghai
+ Automated deployment @ 2023-09-20 19:19:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
-|**2023-09-18**|**A Heterogeneous Graph-Based Multi-Task Learning for Fault Event Diagnosis in Smart Grid**|Dibaloke Chanda et.al.|[2309.09921v1](http://arxiv.org/abs/2309.09921v1)|null|
-|**2023-09-18**|**CC-SGG: Corner Case Scenario Generation using Learned Scene Graphs**|George Drayson et.al.|[2309.09844v1](http://arxiv.org/abs/2309.09844v1)|null|
-|**2023-09-12**|**Explainable Graph Neural Network for Alzheimer's Disease And Related Dementias Risk Prediction**|Xinyue Hu et.al.|[2309.06584v3](http://arxiv.org/abs/2309.06584v3)|null|
-|**2023-05-17**|**Edge Directionality Improves Learning on Heterophilic Graphs**|Emanuele Rossi et.al.|[2305.10498v2](http://arxiv.org/abs/2305.10498v2)|[link](https://github.com/emalgorithm/directed-graph-neural-network)|
-|**2023-09-05**|**Diffusion Generative Inverse Design**|Marin Vlastelica et.al.|[2309.02040v2](http://arxiv.org/abs/2309.02040v2)|null|
-|**2023-09-18**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517v1](http://arxiv.org/abs/2309.09517v1)|null|
-|**2022-06-01**|**An Empirical Study of Retrieval-enhanced Graph Neural Networks**|Dingmin Wang et.al.|[2206.00362v4](http://arxiv.org/abs/2206.00362v4)|[link](https://github.com/wdimmy/graphretrieval)|
-|**2023-09-17**|**Mitigating Over-Smoothing and Over-Squashing using Augmentations of Forman-Ricci Curvature**|Lukas Fesser et.al.|[2309.09384v1](http://arxiv.org/abs/2309.09384v1)|null|
-|**2023-04-25**|**Node Feature Augmentation Vitaminizes Network Alignment**|Jin-Duk Park et.al.|[2304.12751v2](http://arxiv.org/abs/2304.12751v2)|null|
-|**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568v3](http://arxiv.org/abs/2308.15568v3)|null|
-|**2023-09-17**|**Performance of Graph Neural Networks for Point Cloud Applications**|Dhruv Parikh et.al.|[2309.09142v1](http://arxiv.org/abs/2309.09142v1)|null|
-|**2023-09-02**|**SEPAL: Spatial Gene Expression Prediction from Local Graphs**|Gabriel Mejia et.al.|[2309.01036v2](http://arxiv.org/abs/2309.01036v2)|[link](https://github.com/bcv-uniandes/sepal)|
-|**2023-09-16**|**CNS: Correspondence Encoded Neural Image Servo Policy**|Anzhe Chen et.al.|[2309.09047v1](http://arxiv.org/abs/2309.09047v1)|null|
-|**2023-08-22**|**How Expressive are Graph Neural Networks in Recommendation?**|Xuheng Cai et.al.|[2308.11127v3](http://arxiv.org/abs/2308.11127v3)|[link](https://github.com/hkuds/gte)|
+|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808v1](http://arxiv.org/abs/2309.10808v1)|null|
+|**2022-12-22**|**RouteNet-Fermi: Network Modeling with Graph Neural Networks**|Miquel Ferriol-Galmés et.al.|[2212.12070v2](http://arxiv.org/abs/2212.12070v2)|[link](https://github.com/bnn-upc/bnnetsimulator)|
+|**2023-09-07**|**Promoting Fairness in GNNs: A Characterization of Stability**|Yaning Jia et.al.|[2309.03648v2](http://arxiv.org/abs/2309.03648v2)|null|
+|**2023-08-31**|**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**|Yi Zhang et.al.|[2308.16375v3](http://arxiv.org/abs/2308.16375v3)|[link](https://github.com/nds-vu/awesome-gnn-privacy)|
+|**2023-09-19**|**Graph Neural Networks for Dynamic Modeling of Roller Bearing**|Vinay Sharma et.al.|[2309.10418v1](http://arxiv.org/abs/2309.10418v1)|null|
+|**2023-07-13**|**Extended Graph Assessment Metrics for Graph Neural Networks**|Tamara T. Mueller et.al.|[2307.10112v2](http://arxiv.org/abs/2307.10112v2)|null|
+|**2023-07-13**|**Body Fat Estimation from Surface Meshes using Graph Neural Networks**|Tamara T. Mueller et.al.|[2308.02493v2](http://arxiv.org/abs/2308.02493v2)|null|
+|**2023-09-11**|**Advancing Federated Learning in 6G: A Trusted Architecture with Graph-based Analysis**|Wenxuan Ye et.al.|[2309.05525v2](http://arxiv.org/abs/2309.05525v2)|null|
+|**2023-04-25**|**Node Feature Augmentation Vitaminizes Network Alignment**|Jin-Duk Park et.al.|[2304.12751v3](http://arxiv.org/abs/2304.12751v3)|null|
+|**2023-09-19**|**Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method for Few-shot Node Tasks**|Hao Liu et.al.|[2309.10376v1](http://arxiv.org/abs/2309.10376v1)|[link](https://github.com/haoliu-cola/cola)|
+|**2023-05-25**|**Revisiting Generalized p-Laplacian Regularized Framelet GCNs: Convergence, Energy Dynamic and Training with Non-Linear Diffusion**|Dai Shi et.al.|[2305.15639v4](http://arxiv.org/abs/2305.15639v4)|null|
+|**2023-09-18**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517v2](http://arxiv.org/abs/2309.09517v2)|null|
+|**2023-02-19**|**Chemical Environment Adaptive Learning for Optical Band Gap Prediction of Doped Graphitic Carbon Nitride Nanosheets**|Chen Chen et.al.|[2302.09539v2](http://arxiv.org/abs/2302.09539v2)|null|
+|**2021-07-21**|**Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks**|Zhiqian Chen et.al.|[2107.10234v5](http://arxiv.org/abs/2107.10234v5)|[link](https://github.com/aquastar/csur_bridge_spectral_spatial_gnn_survey)|
+|**2023-09-18**|**Asynchronous Perception-Action-Communication with Graph Neural Networks**|Saurav Agarwal et.al.|[2309.10164v1](http://arxiv.org/abs/2309.10164v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,7 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-19**|**Group Spike and Slab Variational Bayes**|Michael Komodromos et.al.|[2309.10378v1](http://arxiv.org/abs/2309.10378v1)|null|
 |**2019-07-15**|**Scalable high-dimensional Bayesian varying coefficient models with unknown within-subject covariance**|Ray Bai et.al.|[1907.06477v9](http://arxiv.org/abs/1907.06477v9)|null|
 |**2022-06-17**|**Ensemble distributional forecasting for insurance loss reserving**|Benjamin Avanzi et.al.|[2206.08541v3](http://arxiv.org/abs/2206.08541v3)|[link](https://github.com/agi-lab/reserving-ensemble)|
 |**2023-08-01**|**A Study of Unsupervised Evaluation Metrics for Practical and Automatic Domain Adaptation**|Minghao Chen et.al.|[2308.00287v2](http://arxiv.org/abs/2308.00287v2)|null|
@@ -92,4 +93,3 @@
 |**2023-09-14**|**Causal Entropy and Information Gain for Measuring Causal Control**|Francisco Nunes Ferreira Quialheiro Simoes et.al.|[2309.07703v1](http://arxiv.org/abs/2309.07703v1)|null|
 |**2023-09-13**|**Effect of hyperparameters on variable selection in random forests**|Cesaire J. K. Fouodo et.al.|[2309.06943v1](http://arxiv.org/abs/2309.06943v1)|[link](https://github.com/imbs-hl/rf-hyperparameters-and-variable-selection)|
 |**2022-07-22**|**Direct determination of optimal real-space orbitals for correlated electronic structure of molecules**|Edward F. Valeev et.al.|[2207.10841v3](http://arxiv.org/abs/2207.10841v3)|null|
-|**2023-09-12**|**Semi-supervised Classification of Malware Families Under Extreme Class Imbalance via Hierarchical Non-Negative Matrix Factorization with Automatic Model Selection**|Maksim E. Eren et.al.|[2309.06643v1](http://arxiv.org/abs/2309.06643v1)|null|
