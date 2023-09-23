@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-23 07:20:49 Asia/Shanghai
+ Automated deployment @ 2023-09-23 19:18:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -28,7 +28,7 @@
 |**2023-03-24**|**Graph Neural Networks for the Offline Nanosatellite Task Scheduling Problem**|Bruno Machado Pacheco et.al.|[2303.13773v2](http://arxiv.org/abs/2303.13773v2)|null|
 |**2022-06-10**|**Toward Dynamic Stability Assessment of Power Grid Topologies using Graph Neural Networks**|Christian Nauck et.al.|[2206.06369v4](http://arxiv.org/abs/2206.06369v4)|[link](https://github.com/pik-icone/dynamic_stability_datasets_gnn_paper-companion)|
 |**2022-10-30**|**Graph Fuzzy System: Concepts, Models and Algorithms**|Fuping Hu et.al.|[2210.16730v2](http://arxiv.org/abs/2210.16730v2)|null|
-|**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452v1](http://arxiv.org/abs/2309.11452v1)|null|
+|**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452v1](http://arxiv.org/abs/2309.11452v1)|[link](https://github.com/porscheofficial/sls_sat_solving_with_deep_learning)|
 |**2023-09-20**|**Improving Article Classification with Edge-Heterogeneous Graph Neural Networks**|Khang Ly et.al.|[2309.11341v1](http://arxiv.org/abs/2309.11341v1)|[link](https://github.com/lyvykhang/edgehetero-nodeproppred)|
 |**2022-12-22**|**RouteNet-Fermi: Network Modeling with Graph Neural Networks**|Miquel Ferriol-Galmés et.al.|[2212.12070v3](http://arxiv.org/abs/2212.12070v3)|[link](https://github.com/bnn-upc/bnnetsimulator)|
 |**2023-09-20**|**InkStream: Real-time GNN Inference on Streaming Graphs via Incremental Update**|Dan Wu et.al.|[2309.11071v1](http://arxiv.org/abs/2309.11071v1)|null|
@@ -44,7 +44,7 @@
 |**2022-12-30**|**Through the lens of Sgr A$^*$: identifying and resolving strongly lensed Continuous Gravitational Waves beyond the Einstein radius**|Stefano Savastano et.al.|[2212.14697v2](http://arxiv.org/abs/2212.14697v2)|null|
 |**2023-04-21**|**Quantum information criteria for model selection in quantum state estimation**|Hiroshi Yano et.al.|[2304.10949v2](http://arxiv.org/abs/2304.10949v2)|null|
 |**2023-04-10**|**Discovering dynamics and parameters of nonlinear oscillatory and chaotic systems from partial observations**|George Stepaniants et.al.|[2304.04818v2](http://arxiv.org/abs/2304.04818v2)|null|
-|**2023-09-20**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028v1](http://arxiv.org/abs/2309.11028v1)|null|
+|**2023-09-20**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028v1](http://arxiv.org/abs/2309.11028v1)|[link](https://github.com/doerlbh/topologicalrsa)|
 |**2023-09-19**|**Group Spike and Slab Variational Bayes**|Michael Komodromos et.al.|[2309.10378v1](http://arxiv.org/abs/2309.10378v1)|null|
 |**2019-07-15**|**Scalable high-dimensional Bayesian varying coefficient models with unknown within-subject covariance**|Ray Bai et.al.|[1907.06477v9](http://arxiv.org/abs/1907.06477v9)|null|
 |**2022-06-17**|**Ensemble distributional forecasting for insurance loss reserving**|Benjamin Avanzi et.al.|[2206.08541v3](http://arxiv.org/abs/2206.08541v3)|[link](https://github.com/agi-lab/reserving-ensemble)|
