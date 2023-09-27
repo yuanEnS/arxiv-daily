@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-27 07:21:23 Asia/Shanghai
+ Automated deployment @ 2023-09-27 19:19:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,29 +17,29 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-25**|**HyperTrack: Neural Combinatorics for High Energy Physics**|Mikael Mieskolainen et.al.|[2309.14113v1](http://arxiv.org/abs/2309.14113v1)|null|
+|**2023-09-26**|**Label Deconvolution for Node Representation Learning on Large-scale Attributed Graphs against Learning Bias**|Zhihao Shi et.al.|[2309.14907v1](http://arxiv.org/abs/2309.14907v1)|null|
+|**2023-09-26**|**Graph Neural Network Based Method for Path Planning Problem**|Xingrong Diao et.al.|[2309.14845v1](http://arxiv.org/abs/2309.14845v1)|null|
+|**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v5](http://arxiv.org/abs/2307.06576v5)|[link](https://github.com/tinyrolls/glory)|
+|**2023-09-26**|**A Comparative Study of Population-Graph Construction Methods and Graph Neural Networks for Brain Age Regression**|Kyriaki-Margarita Bintsi et.al.|[2309.14816v1](http://arxiv.org/abs/2309.14816v1)|[link](https://github.com/bintsi/brain-age-population-graphs)|
+|**2023-09-26**|**XGV-BERT: Leveraging Contextualized Language Model and Graph Neural Network for Efficient Software Vulnerability Detection**|Vu Le Anh Quan et.al.|[2309.14677v1](http://arxiv.org/abs/2309.14677v1)|null|
+|**2023-09-26**|**ALEX: Towards Effective Graph Transfer Learning with Noisy Labels**|Jingyang Yuan et.al.|[2309.14673v1](http://arxiv.org/abs/2309.14673v1)|null|
+|**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477v2](http://arxiv.org/abs/2305.06477v2)|null|
+|**2023-09-25**|**Learning dislocation dynamics mobility laws from large-scale MD simulations**|Nicolas Bertin et.al.|[2309.14450v1](http://arxiv.org/abs/2309.14450v1)|null|
+|**2023-09-25**|**HyperTrack: Neural Combinatorics for High Energy Physics**|Mikael Mieskolainen et.al.|[2309.14113v1](http://arxiv.org/abs/2309.14113v1)|[link](https://github.com/mieskolainen/hypertrack)|
 |**2023-09-25**|**HiGNN-TTS: Hierarchical Prosody Modeling with Graph Neural Networks for Expressive Long-form TTS**|Dake Guo et.al.|[2309.13907v1](http://arxiv.org/abs/2309.13907v1)|null|
 |**2023-09-25**|**TouchUp-G: Improving Feature Representation through Graph-Centric Finetuning**|Jing Zhu et.al.|[2309.13885v1](http://arxiv.org/abs/2309.13885v1)|null|
-|**2023-09-25**|**Estimating Treatment Effects Under Heterogeneous Interference**|Xiaofeng Lin et.al.|[2309.13884v1](http://arxiv.org/abs/2309.13884v1)|null|
+|**2023-09-25**|**Estimating Treatment Effects Under Heterogeneous Interference**|Xiaofeng Lin et.al.|[2309.13884v1](http://arxiv.org/abs/2309.13884v1)|[link](https://github.com/linxf208/hinite)|
 |**2022-08-14**|**Convolutional Spiking Neural Networks for Detecting Anticipatory Brain Potentials Using Electroencephalogram**|Nathan Lutes et.al.|[2208.06900v2](http://arxiv.org/abs/2208.06900v2)|null|
 |**2022-09-23**|**Spatio-Temporal Contrastive Learning Enhanced GNNs for Session-based Recommendation**|Zhongwei Wan et.al.|[2209.11461v3](http://arxiv.org/abs/2209.11461v3)|[link](https://github.com/sustechbruce/restc-source-code)|
 |**2023-08-19**|**GNNPipe: Scaling Deep GNN Training with Pipelined Model Parallelism**|Jingji Chen et.al.|[2308.10087v2](http://arxiv.org/abs/2308.10087v2)|null|
-|**2023-09-23**|**Enhancing Student Performance Prediction on Learnersourced Questions with SGNN-LLM Synergy**|Lin Ni et.al.|[2309.13500v1](http://arxiv.org/abs/2309.13500v1)|null|
-|**2023-09-23**|**A Model-Agnostic Graph Neural Network for Integrating Local and Global Information**|Wenzhuo Zhou et.al.|[2309.13459v1](http://arxiv.org/abs/2309.13459v1)|null|
-|**2022-03-08**|**Graph Reinforcement Learning for Radio Resource Allocation**|Jianyu Zhao et.al.|[2203.03906v2](http://arxiv.org/abs/2203.03906v2)|null|
-|**2023-09-23**|**Deciphering Spatio-Temporal Graph Forecasting: A Causal Lens and Treatment**|Yutong Xia et.al.|[2309.13378v1](http://arxiv.org/abs/2309.13378v1)|null|
-|**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452v2](http://arxiv.org/abs/2309.11452v2)|[link](https://github.com/porscheofficial/sls_sat_solving_with_deep_learning)|
-|**2023-02-16**|**Graph Adversarial Immunization for Certifiable Robustness**|Shuchang Tao et.al.|[2302.08051v2](http://arxiv.org/abs/2302.08051v2)|[link](https://github.com/TaoShuchang/AdvImmune)|
-|**2022-08-03**|**Adversarial Camouflage for Node Injection Attack on Graphs**|Shuchang Tao et.al.|[2208.01819v4](http://arxiv.org/abs/2208.01819v4)|[link](https://github.com/taoshuchang/cana)|
-|**2022-12-20**|**MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning**|Cameron Diao et.al.|[2212.10614v2](http://arxiv.org/abs/2212.10614v2)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-09-25**|**Pseudo Label Selection is a Decision Problem**|Julian Rodemann et.al.|[2309.13926v1](http://arxiv.org/abs/2309.13926v1)|null|
-|**2023-09-25**|**Forecasting large collections of time series: feature-based methods**|Li Li et.al.|[2309.13807v1](http://arxiv.org/abs/2309.13807v1)|null|
+|**2023-09-25**|**Pseudo Label Selection is a Decision Problem**|Julian Rodemann et.al.|[2309.13926v2](http://arxiv.org/abs/2309.13926v2)|null|
+|**2023-09-25**|**Forecasting large collections of time series: feature-based methods**|Li Li et.al.|[2309.13807v1](http://arxiv.org/abs/2309.13807v1)|[link](https://github.com/lixixibj/forecasting-with-time-series-imaging)|
 |**2021-11-12**|**Accounting for data heterogeneity in integrative analysis and prediction methods: An application to Chronic Obstructive Pulmonary Disease**|J. Butts et.al.|[2111.06962v2](http://arxiv.org/abs/2111.06962v2)|null|
 |**2023-04-28**|**Machine Learning Uncovers the Universe's Hidden Gems: A Comprehensive Catalogue of CIV Absorption Lines in SDSS DR12**|Reza Monadi et.al.|[2305.00023v2](http://arxiv.org/abs/2305.00023v2)|[link](https://github.com/rezamonadi/gaussianprocessciv)|
 |**2023-09-23**|**A closer look at parameter identifiability, model selection and handling of censored data with Bayesian Inference in mathematical models of tumour growth**|Jamie Porthiyas et.al.|[2309.13319v1](http://arxiv.org/abs/2309.13319v1)|null|
@@ -55,25 +55,6 @@
 |**2023-04-10**|**Discovering dynamics and parameters of nonlinear oscillatory and chaotic systems from partial observations**|George Stepaniants et.al.|[2304.04818v2](http://arxiv.org/abs/2304.04818v2)|[link](https://github.com/adh18/hiddendynamicsinference)|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-25**|**A genericity property of Fréchet sample means on Riemannian manifolds**|David Groisser et.al.|[2309.13823v1](http://arxiv.org/abs/2309.13823v1)|null|
-|**2023-03-28**|**UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translation**|Dmitrii Torbunov et.al.|[2303.16280v3](http://arxiv.org/abs/2303.16280v3)|[link](https://github.com/ls4gan/uvcgan2)|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v3](http://arxiv.org/abs/2306.08013v3)|[link](https://github.com/pumjunkim/top_pr)|
-|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v3](http://arxiv.org/abs/2305.15905v3)|null|
-|**2023-09-14**|**Retrieval-Augmented Text-to-Audio Generation**|Yi Yuan et.al.|[2309.08051v1](http://arxiv.org/abs/2309.08051v1)|null|
-|**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380v1](http://arxiv.org/abs/2309.06380v1)|[link](https://github.com/gnobitab/instaflow)|
-|**2023-09-12**|**Hierarchical Conditional Semi-Paired Image-to-Image Translation For Multi-Task Image Defect Correction On Shopping Websites**|Moyan Li et.al.|[2309.05883v1](http://arxiv.org/abs/2309.05883v1)|null|
-|**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v3](http://arxiv.org/abs/2301.12503v3)|[link](https://github.com/haoheliu/AudioLDM)|
-|**2023-09-04**|**Frequentist Model Averaging for Global Fréchet Regression**|Xingyu Yan et.al.|[2309.01691v1](http://arxiv.org/abs/2309.01691v1)|null|
-|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v2](http://arxiv.org/abs/2301.10611v2)|null|
-|**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v1](http://arxiv.org/abs/2308.14569v1)|null|
-|**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
-|**2023-08-16**|**Fair GANs through model rebalancing with synthetic data**|Anubhav Jain et.al.|[2308.08638v1](http://arxiv.org/abs/2308.08638v1)|null|
-|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339v1](http://arxiv.org/abs/2308.08339v1)|[link](https://github.com/aaleka/retree)|
-|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v2](http://arxiv.org/abs/2308.06769v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -93,3 +74,22 @@
 |**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-25**|**A genericity property of Fréchet sample means on Riemannian manifolds**|David Groisser et.al.|[2309.13823v1](http://arxiv.org/abs/2309.13823v1)|null|
+|**2023-03-28**|**UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translation**|Dmitrii Torbunov et.al.|[2303.16280v3](http://arxiv.org/abs/2303.16280v3)|[link](https://github.com/ls4gan/uvcgan2)|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v3](http://arxiv.org/abs/2306.08013v3)|[link](https://github.com/pumjunkim/top_pr)|
+|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v3](http://arxiv.org/abs/2305.15905v3)|null|
+|**2023-09-14**|**Retrieval-Augmented Text-to-Audio Generation**|Yi Yuan et.al.|[2309.08051v1](http://arxiv.org/abs/2309.08051v1)|null|
+|**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380v1](http://arxiv.org/abs/2309.06380v1)|[link](https://github.com/gnobitab/instaflow)|
+|**2023-09-12**|**Hierarchical Conditional Semi-Paired Image-to-Image Translation For Multi-Task Image Defect Correction On Shopping Websites**|Moyan Li et.al.|[2309.05883v1](http://arxiv.org/abs/2309.05883v1)|null|
+|**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v3](http://arxiv.org/abs/2301.12503v3)|[link](https://github.com/haoheliu/AudioLDM)|
+|**2023-09-04**|**Frequentist Model Averaging for Global Fréchet Regression**|Xingyu Yan et.al.|[2309.01691v1](http://arxiv.org/abs/2309.01691v1)|null|
+|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v2](http://arxiv.org/abs/2301.10611v2)|null|
+|**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v1](http://arxiv.org/abs/2308.14569v1)|null|
+|**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
+|**2023-08-16**|**Fair GANs through model rebalancing with synthetic data**|Anubhav Jain et.al.|[2308.08638v1](http://arxiv.org/abs/2308.08638v1)|null|
+|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339v1](http://arxiv.org/abs/2308.08339v1)|[link](https://github.com/aaleka/retree)|
+|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v2](http://arxiv.org/abs/2308.06769v2)|null|
