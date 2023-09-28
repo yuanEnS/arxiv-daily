@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-28 07:21:19 Asia/Shanghai
+ Automated deployment @ 2023-09-28 19:19:23 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-27**|**Line Graph Neural Networks for Link Weight Prediction**|Jinbi Liang et.al.|[2309.15728v1](http://arxiv.org/abs/2309.15728v1)|null|
+|**2023-09-27**|**GPIP: Geometry-enhanced Pre-training on Interatomic Potentials**|Taoyong Cui et.al.|[2309.15718v1](http://arxiv.org/abs/2309.15718v1)|null|
+|**2023-04-12**|**Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data**|Dominik Klepl et.al.|[2304.05874v3](http://arxiv.org/abs/2304.05874v3)|null|
+|**2023-03-28**|**TraffNet: Learning Causality of Traffic Generation for Road Network Digital Twins**|Ming Xu et.al.|[2303.15954v4](http://arxiv.org/abs/2303.15954v4)|[link](https://github.com/mayunyi-1999/traffnet_code)|
+|**2023-09-27**|**Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem**|Kuo-Hao Ho et.al.|[2309.15517v1](http://arxiv.org/abs/2309.15517v1)|null|
+|**2023-09-27**|**GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network**|Kaiyuan Zhang et.al.|[2309.15515v1](http://arxiv.org/abs/2309.15515v1)|[link](https://github.com/miracle-2001/gnn4eeg)|
+|**2023-04-04**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008v2](http://arxiv.org/abs/2304.02008v2)|[link](https://github.com/cvg/gluestick)|
+|**2023-09-27**|**Graph Neural Prompting with Large Language Models**|Yijun Tian et.al.|[2309.15427v1](http://arxiv.org/abs/2309.15427v1)|null|
+|**2023-09-27**|**Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks**|Xibai Lou et.al.|[2309.15378v1](http://arxiv.org/abs/2309.15378v1)|null|
+|**2022-04-18**|**A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability**|Enyan Dai et.al.|[2204.08570v2](http://arxiv.org/abs/2204.08570v2)|null|
 |**2023-09-26**|**Label Deconvolution for Node Representation Learning on Large-scale Attributed Graphs against Learning Bias**|Zhihao Shi et.al.|[2309.14907v1](http://arxiv.org/abs/2309.14907v1)|null|
 |**2023-09-26**|**Graph Neural Network Based Method for Path Planning Problem**|Xingrong Diao et.al.|[2309.14845v1](http://arxiv.org/abs/2309.14845v1)|null|
 |**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v5](http://arxiv.org/abs/2307.06576v5)|[link](https://github.com/tinyrolls/glory)|
 |**2023-09-26**|**A Comparative Study of Population-Graph Construction Methods and Graph Neural Networks for Brain Age Regression**|Kyriaki-Margarita Bintsi et.al.|[2309.14816v1](http://arxiv.org/abs/2309.14816v1)|[link](https://github.com/bintsi/brain-age-population-graphs)|
 |**2023-09-26**|**XGV-BERT: Leveraging Contextualized Language Model and Graph Neural Network for Efficient Software Vulnerability Detection**|Vu Le Anh Quan et.al.|[2309.14677v1](http://arxiv.org/abs/2309.14677v1)|null|
-|**2023-09-26**|**ALEX: Towards Effective Graph Transfer Learning with Noisy Labels**|Jingyang Yuan et.al.|[2309.14673v1](http://arxiv.org/abs/2309.14673v1)|null|
-|**2023-05-10**|**SENDD: Sparse Efficient Neural Depth and Deformation for Tissue Tracking**|Adam Schmidt et.al.|[2305.06477v2](http://arxiv.org/abs/2305.06477v2)|null|
-|**2023-09-25**|**Learning dislocation dynamics mobility laws from large-scale MD simulations**|Nicolas Bertin et.al.|[2309.14450v1](http://arxiv.org/abs/2309.14450v1)|null|
-|**2023-09-25**|**HyperTrack: Neural Combinatorics for High Energy Physics**|Mikael Mieskolainen et.al.|[2309.14113v1](http://arxiv.org/abs/2309.14113v1)|[link](https://github.com/mieskolainen/hypertrack)|
-|**2023-09-25**|**HiGNN-TTS: Hierarchical Prosody Modeling with Graph Neural Networks for Expressive Long-form TTS**|Dake Guo et.al.|[2309.13907v1](http://arxiv.org/abs/2309.13907v1)|null|
-|**2023-09-25**|**TouchUp-G: Improving Feature Representation through Graph-Centric Finetuning**|Jing Zhu et.al.|[2309.13885v1](http://arxiv.org/abs/2309.13885v1)|null|
-|**2023-09-25**|**Estimating Treatment Effects Under Heterogeneous Interference**|Xiaofeng Lin et.al.|[2309.13884v1](http://arxiv.org/abs/2309.13884v1)|[link](https://github.com/linxf208/hinite)|
-|**2022-08-14**|**Convolutional Spiking Neural Networks for Detecting Anticipatory Brain Potentials Using Electroencephalogram**|Nathan Lutes et.al.|[2208.06900v2](http://arxiv.org/abs/2208.06900v2)|null|
-|**2022-09-23**|**Spatio-Temporal Contrastive Learning Enhanced GNNs for Session-based Recommendation**|Zhongwei Wan et.al.|[2209.11461v3](http://arxiv.org/abs/2209.11461v3)|[link](https://github.com/sustechbruce/restc-source-code)|
-|**2023-08-19**|**GNNPipe: Scaling Deep GNN Training with Pipelined Model Parallelism**|Jingji Chen et.al.|[2308.10087v2](http://arxiv.org/abs/2308.10087v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-25**|**Pseudo Label Selection is a Decision Problem**|Julian Rodemann et.al.|[2309.13926v2](http://arxiv.org/abs/2309.13926v2)|null|
-|**2023-09-25**|**Forecasting large collections of time series: feature-based methods**|Li Li et.al.|[2309.13807v1](http://arxiv.org/abs/2309.13807v1)|[link](https://github.com/lixixibj/forecasting-with-time-series-imaging)|
-|**2021-11-12**|**Accounting for data heterogeneity in integrative analysis and prediction methods: An application to Chronic Obstructive Pulmonary Disease**|J. Butts et.al.|[2111.06962v2](http://arxiv.org/abs/2111.06962v2)|null|
-|**2023-04-28**|**Machine Learning Uncovers the Universe's Hidden Gems: A Comprehensive Catalogue of CIV Absorption Lines in SDSS DR12**|Reza Monadi et.al.|[2305.00023v2](http://arxiv.org/abs/2305.00023v2)|[link](https://github.com/rezamonadi/gaussianprocessciv)|
-|**2023-09-23**|**A closer look at parameter identifiability, model selection and handling of censored data with Bayesian Inference in mathematical models of tumour growth**|Jamie Porthiyas et.al.|[2309.13319v1](http://arxiv.org/abs/2309.13319v1)|null|
-|**2023-09-23**|**On optimality of Mallows model averaging**|Jingfu Peng et.al.|[2309.13239v1](http://arxiv.org/abs/2309.13239v1)|null|
-|**2023-09-20**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028v2](http://arxiv.org/abs/2309.11028v2)|[link](https://github.com/doerlbh/topologicalrsa)|
-|**2023-09-22**|**Big model only for hard audios: Sample dependent Whisper model selection for efficient inferences**|Hugo Malard et.al.|[2309.12712v1](http://arxiv.org/abs/2309.12712v1)|null|
-|**2023-09-21**|**A Convex Framework for Confounding Robust Inference**|Kei Ishikawa et.al.|[2309.12450v1](http://arxiv.org/abs/2309.12450v1)|[link](https://github.com/kstoneriv3/confounding-robust-inference)|
-|**2023-09-21**|**Improving VTE Identification through Adaptive NLP Model Selection and Clinical Expert Rule-based Classifier from Radiology Reports**|Jamie Deng et.al.|[2309.12273v1](http://arxiv.org/abs/2309.12273v1)|null|
-|**2023-09-21**|**Estimating Stable Fixed Points and Langevin Potentials for Financial Dynamics**|Tobias Wand et.al.|[2309.12082v1](http://arxiv.org/abs/2309.12082v1)|null|
-|**2020-04-11**|**Robust adaptive variable selection in ultra-high dimensional linear regression models**|Abhik Ghosh et.al.|[2004.05470v3](http://arxiv.org/abs/2004.05470v3)|null|
-|**2022-12-30**|**Through the lens of Sgr A$^*$: identifying and resolving strongly lensed Continuous Gravitational Waves beyond the Einstein radius**|Stefano Savastano et.al.|[2212.14697v2](http://arxiv.org/abs/2212.14697v2)|null|
-|**2023-04-21**|**Quantum information criteria for model selection in quantum state estimation**|Hiroshi Yano et.al.|[2304.10949v2](http://arxiv.org/abs/2304.10949v2)|null|
-|**2023-04-10**|**Discovering dynamics and parameters of nonlinear oscillatory and chaotic systems from partial observations**|George Stepaniants et.al.|[2304.04818v2](http://arxiv.org/abs/2304.04818v2)|[link](https://github.com/adh18/hiddendynamicsinference)|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-18**|**Error Reduction from Stacked Regressions**|Xin Chen et.al.|[2309.09880v2](http://arxiv.org/abs/2309.09880v2)|null|
+|**2023-09-27**|**Thresholded Lasso for high dimensional variable selection**|Shuheng Zhou et.al.|[2309.15355v1](http://arxiv.org/abs/2309.15355v1)|null|
+|**2023-09-26**|**Wave-shape Function Model Order Estimation by Trigonometric Regression**|Joaquin Ruiz et.al.|[2309.15210v1](http://arxiv.org/abs/2309.15210v1)|null|
+|**2023-09-25**|**Pseudo Label Selection is a Decision Problem**|Julian Rodemann et.al.|[2309.13926v2](http://arxiv.org/abs/2309.13926v2)|null|
+|**2023-09-25**|**Forecasting large collections of time series: feature-based methods**|Li Li et.al.|[2309.13807v1](http://arxiv.org/abs/2309.13807v1)|[link](https://github.com/lixixibj/forecasting-with-time-series-imaging)|
+|**2021-11-12**|**Accounting for data heterogeneity in integrative analysis and prediction methods: An application to Chronic Obstructive Pulmonary Disease**|J. Butts et.al.|[2111.06962v2](http://arxiv.org/abs/2111.06962v2)|null|
+|**2023-04-28**|**Machine Learning Uncovers the Universe's Hidden Gems: A Comprehensive Catalogue of CIV Absorption Lines in SDSS DR12**|Reza Monadi et.al.|[2305.00023v2](http://arxiv.org/abs/2305.00023v2)|[link](https://github.com/rezamonadi/gaussianprocessciv)|
+|**2023-09-23**|**A closer look at parameter identifiability, model selection and handling of censored data with Bayesian Inference in mathematical models of tumour growth**|Jamie Porthiyas et.al.|[2309.13319v1](http://arxiv.org/abs/2309.13319v1)|null|
+|**2023-09-23**|**On optimality of Mallows model averaging**|Jingfu Peng et.al.|[2309.13239v1](http://arxiv.org/abs/2309.13239v1)|null|
+|**2023-09-20**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028v2](http://arxiv.org/abs/2309.11028v2)|[link](https://github.com/doerlbh/topologicalrsa)|
+|**2023-09-22**|**Big model only for hard audios: Sample dependent Whisper model selection for efficient inferences**|Hugo Malard et.al.|[2309.12712v1](http://arxiv.org/abs/2309.12712v1)|[link](https://github.com/hugomalard/big-model-only-for-hard-audios)|
+|**2023-09-21**|**A Convex Framework for Confounding Robust Inference**|Kei Ishikawa et.al.|[2309.12450v1](http://arxiv.org/abs/2309.12450v1)|[link](https://github.com/kstoneriv3/confounding-robust-inference)|
+|**2023-09-21**|**Improving VTE Identification through Adaptive NLP Model Selection and Clinical Expert Rule-based Classifier from Radiology Reports**|Jamie Deng et.al.|[2309.12273v1](http://arxiv.org/abs/2309.12273v1)|null|
+|**2023-09-21**|**Estimating Stable Fixed Points and Langevin Potentials for Financial Dynamics**|Tobias Wand et.al.|[2309.12082v1](http://arxiv.org/abs/2309.12082v1)|null|
+|**2020-04-11**|**Robust adaptive variable selection in ultra-high dimensional linear regression models**|Abhik Ghosh et.al.|[2004.05470v3](http://arxiv.org/abs/2004.05470v3)|null|
