@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-29 07:21:40 Asia/Shanghai
+ Automated deployment @ 2023-09-29 19:19:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-28**|**Reusability report: Prostate cancer stratification with diverse biologically-informed neural architectures**|Christian Pedersen et.al.|[2309.16645v1](http://arxiv.org/abs/2309.16645v1)|null|
+|**2023-08-27**|**A Graph Neural Network-Based QUBO-Formulated Hamiltonian-Inspired Loss Function for Combinatorial Optimization using Reinforcement Learning**|Redwan Ahmed Rizvee et.al.|[2308.13978v2](http://arxiv.org/abs/2308.13978v2)|null|
+|**2023-09-28**|**MHG-GNN: Combination of Molecular Hypergraph Grammar with Graph Neural Network**|Akihiro Kishimoto et.al.|[2309.16374v1](http://arxiv.org/abs/2309.16374v1)|null|
+|**2023-09-28**|**LagrangeBench: A Lagrangian Fluid Mechanics Benchmarking Suite**|Artur P. Toshev et.al.|[2309.16342v1](http://arxiv.org/abs/2309.16342v1)|[link](https://github.com/tumaer/lagrangebench)|
+|**2023-04-21**|**Deep learning models for price forecasting of financial time series: A review of recent advancements: 2020-2022**|Cheng Zhang et.al.|[2305.04811v2](http://arxiv.org/abs/2305.04811v2)|null|
+|**2023-09-28**|**GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Network Explanations**|Kenza Amara et.al.|[2309.16223v1](http://arxiv.org/abs/2309.16223v1)|null|
+|**2023-06-09**|**DynaBench: A benchmark dataset for learning dynamical systems from low-resolution data**|Andrzej Dulny et.al.|[2306.05805v2](http://arxiv.org/abs/2306.05805v2)|[link](https://github.com/badulion/dynabench)|
+|**2023-09-28**|**Distill to Delete: Unlearning in Graph Networks with Knowledge Distillation**|Yash Sinha et.al.|[2309.16173v1](http://arxiv.org/abs/2309.16173v1)|null|
+|**2023-08-09**|**Kairos: Practical Intrusion Detection and Investigation using Whole-system Provenance**|Zijun Cheng et.al.|[2308.05034v3](http://arxiv.org/abs/2308.05034v3)|[link](https://github.com/provenanceanalytics/kairos)|
+|**2023-05-10**|**Active Semantic Localization with Graph Neural Embedding**|Mitsuki Yoshida et.al.|[2305.06141v4](http://arxiv.org/abs/2305.06141v4)|null|
+|**2023-09-27**|**GNNHLS: Evaluating Graph Neural Network Inference via High-Level Synthesis**|Chenfeng Zhao et.al.|[2309.16022v1](http://arxiv.org/abs/2309.16022v1)|[link](https://github.com/chenfengzhao/gnnhls)|
+|**2023-09-11**|**Advancing Federated Learning in 6G: A Trusted Architecture with Graph-based Analysis**|Wenxuan Ye et.al.|[2309.05525v3](http://arxiv.org/abs/2309.05525v3)|null|
 |**2023-09-27**|**Line Graph Neural Networks for Link Weight Prediction**|Jinbi Liang et.al.|[2309.15728v1](http://arxiv.org/abs/2309.15728v1)|null|
 |**2023-09-27**|**GPIP: Geometry-enhanced Pre-training on Interatomic Potentials**|Taoyong Cui et.al.|[2309.15718v1](http://arxiv.org/abs/2309.15718v1)|null|
 |**2023-04-12**|**Adaptive Gated Graph Convolutional Network for Explainable Diagnosis of Alzheimer's Disease using EEG Data**|Dominik Klepl et.al.|[2304.05874v3](http://arxiv.org/abs/2304.05874v3)|null|
-|**2023-03-28**|**TraffNet: Learning Causality of Traffic Generation for Road Network Digital Twins**|Ming Xu et.al.|[2303.15954v4](http://arxiv.org/abs/2303.15954v4)|[link](https://github.com/mayunyi-1999/traffnet_code)|
-|**2023-09-27**|**Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem**|Kuo-Hao Ho et.al.|[2309.15517v1](http://arxiv.org/abs/2309.15517v1)|null|
-|**2023-09-27**|**GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network**|Kaiyuan Zhang et.al.|[2309.15515v1](http://arxiv.org/abs/2309.15515v1)|[link](https://github.com/miracle-2001/gnn4eeg)|
-|**2023-04-04**|**GlueStick: Robust Image Matching by Sticking Points and Lines Together**|Rémi Pautrat et.al.|[2304.02008v2](http://arxiv.org/abs/2304.02008v2)|[link](https://github.com/cvg/gluestick)|
-|**2023-09-27**|**Graph Neural Prompting with Large Language Models**|Yijun Tian et.al.|[2309.15427v1](http://arxiv.org/abs/2309.15427v1)|null|
-|**2023-09-27**|**Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks**|Xibai Lou et.al.|[2309.15378v1](http://arxiv.org/abs/2309.15378v1)|null|
-|**2022-04-18**|**A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability**|Enyan Dai et.al.|[2204.08570v2](http://arxiv.org/abs/2204.08570v2)|null|
-|**2023-09-26**|**Label Deconvolution for Node Representation Learning on Large-scale Attributed Graphs against Learning Bias**|Zhihao Shi et.al.|[2309.14907v1](http://arxiv.org/abs/2309.14907v1)|null|
-|**2023-09-26**|**Graph Neural Network Based Method for Path Planning Problem**|Xingrong Diao et.al.|[2309.14845v1](http://arxiv.org/abs/2309.14845v1)|null|
-|**2023-07-13**|**Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations**|Boming Yang et.al.|[2307.06576v5](http://arxiv.org/abs/2307.06576v5)|[link](https://github.com/tinyrolls/glory)|
-|**2023-09-26**|**A Comparative Study of Population-Graph Construction Methods and Graph Neural Networks for Brain Age Regression**|Kyriaki-Margarita Bintsi et.al.|[2309.14816v1](http://arxiv.org/abs/2309.14816v1)|[link](https://github.com/bintsi/brain-age-population-graphs)|
-|**2023-09-26**|**XGV-BERT: Leveraging Contextualized Language Model and Graph Neural Network for Efficient Software Vulnerability Detection**|Vu Le Anh Quan et.al.|[2309.14677v1](http://arxiv.org/abs/2309.14677v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-28**|**Structural Risk Minimization for Learning Nonlinear Dynamics**|Charis Stamouli et.al.|[2309.16527v1](http://arxiv.org/abs/2309.16527v1)|null|
+|**2023-09-28**|**Regularization and Model Selection for Item-on-Items Regression with Applications to Food Products' Survey Data**|Aisouda Hoshiyar et.al.|[2309.16373v1](http://arxiv.org/abs/2309.16373v1)|null|
+|**2023-04-21**|**Deep learning models for price forecasting of financial time series: A review of recent advancements: 2020-2022**|Cheng Zhang et.al.|[2305.04811v2](http://arxiv.org/abs/2305.04811v2)|null|
+|**2022-01-02**|**Bayesian Generalized Additive Model Selection Including a Fast Variational Option**|Virginia X. He et.al.|[2201.00412v6](http://arxiv.org/abs/2201.00412v6)|null|
 |**2023-09-18**|**Error Reduction from Stacked Regressions**|Xin Chen et.al.|[2309.09880v2](http://arxiv.org/abs/2309.09880v2)|null|
 |**2023-09-27**|**Thresholded Lasso for high dimensional variable selection**|Shuheng Zhou et.al.|[2309.15355v1](http://arxiv.org/abs/2309.15355v1)|null|
 |**2023-09-26**|**Wave-shape Function Model Order Estimation by Trigonometric Regression**|Joaquin Ruiz et.al.|[2309.15210v1](http://arxiv.org/abs/2309.15210v1)|null|
@@ -89,7 +93,3 @@
 |**2023-09-23**|**On optimality of Mallows model averaging**|Jingfu Peng et.al.|[2309.13239v1](http://arxiv.org/abs/2309.13239v1)|null|
 |**2023-09-20**|**The Topology and Geometry of Neural Representations**|Baihan Lin et.al.|[2309.11028v2](http://arxiv.org/abs/2309.11028v2)|[link](https://github.com/doerlbh/topologicalrsa)|
 |**2023-09-22**|**Big model only for hard audios: Sample dependent Whisper model selection for efficient inferences**|Hugo Malard et.al.|[2309.12712v1](http://arxiv.org/abs/2309.12712v1)|[link](https://github.com/hugomalard/big-model-only-for-hard-audios)|
-|**2023-09-21**|**A Convex Framework for Confounding Robust Inference**|Kei Ishikawa et.al.|[2309.12450v1](http://arxiv.org/abs/2309.12450v1)|[link](https://github.com/kstoneriv3/confounding-robust-inference)|
-|**2023-09-21**|**Improving VTE Identification through Adaptive NLP Model Selection and Clinical Expert Rule-based Classifier from Radiology Reports**|Jamie Deng et.al.|[2309.12273v1](http://arxiv.org/abs/2309.12273v1)|null|
-|**2023-09-21**|**Estimating Stable Fixed Points and Langevin Potentials for Financial Dynamics**|Tobias Wand et.al.|[2309.12082v1](http://arxiv.org/abs/2309.12082v1)|null|
-|**2020-04-11**|**Robust adaptive variable selection in ultra-high dimensional linear regression models**|Abhik Ghosh et.al.|[2004.05470v3](http://arxiv.org/abs/2004.05470v3)|null|
