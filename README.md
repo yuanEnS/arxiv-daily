@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-09-30 07:21:16 Asia/Shanghai
+ Automated deployment @ 2023-09-30 19:18:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -56,25 +56,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-25**|**A genericity property of Fréchet sample means on Riemannian manifolds**|David Groisser et.al.|[2309.13823v1](http://arxiv.org/abs/2309.13823v1)|null|
-|**2023-03-28**|**UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translation**|Dmitrii Torbunov et.al.|[2303.16280v3](http://arxiv.org/abs/2303.16280v3)|[link](https://github.com/ls4gan/uvcgan2)|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v3](http://arxiv.org/abs/2306.08013v3)|[link](https://github.com/pumjunkim/top_pr)|
-|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v3](http://arxiv.org/abs/2305.15905v3)|null|
-|**2023-09-14**|**Retrieval-Augmented Text-to-Audio Generation**|Yi Yuan et.al.|[2309.08051v1](http://arxiv.org/abs/2309.08051v1)|null|
-|**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380v1](http://arxiv.org/abs/2309.06380v1)|[link](https://github.com/gnobitab/instaflow)|
-|**2023-09-12**|**Hierarchical Conditional Semi-Paired Image-to-Image Translation For Multi-Task Image Defect Correction On Shopping Websites**|Moyan Li et.al.|[2309.05883v1](http://arxiv.org/abs/2309.05883v1)|null|
-|**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v3](http://arxiv.org/abs/2301.12503v3)|[link](https://github.com/haoheliu/AudioLDM)|
-|**2023-09-04**|**Frequentist Model Averaging for Global Fréchet Regression**|Xingyu Yan et.al.|[2309.01691v1](http://arxiv.org/abs/2309.01691v1)|null|
-|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v2](http://arxiv.org/abs/2301.10611v2)|null|
-|**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v1](http://arxiv.org/abs/2308.14569v1)|null|
-|**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
-|**2023-08-16**|**Fair GANs through model rebalancing with synthetic data**|Anubhav Jain et.al.|[2308.08638v1](http://arxiv.org/abs/2308.08638v1)|null|
-|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339v1](http://arxiv.org/abs/2308.08339v1)|[link](https://github.com/aaleka/retree)|
-|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v2](http://arxiv.org/abs/2308.06769v2)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -93,3 +74,22 @@
 |**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
 |**2021-05-30**|**On the Number of Edges of the Frechet Mean and Median Graphs**|Daniel Ferguson et.al.|[2105.14397v4](http://arxiv.org/abs/2105.14397v4)|null|
 |**2022-01-15**|**Theoretical analysis and computation of the sample Frechet mean for sets of large graphs based on spectral information**|Daniel Ferguson et.al.|[2201.05923v1](http://arxiv.org/abs/2201.05923v1)|[link](https://github.com/dafe0926/approx_Graph_Frechet_Mean)|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-09-25**|**A genericity property of Fréchet sample means on Riemannian manifolds**|David Groisser et.al.|[2309.13823v1](http://arxiv.org/abs/2309.13823v1)|null|
+|**2023-03-28**|**UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translation**|Dmitrii Torbunov et.al.|[2303.16280v3](http://arxiv.org/abs/2303.16280v3)|[link](https://github.com/ls4gan/uvcgan2)|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v3](http://arxiv.org/abs/2306.08013v3)|[link](https://github.com/pumjunkim/top_pr)|
+|**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v3](http://arxiv.org/abs/2305.15905v3)|null|
+|**2023-09-14**|**Retrieval-Augmented Text-to-Audio Generation**|Yi Yuan et.al.|[2309.08051v1](http://arxiv.org/abs/2309.08051v1)|null|
+|**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380v1](http://arxiv.org/abs/2309.06380v1)|[link](https://github.com/gnobitab/instaflow)|
+|**2023-09-12**|**Hierarchical Conditional Semi-Paired Image-to-Image Translation For Multi-Task Image Defect Correction On Shopping Websites**|Moyan Li et.al.|[2309.05883v1](http://arxiv.org/abs/2309.05883v1)|null|
+|**2023-01-29**|**AudioLDM: Text-to-Audio Generation with Latent Diffusion Models**|Haohe Liu et.al.|[2301.12503v3](http://arxiv.org/abs/2301.12503v3)|[link](https://github.com/haoheliu/AudioLDM)|
+|**2023-09-04**|**Frequentist Model Averaging for Global Fréchet Regression**|Xingyu Yan et.al.|[2309.01691v1](http://arxiv.org/abs/2309.01691v1)|null|
+|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v2](http://arxiv.org/abs/2301.10611v2)|null|
+|**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v1](http://arxiv.org/abs/2308.14569v1)|null|
+|**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
+|**2023-08-16**|**Fair GANs through model rebalancing with synthetic data**|Anubhav Jain et.al.|[2308.08638v1](http://arxiv.org/abs/2308.08638v1)|null|
+|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339v1](http://arxiv.org/abs/2308.08339v1)|[link](https://github.com/aaleka/retree)|
+|**2023-08-13**|**Fréchet Statistics Based Change Point Detection in Multivariate Hawkes Process**|Rui Luo et.al.|[2308.06769v2](http://arxiv.org/abs/2308.06769v2)|null|
