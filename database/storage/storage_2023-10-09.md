@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-09 07:21:03 Asia/Shanghai
+ Automated deployment @ 2023-10-09 19:20:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,13 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-01-24**|**Neighborhood Homophily-based Graph Convolutional Network**|Shengbo Gong et.al.|[2301.09851v3](http://arxiv.org/abs/2301.09851v3)|[link](https://github.com/rockcor/NHGCN)|
+|**2023-10-06**|**Non-Redundant Graph Neural Networks with Improved Expressiveness**|Franka Bause et.al.|[2310.04190v1](http://arxiv.org/abs/2310.04190v1)|null|
+|**2023-10-06**|**Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**|Heehyeon Kim et.al.|[2310.04171v1](http://arxiv.org/abs/2310.04171v1)|null|
+|**2023-05-31**|**Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning**|Xiaoxin He et.al.|[2305.19523v2](http://arxiv.org/abs/2305.19523v2)|[link](https://github.com/XiaoxinHe/TAPE)|
+|**2023-10-06**|**AUTOPARLLM: GNN-Guided Automatic Code Parallelization using Large Language Models**|Quazi Ishtiaque Mahmud et.al.|[2310.04047v1](http://arxiv.org/abs/2310.04047v1)|null|
+|**2022-10-17**|**AMPNet: Attention as Message Passing for Graph Neural Networks**|Syed Asad Rizvi et.al.|[2210.09475v2](http://arxiv.org/abs/2210.09475v2)|null|
+|**2023-10-05**|**Fishnets: Information-Optimal, Scalable Aggregation for Sets and Graphs**|T. Lucas Makinen et.al.|[2310.03812v1](http://arxiv.org/abs/2310.03812v1)|null|
 |**2023-04-13**|**Evaluating the Robustness of Interpretability Methods through Explanation Invariance and Equivariance**|Jonathan Crabbé et.al.|[2304.06715v3](http://arxiv.org/abs/2304.06715v3)|[link](https://github.com/jonathancrabbe/robustxai)|
 |**2023-05-25**|**Demystifying Oversmoothing in Attention-Based Graph Neural Networks**|Xinyi Wu et.al.|[2305.16102v2](http://arxiv.org/abs/2305.16102v2)|null|
 |**2023-10-03**|**Probabilistically Rewired Message-Passing Neural Networks**|Chendi Qian et.al.|[2310.02156v2](http://arxiv.org/abs/2310.02156v2)|null|
@@ -25,13 +32,27 @@
 |**2023-10-04**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861v2](http://arxiv.org/abs/2310.02861v2)|null|
 |**2023-10-05**|**Fragment-based Pretraining and Finetuning on Molecular Graphs**|Kha-Dinh Luong et.al.|[2310.03274v1](http://arxiv.org/abs/2310.03274v1)|null|
 |**2023-10-04**|**Deep reinforcement learning for machine scheduling: Methodology, the state-of-the-art, and future directions**|Maziyar Khadivi et.al.|[2310.03195v1](http://arxiv.org/abs/2310.03195v1)|null|
-|**2023-10-04**|**Graph data modelling for outcome prediction in oropharyngeal cancer patients**|Nithya Bhasker et.al.|[2310.02931v1](http://arxiv.org/abs/2310.02931v1)|null|
-|**2023-10-04**|**Graph Neural Networks and Time Series as Directed Graphs for Quality Recognition**|Angelica Simonetti et.al.|[2310.02774v1](http://arxiv.org/abs/2310.02774v1)|null|
-|**2021-06-10**|**AKE-GNN: Effective Graph Learning with Adaptive Knowledge Exchange**|Liang Zeng et.al.|[2106.05455v3](http://arxiv.org/abs/2106.05455v3)|null|
-|**2023-09-11**|**Learning the Geodesic Embedding with Graph Neural Networks**|Bo Pang et.al.|[2309.05613v2](http://arxiv.org/abs/2309.05613v2)|null|
-|**2023-03-02**|**Technical report: Graph Neural Networks go Grammatical**|Jason Piquenot et.al.|[2303.01590v4](http://arxiv.org/abs/2303.01590v4)|null|
-|**2023-10-04**|**Learning adjacency matrix for dynamic graph neural network**|Osama Ahmad et.al.|[2310.02606v1](http://arxiv.org/abs/2310.02606v1)|null|
-|**2023-10-04**|**Neural Bayes Estimators for Irregular Spatial Data using Graph Neural Networks**|Matthew Sainsbury-Dale et.al.|[2310.02600v1](http://arxiv.org/abs/2310.02600v1)|[link](https://github.com/msainsburydale/neuralestimatorsgnn)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-06**|**Understanding prompt engineering may not require rethinking generalization**|Victor Akinwande et.al.|[2310.03957v1](http://arxiv.org/abs/2310.03957v1)|null|
+|**2023-10-05**|**Sparse Deep Learning for Time Series Data: Theory and Applications**|Mingxuan Zhang et.al.|[2310.03243v1](http://arxiv.org/abs/2310.03243v1)|null|
+|**2023-01-30**|**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**|Daniel Mork et.al.|[2301.12937v2](http://arxiv.org/abs/2301.12937v2)|[link](https://github.com/danielmork/monotone_dlnm)|
+|**2023-10-04**|**A ModelOps-based Framework for Intelligent Medical Knowledge Extraction**|Hongxin Ding et.al.|[2310.02593v1](http://arxiv.org/abs/2310.02593v1)|null|
+|**2023-10-03**|**Modelling of Long-Term Afterglow Counterparts to Gravitational Wave Events: The Full View of GRB 170817A**|Geoffrey Ryan et.al.|[2310.02328v1](http://arxiv.org/abs/2310.02328v1)|null|
+|**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang et.al.|[2310.02050v1](http://arxiv.org/abs/2310.02050v1)|null|
+|**2023-10-03**|**Optimal averaging for functional linear quantile regression models**|Wenchao Xu et.al.|[2310.01970v1](http://arxiv.org/abs/2310.01970v1)|[link](https://github.com/wcxstat/maflqr)|
+|**2023-09-15**|**Heteroscedastic sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Anja Zgodic et.al.|[2309.08783v2](http://arxiv.org/abs/2309.08783v2)|null|
+|**2023-01-05**|**Learning a Generic Value-Selection Heuristic Inside a Constraint Programming Solver**|Tom Marty et.al.|[2301.01913v3](http://arxiv.org/abs/2301.01913v3)|[link](https://github.com/corail-research/SeaPearl.jl)|
+|**2020-11-03**|**Bayesian spline-based hidden Markov models with applications to actimetry data and sleep analysis**|Sida Chen et.al.|[2011.01567v2](http://arxiv.org/abs/2011.01567v2)|null|
+|**2018-03-01**|**Distributed Multivariate Regression Modeling For Selecting Biomarkers Under Data Protection Constraints**|Daniela Zöller et.al.|[1803.00422v3](http://arxiv.org/abs/1803.00422v3)|[link](https://github.com/danielazoeller/ds_DistributedBoosting.jl)|
+|**2023-10-01**|**LaPLACE: Probabilistic Local Model-Agnostic Causal Explanations**|Sein Minn et.al.|[2310.00570v1](http://arxiv.org/abs/2310.00570v1)|[link](https://github.com/simon-tan/laplace)|
+|**2022-05-26**|**Variable Selection for Individualized Treatment Rules with Discrete Outcomes**|Zeyu Bian et.al.|[2205.13609v2](http://arxiv.org/abs/2205.13609v2)|null|
+|**2023-04-02**|**Multiresolution Approximation of a Bayesian Inverse Problem using Second-Generation Wavelets**|Navid Shervani-Tabar et.al.|[2304.00542v2](http://arxiv.org/abs/2304.00542v2)|null|
+|**2023-05-15**|**Is there an excess of black holes around $20 M_{\odot}$? Optimising the complexity of population models with the use of reversible jump MCMC**|Alexandre Toubiana et.al.|[2305.08909v3](http://arxiv.org/abs/2305.08909v3)|null|
 
 ## Non-Euclidean Staistics
 
@@ -59,6 +80,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-09-28**|**SatDM: Synthesizing Realistic Satellite Image with Semantic Layout Conditioning using Diffusion Models**|Orkhan Baghirli et.al.|[2309.16812v1](http://arxiv.org/abs/2309.16812v1)|null|
 |**2023-09-25**|**A genericity property of Fréchet sample means on Riemannian manifolds**|David Groisser et.al.|[2309.13823v1](http://arxiv.org/abs/2309.13823v1)|null|
+|**2023-09-23**|**ECGNet: A generative adversarial network (GAN) approach to the synthesis of 12-lead ECG signals from single lead inputs**|Max Bagga et.al.|[2310.03753v1](http://arxiv.org/abs/2310.03753v1)|null|
 |**2023-03-28**|**UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translation**|Dmitrii Torbunov et.al.|[2303.16280v3](http://arxiv.org/abs/2303.16280v3)|[link](https://github.com/ls4gan/uvcgan2)|
 |**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v3](http://arxiv.org/abs/2306.08013v3)|[link](https://github.com/pumjunkim/top_pr)|
 |**2023-05-25**|**Latent Diffusion Model Based Foley Sound Generation System For DCASE Challenge 2023 Task 7**|Yi Yuan et.al.|[2305.15905v3](http://arxiv.org/abs/2305.15905v3)|null|
@@ -71,25 +93,3 @@
 |**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v1](http://arxiv.org/abs/2308.14569v1)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
 |**2023-08-16**|**Fair GANs through model rebalancing with synthetic data**|Anubhav Jain et.al.|[2308.08638v1](http://arxiv.org/abs/2308.08638v1)|null|
-|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339v1](http://arxiv.org/abs/2308.08339v1)|[link](https://github.com/aaleka/retree)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-05**|**Sparse Deep Learning for Time Series Data: Theory and Applications**|Mingxuan Zhang et.al.|[2310.03243v1](http://arxiv.org/abs/2310.03243v1)|null|
-|**2023-01-30**|**Incorporating prior information into distributed lag nonlinear models with zero-inflated monotone regression trees**|Daniel Mork et.al.|[2301.12937v2](http://arxiv.org/abs/2301.12937v2)|[link](https://github.com/danielmork/monotone_dlnm)|
-|**2023-10-04**|**A ModelOps-based Framework for Intelligent Medical Knowledge Extraction**|Hongxin Ding et.al.|[2310.02593v1](http://arxiv.org/abs/2310.02593v1)|null|
-|**2023-10-03**|**Modelling of Long-Term Afterglow Counterparts to Gravitational Wave Events: The Full View of GRB 170817A**|Geoffrey Ryan et.al.|[2310.02328v1](http://arxiv.org/abs/2310.02328v1)|null|
-|**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang et.al.|[2310.02050v1](http://arxiv.org/abs/2310.02050v1)|null|
-|**2023-10-03**|**Optimal averaging for functional linear quantile regression models**|Wenchao Xu et.al.|[2310.01970v1](http://arxiv.org/abs/2310.01970v1)|[link](https://github.com/wcxstat/maflqr)|
-|**2023-09-15**|**Heteroscedastic sparse high-dimensional linear regression with a partitioned empirical Bayes ECM algorithm**|Anja Zgodic et.al.|[2309.08783v2](http://arxiv.org/abs/2309.08783v2)|null|
-|**2023-01-05**|**Learning a Generic Value-Selection Heuristic Inside a Constraint Programming Solver**|Tom Marty et.al.|[2301.01913v3](http://arxiv.org/abs/2301.01913v3)|[link](https://github.com/corail-research/SeaPearl.jl)|
-|**2020-11-03**|**Bayesian spline-based hidden Markov models with applications to actimetry data and sleep analysis**|Sida Chen et.al.|[2011.01567v2](http://arxiv.org/abs/2011.01567v2)|null|
-|**2018-03-01**|**Distributed Multivariate Regression Modeling For Selecting Biomarkers Under Data Protection Constraints**|Daniela Zöller et.al.|[1803.00422v3](http://arxiv.org/abs/1803.00422v3)|[link](https://github.com/danielazoeller/ds_DistributedBoosting.jl)|
-|**2023-10-01**|**LaPLACE: Probabilistic Local Model-Agnostic Causal Explanations**|Sein Minn et.al.|[2310.00570v1](http://arxiv.org/abs/2310.00570v1)|[link](https://github.com/simon-tan/laplace)|
-|**2022-05-26**|**Variable Selection for Individualized Treatment Rules with Discrete Outcomes**|Zeyu Bian et.al.|[2205.13609v2](http://arxiv.org/abs/2205.13609v2)|null|
-|**2023-04-02**|**Multiresolution Approximation of a Bayesian Inverse Problem using Second-Generation Wavelets**|Navid Shervani-Tabar et.al.|[2304.00542v2](http://arxiv.org/abs/2304.00542v2)|null|
-|**2023-05-15**|**Is there an excess of black holes around $20 M_{\odot}$? Optimising the complexity of population models with the use of reversible jump MCMC**|Alexandre Toubiana et.al.|[2305.08909v3](http://arxiv.org/abs/2305.08909v3)|null|
-|**2023-09-29**|**Dynamic Interpretability for Model Comparison via Decision Rules**|Adam Rida et.al.|[2309.17095v1](http://arxiv.org/abs/2309.17095v1)|null|
