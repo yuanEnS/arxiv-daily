@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-12 07:21:33 Asia/Shanghai
+ Automated deployment @ 2023-10-12 19:19:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-11**|**Global Minima, Recoverability Thresholds, and Higher-Order Structure in GNNS**|Drake Brown et.al.|[2310.07667v1](http://arxiv.org/abs/2310.07667v1)|null|
+|**2023-10-11**|**Graph Transformer Network for Flood Forecasting with Heterogeneous Covariates**|Jimeng Shi et.al.|[2310.07631v1](http://arxiv.org/abs/2310.07631v1)|null|
+|**2023-10-11**|**GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing**|Hangyu Wang et.al.|[2310.07477v1](http://arxiv.org/abs/2310.07477v1)|[link](https://github.com/justarter/gmocat)|
+|**2023-10-11**|**Non-backtracking Graph Neural Networks**|Seonghyun Park et.al.|[2310.07430v1](http://arxiv.org/abs/2310.07430v1)|null|
+|**2022-10-18**|**Analysis of Convolutions, Non-linearity and Depth in Graph Neural Networks using Neural Tangent Kernel**|Mahalakshmi Sabanayagam et.al.|[2210.09809v3](http://arxiv.org/abs/2210.09809v3)|[link](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)|
+|**2022-06-26**|**Efficiently Leveraging Multi-level User Intent for Session-based Recommendation via Atten-Mixer Network**|Peiyan Zhang et.al.|[2206.12781v4](http://arxiv.org/abs/2206.12781v4)|[link](https://github.com/Peiyance/Atten-Mixer-torch)|
+|**2023-04-07**|**SGDP: A Stream-Graph Neural Network Based Data Prefetcher**|Yiyuan Yang et.al.|[2304.03864v2](http://arxiv.org/abs/2304.03864v2)|[link](https://github.com/yyysjz1997/SGDP)|
+|**2023-10-11**|**Are GATs Out of Balance?**|Nimrah Mustafa et.al.|[2310.07235v1](http://arxiv.org/abs/2310.07235v1)|null|
+|**2023-10-11**|**My Brother Helps Me: Node Injection Based Adversarial Attack on Social Bot Detection**|Lanjun Wang et.al.|[2310.07159v1](http://arxiv.org/abs/2310.07159v1)|null|
+|**2023-10-11**|**GraphCloak: Safeguarding Task-specific Knowledge within Graph-structured Data from Unauthorized Exploitation**|Yixin Liu et.al.|[2310.07100v1](http://arxiv.org/abs/2310.07100v1)|null|
+|**2023-09-29**|**ACGAN-GNNExplainer: Auxiliary Conditional Generative Explainer for Graph Neural Networks**|Yiqiao Li et.al.|[2309.16918v2](http://arxiv.org/abs/2309.16918v2)|null|
+|**2023-10-10**|**Neural Relational Inference with Fast Modular Meta-learning**|Ferran Alet et.al.|[2310.07015v1](http://arxiv.org/abs/2310.07015v1)|[link](https://github.com/FerranAlet/modular-metalearning)|
+|**2023-10-10**|**Accelerated Modelling of Interfaces for Electronic Devices using Graph Neural Networks**|Pratik Brahma et.al.|[2310.06995v1](http://arxiv.org/abs/2310.06995v1)|null|
+|**2023-10-10**|**Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing**|Joël Mathys et.al.|[2310.06970v1](http://arxiv.org/abs/2310.06970v1)|null|
 |**2023-10-10**|**Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder**|Bowen Jin et.al.|[2310.06684v1](http://arxiv.org/abs/2310.06684v1)|null|
-|**2023-10-10**|**On the importance of catalyst-adsorbate 3D interactions for relaxed energy predictions**|Alvaro Carbonero et.al.|[2310.06682v1](http://arxiv.org/abs/2310.06682v1)|null|
-|**2023-06-24**|**Generalised f-Mean Aggregation for Graph Neural Networks**|Ryan Kortvelesy et.al.|[2306.13826v2](http://arxiv.org/abs/2306.13826v2)|[link](https://github.com/Acciorocketships/generalised-aggregation)|
-|**2021-08-10**|**Maximizing Influence with Graph Neural Networks**|George Panagopoulos et.al.|[2108.04623v6](http://arxiv.org/abs/2108.04623v6)|null|
-|**2023-10-10**|**TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems**|Zijie Huang et.al.|[2310.06427v1](http://arxiv.org/abs/2310.06427v1)|null|
-|**2023-10-10**|**Advective Diffusion Transformers for Topological Generalization in Graph Learning**|Qitian Wu et.al.|[2310.06417v1](http://arxiv.org/abs/2310.06417v1)|null|
-|**2023-10-10**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396v1](http://arxiv.org/abs/2310.06396v1)|[link](https://github.com/zknus/neurips-2023-hang-robustness)|
-|**2022-10-25**|**Jet tagging algorithm of graph network with HaarPooling message passing**|Fei Ma et.al.|[2210.13869v5](http://arxiv.org/abs/2210.13869v5)|null|
-|**2023-10-10**|**SCAR: Power Side-Channel Analysis at RTL-Level**|Amisha Srivastava et.al.|[2310.06257v1](http://arxiv.org/abs/2310.06257v1)|null|
-|**2023-10-09**|**Robust Angular Synchronization via Directed Graph Neural Networks**|Yixuan He et.al.|[2310.05842v1](http://arxiv.org/abs/2310.05842v1)|null|
-|**2023-10-09**|**Nonlinear Correct and Smooth for Semi-Supervised Learning**|Yuanhang Shao et.al.|[2310.05757v1](http://arxiv.org/abs/2310.05757v1)|null|
-|**2023-10-01**|**Are Graph Neural Networks Optimal Approximation Algorithms?**|Morris Yau et.al.|[2310.00526v3](http://arxiv.org/abs/2310.00526v3)|null|
-|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640v3](http://arxiv.org/abs/2305.05640v3)|[link](https://github.com/ibm/hspo-ontology)|
-|**2023-10-06**|**Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**|Heehyeon Kim et.al.|[2310.04171v2](http://arxiv.org/abs/2310.04171v2)|[link](https://github.com/bdi-lab/drag)|
-|**2023-10-09**|**WeatherGNN: Exploiting Complicated Relationships in Numerical Weather Prediction Bias Correction**|Binqing Wu et.al.|[2310.05517v1](http://arxiv.org/abs/2310.05517v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-10**|**Variable selection with FDR control for noisy data -- an application to screening metabolites that are associated with breast and colorectal cancer**|Runqiu Wang et.al.|[2310.06696v1](http://arxiv.org/abs/2310.06696v1)|null|
-|**2023-10-10**|**FTFT: efficient and robust Fine-Tuning by transFerring Training dynamics**|Yupei Du et.al.|[2310.06588v1](http://arxiv.org/abs/2310.06588v1)|null|
-|**2023-10-10**|**Rethinking Model Selection and Decoding for Keyphrase Generation with Pre-trained Sequence-to-Sequence Models**|Di Wu et.al.|[2310.06374v1](http://arxiv.org/abs/2310.06374v1)|[link](https://github.com/uclanlp/deepkpg)|
-|**2023-03-03**|**Eryn : A multi-purpose sampler for Bayesian inference**|Nikolaos Karnesis et.al.|[2303.02164v2](http://arxiv.org/abs/2303.02164v2)|[link](https://github.com/mikekatz04/eryn)|
-|**2023-10-10**|**Ultra-high dimensional confounder selection algorithms comparison with application to radiomics data**|Ismaïla Baldé et.al.|[2310.06315v1](http://arxiv.org/abs/2310.06315v1)|null|
-|**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v3](http://arxiv.org/abs/2303.15442v3)|[link](https://github.com/astrolamb/ceffyl)|
-|**2023-10-09**|**SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese**|Liang Xu et.al.|[2310.05818v1](http://arxiv.org/abs/2310.05818v1)|null|
-|**2023-07-07**|**Action-State Dependent Dynamic Model Selection**|Francesco Cordoni et.al.|[2307.04754v2](http://arxiv.org/abs/2307.04754v2)|null|
-|**2023-10-09**|**Post-Selection Inference for Sparse Estimation**|Joe Suzuki et.al.|[2310.05685v1](http://arxiv.org/abs/2310.05685v1)|null|
-|**2023-10-09**|**FlexKnot and Gaussian Process for 21 cm global signal analysis and foreground separation**|Stefan Heimersheim et.al.|[2310.05608v1](http://arxiv.org/abs/2310.05608v1)|null|
-|**2023-10-09**|**mBBC: Exploring the Multilingual Maze**|Sina Bagheri Nezhad et.al.|[2310.05404v1](http://arxiv.org/abs/2310.05404v1)|[link](https://github.com/PortNLP/mBBC)|
-|**2023-10-07**|**The Conditional Prediction Function: A Novel Technique to Control False Discovery Rate for Complex Models**|Yushu Shi et.al.|[2310.04919v1](http://arxiv.org/abs/2310.04919v1)|null|
-|**2023-10-07**|**A Symmetry-based Framework for Model Selection of Coral Reef Population Growth Models**|Reemon Spector et.al.|[2310.04887v1](http://arxiv.org/abs/2310.04887v1)|null|
-|**2023-10-07**|**Combining UPerNet and ConvNeXt for Contrails Identification to reduce Global Warming**|Zhenkuan Wang et.al.|[2310.04808v1](http://arxiv.org/abs/2310.04808v1)|[link](https://github.com/biluko/2023gric)|
-|**2022-08-24**|**Group SLOPE Penalized Low-Rank Tensor Regression**|Yang Chen et.al.|[2208.11391v2](http://arxiv.org/abs/2208.11391v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v1](http://arxiv.org/abs/2308.14569v1)|null|
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
 |**2023-08-16**|**Fair GANs through model rebalancing with synthetic data**|Anubhav Jain et.al.|[2308.08638v1](http://arxiv.org/abs/2308.08638v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-11**|**Exact variable selection in sparse nonparametric models**|Natalia Stepanova et.al.|[2310.07677v1](http://arxiv.org/abs/2310.07677v1)|null|
+|**2023-10-11**|**Democratizing LLMs: An Exploration of Cost-Performance Trade-offs in Self-Refined Open-Source Models**|Sumuk Shashidhar et.al.|[2310.07611v1](http://arxiv.org/abs/2310.07611v1)|null|
+|**2023-10-11**|**Transformers for Green Semantic Communication: Less Energy, More Semantics**|Shubhabrata Mukherjee et.al.|[2310.07592v1](http://arxiv.org/abs/2310.07592v1)|[link](https://github.com/shubha07m/Energy-optimized-semantic-loss)|
+|**2023-10-11**|**Risk Assessment and Statistical Significance in the Age of Foundation Models**|Apoorva Nitsure et.al.|[2310.07132v1](http://arxiv.org/abs/2310.07132v1)|null|
+|**2023-10-09**|**Post-Selection Inference for Sparse Estimation**|Joe Suzuki et.al.|[2310.05685v2](http://arxiv.org/abs/2310.05685v2)|null|
+|**2023-10-10**|**Bayesian cross-validation by parallel Markov Chain Monte Carlo**|Alex Cooper et.al.|[2310.07002v1](http://arxiv.org/abs/2310.07002v1)|null|
+|**2023-01-19**|**Cross-validatory model selection for Bayesian autoregressions with exogenous regressors**|Alex Cooper et.al.|[2301.08276v3](http://arxiv.org/abs/2301.08276v3)|[link](https://github.com/kuperov/arx)|
+|**2023-10-10**|**Variable selection with FDR control for noisy data -- an application to screening metabolites that are associated with breast and colorectal cancer**|Runqiu Wang et.al.|[2310.06696v1](http://arxiv.org/abs/2310.06696v1)|null|
+|**2023-10-10**|**FTFT: efficient and robust Fine-Tuning by transFerring Training dynamics**|Yupei Du et.al.|[2310.06588v1](http://arxiv.org/abs/2310.06588v1)|null|
+|**2023-10-10**|**Rethinking Model Selection and Decoding for Keyphrase Generation with Pre-trained Sequence-to-Sequence Models**|Di Wu et.al.|[2310.06374v1](http://arxiv.org/abs/2310.06374v1)|[link](https://github.com/uclanlp/deepkpg)|
+|**2023-03-03**|**Eryn : A multi-purpose sampler for Bayesian inference**|Nikolaos Karnesis et.al.|[2303.02164v2](http://arxiv.org/abs/2303.02164v2)|[link](https://github.com/mikekatz04/eryn)|
+|**2023-10-10**|**Ultra-high dimensional confounder selection algorithms comparison with application to radiomics data**|Ismaïla Baldé et.al.|[2310.06315v1](http://arxiv.org/abs/2310.06315v1)|null|
+|**2023-03-27**|**The Need For Speed: Rapid Refitting Techniques for Bayesian Spectral Characterization of the Gravitational Wave Background Using PTAs**|William G. Lamb et.al.|[2303.15442v3](http://arxiv.org/abs/2303.15442v3)|[link](https://github.com/astrolamb/ceffyl)|
+|**2023-10-09**|**SC-Safety: A Multi-round Open-ended Question Adversarial Safety Benchmark for Large Language Models in Chinese**|Liang Xu et.al.|[2310.05818v1](http://arxiv.org/abs/2310.05818v1)|null|
+|**2023-07-07**|**Action-State Dependent Dynamic Model Selection**|Francesco Cordoni et.al.|[2307.04754v2](http://arxiv.org/abs/2307.04754v2)|null|
