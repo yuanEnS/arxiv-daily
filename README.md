@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-13 07:22:26 Asia/Shanghai
+ Automated deployment @ 2023-10-13 19:19:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -30,7 +30,7 @@
 |**2023-09-29**|**ACGAN-GNNExplainer: Auxiliary Conditional Generative Explainer for Graph Neural Networks**|Yiqiao Li et.al.|[2309.16918v2](http://arxiv.org/abs/2309.16918v2)|null|
 |**2023-10-10**|**Neural Relational Inference with Fast Modular Meta-learning**|Ferran Alet et.al.|[2310.07015v1](http://arxiv.org/abs/2310.07015v1)|[link](https://github.com/FerranAlet/modular-metalearning)|
 |**2023-10-10**|**Accelerated Modelling of Interfaces for Electronic Devices using Graph Neural Networks**|Pratik Brahma et.al.|[2310.06995v1](http://arxiv.org/abs/2310.06995v1)|null|
-|**2023-10-10**|**Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing**|Joël Mathys et.al.|[2310.06970v1](http://arxiv.org/abs/2310.06970v1)|null|
+|**2023-10-10**|**Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing**|Joël Mathys et.al.|[2310.06970v2](http://arxiv.org/abs/2310.06970v2)|null|
 |**2023-10-10**|**Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder**|Bowen Jin et.al.|[2310.06684v1](http://arxiv.org/abs/2310.06684v1)|null|
 
 ## Non-Euclidean Staistics
@@ -80,7 +80,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-10-11**|**Exact variable selection in sparse nonparametric models**|Natalia Stepanova et.al.|[2310.07677v1](http://arxiv.org/abs/2310.07677v1)|null|
 |**2023-10-11**|**Democratizing LLMs: An Exploration of Cost-Performance Trade-offs in Self-Refined Open-Source Models**|Sumuk Shashidhar et.al.|[2310.07611v1](http://arxiv.org/abs/2310.07611v1)|null|
-|**2023-10-11**|**Transformers for Green Semantic Communication: Less Energy, More Semantics**|Shubhabrata Mukherjee et.al.|[2310.07592v1](http://arxiv.org/abs/2310.07592v1)|[link](https://github.com/shubha07m/Energy-optimized-semantic-loss)|
+|**2023-10-11**|**Transformers for Green Semantic Communication: Less Energy, More Semantics**|Shubhabrata Mukherjee et.al.|[2310.07592v1](http://arxiv.org/abs/2310.07592v1)|null|
 |**2023-10-11**|**Risk Assessment and Statistical Significance in the Age of Foundation Models**|Apoorva Nitsure et.al.|[2310.07132v1](http://arxiv.org/abs/2310.07132v1)|null|
 |**2023-10-09**|**Post-Selection Inference for Sparse Estimation**|Joe Suzuki et.al.|[2310.05685v2](http://arxiv.org/abs/2310.05685v2)|null|
 |**2023-10-10**|**Bayesian cross-validation by parallel Markov Chain Monte Carlo**|Alex Cooper et.al.|[2310.07002v1](http://arxiv.org/abs/2310.07002v1)|null|
