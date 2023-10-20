@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-20 07:21:44 Asia/Shanghai
+ Automated deployment @ 2023-10-20 19:19:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-03-11**|**A Systematic Study of Joint Representation Learning on Protein Sequences and Structures**|Zuobai Zhang et.al.|[2303.06275v2](http://arxiv.org/abs/2303.06275v2)|[link](https://github.com/deepgraphlearning/esm-gearnet)|
-|**2023-04-21**|**Schooling to Exploit Foolish Contracts**|Tamer Abdelaziz et.al.|[2304.10737v2](http://arxiv.org/abs/2304.10737v2)|null|
-|**2023-09-13**|**Uncertainty-aware Traffic Prediction under Missing Data**|Hao Mei et.al.|[2309.06800v4](http://arxiv.org/abs/2309.06800v4)|null|
-|**2023-05-10**|**Uncertainty in GNN Learning Evaluations: The Importance of a Consistent Benchmark for Community Detection**|William Leeney et.al.|[2305.06026v3](http://arxiv.org/abs/2305.06026v3)|null|
-|**2023-10-18**|**Building a Graph-based Deep Learning network model from captured traffic traces**|Carlos Güemes-Palau et.al.|[2310.11889v1](http://arxiv.org/abs/2310.11889v1)|null|
-|**2023-10-18**|**Towards Graph Foundation Models: A Survey and Beyond**|Jiawei Liu et.al.|[2310.11829v1](http://arxiv.org/abs/2310.11829v1)|null|
-|**2023-10-17**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270v2](http://arxiv.org/abs/2310.11270v2)|null|
-|**2023-10-18**|**NeuroCUT: A Neural Approach for Robust Graph Partitioning**|Rishi Shah et.al.|[2310.11787v1](http://arxiv.org/abs/2310.11787v1)|null|
-|**2023-10-18**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762v1](http://arxiv.org/abs/2310.11762v1)|null|
-|**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730v1](http://arxiv.org/abs/2310.11730v1)|null|
-|**2023-10-18**|**Learning Co-Speech Gesture for Multimodal Aphasia Type Detection**|Daeun Lee et.al.|[2310.11710v1](http://arxiv.org/abs/2310.11710v1)|null|
-|**2023-10-18**|**Hetero$^2$Net: Heterophily-aware Representation Learning on Heterogenerous Graphs**|Jintang Li et.al.|[2310.11664v1](http://arxiv.org/abs/2310.11664v1)|null|
-|**2023-05-22**|**MADNet: Maximizing Addressee Deduction Expectation for Multi-Party Conversation Generation**|Jia-Chen Gu et.al.|[2305.12733v2](http://arxiv.org/abs/2305.12733v2)|null|
-|**2022-07-26**|**Planning and Learning: Path-Planning for Autonomous Vehicles, a Review of the Literature**|Kevin Osanlou et.al.|[2207.13181v2](http://arxiv.org/abs/2207.13181v2)|null|
-|**2023-10-17**|**RekomGNN: Visualizing, Contextualizing and Evaluating Graph Neural Networks Recommendations**|Camelia D. Brumar et.al.|[2310.11562v1](http://arxiv.org/abs/2310.11562v1)|null|
+|**2023-04-20**|**Multi-label Node Classification On Graph-Structured Data**|Tianqi Zhao et.al.|[2304.10398v3](http://arxiv.org/abs/2304.10398v3)|[link](https://github.com/tianqi-py/mlgnc)|
+|**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri et.al.|[2310.12800v1](http://arxiv.org/abs/2310.12800v1)|null|
+|**2023-10-18**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762v2](http://arxiv.org/abs/2310.11762v2)|null|
+|**2023-06-20**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586v2](http://arxiv.org/abs/2306.11586v2)|null|
+|**2022-12-16**|**Multi-person 3D pose estimation from unlabelled data**|Daniel Rodriguez-Criado et.al.|[2212.08731v2](http://arxiv.org/abs/2212.08731v2)|[link](https://github.com/gnns4hri/3d_multi_pose_estimator)|
+|**2022-06-14**|**Category-Agnostic 6D Pose Estimation with Conditional Neural Processes**|Yumeng Li et.al.|[2206.07162v2](http://arxiv.org/abs/2206.07162v2)|null|
+|**2023-10-19**|**Pretraining Language Models with Text-Attributed Heterogeneous Graphs**|Tao Zou et.al.|[2310.12580v1](http://arxiv.org/abs/2310.12580v1)|[link](https://github.com/hope-rita/thlm)|
+|**2023-10-19**|**Open-World Lifelong Graph Learning**|Marcel Hoffmann et.al.|[2310.12565v1](http://arxiv.org/abs/2310.12565v1)|[link](https://github.com/bobowner/open-world-lgl)|
+|**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557v1](http://arxiv.org/abs/2310.12557v1)|null|
+|**2023-02-13**|**NNKGC: Improving Knowledge Graph Completion with Node Neighborhoods**|Irene Li et.al.|[2302.06132v3](http://arxiv.org/abs/2302.06132v3)|null|
+|**2023-10-19**|**WeaveNet for Approximating Two-sided Matching Problems**|Shusaku Sone et.al.|[2310.12515v1](http://arxiv.org/abs/2310.12515v1)|null|
+|**2022-12-19**|**A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**|Vardaan Pahuja et.al.|[2212.09724v2](http://arxiv.org/abs/2212.09724v2)|[link](https://github.com/OSU-NLP-Group/KG-R3)|
+|**2023-10-19**|**MuseGNN: Interpretable and Convergent Graph Neural Network Layers at Scale**|Haitian Jiang et.al.|[2310.12457v1](http://arxiv.org/abs/2310.12457v1)|null|
+|**2023-10-19**|**Cooperative Minibatching in Graph Neural Networks**|Muhammed Fatih Balin et.al.|[2310.12403v1](http://arxiv.org/abs/2310.12403v1)|null|
+|**2023-10-18**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v1](http://arxiv.org/abs/2310.12350v1)|[link](https://github.com/yuening-lab/f2gnn)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-04-18**|**The Adaptive $τ$-Lasso: Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v2](http://arxiv.org/abs/2304.09310v2)|null|
+|**2023-10-18**|**Sparse high-dimensional linear mixed modeling with a partitioned empirical Bayes ECM algorithm**|Anja Zgodic et.al.|[2310.12285v1](http://arxiv.org/abs/2310.12285v1)|null|
 |**2023-10-18**|**Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Stream Data**|Tianyu Zhang et.al.|[2310.12140v1](http://arxiv.org/abs/2310.12140v1)|null|
 |**2023-03-31**|**Bootstrapping multiple systems estimates to account for model selection**|Bernard W. Silverman et.al.|[2303.17856v4](http://arxiv.org/abs/2303.17856v4)|null|
 |**2023-09-04**|**Parameter identifiability and model selection for partial differential equation models of cell invasion**|Yue Liu et.al.|[2309.01476v2](http://arxiv.org/abs/2309.01476v2)|[link](https://github.com/liuyue002/woundhealing)|
@@ -87,9 +89,7 @@
 |**2023-06-16**|**Optimizer's Information Criterion: Dissecting and Correcting Bias in Data-Driven Optimization**|Garud Iyengar et.al.|[2306.10081v2](http://arxiv.org/abs/2306.10081v2)|null|
 |**2021-06-11**|**Optimal Model Selection in Contextual Bandits with Many Classes via Offline Oracles**|Sanath Kumar Krishnamurthy et.al.|[2106.06483v2](http://arxiv.org/abs/2106.06483v2)|null|
 |**2023-10-16**|**Unbiased Estimation of Structured Prediction Error**|Kevin Fry et.al.|[2310.10740v1](http://arxiv.org/abs/2310.10740v1)|null|
-|**2023-10-16**|**Detecting the Undetected: Overcoming Biases in Gravitational-Wave Population Studies**|Ryan Raikman et.al.|[2310.10736v1](http://arxiv.org/abs/2310.10736v1)|null|
+|**2023-10-16**|**Detecting the Undetected: Overcoming Biases in Gravitational-Wave Population Studies**|Ryan Raikman et.al.|[2310.10736v1](http://arxiv.org/abs/2310.10736v1)|[link](https://github.com/rraikman/popsynth-dotproducts)|
 |**2023-10-16**|**Inferring fundamental spacetime symmetries with gravitational-wave memory: from LISA to the Einstein Telescope**|Boris Goncharov et.al.|[2310.10718v1](http://arxiv.org/abs/2310.10718v1)|null|
 |**2023-10-16**|**IW-GAE: Importance weighted group accuracy estimation for improved calibration and model selection in unsupervised domain adaptation**|Taejong Joo et.al.|[2310.10611v1](http://arxiv.org/abs/2310.10611v1)|null|
 |**2023-10-16**|**One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging For Cross-Lingual Transfer**|Fabian David Schmidt et.al.|[2310.10532v1](http://arxiv.org/abs/2310.10532v1)|[link](https://github.com/fdschmidt93/ofa-xlt)|
-|**2021-03-30**|**Controlling the False Discovery Rate in Transformational Sparsity: Split Knockoffs**|Yang Cao et.al.|[2103.16159v4](http://arxiv.org/abs/2103.16159v4)|[link](https://github.com/yao-lab/split_knockoffs)|
-|**2023-10-16**|**Bayesian decision-theoretic model selection for monitored systems**|Antonios Kamariotis et.al.|[2310.10485v1](http://arxiv.org/abs/2310.10485v1)|null|
