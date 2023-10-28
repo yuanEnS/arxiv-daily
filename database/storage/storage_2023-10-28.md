@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-28 07:20:51 Asia/Shanghai
+ Automated deployment @ 2023-10-28 19:18:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v1](http://arxiv.org/abs/2310.17435v1)|null|
-|**2023-10-26**|**Improving Denoising Diffusion Models via Simultaneous Estimation of Image and Noise**|Zhenkai Zhang et.al.|[2310.17167v1](http://arxiv.org/abs/2310.17167v1)|null|
-|**2023-05-16**|**Errors-in-variables Fréchet Regression with Low-rank Covariate Approximation**|Kyunghee Han et.al.|[2305.09282v2](http://arxiv.org/abs/2305.09282v2)|null|
-|**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v2](http://arxiv.org/abs/2305.02501v2)|null|
-|**2023-10-23**|**Characterizing how 'distributional' NLP corpora distance metrics are**|Samuel Ackerman et.al.|[2310.14829v1](http://arxiv.org/abs/2310.14829v1)|[link](https://github.com/ibm/text-corpus-distance-distributionality)|
-|**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v2](http://arxiv.org/abs/2308.14569v2)|null|
-|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v1](http://arxiv.org/abs/2310.13668v1)|null|
-|**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
-|**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969v1](http://arxiv.org/abs/2310.07969v1)|null|
-|**2023-10-11**|**Nonlinear global Fréchet regression for random objects via weak conditional expectation**|Satarupa Bhattacharjee et.al.|[2310.07817v1](http://arxiv.org/abs/2310.07817v1)|null|
-|**2023-09-28**|**SatDM: Synthesizing Realistic Satellite Image with Semantic Layout Conditioning using Diffusion Models**|Orkhan Baghirli et.al.|[2309.16812v1](http://arxiv.org/abs/2309.16812v1)|null|
-|**2023-09-25**|**A genericity property of Fréchet sample means on Riemannian manifolds**|David Groisser et.al.|[2309.13823v1](http://arxiv.org/abs/2309.13823v1)|null|
-|**2023-09-23**|**ECGNet: A generative adversarial network (GAN) approach to the synthesis of 12-lead ECG signals from single lead inputs**|Max Bagga et.al.|[2310.03753v1](http://arxiv.org/abs/2310.03753v1)|null|
-|**2023-03-28**|**UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translation**|Dmitrii Torbunov et.al.|[2303.16280v3](http://arxiv.org/abs/2303.16280v3)|[link](https://github.com/ls4gan/uvcgan2)|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v3](http://arxiv.org/abs/2306.08013v3)|[link](https://github.com/pumjunkim/top_pr)|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -72,6 +53,25 @@
 |**2022-10-31**|**Central limit theorem for intrinsic Frechet means in smooth compact Riemannian manifolds**|Thomas Hotz et.al.|[2210.17191v1](http://arxiv.org/abs/2210.17191v1)|null|
 |**2022-10-13**|**Estimation of the Sample Frechet Mean: A Convolutional Neural Network Approach**|Adam Sanchez et.al.|[2210.07401v1](http://arxiv.org/abs/2210.07401v1)|null|
 |**2022-01-28**|**Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs**|Francois G. Meyer et.al.|[2201.11954v1](http://arxiv.org/abs/2201.11954v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v1](http://arxiv.org/abs/2310.17435v1)|null|
+|**2023-10-26**|**Improving Denoising Diffusion Models via Simultaneous Estimation of Image and Noise**|Zhenkai Zhang et.al.|[2310.17167v1](http://arxiv.org/abs/2310.17167v1)|null|
+|**2023-05-16**|**Errors-in-variables Fréchet Regression with Low-rank Covariate Approximation**|Kyunghee Han et.al.|[2305.09282v2](http://arxiv.org/abs/2305.09282v2)|null|
+|**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v2](http://arxiv.org/abs/2305.02501v2)|null|
+|**2023-10-23**|**Characterizing how 'distributional' NLP corpora distance metrics are**|Samuel Ackerman et.al.|[2310.14829v1](http://arxiv.org/abs/2310.14829v1)|[link](https://github.com/ibm/text-corpus-distance-distributionality)|
+|**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v2](http://arxiv.org/abs/2308.14569v2)|null|
+|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v1](http://arxiv.org/abs/2310.13668v1)|null|
+|**2020-10-06**|**Modelling of functional profiles and explainable shape shifts detection: An approach combining the notion of the Fréchet mean with the shape invariant model**|Georgios I. Papayiannis et.al.|[2010.02968v4](http://arxiv.org/abs/2010.02968v4)|null|
+|**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969v1](http://arxiv.org/abs/2310.07969v1)|null|
+|**2023-10-11**|**Nonlinear global Fréchet regression for random objects via weak conditional expectation**|Satarupa Bhattacharjee et.al.|[2310.07817v1](http://arxiv.org/abs/2310.07817v1)|null|
+|**2023-09-28**|**SatDM: Synthesizing Realistic Satellite Image with Semantic Layout Conditioning using Diffusion Models**|Orkhan Baghirli et.al.|[2309.16812v1](http://arxiv.org/abs/2309.16812v1)|null|
+|**2023-09-25**|**A genericity property of Fréchet sample means on Riemannian manifolds**|David Groisser et.al.|[2309.13823v1](http://arxiv.org/abs/2309.13823v1)|null|
+|**2023-09-23**|**ECGNet: A generative adversarial network (GAN) approach to the synthesis of 12-lead ECG signals from single lead inputs**|Max Bagga et.al.|[2310.03753v1](http://arxiv.org/abs/2310.03753v1)|null|
+|**2023-03-28**|**UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translation**|Dmitrii Torbunov et.al.|[2303.16280v3](http://arxiv.org/abs/2303.16280v3)|[link](https://github.com/ls4gan/uvcgan2)|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v3](http://arxiv.org/abs/2306.08013v3)|[link](https://github.com/pumjunkim/top_pr)|
 
 ## Variable Selection
 
