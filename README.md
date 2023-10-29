@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-10-29 07:20:18 Asia/Shanghai
+ Automated deployment @ 2023-10-29 19:18:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2022-12-07**|**Node-oriented Spectral Filtering for Graph Neural Networks**|Shuai Zheng et.al.|[2212.03654v3](http://arxiv.org/abs/2212.03654v3)|null|
 |**2023-10-26**|**Network Design through Graph Neural Networks: Identifying Challenges and Improving Performance**|Donald Loveland et.al.|[2310.17100v1](http://arxiv.org/abs/2310.17100v1)|null|
 |**2023-06-08**|**On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks**|Donald Loveland et.al.|[2306.05557v3](http://arxiv.org/abs/2306.05557v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-26**|**Approximate Leave-one-out Cross Validation for Regression with $\ell_1$ Regularizers (extended version)**|Arnab Auddy et.al.|[2310.17629v1](http://arxiv.org/abs/2310.17629v1)|null|
+|**2022-11-10**|**Fairness and bias correction in machine learning for depression prediction: results from four study populations**|Vien Ngoc Dang et.al.|[2211.05321v3](http://arxiv.org/abs/2211.05321v3)|[link](https://github.com/ngoc-vien-dang/fairml-depression)|
+|**2023-01-26**|**Cause-Effect Inference in Location-Scale Noise Models: Maximum Likelihood vs. Independence Testing**|Xiangyu Sun et.al.|[2301.12930v3](http://arxiv.org/abs/2301.12930v3)|[link](https://github.com/xiangyu-sun-789/carefl-h)|
+|**2023-10-25**|**Reimagining Synthetic Tabular Data Generation through Data-Centric AI: A Comprehensive Benchmark**|Lasse Hansen et.al.|[2310.16981v1](http://arxiv.org/abs/2310.16981v1)|[link](https://github.com/vanderschaarlab/data-centric-synthetic-data)|
+|**2023-10-25**|**Causal Q-Aggregation for CATE Model Selection**|Hui Lan et.al.|[2310.16945v1](http://arxiv.org/abs/2310.16945v1)|null|
+|**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed et.al.|[2310.11069v3](http://arxiv.org/abs/2310.11069v3)|null|
+|**2023-05-30**|**Model averaging approaches to data subset selection**|Ethan T. Neil et.al.|[2305.19417v2](http://arxiv.org/abs/2305.19417v2)|[link](https://github.com/jwsitison/data_subset_variation)|
+|**2023-10-24**|**FLTrojan: Privacy Leakage Attacks against Federated Language Models Through Selective Weight Tampering**|Md Rafi Ur Rashid et.al.|[2310.16152v1](http://arxiv.org/abs/2310.16152v1)|null|
+|**2021-10-03**|**A general framework for formulating structured variable selection**|Guanbo Wang et.al.|[2110.01031v3](http://arxiv.org/abs/2110.01031v3)|null|
+|**2021-06-11**|**Towards Costless Model Selection in Contextual Bandits: A Bias-Variance Perspective**|Sanath Kumar Krishnamurthy et.al.|[2106.06483v3](http://arxiv.org/abs/2106.06483v3)|null|
+|**2023-10-23**|**Mass uptake during oxidation of metallic alloys: literature data collection, analysis, and FAIR sharing**|Saswat Mishra et.al.|[2310.15083v1](http://arxiv.org/abs/2310.15083v1)|null|
+|**2023-08-10**|**Inconsistency and Acausality of Model Selection in Bayesian Inverse Problems**|Klaus Mosegaard et.al.|[2308.05858v2](http://arxiv.org/abs/2308.05858v2)|null|
+|**2023-07-11**|**Empirical radius formulas for canonical neutron stars from bidirectionally selecting EOS features in extended Bayesian analyses of observational data**|Jake Richter et.al.|[2307.05848v2](http://arxiv.org/abs/2307.05848v2)|null|
+|**2023-05-23**|**Automatic Model Selection with Large Language Models for Reasoning**|James Xu Zhao et.al.|[2305.14333v2](http://arxiv.org/abs/2305.14333v2)|[link](https://github.com/xuzhao0/model-selection-reasoning)|
+|**2023-10-22**|**An RKHS Approach for Variable Selection in High-dimensional Functional Linear Models**|Xingche Guo et.al.|[2310.14419v1](http://arxiv.org/abs/2310.14419v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2023-09-23**|**ECGNet: A generative adversarial network (GAN) approach to the synthesis of 12-lead ECG signals from single lead inputs**|Max Bagga et.al.|[2310.03753v1](http://arxiv.org/abs/2310.03753v1)|null|
 |**2023-03-28**|**UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translation**|Dmitrii Torbunov et.al.|[2303.16280v3](http://arxiv.org/abs/2303.16280v3)|[link](https://github.com/ls4gan/uvcgan2)|
 |**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v3](http://arxiv.org/abs/2306.08013v3)|[link](https://github.com/pumjunkim/top_pr)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-26**|**Approximate Leave-one-out Cross Validation for Regression with $\ell_1$ Regularizers (extended version)**|Arnab Auddy et.al.|[2310.17629v1](http://arxiv.org/abs/2310.17629v1)|null|
-|**2022-11-10**|**Fairness and bias correction in machine learning for depression prediction: results from four study populations**|Vien Ngoc Dang et.al.|[2211.05321v3](http://arxiv.org/abs/2211.05321v3)|[link](https://github.com/ngoc-vien-dang/fairml-depression)|
-|**2023-01-26**|**Cause-Effect Inference in Location-Scale Noise Models: Maximum Likelihood vs. Independence Testing**|Xiangyu Sun et.al.|[2301.12930v3](http://arxiv.org/abs/2301.12930v3)|[link](https://github.com/xiangyu-sun-789/carefl-h)|
-|**2023-10-25**|**Reimagining Synthetic Tabular Data Generation through Data-Centric AI: A Comprehensive Benchmark**|Lasse Hansen et.al.|[2310.16981v1](http://arxiv.org/abs/2310.16981v1)|[link](https://github.com/vanderschaarlab/data-centric-synthetic-data)|
-|**2023-10-25**|**Causal Q-Aggregation for CATE Model Selection**|Hui Lan et.al.|[2310.16945v1](http://arxiv.org/abs/2310.16945v1)|null|
-|**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed et.al.|[2310.11069v3](http://arxiv.org/abs/2310.11069v3)|null|
-|**2023-05-30**|**Model averaging approaches to data subset selection**|Ethan T. Neil et.al.|[2305.19417v2](http://arxiv.org/abs/2305.19417v2)|[link](https://github.com/jwsitison/data_subset_variation)|
-|**2023-10-24**|**FLTrojan: Privacy Leakage Attacks against Federated Language Models Through Selective Weight Tampering**|Md Rafi Ur Rashid et.al.|[2310.16152v1](http://arxiv.org/abs/2310.16152v1)|null|
-|**2021-10-03**|**A general framework for formulating structured variable selection**|Guanbo Wang et.al.|[2110.01031v3](http://arxiv.org/abs/2110.01031v3)|null|
-|**2021-06-11**|**Towards Costless Model Selection in Contextual Bandits: A Bias-Variance Perspective**|Sanath Kumar Krishnamurthy et.al.|[2106.06483v3](http://arxiv.org/abs/2106.06483v3)|null|
-|**2023-10-23**|**Mass uptake during oxidation of metallic alloys: literature data collection, analysis, and FAIR sharing**|Saswat Mishra et.al.|[2310.15083v1](http://arxiv.org/abs/2310.15083v1)|null|
-|**2023-08-10**|**Inconsistency and Acausality of Model Selection in Bayesian Inverse Problems**|Klaus Mosegaard et.al.|[2308.05858v2](http://arxiv.org/abs/2308.05858v2)|null|
-|**2023-07-11**|**Empirical radius formulas for canonical neutron stars from bidirectionally selecting EOS features in extended Bayesian analyses of observational data**|Jake Richter et.al.|[2307.05848v2](http://arxiv.org/abs/2307.05848v2)|null|
-|**2023-05-23**|**Automatic Model Selection with Large Language Models for Reasoning**|James Xu Zhao et.al.|[2305.14333v2](http://arxiv.org/abs/2305.14333v2)|[link](https://github.com/xuzhao0/model-selection-reasoning)|
-|**2023-10-22**|**An RKHS Approach for Variable Selection in High-dimensional Functional Linear Models**|Xingche Guo et.al.|[2310.14419v1](http://arxiv.org/abs/2310.14419v1)|null|
