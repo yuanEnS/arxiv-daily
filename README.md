@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-01 07:21:27 Asia/Shanghai
+ Automated deployment @ 2023-11-01 19:18:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-10-16**|**From Continuous Dynamics to Graph Neural Networks: Neural Diffusion and Beyond**|Andi Han et.al.|[2310.10121v2](http://arxiv.org/abs/2310.10121v2)|null|
-|**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142v1](http://arxiv.org/abs/2310.19142v1)|null|
-|**2023-10-29**|**The Weisfeiler-Leman Dimension of Existential Conjunctive Queries**|Andreas Göbel et.al.|[2310.19006v1](http://arxiv.org/abs/2310.19006v1)|null|
-|**2022-05-13**|**A graph-based probabilistic geometric deep learning framework with online enforcement of physical constraints to predict the criticality of defects in porous materials**|Vasilis Krokos et.al.|[2205.06562v2](http://arxiv.org/abs/2205.06562v2)|null|
-|**2023-06-10**|**Neural Injective Functions for Multisets, Measures and Graphs via a Finite Witness Theorem**|Tal Amir et.al.|[2306.06529v2](http://arxiv.org/abs/2306.06529v2)|null|
-|**2023-06-22**|**Realistic Synthetic Financial Transactions for Anti-Money Laundering Models**|Erik Altman et.al.|[2306.16424v2](http://arxiv.org/abs/2306.16424v2)|null|
-|**2023-10-29**|**Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**|Nurendra Choudhary et.al.|[2310.18918v1](http://arxiv.org/abs/2310.18918v1)|null|
-|**2023-10-29**|**Topological, or Non-topological? A Deep Learning Based Prediction**|Ashiqur Rasul et.al.|[2310.18907v1](http://arxiv.org/abs/2310.18907v1)|null|
-|**2023-02-17**|**Fast Temporal Wavelet Graph Neural Networks**|Duc Thien Nguyen et.al.|[2302.08643v3](http://arxiv.org/abs/2302.08643v3)|[link](https://github.com/hysonlab/twgnn)|
-|**2022-10-11**|**A General Learning Framework for Open Ad Hoc Teamwork Using Graph-based Policy Learning**|Arrasy Rahman et.al.|[2210.05448v2](http://arxiv.org/abs/2210.05448v2)|[link](https://github.com/uoe-agents/po-gpl)|
-|**2023-10-28**|**Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition**|Divin Yan et.al.|[2310.18765v1](http://arxiv.org/abs/2310.18765v1)|[link](https://github.com/yanliang3612/revar)|
-|**2023-10-28**|**Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First**|Zheng Zhang et.al.|[2310.18735v1](http://arxiv.org/abs/2310.18735v1)|[link](https://github.com/rollingstonezz/curriculum_learning_for_gnns)|
-|**2023-10-25**|**Graph Neural Networks with a Distribution of Parametrized Graphs**|See Hian Lee et.al.|[2310.16401v2](http://arxiv.org/abs/2310.16401v2)|null|
-|**2023-09-28**|**LagrangeBench: A Lagrangian Fluid Mechanics Benchmarking Suite**|Artur P. Toshev et.al.|[2309.16342v2](http://arxiv.org/abs/2309.16342v2)|[link](https://github.com/tumaer/lagrangebench)|
-|**2023-10-28**|**Maximum Independent Set: Self-Training through Dynamic Programming**|Lorenzo Brusca et.al.|[2310.18672v1](http://arxiv.org/abs/2310.18672v1)|null|
+|**2023-10-31**|**Stochastic Gradient Descent for Gaussian Processes Done Right**|Jihao Andreas Lin et.al.|[2310.20581v1](http://arxiv.org/abs/2310.20581v1)|null|
+|**2023-10-31**|**Privacy-preserving design of graph neural networks with applications to vertical federated learning**|Ruofan Wu et.al.|[2310.20552v1](http://arxiv.org/abs/2310.20552v1)|null|
+|**2023-10-31**|**Enhancing Graph Neural Networks with Quantum Computed Encodings**|Slimane Thabet et.al.|[2310.20519v1](http://arxiv.org/abs/2310.20519v1)|null|
+|**2023-05-22**|**A Fractional Graph Laplacian Approach to Oversmoothing**|Sohir Maskey et.al.|[2305.13084v2](http://arxiv.org/abs/2305.13084v2)|[link](https://github.com/rpaolino/flode)|
+|**2023-10-31**|**Collaborative Decision-Making Using Spatiotemporal Graphs in Connected Autonomy**|Peng Gao et.al.|[2310.20491v1](http://arxiv.org/abs/2310.20491v1)|null|
+|**2022-10-18**|**Analysis of Convolutions, Non-linearity and Depth in Graph Neural Networks using Neural Tangent Kernel**|Mahalakshmi Sabanayagam et.al.|[2210.09809v4](http://arxiv.org/abs/2210.09809v4)|[link](https://github.com/mahalakshmi-sabanayagam/NTK_GCN)|
+|**2023-02-14**|**Message Passing Meets Graph Neural Networks: A New Paradigm for Massive MIMO Systems**|Hengtao He et.al.|[2302.06896v2](http://arxiv.org/abs/2302.06896v2)|[link](https://github.com/hehengtao/amp_gnn)|
+|**2023-10-31**|**Distil the informative essence of loop detector data set: Is network-level traffic forecasting hungry for more data?**|Guopeng Li et.al.|[2310.20366v1](http://arxiv.org/abs/2310.20366v1)|[link](https://github.com/romainlitud/uncertainty-aware-traffic-speed-flow-demand-prediction)|
+|**2023-07-13**|**Body Fat Estimation from Surface Meshes using Graph Neural Networks**|Tamara T. Mueller et.al.|[2308.02493v3](http://arxiv.org/abs/2308.02493v3)|null|
+|**2023-02-11**|**Is Distance Matrix Enough for Geometric Deep Learning?**|Zian Li et.al.|[2302.05743v5](http://arxiv.org/abs/2302.05743v5)|[link](https://github.com/graphpku/disgnn)|
+|**2023-10-30**|**On the data-driven description of lattice materials mechanics**|Ismael Ben-Yelun et.al.|[2310.20056v1](http://arxiv.org/abs/2310.20056v1)|null|
+|**2023-09-28**|**Reusability report: Prostate cancer stratification with diverse biologically-informed neural architectures**|Christian Pedersen et.al.|[2309.16645v2](http://arxiv.org/abs/2309.16645v2)|[link](https://github.com/zhanglab-aim/cancer-net)|
+|**2023-10-30**|**Interpretable Prototype-based Graph Information Bottleneck**|Sangwoo Seo et.al.|[2310.19906v1](http://arxiv.org/abs/2310.19906v1)|[link](https://github.com/sang-woo-seo/pgib)|
+|**2023-05-23**|**Uncertainty Quantification over Graph with Conformalized Graph Neural Networks**|Kexin Huang et.al.|[2305.14535v2](http://arxiv.org/abs/2305.14535v2)|null|
+|**2023-06-30**|**Generalization Limits of Graph Neural Networks in Identity Effects Learning**|Giuseppe Alessio D'Inverno et.al.|[2307.00134v2](http://arxiv.org/abs/2307.00134v2)|[link](https://github.com/aledinve/gnn_identity_effects)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-25**|**Causal Q-Aggregation for CATE Model Selection**|Hui Lan et.al.|[2310.16945v2](http://arxiv.org/abs/2310.16945v2)|null|
+|**2023-10-31**|**Multi-task learning of convex combinations of forecasting models**|Giovanni Felici et.al.|[2310.20545v1](http://arxiv.org/abs/2310.20545v1)|null|
+|**2022-10-17**|**Measures of Information Reflect Memorization Patterns**|Rachit Bansal et.al.|[2210.09404v3](http://arxiv.org/abs/2210.09404v3)|null|
+|**2023-10-31**|**Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks**|Steven Adriaensen et.al.|[2310.20447v1](http://arxiv.org/abs/2310.20447v1)|null|
+|**2023-10-31**|**Self-consistent treatment of thermal effects in neutron-star post-mergers: observational implications for third-generation gravitational-wave detectors**|Verónica Villa-Ortega et.al.|[2310.20378v1](http://arxiv.org/abs/2310.20378v1)|null|
+|**2023-10-17**|**Interview with Adrian Raftery**|Leontine Alkema et.al.|[2310.11095v2](http://arxiv.org/abs/2310.11095v2)|null|
+|**2023-10-31**|**Beyond Best-Fits and Model Selection -- Introducing "Reliability" of cusp-core inference of dark matter halos**|Manush Manju et.al.|[2310.20272v1](http://arxiv.org/abs/2310.20272v1)|null|
+|**2023-07-15**|**Determination of Lens Mass Density Profile from Strongly-Lensed Gravitational-Wave Signals**|Mick Wright et.al.|[2307.07852v2](http://arxiv.org/abs/2307.07852v2)|null|
+|**2023-02-23**|**Quantifying & Modeling Multimodal Interactions: An Information Decomposition Framework**|Paul Pu Liang et.al.|[2302.12247v4](http://arxiv.org/abs/2302.12247v4)|[link](https://github.com/pliang279/pid)|
+|**2023-10-29**|**Sparse Fréchet Sufficient Dimension Reduction with Graphical Structure Among Predictors**|Jiaying Weng et.al.|[2310.19114v1](http://arxiv.org/abs/2310.19114v1)|null|
+|**2023-10-29**|**Evaluating LLP Methods: Challenges and Approaches**|Gabriel Franco et.al.|[2310.19065v1](http://arxiv.org/abs/2310.19065v1)|[link](https://github.com/gaabrielfranco/llp-variants-datasets-benchmarks)|
+|**2023-10-28**|**Group Robust Classification Without Any Group Information**|Christos Tsirigotis et.al.|[2310.18555v1](http://arxiv.org/abs/2310.18555v1)|[link](https://github.com/tsirif/ula)|
+|**2023-10-27**|**CELL: a Python package for cluster expansion with a focus on complex alloys**|Santiago Rigamonti et.al.|[2310.18223v1](http://arxiv.org/abs/2310.18223v1)|null|
+|**2023-01-24**|**Distinguishing binary black hole precessional morphologies with gravitational wave observations**|Nathan K. Johnson-McDaniel et.al.|[2301.10125v2](http://arxiv.org/abs/2301.10125v2)|[link](https://gitlab.com/johnsonmcdaniel/bbh_spin_morphology_prior)|
+|**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed et.al.|[2310.11069v4](http://arxiv.org/abs/2310.11069v4)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +78,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-31**|**Synthesizing Diabetic Foot Ulcer Images with Diffusion Model**|Reza Basiri et.al.|[2310.20140v1](http://arxiv.org/abs/2310.20140v1)|null|
 |**2023-10-29**|**Sparse Fréchet Sufficient Dimension Reduction with Graphical Structure Among Predictors**|Jiaying Weng et.al.|[2310.19114v1](http://arxiv.org/abs/2310.19114v1)|null|
 |**2023-04-05**|**Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models**|Yunxiang Li et.al.|[2304.02742v3](http://arxiv.org/abs/2304.02742v3)|null|
 |**2023-10-26**|**Convex generalized Fréchet means in a metric tree**|Gabriel Romon et.al.|[2310.17435v2](http://arxiv.org/abs/2310.17435v2)|null|
@@ -71,25 +93,3 @@
 |**2023-10-11**|**Nonlinear global Fréchet regression for random objects via weak conditional expectation**|Satarupa Bhattacharjee et.al.|[2310.07817v1](http://arxiv.org/abs/2310.07817v1)|null|
 |**2023-09-28**|**SatDM: Synthesizing Realistic Satellite Image with Semantic Layout Conditioning using Diffusion Models**|Orkhan Baghirli et.al.|[2309.16812v1](http://arxiv.org/abs/2309.16812v1)|null|
 |**2023-09-25**|**A genericity property of Fréchet sample means on Riemannian manifolds**|David Groisser et.al.|[2309.13823v1](http://arxiv.org/abs/2309.13823v1)|null|
-|**2023-09-23**|**ECGNet: A generative adversarial network (GAN) approach to the synthesis of 12-lead ECG signals from single lead inputs**|Max Bagga et.al.|[2310.03753v1](http://arxiv.org/abs/2310.03753v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-10-29**|**Sparse Fréchet Sufficient Dimension Reduction with Graphical Structure Among Predictors**|Jiaying Weng et.al.|[2310.19114v1](http://arxiv.org/abs/2310.19114v1)|null|
-|**2023-10-29**|**Evaluating LLP Methods: Challenges and Approaches**|Gabriel Franco et.al.|[2310.19065v1](http://arxiv.org/abs/2310.19065v1)|[link](https://github.com/gaabrielfranco/llp-variants-datasets-benchmarks)|
-|**2023-10-28**|**Group Robust Classification Without Any Group Information**|Christos Tsirigotis et.al.|[2310.18555v1](http://arxiv.org/abs/2310.18555v1)|[link](https://github.com/tsirif/ula)|
-|**2023-10-27**|**CELL: a Python package for cluster expansion with a focus on complex alloys**|Santiago Rigamonti et.al.|[2310.18223v1](http://arxiv.org/abs/2310.18223v1)|null|
-|**2023-01-24**|**Distinguishing binary black hole precessional morphologies with gravitational wave observations**|Nathan K. Johnson-McDaniel et.al.|[2301.10125v2](http://arxiv.org/abs/2301.10125v2)|[link](https://gitlab.com/johnsonmcdaniel/bbh_spin_morphology_prior)|
-|**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed et.al.|[2310.11069v4](http://arxiv.org/abs/2310.11069v4)|null|
-|**2023-10-26**|**Approximate Leave-one-out Cross Validation for Regression with $\ell_1$ Regularizers (extended version)**|Arnab Auddy et.al.|[2310.17629v1](http://arxiv.org/abs/2310.17629v1)|null|
-|**2022-11-10**|**Fairness and bias correction in machine learning for depression prediction: results from four study populations**|Vien Ngoc Dang et.al.|[2211.05321v3](http://arxiv.org/abs/2211.05321v3)|[link](https://github.com/ngoc-vien-dang/fairml-depression)|
-|**2023-01-26**|**Cause-Effect Inference in Location-Scale Noise Models: Maximum Likelihood vs. Independence Testing**|Xiangyu Sun et.al.|[2301.12930v3](http://arxiv.org/abs/2301.12930v3)|[link](https://github.com/xiangyu-sun-789/carefl-h)|
-|**2023-10-25**|**Reimagining Synthetic Tabular Data Generation through Data-Centric AI: A Comprehensive Benchmark**|Lasse Hansen et.al.|[2310.16981v1](http://arxiv.org/abs/2310.16981v1)|[link](https://github.com/vanderschaarlab/data-centric-synthetic-data)|
-|**2023-10-25**|**Causal Q-Aggregation for CATE Model Selection**|Hui Lan et.al.|[2310.16945v1](http://arxiv.org/abs/2310.16945v1)|null|
-|**2023-05-30**|**Model averaging approaches to data subset selection**|Ethan T. Neil et.al.|[2305.19417v2](http://arxiv.org/abs/2305.19417v2)|[link](https://github.com/jwsitison/data_subset_variation)|
-|**2023-10-24**|**FLTrojan: Privacy Leakage Attacks against Federated Language Models Through Selective Weight Tampering**|Md Rafi Ur Rashid et.al.|[2310.16152v1](http://arxiv.org/abs/2310.16152v1)|null|
-|**2021-10-03**|**A general framework for formulating structured variable selection**|Guanbo Wang et.al.|[2110.01031v3](http://arxiv.org/abs/2110.01031v3)|null|
-|**2021-06-11**|**Towards Costless Model Selection in Contextual Bandits: A Bias-Variance Perspective**|Sanath Kumar Krishnamurthy et.al.|[2106.06483v3](http://arxiv.org/abs/2106.06483v3)|null|
