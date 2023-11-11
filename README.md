@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-11 07:21:29 Asia/Shanghai
+ Automated deployment @ 2023-11-11 19:18:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2023-11-01**|**Robust Graph Clustering via Meta Weighting for Noisy Graphs**|Hyeonsoo Jo et.al.|[2311.00322v2](http://arxiv.org/abs/2311.00322v2)|[link](https://github.com/hyeonsoojo/metagc)|
 |**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507v1](http://arxiv.org/abs/2311.04507v1)|null|
 |**2023-11-08**|**RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-based Sentiment Analysis**|Xusheng Zhao et.al.|[2311.04467v1](http://arxiv.org/abs/2311.04467v1)|[link](https://github.com/rdgcn/rdgcn)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2022-09-07**|**An extension of the Unified Skew-Normal family of distributions and application to Bayesian binary regression**|Paolo Onorati et.al.|[2209.03474v3](http://arxiv.org/abs/2209.03474v3)|null|
+|**2023-11-09**|**Do Ensembling and Meta-Learning Improve Outlier Detection in Randomized Controlled Trials?**|Walter Nelson et.al.|[2311.05473v1](http://arxiv.org/abs/2311.05473v1)|[link](https://github.com/hamilton-health-sciences/ml4h-traq)|
+|**2023-11-09**|**Automated Mobile Sensing Strategies Generation for Human Behaviour Understanding**|Nan Gao et.al.|[2311.05457v1](http://arxiv.org/abs/2311.05457v1)|null|
+|**2023-11-09**|**An iterative algorithm for high-dimensional linear models with both sparse and non-sparse structures**|Shun Yu et.al.|[2311.05339v1](http://arxiv.org/abs/2311.05339v1)|null|
+|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v3](http://arxiv.org/abs/2303.03521v3)|null|
+|**2023-11-08**|**Goodness-of-Fit Tests for Linear Non-Gaussian Structural Equation Models**|Daniela Schkoda et.al.|[2311.04585v1](http://arxiv.org/abs/2311.04585v1)|[link](https://github.com/danielaschkoda/testlinearsem)|
+|**2023-08-26**|**A flexible Bayesian tool for CoDa mixed models: logistic-normal distribution with Dirichlet covariance**|Joaquín Martínez-Minaya et.al.|[2308.13928v3](http://arxiv.org/abs/2308.13928v3)|[link](https://github.com/jmartinez-minaya/inlacomp)|
+|**2023-11-08**|**Bayesian modelling of response to therapy and drug-sensitivity in acute lymphoblastic leukemia**|Andrea Cremaschi et.al.|[2311.04408v1](http://arxiv.org/abs/2311.04408v1)|null|
+|**2022-12-10**|**How to select an objective function using information theory**|Timothy O. Hodson et.al.|[2212.06566v3](http://arxiv.org/abs/2212.06566v3)|null|
+|**2022-11-14**|**Additive Covariance Matrix Models: Modelling Regional Electricity Net-Demand in Great Britain**|V. Gioia et.al.|[2211.07451v2](http://arxiv.org/abs/2211.07451v2)|[link](https://github.com/vingioia90/scm)|
+|**2023-11-07**|**Unsupervised Video Summarization**|Hanqing Li et.al.|[2311.03745v1](http://arxiv.org/abs/2311.03745v1)|null|
+|**2022-11-04**|**Model-based clustering of multiple networks with a hierarchical algorithm**|Tabea Rebafka et.al.|[2211.02314v3](http://arxiv.org/abs/2211.02314v3)|null|
+|**2023-11-06**|**Saturn: Efficient Multi-Large-Model Deep Learning**|Kabir Nagrecha et.al.|[2311.02840v1](http://arxiv.org/abs/2311.02840v1)|null|
+|**2023-10-17**|**Non-parametric Conditional Independence Testing for Mixed Continuous-Categorical Variables: A Novel Method and Numerical Evaluation**|Oana-Iuliana Popescu et.al.|[2310.11132v2](http://arxiv.org/abs/2310.11132v2)|null|
+|**2023-11-04**|**Factor-guided estimation of large covariance matrix function with conditional functional sparsity**|Dong Li et.al.|[2311.02450v1](http://arxiv.org/abs/2311.02450v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2023-10-23**|**Characterizing how 'distributional' NLP corpora distance metrics are**|Samuel Ackerman et.al.|[2310.14829v1](http://arxiv.org/abs/2310.14829v1)|[link](https://github.com/ibm/text-corpus-distance-distributionality)|
 |**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v2](http://arxiv.org/abs/2308.14569v2)|null|
 |**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v1](http://arxiv.org/abs/2310.13668v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-09-07**|**An extension of the Unified Skew-Normal family of distributions and application to Bayesian binary regression**|Paolo Onorati et.al.|[2209.03474v3](http://arxiv.org/abs/2209.03474v3)|null|
-|**2023-11-09**|**Do Ensembling and Meta-Learning Improve Outlier Detection in Randomized Controlled Trials?**|Walter Nelson et.al.|[2311.05473v1](http://arxiv.org/abs/2311.05473v1)|[link](https://github.com/hamilton-health-sciences/ml4h-traq)|
-|**2023-11-09**|**Automated Mobile Sensing Strategies Generation for Human Behaviour Understanding**|Nan Gao et.al.|[2311.05457v1](http://arxiv.org/abs/2311.05457v1)|null|
-|**2023-11-09**|**An iterative algorithm for high-dimensional linear models with both sparse and non-sparse structures**|Shun Yu et.al.|[2311.05339v1](http://arxiv.org/abs/2311.05339v1)|null|
-|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v3](http://arxiv.org/abs/2303.03521v3)|null|
-|**2023-11-08**|**Goodness-of-Fit Tests for Linear Non-Gaussian Structural Equation Models**|Daniela Schkoda et.al.|[2311.04585v1](http://arxiv.org/abs/2311.04585v1)|[link](https://github.com/danielaschkoda/testlinearsem)|
-|**2023-08-26**|**A flexible Bayesian tool for CoDa mixed models: logistic-normal distribution with Dirichlet covariance**|Joaquín Martínez-Minaya et.al.|[2308.13928v3](http://arxiv.org/abs/2308.13928v3)|[link](https://github.com/jmartinez-minaya/inlacomp)|
-|**2023-11-08**|**Bayesian modelling of response to therapy and drug-sensitivity in acute lymphoblastic leukemia**|Andrea Cremaschi et.al.|[2311.04408v1](http://arxiv.org/abs/2311.04408v1)|null|
-|**2022-12-10**|**How to select an objective function using information theory**|Timothy O. Hodson et.al.|[2212.06566v3](http://arxiv.org/abs/2212.06566v3)|null|
-|**2022-11-14**|**Additive Covariance Matrix Models: Modelling Regional Electricity Net-Demand in Great Britain**|V. Gioia et.al.|[2211.07451v2](http://arxiv.org/abs/2211.07451v2)|[link](https://github.com/vingioia90/scm)|
-|**2023-11-07**|**Unsupervised Video Summarization**|Hanqing Li et.al.|[2311.03745v1](http://arxiv.org/abs/2311.03745v1)|null|
-|**2022-11-04**|**Model-based clustering of multiple networks with a hierarchical algorithm**|Tabea Rebafka et.al.|[2211.02314v3](http://arxiv.org/abs/2211.02314v3)|null|
-|**2023-11-06**|**Saturn: Efficient Multi-Large-Model Deep Learning**|Kabir Nagrecha et.al.|[2311.02840v1](http://arxiv.org/abs/2311.02840v1)|null|
-|**2023-10-17**|**Non-parametric Conditional Independence Testing for Mixed Continuous-Categorical Variables: A Novel Method and Numerical Evaluation**|Oana-Iuliana Popescu et.al.|[2310.11132v2](http://arxiv.org/abs/2310.11132v2)|null|
-|**2023-11-04**|**Factor-guided estimation of large covariance matrix function with conditional functional sparsity**|Dong Li et.al.|[2311.02450v1](http://arxiv.org/abs/2311.02450v1)|null|
