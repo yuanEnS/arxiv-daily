@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-13 07:21:13 Asia/Shanghai
+ Automated deployment @ 2023-11-13 19:19:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-10**|**FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective**|Kun Yi et.al.|[2311.06190v1](http://arxiv.org/abs/2311.06190v1)|null|
+|**2023-11-10**|**Interpretable Graph Anomaly Detection using Gradient Attention Maps**|Yifei Yang et.al.|[2311.06153v1](http://arxiv.org/abs/2311.06153v1)|null|
+|**2023-11-10**|**Going beyond persistent homology using persistent homology**|Johanna Immonen et.al.|[2311.06152v1](http://arxiv.org/abs/2311.06152v1)|null|
+|**2023-02-08**|**Taming Local Effects in Graph-based Spatiotemporal Forecasting**|Andrea Cini et.al.|[2302.04071v2](http://arxiv.org/abs/2302.04071v2)|[link](https://github.com/graph-machine-learning-group/taming-local-effects-stgnns)|
+|**2023-10-28**|**Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition**|Divin Yan et.al.|[2310.18765v2](http://arxiv.org/abs/2310.18765v2)|[link](https://github.com/yanliang3612/revar)|
+|**2023-11-10**|**Privacy-Preserving Individual-Level COVID-19 Infection Prediction via Federated Graph Learning**|Wenjie Fu et.al.|[2311.06049v1](http://arxiv.org/abs/2311.06049v1)|null|
+|**2023-06-22**|**StrainTensorNet: Predicting crystal structure elastic properties using SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818v2](http://arxiv.org/abs/2306.12818v2)|[link](https://github.com/trachote/predict_elastic_tensor)|
+|**2023-11-09**|**Dirichlet Energy Enhancement of Graph Neural Networks by Framelet Augmentation**|Jialin Chen et.al.|[2311.05767v1](http://arxiv.org/abs/2311.05767v1)|null|
+|**2023-11-09**|**Generative Explanations for Graph Neural Network: Methods and Evaluations**|Jialin Chen et.al.|[2311.05764v1](http://arxiv.org/abs/2311.05764v1)|null|
 |**2023-07-10**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461v2](http://arxiv.org/abs/2307.04461v2)|[link](https://github.com/ratschlab/mmugl)|
 |**2023-10-25**|**AI Agent as Urban Planner: Steering Stakeholder Dynamics in Urban Planning via Consensus-based Multi-Agent Reinforcement Learning**|Kejiang Qian et.al.|[2310.16772v2](http://arxiv.org/abs/2310.16772v2)|null|
 |**2023-11-09**|**SIRE: scale-invariant, rotation-equivariant estimation of artery orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400v1](http://arxiv.org/abs/2311.05400v1)|null|
 |**2023-11-09**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural Networks**|Paul Almasan et.al.|[2311.05337v1](http://arxiv.org/abs/2311.05337v1)|[link](https://github.com/bnn-upc/atom_neural_traffic_compression)|
 |**2023-05-21**|**Joint Feature and Differentiable $ k $-NN Graph Learning using Dirichlet Energy**|Lei Xu et.al.|[2305.12396v2](http://arxiv.org/abs/2305.12396v2)|null|
 |**2021-06-16**|**On the approximation capability of GNNs in node classification/regression tasks**|Giuseppe Alessio D'Inverno et.al.|[2106.08992v6](http://arxiv.org/abs/2106.08992v6)|null|
-|**2023-11-09**|**Mixture of Weak & Strong Experts on Graphs**|Hanqing Zeng et.al.|[2311.05185v1](http://arxiv.org/abs/2311.05185v1)|null|
-|**2023-11-09**|**Materials Properties Prediction (MAPP): Empowering the prediction of material properties solely based on chemical formulas**|Si-Da Xue et.al.|[2311.05133v1](http://arxiv.org/abs/2311.05133v1)|null|
-|**2023-11-08**|**Identifying Semantic Component for Robust Molecular Property Prediction**|Zijian Li et.al.|[2311.04837v1](http://arxiv.org/abs/2311.04837v1)|[link](https://github.com/dmirlab-group/sci)|
-|**2023-10-20**|**Physics-Informed Graph Convolutional Networks: Towards a generalized framework for complex geometries**|Marien Chenaud et.al.|[2310.14948v3](http://arxiv.org/abs/2310.14948v3)|null|
-|**2023-05-10**|**Uncertainty in GNN Learning Evaluations: The Importance of a Consistent Benchmark for Community Detection**|William Leeney et.al.|[2305.06026v4](http://arxiv.org/abs/2305.06026v4)|null|
-|**2023-11-08**|**Learning Robust Multi-Scale Representation for Neural Radiance Fields from Unposed Images**|Nishant Jain et.al.|[2311.04521v1](http://arxiv.org/abs/2311.04521v1)|null|
-|**2023-11-01**|**Robust Graph Clustering via Meta Weighting for Noisy Graphs**|Hyeonsoo Jo et.al.|[2311.00322v2](http://arxiv.org/abs/2311.00322v2)|[link](https://github.com/hyeonsoojo/metagc)|
-|**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507v1](http://arxiv.org/abs/2311.04507v1)|null|
-|**2023-11-08**|**RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-based Sentiment Analysis**|Xusheng Zhao et.al.|[2311.04467v1](http://arxiv.org/abs/2311.04467v1)|[link](https://github.com/rdgcn/rdgcn)|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-10**|**Spanners under the Hausdorff and Fréchet Distances**|Tsuri Farhana et.al.|[2311.06013v1](http://arxiv.org/abs/2311.06013v1)|null|
 |**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v5](http://arxiv.org/abs/2306.08013v5)|[link](https://github.com/LAIT-CVLab/TopPR)|
 |**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v3](http://arxiv.org/abs/2301.10611v3)|null|
 |**2023-11-03**|**Sketching for Convex and Nonconvex Regularized Least Squares with Sharp Guarantees**|Yingzhen Yang et.al.|[2311.01806v1](http://arxiv.org/abs/2311.01806v1)|null|
@@ -71,13 +72,14 @@
 |**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v2](http://arxiv.org/abs/2305.02501v2)|null|
 |**2023-10-23**|**Characterizing how 'distributional' NLP corpora distance metrics are**|Samuel Ackerman et.al.|[2310.14829v1](http://arxiv.org/abs/2310.14829v1)|[link](https://github.com/ibm/text-corpus-distance-distributionality)|
 |**2023-08-28**|**Solving Fréchet Distance Problems by Algebraic Geometric Methods**|Siu-Wing Cheng et.al.|[2308.14569v2](http://arxiv.org/abs/2308.14569v2)|null|
-|**2023-10-20**|**Variance Inequalities for Transformed Fréchet Means in Hadamard Spaces**|Christof Schötz et.al.|[2310.13668v1](http://arxiv.org/abs/2310.13668v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-10**|**Time-Varying Identification of Monetary Policy Shocks**|Annika Camehl et.al.|[2311.05883v1](http://arxiv.org/abs/2311.05883v1)|null|
+|**2023-04-04**|**Synthesize High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model**|Brandon Theodorou et.al.|[2304.02169v3](http://arxiv.org/abs/2304.02169v3)|[link](https://github.com/btheodorou99/halo_inpatient)|
 |**2022-09-07**|**An extension of the Unified Skew-Normal family of distributions and application to Bayesian binary regression**|Paolo Onorati et.al.|[2209.03474v3](http://arxiv.org/abs/2209.03474v3)|null|
 |**2023-11-09**|**Do Ensembling and Meta-Learning Improve Outlier Detection in Randomized Controlled Trials?**|Walter Nelson et.al.|[2311.05473v1](http://arxiv.org/abs/2311.05473v1)|[link](https://github.com/hamilton-health-sciences/ml4h-traq)|
 |**2023-11-09**|**Automated Mobile Sensing Strategies Generation for Human Behaviour Understanding**|Nan Gao et.al.|[2311.05457v1](http://arxiv.org/abs/2311.05457v1)|null|
@@ -91,5 +93,3 @@
 |**2023-11-07**|**Unsupervised Video Summarization**|Hanqing Li et.al.|[2311.03745v1](http://arxiv.org/abs/2311.03745v1)|null|
 |**2022-11-04**|**Model-based clustering of multiple networks with a hierarchical algorithm**|Tabea Rebafka et.al.|[2211.02314v3](http://arxiv.org/abs/2211.02314v3)|null|
 |**2023-11-06**|**Saturn: Efficient Multi-Large-Model Deep Learning**|Kabir Nagrecha et.al.|[2311.02840v1](http://arxiv.org/abs/2311.02840v1)|null|
-|**2023-10-17**|**Non-parametric Conditional Independence Testing for Mixed Continuous-Categorical Variables: A Novel Method and Numerical Evaluation**|Oana-Iuliana Popescu et.al.|[2310.11132v2](http://arxiv.org/abs/2310.11132v2)|null|
-|**2023-11-04**|**Factor-guided estimation of large covariance matrix function with conditional functional sparsity**|Dong Li et.al.|[2311.02450v1](http://arxiv.org/abs/2311.02450v1)|null|
