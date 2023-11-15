@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-15 07:22:43 Asia/Shanghai
+ Automated deployment @ 2023-11-15 19:20:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-05-27**|**Inferring Causal Effects Under Heterogeneous Peer Influence**|Shishir Adhikari et.al.|[2305.17479v2](http://arxiv.org/abs/2305.17479v2)|null|
+|**2023-11-14**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271v1](http://arxiv.org/abs/2311.08271v1)|null|
+|**2023-11-14**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118v1](http://arxiv.org/abs/2311.08118v1)|null|
+|**2023-11-14**|**Higher-Order Expander Graph Propagation**|Thomas Christie et.al.|[2311.07966v1](http://arxiv.org/abs/2311.07966v1)|null|
+|**2023-11-14**|**Self-supervised Heterogeneous Graph Variational Autoencoders**|Yige Zhao et.al.|[2311.07929v1](http://arxiv.org/abs/2311.07929v1)|null|
 |**2023-11-13**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548v1](http://arxiv.org/abs/2311.07548v1)|null|
 |**2023-11-13**|**Three-dimensional granular flow simulation using graph neural network-based learned simulator**|Yongjin Choi et.al.|[2311.07416v1](http://arxiv.org/abs/2311.07416v1)|null|
 |**2023-11-13**|**ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A Unified Neural Network Approach**|Konstantinos Sotiropoulos et.al.|[2311.07355v1](http://arxiv.org/abs/2311.07355v1)|[link](https://github.com/konsotirop/adamm)|
 |**2023-11-13**|**Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images**|Aryan Singh et.al.|[2311.07321v1](http://arxiv.org/abs/2311.07321v1)|[link](https://github.com/aryan-at-ul/aics_2023_submission)|
+|**2023-11-13**|**ResMGCN: Residual Message Graph Convolution Network for Fast Biomedical Interactions Discovering**|Zecheng Yin et.al.|[2311.07632v1](http://arxiv.org/abs/2311.07632v1)|null|
 |**2022-12-08**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v3](http://arxiv.org/abs/2212.04155v3)|null|
 |**2023-11-06**|**Edge2Node: Reducing Edge Prediction to Node Classification**|Zahed Rahmati et.al.|[2311.02921v2](http://arxiv.org/abs/2311.02921v2)|[link](https://github.com/arahmatiiii/E2N)|
 |**2023-11-13**|**Optical Quantum Sensing for Agnostic Environments via Deep Learning**|Zeqiao Zhou et.al.|[2311.07203v1](http://arxiv.org/abs/2311.07203v1)|null|
 |**2023-11-13**|**Untargeted Black-box Attacks for Social Recommendations**|Wenqi Fan et.al.|[2311.07127v1](http://arxiv.org/abs/2311.07127v1)|null|
 |**2023-11-13**|**Collaborative Goal Tracking of Multiple Mobile Robots Based on Geometric Graph Neural Network**|Qingquan Lin et.al.|[2311.07105v1](http://arxiv.org/abs/2311.07105v1)|null|
-|**2023-05-24**|**Reversible and irreversible bracket-based dynamics for deep graph neural networks**|Anthony Gruber et.al.|[2305.15616v2](http://arxiv.org/abs/2305.15616v2)|[link](https://github.com/natrask/bracketgraphs)|
-|**2023-11-08**|**AI-accelerated Discovery of Altermagnetic Materials**|Ze-Feng Gao et.al.|[2311.04418v2](http://arxiv.org/abs/2311.04418v2)|[link](https://github.com/zfgao66/mataltmag)|
-|**2023-11-12**|**Contractive Systems Improve Graph Neural Networks Against Adversarial Attacks**|Moshe Eliasof et.al.|[2311.06942v1](http://arxiv.org/abs/2311.06942v1)|null|
-|**2023-11-12**|**Preserving Node-level Privacy in Graph Neural Networks**|Zihang Xiang et.al.|[2311.06888v1](http://arxiv.org/abs/2311.06888v1)|null|
-|**2023-02-27**|**DeepSeq: Deep Sequential Circuit Learning**|Sadaf Khan et.al.|[2302.13608v2](http://arxiv.org/abs/2302.13608v2)|null|
-|**2023-11-12**|**GraNNDis: Efficient Unified Distributed Training Framework for Deep GNNs on Large Clusters**|Jaeyong Song et.al.|[2311.06837v1](http://arxiv.org/abs/2311.06837v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-14**|**Comparison of model selection techniques for seafloor scattering statistics**|Derek R Olson et.al.|[2311.08337v1](http://arxiv.org/abs/2311.08337v1)|null|
+|**2023-11-14**|**Self-Evolved Diverse Data Sampling for Efficient Instruction Tuning**|Shengguang Wu et.al.|[2311.08182v1](http://arxiv.org/abs/2311.08182v1)|[link](https://github.com/ofa-sys/diverseevol)|
+|**2023-11-13**|**Finite Mixtures of Multivariate Poisson-Log Normal Factor Analyzers for Clustering Count Data**|Andrea Payne et.al.|[2311.07762v1](http://arxiv.org/abs/2311.07762v1)|[link](https://github.com/anjalisilva/mixmplnfa)|
 |**2023-09-15**|**Towards Last-layer Retraining for Group Robustness with Fewer Annotations**|Tyler LaBonte et.al.|[2309.08534v2](http://arxiv.org/abs/2309.08534v2)|[link](https://github.com/tmlabonte/last-layer-retraining)|
 |**2023-11-13**|**High Dimensional Binary Choice Model with Unknown Heteroskedasticity or Instrumental Variables**|Fu Ouyang et.al.|[2311.07067v1](http://arxiv.org/abs/2311.07067v1)|null|
 |**2023-07-24**|**Anytime Model Selection in Linear Bandits**|Parnian Kassraie et.al.|[2307.12897v2](http://arxiv.org/abs/2307.12897v2)|null|
@@ -90,6 +93,3 @@
 |**2023-11-09**|**Do Ensembling and Meta-Learning Improve Outlier Detection in Randomized Controlled Trials?**|Walter Nelson et.al.|[2311.05473v1](http://arxiv.org/abs/2311.05473v1)|[link](https://github.com/hamilton-health-sciences/ml4h-traq)|
 |**2023-11-09**|**Automated Mobile Sensing Strategies Generation for Human Behaviour Understanding**|Nan Gao et.al.|[2311.05457v1](http://arxiv.org/abs/2311.05457v1)|null|
 |**2023-11-09**|**An iterative algorithm for high-dimensional linear models with both sparse and non-sparse structures**|Shun Yu et.al.|[2311.05339v1](http://arxiv.org/abs/2311.05339v1)|null|
-|**2023-03-06**|**Bayesian Adaptive Selection of Variables for Function-on-Scalar Regression Models**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v3](http://arxiv.org/abs/2303.03521v3)|null|
-|**2023-11-08**|**Goodness-of-Fit Tests for Linear Non-Gaussian Structural Equation Models**|Daniela Schkoda et.al.|[2311.04585v1](http://arxiv.org/abs/2311.04585v1)|[link](https://github.com/danielaschkoda/testlinearsem)|
-|**2023-08-26**|**A flexible Bayesian tool for CoDa mixed models: logistic-normal distribution with Dirichlet covariance**|Joaquín Martínez-Minaya et.al.|[2308.13928v3](http://arxiv.org/abs/2308.13928v3)|[link](https://github.com/jmartinez-minaya/inlacomp)|
