@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-24 07:23:20 Asia/Shanghai
+ Automated deployment @ 2023-11-24 19:19:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2022-02-21**|**Degree-Preserving Randomized Response for Graph Neural Networks under Local Differential Privacy**|Seira Hidano et.al.|[2202.10209v5](http://arxiv.org/abs/2202.10209v5)|null|
 |**2023-08-31**|**Pose-Graph Attentional Graph Neural Network for Lidar Place Recognition**|Milad Ramezani et.al.|[2309.00168v2](http://arxiv.org/abs/2309.00168v2)|null|
 |**2023-11-21**|**Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control**|Songyuan Zhang et.al.|[2311.13014v1](http://arxiv.org/abs/2311.13014v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-22**|**Synergizing Roughness Penalization and Basis Selection in Bayesian Spline Regression**|Sunwoo Lim et.al.|[2311.13481v1](http://arxiv.org/abs/2311.13481v1)|null|
+|**2023-11-22**|**Loss-based Objective and Penalizing Priors for Model Selection Problems**|Changwoo J. Lee et.al.|[2311.13347v1](http://arxiv.org/abs/2311.13347v1)|null|
+|**2023-11-22**|**Improved identification accuracy in equation learning via comprehensive $\boldsymbol{R^2}$-elimination and Bayesian model selection**|Daniel Nickelsen et.al.|[2311.13265v1](http://arxiv.org/abs/2311.13265v1)|null|
+|**2023-11-14**|**Deconstructing Alien Hunting**|David Kipping et.al.|[2311.08476v2](http://arxiv.org/abs/2311.08476v2)|null|
+|**2022-02-25**|**Flexible variable selection in the presence of missing data**|B. D. Williamson et.al.|[2202.12989v4](http://arxiv.org/abs/2202.12989v4)|[link](https://github.com/bdwilliamson/flevr_supplementary)|
+|**2023-11-21**|**Machine-Guided Discovery of a Real-World Rogue Wave Model**|Dion Häfner et.al.|[2311.12579v1](http://arxiv.org/abs/2311.12579v1)|[link](https://github.com/dionhaefner/rogue-wave-discovery)|
+|**2023-01-18**|**Data thinning for convolution-closed distributions**|Anna Neufeld et.al.|[2301.07276v3](http://arxiv.org/abs/2301.07276v3)|null|
+|**2023-11-20**|**Calibrating signal-to-noise ratio detection thresholds using gravitational-wave catalogs**|Matthew Mould et.al.|[2311.12117v1](http://arxiv.org/abs/2311.12117v1)|null|
+|**2023-11-20**|**Union Through UNITY: Cosmology with 2,000 SNe Using a Unified Bayesian Framework**|David Rubin et.al.|[2311.12098v1](http://arxiv.org/abs/2311.12098v1)|null|
+|**2023-11-20**|**GPT in Data Science: A Practical Exploration of Model Selection**|Nathalia Nascimento et.al.|[2311.11516v1](http://arxiv.org/abs/2311.11516v1)|null|
+|**2023-11-14**|**Covariance Assisted Multivariate Penalized Additive Regression (CoMPAdRe)**|Neel Desai et.al.|[2311.08484v2](http://arxiv.org/abs/2311.08484v2)|null|
+|**2023-05-18**|**Optimization Modeling for Pandemic Vaccine Supply Chain Management: A Review and Future Research Opportunities**|Shibshankar Dey et.al.|[2305.10942v2](http://arxiv.org/abs/2305.10942v2)|null|
+|**2023-09-23**|**On optimality of Mallows model averaging**|Jingfu Peng et.al.|[2309.13239v2](http://arxiv.org/abs/2309.13239v2)|null|
+|**2023-11-17**|**How False Data Affects Machine Learning Models in Electrochemistry?**|Krittapong Deshsorna et.al.|[2311.10795v1](http://arxiv.org/abs/2311.10795v1)|[link](https://github.com/Demodesu/How-False-Data-Affects-Machine-Learning-Models-in-Electrochemistry)|
+|**2023-11-17**|**Supervised structure learning**|Karl J. Friston et.al.|[2311.10300v1](http://arxiv.org/abs/2311.10300v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v4](http://arxiv.org/abs/2112.13398v4)|[link](https://github.com/carloscinelli/dml.sensemakr)|
 |**2023-10-31**|**Synthesizing Diabetic Foot Ulcer Images with Diffusion Model**|Reza Basiri et.al.|[2310.20140v1](http://arxiv.org/abs/2310.20140v1)|null|
 |**2023-10-29**|**Sparse Fréchet Sufficient Dimension Reduction with Graphical Structure Among Predictors**|Jiaying Weng et.al.|[2310.19114v1](http://arxiv.org/abs/2310.19114v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-22**|**Synergizing Roughness Penalization and Basis Selection in Bayesian Spline Regression**|Sunwoo Lim et.al.|[2311.13481v1](http://arxiv.org/abs/2311.13481v1)|null|
-|**2023-11-22**|**Loss-based Objective and Penalizing Priors for Model Selection Problems**|Changwoo J. Lee et.al.|[2311.13347v1](http://arxiv.org/abs/2311.13347v1)|null|
-|**2023-11-22**|**Improved identification accuracy in equation learning via comprehensive $\boldsymbol{R^2}$-elimination and Bayesian model selection**|Daniel Nickelsen et.al.|[2311.13265v1](http://arxiv.org/abs/2311.13265v1)|null|
-|**2023-11-14**|**Deconstructing Alien Hunting**|David Kipping et.al.|[2311.08476v2](http://arxiv.org/abs/2311.08476v2)|null|
-|**2022-02-25**|**Flexible variable selection in the presence of missing data**|B. D. Williamson et.al.|[2202.12989v4](http://arxiv.org/abs/2202.12989v4)|[link](https://github.com/bdwilliamson/flevr_supplementary)|
-|**2023-11-21**|**Machine-Guided Discovery of a Real-World Rogue Wave Model**|Dion Häfner et.al.|[2311.12579v1](http://arxiv.org/abs/2311.12579v1)|[link](https://github.com/dionhaefner/rogue-wave-discovery)|
-|**2023-01-18**|**Data thinning for convolution-closed distributions**|Anna Neufeld et.al.|[2301.07276v3](http://arxiv.org/abs/2301.07276v3)|null|
-|**2023-11-20**|**Calibrating signal-to-noise ratio detection thresholds using gravitational-wave catalogs**|Matthew Mould et.al.|[2311.12117v1](http://arxiv.org/abs/2311.12117v1)|null|
-|**2023-11-20**|**Union Through UNITY: Cosmology with 2,000 SNe Using a Unified Bayesian Framework**|David Rubin et.al.|[2311.12098v1](http://arxiv.org/abs/2311.12098v1)|null|
-|**2023-11-20**|**GPT in Data Science: A Practical Exploration of Model Selection**|Nathalia Nascimento et.al.|[2311.11516v1](http://arxiv.org/abs/2311.11516v1)|null|
-|**2023-11-14**|**Covariance Assisted Multivariate Penalized Additive Regression (CoMPAdRe)**|Neel Desai et.al.|[2311.08484v2](http://arxiv.org/abs/2311.08484v2)|null|
-|**2023-05-18**|**Optimization Modeling for Pandemic Vaccine Supply Chain Management: A Review and Future Research Opportunities**|Shibshankar Dey et.al.|[2305.10942v2](http://arxiv.org/abs/2305.10942v2)|null|
-|**2023-09-23**|**On optimality of Mallows model averaging**|Jingfu Peng et.al.|[2309.13239v2](http://arxiv.org/abs/2309.13239v2)|null|
-|**2023-11-17**|**How False Data Affects Machine Learning Models in Electrochemistry?**|Krittapong Deshsorna et.al.|[2311.10795v1](http://arxiv.org/abs/2311.10795v1)|[link](https://github.com/Demodesu/How-False-Data-Affects-Machine-Learning-Models-in-Electrochemistry)|
-|**2023-11-17**|**Supervised structure learning**|Karl J. Friston et.al.|[2311.10300v1](http://arxiv.org/abs/2311.10300v1)|null|
