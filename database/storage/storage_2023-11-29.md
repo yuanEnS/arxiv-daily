@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-29 07:22:20 Asia/Shanghai
+ Automated deployment @ 2023-11-29 19:20:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-11-27**|**Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation**|Jiachen Li et.al.|[2311.16091v1](http://arxiv.org/abs/2311.16091v1)|null|
-|**2023-11-27**|**Soil Organic Carbon Estimation from Climate-related Features with Graph Neural Network**|Weiying Zhao et.al.|[2311.15979v1](http://arxiv.org/abs/2311.15979v1)|null|
-|**2023-11-27**|**Over-Squashing in Riemannian Graph Neural Networks**|Julia Balla et.al.|[2311.15945v1](http://arxiv.org/abs/2311.15945v1)|null|
-|**2023-11-27**|**Multi-Agent Reinforcement Learning for Power Control in Wireless Networks via Adaptive Graphs**|Lorenzo Mario Amorosa et.al.|[2311.15858v1](http://arxiv.org/abs/2311.15858v1)|null|
-|**2023-11-27**|**A Social-aware Gaussian Pre-trained Model for Effective Cold-start Recommendation**|Siwei Liu et.al.|[2311.15790v1](http://arxiv.org/abs/2311.15790v1)|null|
-|**2023-11-02**|**Long-Range Neural Atom Learning for Molecular Graphs**|Xuan Li et.al.|[2311.01276v2](http://arxiv.org/abs/2311.01276v2)|null|
-|**2023-11-27**|**Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training**|Xinglin Li et.al.|[2311.15772v1](http://arxiv.org/abs/2311.15772v1)|null|
-|**2023-10-02**|**The Map Equation Goes Neural**|Christopher Blöcker et.al.|[2310.01144v2](http://arxiv.org/abs/2310.01144v2)|null|
-|**2023-11-27**|**Out-of-Distribution Generalized Dynamic Graph Neural Network for Human Albumin Prediction**|Zeyang Zhang et.al.|[2311.15545v1](http://arxiv.org/abs/2311.15545v1)|null|
-|**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978v2](http://arxiv.org/abs/2308.11978v2)|null|
-|**2023-11-26**|**Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs**|Xingtong Yu et.al.|[2311.15317v1](http://arxiv.org/abs/2311.15317v1)|[link](https://github.com/gmcmt/graph_prompt_extension)|
-|**2023-11-26**|**Low-Complexity Joint Beamforming for RIS-Assisted MU-MISO Systems Based on Model-Driven Deep Learning**|Weijie Jin et.al.|[2311.15313v1](http://arxiv.org/abs/2311.15313v1)|null|
-|**2023-08-21**|**A Topology-aware Analysis of Graph Collaborative Filtering**|Daniele Malitesta et.al.|[2308.10778v2](http://arxiv.org/abs/2308.10778v2)|[link](https://github.com/sisinflab/graph-characteristics)|
-|**2023-11-26**|**Solve Large-scale Unit Commitment Problems by Physics-informed Graph Learning**|Jingtao Qin et.al.|[2311.15216v1](http://arxiv.org/abs/2311.15216v1)|null|
-|**2023-11-26**|**Efficient interpolation of molecular properties across chemical compound space with low-dimensional descriptors**|Yun-Wen Mao et.al.|[2311.15207v1](http://arxiv.org/abs/2311.15207v1)|null|
+|**2023-05-17**|**Edge Directionality Improves Learning on Heterophilic Graphs**|Emanuele Rossi et.al.|[2305.10498v3](http://arxiv.org/abs/2305.10498v3)|[link](https://github.com/emalgorithm/directed-graph-neural-network)|
+|**2023-11-28**|**Attentional Graph Neural Networks for Robust Massive Network Localization**|Wenzhong Yan et.al.|[2311.16856v1](http://arxiv.org/abs/2311.16856v1)|null|
+|**2023-10-17**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270v3](http://arxiv.org/abs/2310.11270v3)|[link](https://github.com/sisinflab/log-2023-gnns-recsys)|
+|**2023-07-13**|**Patent Documents to Engineering Design Knowledge Graphs**|L Siddharth et.al.|[2307.06985v4](http://arxiv.org/abs/2307.06985v4)|null|
+|**2023-11-21**|**A Survey of Graph Meets Large Language Model: Progress and Future Directions**|Yuhan Li et.al.|[2311.12399v2](http://arxiv.org/abs/2311.12399v2)|[link](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)|
+|**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568v5](http://arxiv.org/abs/2308.15568v5)|null|
+|**2023-07-24**|**Addressing the Impact of Localized Training Data in Graph Neural Networks**|Akansha A et.al.|[2307.12689v2](http://arxiv.org/abs/2307.12689v2)|[link](https://github.com/akanshaaga/reg_appnp)|
+|**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683v1](http://arxiv.org/abs/2311.16683v1)|null|
+|**2023-08-19**|**Geometric instability of graph neural networks on large graphs**|Emily Morris et.al.|[2308.10099v2](http://arxiv.org/abs/2308.10099v2)|[link](https://github.com/brs96/geometric-instability-gnn-large-graphs)|
+|**2023-11-28**|**PyTorch Geometric High Order: A Unified Library for High Order Graph Neural Network**|Xiyuan Wang et.al.|[2311.16670v1](http://arxiv.org/abs/2311.16670v1)|[link](https://github.com/graphpku/pygho)|
+|**2023-11-28**|**MultiModal-Learning for Predicting Molecular Properties: A Framework Based on Image and Graph Structures**|Zhuoyuan Wang et.al.|[2311.16666v1](http://arxiv.org/abs/2311.16666v1)|null|
+|**2023-11-28**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605v1](http://arxiv.org/abs/2311.16605v1)|null|
+|**2022-06-16**|**Long Range Graph Benchmark**|Vijay Prakash Dwivedi et.al.|[2206.08164v4](http://arxiv.org/abs/2206.08164v4)|[link](https://github.com/vijaydwivedi75/lrgb)|
+|**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522v1](http://arxiv.org/abs/2311.16522v1)|null|
+|**2023-11-27**|**A Graph Neural Network-Based QUBO-Formulated Hamiltonian-Inspired Loss Function for Combinatorial Optimization using Reinforcement Learning**|Redwan Ahmed Rizvee et.al.|[2311.16277v1](http://arxiv.org/abs/2311.16277v1)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-11-22**|**Importance of Feature Extraction in the Calculation of Fréchet Distance for Medical Imaging**|McKell Woodland et.al.|[2311.13717v1](http://arxiv.org/abs/2311.13717v1)|[link](https://github.com/mckellwoodland/fid-med-eval)|
-|**2023-11-22**|**The Challenges of Image Generation Models in Generating Multi-Component Images**|Tham Yik Foong et.al.|[2311.13620v1](http://arxiv.org/abs/2311.13620v1)|null|
-|**2023-11-19**|**FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model**|Yunxiang Li et.al.|[2311.12070v1](http://arxiv.org/abs/2311.12070v1)|null|
-|**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
-|**2023-11-17**|**Ultra-quantum coherent states in a single finite quantum system**|A. Vourdas et.al.|[2311.10429v1](http://arxiv.org/abs/2311.10429v1)|null|
-|**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
-|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v1](http://arxiv.org/abs/2311.09454v1)|null|
-|**2023-10-27**|**Dynamic Dynamic Time Warping**|Karl Bringmann et.al.|[2310.18128v3](http://arxiv.org/abs/2310.18128v3)|null|
-|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v2](http://arxiv.org/abs/2306.10065v2)|[link](https://github.com/viiika/diffusion-conductor)|
-|**2023-11-10**|**Spanners under the Hausdorff and Fréchet Distances**|Tsuri Farhana et.al.|[2311.06013v1](http://arxiv.org/abs/2311.06013v1)|null|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v5](http://arxiv.org/abs/2306.08013v5)|[link](https://github.com/LAIT-CVLab/TopPR)|
-|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v3](http://arxiv.org/abs/2301.10611v3)|null|
-|**2023-11-03**|**Sketching for Convex and Nonconvex Regularized Least Squares with Sharp Guarantees**|Yingzhen Yang et.al.|[2311.01806v1](http://arxiv.org/abs/2311.01806v1)|null|
-|**2023-11-02**|**Adapting Frechet Audio Distance for Generative Music Evaluation**|Azalea Gui et.al.|[2311.01616v1](http://arxiv.org/abs/2311.01616v1)|[link](https://github.com/microsoft/fadtk)|
-|**2021-12-26**|**Long Story Short: Omitted Variable Bias in Causal Machine Learning**|Victor Chernozhukov et.al.|[2112.13398v4](http://arxiv.org/abs/2112.13398v4)|[link](https://github.com/carloscinelli/dml.sensemakr)|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,11 +54,33 @@
 |**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
 |**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-11-27**|**Strict Frechet and generalized differentiability of the metric projection operator onto balls in Hilbert spaces**|Jinlu Li et.al.|[2311.16310v1](http://arxiv.org/abs/2311.16310v1)|null|
+|**2023-11-22**|**Importance of Feature Extraction in the Calculation of Fréchet Distance for Medical Imaging**|McKell Woodland et.al.|[2311.13717v1](http://arxiv.org/abs/2311.13717v1)|[link](https://github.com/mckellwoodland/fid-med-eval)|
+|**2023-11-22**|**The Challenges of Image Generation Models in Generating Multi-Component Images**|Tham Yik Foong et.al.|[2311.13620v1](http://arxiv.org/abs/2311.13620v1)|null|
+|**2023-11-19**|**FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model**|Yunxiang Li et.al.|[2311.12070v1](http://arxiv.org/abs/2311.12070v1)|null|
+|**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
+|**2023-11-17**|**Ultra-quantum coherent states in a single finite quantum system**|A. Vourdas et.al.|[2311.10429v1](http://arxiv.org/abs/2311.10429v1)|null|
+|**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
+|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v1](http://arxiv.org/abs/2311.09454v1)|null|
+|**2023-10-27**|**Dynamic Dynamic Time Warping**|Karl Bringmann et.al.|[2310.18128v3](http://arxiv.org/abs/2310.18128v3)|null|
+|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v2](http://arxiv.org/abs/2306.10065v2)|[link](https://github.com/viiika/diffusion-conductor)|
+|**2023-11-10**|**Spanners under the Hausdorff and Fréchet Distances**|Tsuri Farhana et.al.|[2311.06013v1](http://arxiv.org/abs/2311.06013v1)|null|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v5](http://arxiv.org/abs/2306.08013v5)|[link](https://github.com/LAIT-CVLab/TopPR)|
+|**2023-01-25**|**Discriminator-free Unsupervised Domain Adaptation for Multi-label Image Classification**|Indel Pal Singh et.al.|[2301.10611v3](http://arxiv.org/abs/2301.10611v3)|null|
+|**2023-11-03**|**Sketching for Convex and Nonconvex Regularized Least Squares with Sharp Guarantees**|Yingzhen Yang et.al.|[2311.01806v1](http://arxiv.org/abs/2311.01806v1)|null|
+|**2023-11-02**|**Adapting Frechet Audio Distance for Generative Music Evaluation**|Azalea Gui et.al.|[2311.01616v1](http://arxiv.org/abs/2311.01616v1)|[link](https://github.com/microsoft/fadtk)|
+
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-28**|**Temporal networks with node-specific memory: unbiased inference of transition probabilities, relaxation times and structural breaks**|Giulio Virginio Clemente et.al.|[2311.16981v1](http://arxiv.org/abs/2311.16981v1)|null|
+|**2023-09-21**|**Estimating Stable Fixed Points and Langevin Potentials for Financial Dynamics**|Tobias Wand et.al.|[2309.12082v2](http://arxiv.org/abs/2309.12082v2)|null|
+|**2023-11-27**|**O Corona, where art thou? eROSITA's view of UV-optical-IR variability-selected massive black holes in low-mass galaxies**|R. Arcodia et.al.|[2311.16220v1](http://arxiv.org/abs/2311.16220v1)|null|
 |**2023-11-27**|**Stab-GKnock: Controlled variable selection for partially linear models using generalized knockoffs**|Han Su et.al.|[2311.15982v1](http://arxiv.org/abs/2311.15982v1)|null|
 |**2023-11-27**|**A Quantitative Approach to Understand Self-Supervised Models as Cross-lingual Feature Extractors**|Shuyue Stella Li et.al.|[2311.15954v1](http://arxiv.org/abs/2311.15954v1)|[link](https://github.com/stellali7/ssl_psr)|
 |**2023-11-22**|**Improved identification accuracy in equation learning via comprehensive $\boldsymbol{R^2}$-elimination and Bayesian model selection**|Daniel Nickelsen et.al.|[2311.13265v2](http://arxiv.org/abs/2311.13265v2)|null|
@@ -90,6 +93,3 @@
 |**2023-11-24**|**A Review of Cross-Sectional Matrix Exponential Spatial Models**|Ye Yang et.al.|[2311.14813v1](http://arxiv.org/abs/2311.14813v1)|null|
 |**2021-11-24**|**Machine learning assisted Bayesian model comparison: learnt harmonic mean estimator**|Jason D. McEwen et.al.|[2111.12720v3](http://arxiv.org/abs/2111.12720v3)|[link](https://github.com/astro-informatics/harmonic)|
 |**2023-11-23**|**Extending Variability-Aware Model Selection with Bias Detection in Machine Learning Projects**|Cristina Tavares et.al.|[2311.14214v1](http://arxiv.org/abs/2311.14214v1)|null|
-|**2023-11-23**|**Empirical Comparison between Cross-Validation and Mutation-Validation in Model Selection**|Jinyang Yu et.al.|[2311.14079v1](http://arxiv.org/abs/2311.14079v1)|null|
-|**2023-11-23**|**Task-Distributionally Robust Data-Free Meta-Learning**|Zixuan Hu et.al.|[2311.14756v1](http://arxiv.org/abs/2311.14756v1)|null|
-|**2023-01-27**|**A Deep Learning Method for Comparing Bayesian Hierarchical Models**|Lasse Elsemüller et.al.|[2301.11873v4](http://arxiv.org/abs/2301.11873v4)|[link](https://github.com/bayesflow-org/hierarchical-model-comparison)|
