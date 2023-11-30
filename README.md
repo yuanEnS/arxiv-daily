@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-11-30 07:22:42 Asia/Shanghai
+ Automated deployment @ 2023-11-30 19:20:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-29**|**Reconstruction of electromagnetic showers in calorimeters using Deep Learning**|Polina Simkina et.al.|[2311.17914v1](http://arxiv.org/abs/2311.17914v1)|null|
+|**2023-09-13**|**Uncertainty-aware Traffic Prediction under Missing Data**|Hao Mei et.al.|[2309.06800v5](http://arxiv.org/abs/2309.06800v5)|[link](https://github.com/lijunxian111/UIGNN)|
+|**2023-11-29**|**FastSample: Accelerating Distributed Graph Neural Network Training for Billion-Scale Graphs**|Hesham Mostafa et.al.|[2311.17847v1](http://arxiv.org/abs/2311.17847v1)|null|
+|**2023-11-29**|**Propagate & Distill: Towards Effective Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.17781v1](http://arxiv.org/abs/2311.17781v1)|null|
+|**2022-11-10**|**A Comprehensive Survey on Distributed Training of Graph Neural Networks**|Haiyang Lin et.al.|[2211.05368v3](http://arxiv.org/abs/2211.05368v3)|null|
+|**2023-11-29**|**CrimeGNN: Harnessing the Power of Graph Neural Networks for Community Detection in Criminal Networks**|Chen Yang et.al.|[2311.17479v1](http://arxiv.org/abs/2311.17479v1)|null|
+|**2023-11-29**|**GNNFlow: A Distributed Framework for Continuous Temporal GNN Learning on Dynamic Graphs**|Yuchen Zhong et.al.|[2311.17410v1](http://arxiv.org/abs/2311.17410v1)|[link](https://github.com/jasperzhong/GNNFlow)|
+|**2023-11-29**|**The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation**|Yuchang Zhu et.al.|[2311.17373v1](http://arxiv.org/abs/2311.17373v1)|[link](https://github.com/zzoomd/fairgkd)|
+|**2023-11-29**|**How does spatial structure affect psychological restoration? A method based on Graph Neural Networks and Street View Imagery**|Haoran Ma et.al.|[2311.17361v1](http://arxiv.org/abs/2311.17361v1)|null|
+|**2021-10-26**|**NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks**|Wenxi Wang et.al.|[2110.14053v6](http://arxiv.org/abs/2110.14053v6)|null|
+|**2023-11-28**|**\texttt{GlycoNMR}: Dataset and benchmarks for NMR chemical shift prediction of carbohydrates with graph neural networks**|Zizhang Chen et.al.|[2311.17134v1](http://arxiv.org/abs/2311.17134v1)|null|
 |**2023-05-17**|**Edge Directionality Improves Learning on Heterophilic Graphs**|Emanuele Rossi et.al.|[2305.10498v3](http://arxiv.org/abs/2305.10498v3)|[link](https://github.com/emalgorithm/directed-graph-neural-network)|
 |**2023-11-28**|**Attentional Graph Neural Networks for Robust Massive Network Localization**|Wenzhong Yan et.al.|[2311.16856v1](http://arxiv.org/abs/2311.16856v1)|null|
 |**2023-10-17**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270v3](http://arxiv.org/abs/2310.11270v3)|[link](https://github.com/sisinflab/log-2023-gnns-recsys)|
 |**2023-07-13**|**Patent Documents to Engineering Design Knowledge Graphs**|L Siddharth et.al.|[2307.06985v4](http://arxiv.org/abs/2307.06985v4)|null|
-|**2023-11-21**|**A Survey of Graph Meets Large Language Model: Progress and Future Directions**|Yuhan Li et.al.|[2311.12399v2](http://arxiv.org/abs/2311.12399v2)|[link](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)|
-|**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568v5](http://arxiv.org/abs/2308.15568v5)|null|
-|**2023-07-24**|**Addressing the Impact of Localized Training Data in Graph Neural Networks**|Akansha A et.al.|[2307.12689v2](http://arxiv.org/abs/2307.12689v2)|[link](https://github.com/akanshaaga/reg_appnp)|
-|**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683v1](http://arxiv.org/abs/2311.16683v1)|null|
-|**2023-08-19**|**Geometric instability of graph neural networks on large graphs**|Emily Morris et.al.|[2308.10099v2](http://arxiv.org/abs/2308.10099v2)|[link](https://github.com/brs96/geometric-instability-gnn-large-graphs)|
-|**2023-11-28**|**PyTorch Geometric High Order: A Unified Library for High Order Graph Neural Network**|Xiyuan Wang et.al.|[2311.16670v1](http://arxiv.org/abs/2311.16670v1)|[link](https://github.com/graphpku/pygho)|
-|**2023-11-28**|**MultiModal-Learning for Predicting Molecular Properties: A Framework Based on Image and Graph Structures**|Zhuoyuan Wang et.al.|[2311.16666v1](http://arxiv.org/abs/2311.16666v1)|null|
-|**2023-11-28**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605v1](http://arxiv.org/abs/2311.16605v1)|null|
-|**2022-06-16**|**Long Range Graph Benchmark**|Vijay Prakash Dwivedi et.al.|[2206.08164v4](http://arxiv.org/abs/2206.08164v4)|[link](https://github.com/vijaydwivedi75/lrgb)|
-|**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522v1](http://arxiv.org/abs/2311.16522v1)|null|
-|**2023-11-27**|**A Graph Neural Network-Based QUBO-Formulated Hamiltonian-Inspired Loss Function for Combinatorial Optimization using Reinforcement Learning**|Redwan Ahmed Rizvee et.al.|[2311.16277v1](http://arxiv.org/abs/2311.16277v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,18 +78,18 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-11-29**|**WyCryst: Wyckoff Inorganic Crystal Generator Framework**|Ruiming Zhu et.al.|[2311.17916v1](http://arxiv.org/abs/2311.17916v1)|null|
 |**2023-11-28**|**Temporal networks with node-specific memory: unbiased inference of transition probabilities, relaxation times and structural breaks**|Giulio Virginio Clemente et.al.|[2311.16981v1](http://arxiv.org/abs/2311.16981v1)|null|
 |**2023-09-21**|**Estimating Stable Fixed Points and Langevin Potentials for Financial Dynamics**|Tobias Wand et.al.|[2309.12082v2](http://arxiv.org/abs/2309.12082v2)|null|
+|**2023-11-28**|**Automatic cross-validation in structured models: Is it time to leave out leave-one-out?**|A. Adin et.al.|[2311.17100v1](http://arxiv.org/abs/2311.17100v1)|null|
 |**2023-11-27**|**O Corona, where art thou? eROSITA's view of UV-optical-IR variability-selected massive black holes in low-mass galaxies**|R. Arcodia et.al.|[2311.16220v1](http://arxiv.org/abs/2311.16220v1)|null|
 |**2023-11-27**|**Stab-GKnock: Controlled variable selection for partially linear models using generalized knockoffs**|Han Su et.al.|[2311.15982v1](http://arxiv.org/abs/2311.15982v1)|null|
 |**2023-11-27**|**A Quantitative Approach to Understand Self-Supervised Models as Cross-lingual Feature Extractors**|Shuyue Stella Li et.al.|[2311.15954v1](http://arxiv.org/abs/2311.15954v1)|[link](https://github.com/stellali7/ssl_psr)|
 |**2023-11-22**|**Improved identification accuracy in equation learning via comprehensive $\boldsymbol{R^2}$-elimination and Bayesian model selection**|Daniel Nickelsen et.al.|[2311.13265v2](http://arxiv.org/abs/2311.13265v2)|null|
 |**2023-11-27**|**SimSIMS: Simulation-based Supernova Ia Model Selection with thousands of latent variables**|Konstantin Karchev et.al.|[2311.15650v1](http://arxiv.org/abs/2311.15650v1)|null|
 |**2022-03-06**|**Variable Selection with the Knockoffs: Composite Null Hypotheses**|Mehrdad Pournaderi et.al.|[2203.02849v4](http://arxiv.org/abs/2203.02849v4)|null|
-|**2023-11-22**|**Synergizing Roughness Penalization and Basis Selection in Bayesian Spline Regression**|Sunwoo Lim et.al.|[2311.13481v2](http://arxiv.org/abs/2311.13481v2)|null|
+|**2023-11-22**|**Synergizing Roughness Penalization and Basis Selection in Bayesian Spline Regression**|Sunwoo Lim et.al.|[2311.13481v2](http://arxiv.org/abs/2311.13481v2)|[link](https://github.com/damelim/bpbs)|
 |**2023-11-14**|**Deconstructing Alien Hunting**|David Kipping et.al.|[2311.08476v3](http://arxiv.org/abs/2311.08476v3)|null|
 |**2023-03-06**|**Environment Invariant Linear Least Squares**|Jianqing Fan et.al.|[2303.03092v2](http://arxiv.org/abs/2303.03092v2)|null|
 |**2023-11-24**|**An Empirical Investigation into Benchmarking Model Multiplicity for Trustworthy Machine Learning: A Case Study on Image Classification**|Prakhar Ganesh et.al.|[2311.14859v1](http://arxiv.org/abs/2311.14859v1)|null|
 |**2023-11-24**|**A Review of Cross-Sectional Matrix Exponential Spatial Models**|Ye Yang et.al.|[2311.14813v1](http://arxiv.org/abs/2311.14813v1)|null|
-|**2021-11-24**|**Machine learning assisted Bayesian model comparison: learnt harmonic mean estimator**|Jason D. McEwen et.al.|[2111.12720v3](http://arxiv.org/abs/2111.12720v3)|[link](https://github.com/astro-informatics/harmonic)|
-|**2023-11-23**|**Extending Variability-Aware Model Selection with Bias Detection in Machine Learning Projects**|Cristina Tavares et.al.|[2311.14214v1](http://arxiv.org/abs/2311.14214v1)|null|
