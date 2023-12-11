@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-11 07:21:45 Asia/Shanghai
+ Automated deployment @ 2023-12-11 19:21:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-19**|**Graph Neural Networks with polynomial activations have limited expressivity**|Sammy Khalife et.al.|[2310.13139v3](http://arxiv.org/abs/2310.13139v3)|null|
+|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031v1](http://arxiv.org/abs/2312.05031v1)|null|
+|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987v2](http://arxiv.org/abs/2305.15987v2)|null|
+|**2023-12-08**|**Not All Negatives AreWorth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction**|Yakun Wang et.al.|[2312.04815v1](http://arxiv.org/abs/2312.04815v1)|null|
+|**2023-12-07**|**Efficient Large Language Models Fine-Tuning On Graphs**|Rui Xue et.al.|[2312.04737v1](http://arxiv.org/abs/2312.04737v1)|null|
+|**2023-12-07**|**GraphMETRO: Mitigating Complex Distribution Shifts in GNNs via Mixture of Aligned Experts**|Shirley Wu et.al.|[2312.04693v1](http://arxiv.org/abs/2312.04693v1)|null|
+|**2023-12-07**|**Constraints on the trilinear and quartic Higgs couplings from triple Higgs production at the LHC and beyond**|Panagiotis Stylianou et.al.|[2312.04646v1](http://arxiv.org/abs/2312.04646v1)|null|
+|**2023-12-07**|**Relational Deep Learning: Graph Representation Learning on Relational Databases**|Matthias Fey et.al.|[2312.04615v1](http://arxiv.org/abs/2312.04615v1)|null|
 |**2023-12-07**|**Graph Metanetworks for Processing Diverse Neural Architectures**|Derek Lim et.al.|[2312.04501v1](http://arxiv.org/abs/2312.04501v1)|null|
 |**2023-12-07**|**GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction**|Zhongchang Luo et.al.|[2312.04479v1](http://arxiv.org/abs/2312.04479v1)|null|
 |**2023-12-07**|**Scalable Knowledge Graph Construction and Inference on Human Genome Variants**|Shivika Prasanna et.al.|[2312.04423v1](http://arxiv.org/abs/2312.04423v1)|null|
@@ -24,42 +32,14 @@
 |**2023-12-07**|**Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms**|Bowen Jing et.al.|[2312.04323v1](http://arxiv.org/abs/2312.04323v1)|[link](https://github.com/bjing2016/scalar-fields)|
 |**2023-12-07**|**A Structural-Clustering Based Active Learning for Graph Neural Networks**|Ricky Maulana Fajri et.al.|[2312.04307v1](http://arxiv.org/abs/2312.04307v1)|[link](https://github.com/rickymaulanafajri/spa)|
 |**2023-12-07**|**Simulating the Air Quality Impact of Prescribed Fires Using a Graph Neural Network-Based PM$_{2.5}$ Emissions Forecasting System**|Kyleen Liao et.al.|[2312.04291v1](http://arxiv.org/abs/2312.04291v1)|null|
-|**2023-12-07**|**An Improved Scheduling with Advantage Actor-Critic for Storm Workloads**|Gaoqiang Dong et.al.|[2312.04126v1](http://arxiv.org/abs/2312.04126v1)|null|
-|**2023-12-07**|**Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification**|Henan Sun et.al.|[2312.04111v1](http://arxiv.org/abs/2312.04111v1)|null|
-|**2023-12-07**|**Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks**|Zijie Huang et.al.|[2312.04071v1](http://arxiv.org/abs/2312.04071v1)|null|
-|**2023-12-06**|**Adaptive Dependency Learning Graph Neural Networks**|Abishek Sriramulu et.al.|[2312.03903v1](http://arxiv.org/abs/2312.03903v1)|[link](https://github.com/abisheksriramulu/adlgnn)|
-|**2023-12-06**|**Learning Genomic Sequence Representations using Graph Neural Networks over De Bruijn Graphs**|Kacper Kapuśniak et.al.|[2312.03865v1](http://arxiv.org/abs/2312.03865v1)|[link](https://github.com/ratschlab/genomic-gnn)|
-|**2023-12-06**|**Geometry Matching for Multi-Embodiment Grasping**|Maria Attarian et.al.|[2312.03864v1](http://arxiv.org/abs/2312.03864v1)|null|
-|**2023-12-06**|**High Pileup Particle Tracking with Object Condensation**|Kilian Lieret et.al.|[2312.03823v1](http://arxiv.org/abs/2312.03823v1)|null|
-|**2023-12-06**|**What Planning Problems Can A Relational Neural Network Solve?**|Jiayuan Mao et.al.|[2312.03682v1](http://arxiv.org/abs/2312.03682v1)|[link](https://github.com/concepts-ai/goal-regression-width)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-07**|**Enhancing the Rationale-Input Alignment for Self-explaining Rationalization**|Wei Liu et.al.|[2312.04103v1](http://arxiv.org/abs/2312.04103v1)|null|
-|**2023-12-04**|**How Many Validation Labels Do You Need? Exploring the Design Space of Label-Efficient Model Ranking**|Zhengyu Hu et.al.|[2312.01619v2](http://arxiv.org/abs/2312.01619v2)|[link](https://github.com/ppsmk388/morabench)|
-|**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538v1](http://arxiv.org/abs/2312.03538v1)|[link](https://github.com/adam-iqbal/selection-spike-slab)|
-|**2023-12-06**|**Approximating Solutions to the Knapsack Problem using the Lagrangian Dual Framework**|Mitchell Keegan et.al.|[2312.03413v1](http://arxiv.org/abs/2312.03413v1)|null|
-|**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813v1](http://arxiv.org/abs/2312.02813v1)|null|
-|**2023-12-05**|**Towards Measuring Representational Similarity of Large Language Models**|Max Klabunde et.al.|[2312.02730v1](http://arxiv.org/abs/2312.02730v1)|[link](https://github.com/mklabunde/llm_repsim)|
-|**2023-12-04**|**Approximation of Intractable Likelihood Functions in Systems Biology via Normalizing Flows**|Vincent D. Zaballa et.al.|[2312.02391v1](http://arxiv.org/abs/2312.02391v1)|null|
-|**2023-12-04**|**Risk-Controlling Model Selection via Guided Bayesian Optimization**|Bracha Laufer-Goldshtein et.al.|[2312.01692v1](http://arxiv.org/abs/2312.01692v1)|null|
-|**2023-12-04**|**RaftGP: Random Fast Graph Partitioning**|Yu Gao et.al.|[2312.01560v1](http://arxiv.org/abs/2312.01560v1)|null|
-|**2023-06-24**|**Post-Selection Inference for the Cox Model with Interval-Censored Data**|Jianrui Zhang et.al.|[2306.13870v2](http://arxiv.org/abs/2306.13870v2)|null|
-|**2023-10-22**|**An RKHS Approach for Variable Selection in High-dimensional Functional Linear Models**|Xingche Guo et.al.|[2310.14419v2](http://arxiv.org/abs/2310.14419v2)|null|
-|**2023-12-02**|**A deep learning pipeline for cross-sectional and longitudinal multiview data integration**|Sarthak Jain et.al.|[2312.01238v1](http://arxiv.org/abs/2312.01238v1)|[link](https://github.com/lasandrall/deepida-gru)|
-|**2023-03-03**|**Bayesian CART models for insurance claims frequency**|Yaojun Zhang et.al.|[2303.01923v3](http://arxiv.org/abs/2303.01923v3)|null|
-|**2023-12-01**|**New tools for network time series with an application to COVID-19 hospitalisations**|Guy Nason et.al.|[2312.00530v1](http://arxiv.org/abs/2312.00530v1)|null|
-|**2023-11-10**|**Time-Varying Identification of Monetary Policy Shocks**|Annika Camehl et.al.|[2311.05883v2](http://arxiv.org/abs/2311.05883v2)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v1](http://arxiv.org/abs/2312.03701v1)|[link](https://github.com/LTH14/rcg)|
+|**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v2](http://arxiv.org/abs/2312.03701v2)|[link](https://github.com/LTH14/rcg)|
+|**2023-12-07**|**Estimating Fréchet bounds for validating programmatic weak supervision**|Felipe Maia Polo et.al.|[2312.04601v1](http://arxiv.org/abs/2312.04601v1)|null|
 |**2023-12-01**|**Consistent Mesh Diffusion**|Julian Knodt et.al.|[2312.00971v1](http://arxiv.org/abs/2312.00971v1)|null|
 |**2023-12-01**|**SynFundus: Generating a synthetic fundus images dataset with millions of samples and multi-disease annotations**|Fangxin Shang et.al.|[2312.00377v1](http://arxiv.org/abs/2312.00377v1)|null|
 |**2023-11-27**|**Strict Frechet and generalized differentiability of the metric projection operator onto balls in Hilbert spaces**|Jinlu Li et.al.|[2311.16310v1](http://arxiv.org/abs/2311.16310v1)|null|
@@ -73,7 +53,6 @@
 |**2023-10-27**|**Dynamic Dynamic Time Warping**|Karl Bringmann et.al.|[2310.18128v3](http://arxiv.org/abs/2310.18128v3)|null|
 |**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v2](http://arxiv.org/abs/2306.10065v2)|[link](https://github.com/viiika/diffusion-conductor)|
 |**2023-11-10**|**Spanners under the Hausdorff and Fréchet Distances**|Tsuri Farhana et.al.|[2311.06013v1](http://arxiv.org/abs/2311.06013v1)|null|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v5](http://arxiv.org/abs/2306.08013v5)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -93,3 +72,24 @@
 |**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
 |**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
 |**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-12-08**|**Model selection focusing on longtime behavior of differential equations**|Cordula Reisch et.al.|[2312.05128v1](http://arxiv.org/abs/2312.05128v1)|null|
+|**2023-04-16**|**Fairness And Bias in Artificial Intelligence: A Brief Survey of Sources, Impacts, And Mitigation Strategies**|Emilio Ferrara et.al.|[2304.07683v2](http://arxiv.org/abs/2304.07683v2)|null|
+|**2023-12-07**|**Enhancing the Rationale-Input Alignment for Self-explaining Rationalization**|Wei Liu et.al.|[2312.04103v1](http://arxiv.org/abs/2312.04103v1)|null|
+|**2023-12-04**|**How Many Validation Labels Do You Need? Exploring the Design Space of Label-Efficient Model Ranking**|Zhengyu Hu et.al.|[2312.01619v2](http://arxiv.org/abs/2312.01619v2)|[link](https://github.com/ppsmk388/morabench)|
+|**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538v1](http://arxiv.org/abs/2312.03538v1)|[link](https://github.com/adam-iqbal/selection-spike-slab)|
+|**2023-12-06**|**Approximating Solutions to the Knapsack Problem using the Lagrangian Dual Framework**|Mitchell Keegan et.al.|[2312.03413v1](http://arxiv.org/abs/2312.03413v1)|null|
+|**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813v1](http://arxiv.org/abs/2312.02813v1)|null|
+|**2023-12-05**|**Towards Measuring Representational Similarity of Large Language Models**|Max Klabunde et.al.|[2312.02730v1](http://arxiv.org/abs/2312.02730v1)|[link](https://github.com/mklabunde/llm_repsim)|
+|**2023-12-04**|**Approximation of Intractable Likelihood Functions in Systems Biology via Normalizing Flows**|Vincent D. Zaballa et.al.|[2312.02391v1](http://arxiv.org/abs/2312.02391v1)|null|
+|**2023-12-04**|**Risk-Controlling Model Selection via Guided Bayesian Optimization**|Bracha Laufer-Goldshtein et.al.|[2312.01692v1](http://arxiv.org/abs/2312.01692v1)|null|
+|**2023-12-04**|**RaftGP: Random Fast Graph Partitioning**|Yu Gao et.al.|[2312.01560v1](http://arxiv.org/abs/2312.01560v1)|null|
+|**2023-06-24**|**Post-Selection Inference for the Cox Model with Interval-Censored Data**|Jianrui Zhang et.al.|[2306.13870v2](http://arxiv.org/abs/2306.13870v2)|null|
+|**2023-10-22**|**An RKHS Approach for Variable Selection in High-dimensional Functional Linear Models**|Xingche Guo et.al.|[2310.14419v2](http://arxiv.org/abs/2310.14419v2)|null|
+|**2023-12-02**|**A deep learning pipeline for cross-sectional and longitudinal multiview data integration**|Sarthak Jain et.al.|[2312.01238v1](http://arxiv.org/abs/2312.01238v1)|[link](https://github.com/lasandrall/deepida-gru)|
+|**2023-03-03**|**Bayesian CART models for insurance claims frequency**|Yaojun Zhang et.al.|[2303.01923v3](http://arxiv.org/abs/2303.01923v3)|null|
