@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-20 07:18:26 Asia/Shanghai
+ Automated deployment @ 2023-12-20 19:18:02 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,30 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-12-17**|**Non-Euclidean Spatial Graph Neural Network**|Zheng Zhang et.al.|[2312.10808v1](http://arxiv.org/abs/2312.10808v1)|[link](https://github.com/anonymous-submitter-1234/manifold_spatial_networks)|
-|**2023-07-04**|**All in One: Multi-task Prompting for Graph Neural Networks**|Xiangguo Sun et.al.|[2307.01504v2](http://arxiv.org/abs/2307.01504v2)|[link](https://github.com/sheldonresearch/ProG)|
-|**2023-10-23**|**ULTRA-DP: Unifying Graph Pre-training with Multi-task Graph Dual Prompt**|Mouxiang Chen et.al.|[2310.14845v2](http://arxiv.org/abs/2310.14845v2)|[link](https://github.com/keytoyze/ultra-dp)|
-|**2023-12-17**|**p-Laplacian Adaptation for Generative Pre-trained Vision-Language Models**|Haoyuan Wu et.al.|[2312.10613v1](http://arxiv.org/abs/2312.10613v1)|[link](https://github.com/wuhy68/p-adapter)|
-|**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978v3](http://arxiv.org/abs/2308.11978v3)|null|
-|**2023-12-16**|**Enabling Accelerators for Graph Computing**|Kaustubh Shivdikar et.al.|[2312.10561v1](http://arxiv.org/abs/2312.10561v1)|null|
-|**2023-05-25**|**Union Subgraph Neural Networks**|Jiaxing Xu et.al.|[2305.15747v2](http://arxiv.org/abs/2305.15747v2)|[link](https://github.com/angusmonroe/unionsnn)|
-|**2023-12-16**|**Degree-based stratification of nodes in Graph Neural Networks**|Ameen Ali et.al.|[2312.10458v1](http://arxiv.org/abs/2312.10458v1)|null|
-|**2023-12-16**|**scBiGNN: Bilevel Graph Representation Learning for Cell Type Classification from Single-cell RNA Sequencing Data**|Rui Yang et.al.|[2312.10310v1](http://arxiv.org/abs/2312.10310v1)|null|
-|**2023-05-17**|**Optimality of Message-Passing Architectures for Sparse Graphs**|Aseem Baranwal et.al.|[2305.10391v2](http://arxiv.org/abs/2305.10391v2)|null|
-|**2023-12-16**|**Inductive Link Prediction in Knowledge Graphs using Path-based Neural Networks**|Canlin Zhang et.al.|[2312.10293v1](http://arxiv.org/abs/2312.10293v1)|null|
-|**2020-09-01**|**Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function**|Binghui Wang et.al.|[2009.00203v3](http://arxiv.org/abs/2009.00203v3)|[link](https://github.com/ventr1c/infattack)|
-|**2023-12-16**|**A charge-preserving method for solving graph neural diffusion networks**|Lidia Aceto et.al.|[2312.10279v1](http://arxiv.org/abs/2312.10279v1)|null|
-|**2023-12-15**|**Concept Prerequisite Relation Prediction by Using Permutation-Equivariant Directed Graph Neural Networks**|Xiran Qu et.al.|[2312.09802v1](http://arxiv.org/abs/2312.09802v1)|null|
-|**2023-10-24**|**Representation Learning with Large Language Models for Recommendation**|Xubin Ren et.al.|[2310.15950v2](http://arxiv.org/abs/2310.15950v2)|[link](https://github.com/hkuds/rlmrec)|
+|**2023-12-19**|**Chasing Fairness in Graphs: A GNN Architecture Perspective**|Zhimeng Jiang et.al.|[2312.12369v1](http://arxiv.org/abs/2312.12369v1)|[link](https://github.com/zhimengj0326/fmp)|
+|**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v1](http://arxiv.org/abs/2312.12183v1)|null|
+|**2023-10-19**|**GraphGPT: Graph Instruction Tuning for Large Language Models**|Jiabin Tang et.al.|[2310.13023v2](http://arxiv.org/abs/2310.13023v2)|[link](https://github.com/HKUDS/GraphGPT)|
+|**2023-03-29**|**Futures Quantitative Investment with Heterogeneous Continual Graph Neural Network**|Min Hu et.al.|[2303.16532v2](http://arxiv.org/abs/2303.16532v2)|null|
+|**2023-12-18**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**|Yanran Tang et.al.|[2312.11229v2](http://arxiv.org/abs/2312.11229v2)|null|
+|**2023-12-19**|**Hierarchical and Incremental Structural Entropy Minimization for Unsupervised Social Event Detection**|Yuwei Cao et.al.|[2312.11891v1](http://arxiv.org/abs/2312.11891v1)|[link](https://github.com/selgroup/hisevent)|
+|**2023-12-19**|**SimCalib: Graph Neural Network Calibration based on Similarity between Nodes**|Boshi Tang et.al.|[2312.11858v1](http://arxiv.org/abs/2312.11858v1)|null|
+|**2023-02-19**|**Pseudo Contrastive Learning for Graph-based Semi-supervised Learning**|Weigang Lu et.al.|[2302.09532v3](http://arxiv.org/abs/2302.09532v3)|null|
+|**2023-12-18**|**Stronger Graph Transformer with Regularized Attention Scores**|Eugene Ku et.al.|[2312.11730v1](http://arxiv.org/abs/2312.11730v1)|null|
+|**2023-12-14**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training**|Hongwu Peng et.al.|[2312.08656v2](http://arxiv.org/abs/2312.08656v2)|[link](https://github.com/harveyp123/maxk-gnn)|
+|**2023-12-18**|**Reinforcement Learning Based Quantum Circuit Optimization via ZX-Calculus**|Jordi Riu et.al.|[2312.11597v1](http://arxiv.org/abs/2312.11597v1)|null|
+|**2023-12-18**|**Signed Graph Neural Ordinary Differential Equation for Modeling Continuous-time Dynamics**|Lanlan Chen et.al.|[2312.11198v1](http://arxiv.org/abs/2312.11198v1)|null|
+|**2023-12-18**|**Learning Domain-Independent Heuristics for Grounded and Lifted Planning**|Dillon Z. Chen et.al.|[2312.11143v1](http://arxiv.org/abs/2312.11143v1)|null|
+|**2023-10-23**|**HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**|Yihong Ma et.al.|[2310.15318v2](http://arxiv.org/abs/2310.15318v2)|null|
+|**2023-12-18**|**Graph Invariant Learning with Subgraph Co-mixup for Out-Of-Distribution Generalization**|Tianrui Jia et.al.|[2312.10988v1](http://arxiv.org/abs/2312.10988v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-19**|**How to develop, externally validate, and update multinomial prediction models**|Celina K Gehringer et.al.|[2312.12008v1](http://arxiv.org/abs/2312.12008v1)|null|
+|**2023-05-10**|**Flexible cost-penalized Bayesian model selection: developing inclusion paths with an application to diagnosis of heart disease**|Erica M. Porter et.al.|[2305.06262v2](http://arxiv.org/abs/2305.06262v2)|null|
+|**2023-10-09**|**FlexKnot and Gaussian Process for 21 cm global signal analysis and foreground separation**|Stefan Heimersheim et.al.|[2310.05608v2](http://arxiv.org/abs/2310.05608v2)|null|
 |**2023-12-17**|**Sparse Learning and Class Probability Estimation with Weighted Support Vector Machines**|Liyun Zeng et.al.|[2312.10618v1](http://arxiv.org/abs/2312.10618v1)|null|
 |**2023-12-17**|**Bayesian Model Selection via Mean-Field Variational Approximation**|Yangfan Zhang et.al.|[2312.10607v1](http://arxiv.org/abs/2312.10607v1)|null|
 |**2023-12-17**|**Random Forest Variable Importance-based Selection Algorithm in Class Imbalance Problem**|Yunbi Nam et.al.|[2312.10573v1](http://arxiv.org/abs/2312.10573v1)|null|
@@ -46,13 +49,10 @@
 |**2023-01-05**|**Bayesian model selection for GRB 211211A through multi-wavelength analyses**|Nina Kunert et.al.|[2301.02049v2](http://arxiv.org/abs/2301.02049v2)|null|
 |**2023-12-07**|**Enhancing the Rationale-Input Alignment for Self-explaining Rationalization**|Wei Liu et.al.|[2312.04103v2](http://arxiv.org/abs/2312.04103v2)|null|
 |**2022-10-17**|**Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures**|Shounak Chattopadhyay et.al.|[2210.09279v2](http://arxiv.org/abs/2210.09279v2)|[link](https://github.com/shounakchattopadhyay/said)|
+|**2021-06-07**|**AI without networks**|Partha P Mitra et.al.|[2106.03354v2](http://arxiv.org/abs/2106.03354v2)|null|
 |**2023-12-14**|**Efficient speech detection in environmental audio using acoustic recognition and knowledge distillation**|Drew Priebe et.al.|[2312.09269v1](http://arxiv.org/abs/2312.09269v1)|null|
 |**2023-12-14**|**Bayesian Fused Lasso Modeling for Binary Data**|Yuko Kakikawa et.al.|[2312.08838v1](http://arxiv.org/abs/2312.08838v1)|null|
 |**2023-03-30**|**Change Point Detection on A Separable Model for Dynamic Networks**|Yik Lun Kei et.al.|[2303.17642v2](http://arxiv.org/abs/2303.17642v2)|[link](https://github.com/allenkei/cpdstergm)|
-|**2023-09-03**|**Saturn: An Optimized Data System for Large Model Deep Learning Workloads**|Kabir Nagrecha et.al.|[2309.01226v2](http://arxiv.org/abs/2309.01226v2)|[link](https://github.com/knagrecha/saturn)|
-|**2023-12-06**|**Bayesian variable selection in sample selection models using spike-and-slab priors**|Adam Iqbal et.al.|[2312.03538v2](http://arxiv.org/abs/2312.03538v2)|[link](https://github.com/adam-iqbal/selection-spike-slab)|
-|**2022-01-13**|**Space-time extremes of severe US thunderstorm environments**|Jonathan Koh et.al.|[2201.05102v2](http://arxiv.org/abs/2201.05102v2)|null|
-|**2023-03-05**|**Ensemble Reinforcement Learning: A Survey**|Yanjie Song et.al.|[2303.02618v3](http://arxiv.org/abs/2303.02618v3)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-19**|**Deviation of top eigenvalue for some tridiagonal matrices under various moment assumptions**|Yi Han et.al.|[2312.12146v1](http://arxiv.org/abs/2312.12146v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-12-13**|**Typicality of operators on Fréchet algebras admitting a hypercyclic algebra**|William Alexandre et.al.|[2312.08321v1](http://arxiv.org/abs/2312.08321v1)|null|
 |**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v2](http://arxiv.org/abs/2312.03701v2)|[link](https://github.com/LTH14/rcg)|
@@ -92,4 +93,3 @@
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 |**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v1](http://arxiv.org/abs/2311.09454v1)|null|
 |**2023-10-27**|**Dynamic Dynamic Time Warping**|Karl Bringmann et.al.|[2310.18128v3](http://arxiv.org/abs/2310.18128v3)|null|
-|**2023-06-15**|**Taming Diffusion Models for Music-driven Conducting Motion Generation**|Zhuoran Zhao et.al.|[2306.10065v2](http://arxiv.org/abs/2306.10065v2)|[link](https://github.com/viiika/diffusion-conductor)|
