@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-22 07:23:25 Asia/Shanghai
+ Automated deployment @ 2023-12-22 19:19:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,28 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2023-12-20**|**Molecular Hypergraph Neural Networks**|Junwu Chen et.al.|[2312.13136v1](http://arxiv.org/abs/2312.13136v1)|null|
+|**2023-10-01**|**Are Graph Neural Networks Optimal Approximation Algorithms?**|Morris Yau et.al.|[2310.00526v4](http://arxiv.org/abs/2310.00526v4)|null|
+|**2023-07-25**|**Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers**|Hadi Abdine et.al.|[2307.14367v2](http://arxiv.org/abs/2307.14367v2)|[link](https://github.com/hadi-abdine/Prot2Text)|
+|**2023-12-20**|**Molecular Hypergraph Neural Networks**|Junwu Chen et.al.|[2312.13136v2](http://arxiv.org/abs/2312.13136v2)|null|
+|**2023-12-21**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns**|Yifei Sun et.al.|[2312.13583v1](http://arxiv.org/abs/2312.13583v1)|[link](https://github.com/zjunet/G-Tuning)|
+|**2023-05-24**|**Reversible and irreversible bracket-based dynamics for deep graph neural networks**|Anthony Gruber et.al.|[2305.15616v3](http://arxiv.org/abs/2305.15616v3)|null|
+|**2023-12-20**|**Data-driven Design of High Pressure Hydride Superconductors using DFT and Deep Learning**|Daniel Wines et.al.|[2312.12694v2](http://arxiv.org/abs/2312.12694v2)|null|
+|**2023-12-20**|**NodeMixup: Tackling Under-Reaching for Graph Neural Networks**|Weigang Lu et.al.|[2312.13032v2](http://arxiv.org/abs/2312.13032v2)|null|
+|**2023-12-21**|**Domain Adaptive Graph Classification**|Siyang Luo et.al.|[2312.13536v1](http://arxiv.org/abs/2312.13536v1)|null|
+|**2023-10-30**|**Coarse-grained crystal graph neural networks for reticular materials design**|Vadim Korolev et.al.|[2310.19500v2](http://arxiv.org/abs/2310.19500v2)|null|
 |**2023-12-20**|**Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement Approach**|Sushil Sharma et.al.|[2312.13104v1](http://arxiv.org/abs/2312.13104v1)|null|
 |**2023-10-03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152v2](http://arxiv.org/abs/2310.02152v2)|null|
-|**2023-12-20**|**NodeMixup: Tackling Under-Reaching for Graph Neural Networks**|Weigang Lu et.al.|[2312.13032v1](http://arxiv.org/abs/2312.13032v1)|null|
 |**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183v2](http://arxiv.org/abs/2312.12183v2)|null|
 |**2023-12-10**|**No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation**|Nimesh Agrawal et.al.|[2312.10080v2](http://arxiv.org/abs/2312.10080v2)|null|
 |**2023-12-18**|**Learning Domain-Independent Heuristics for Grounded and Lifted Planning**|Dillon Z. Chen et.al.|[2312.11143v2](http://arxiv.org/abs/2312.11143v2)|null|
 |**2023-07-29**|**Feature Transportation Improves Graph Neural Networks**|Moshe Eliasof et.al.|[2307.16092v2](http://arxiv.org/abs/2307.16092v2)|null|
-|**2023-06-09**|**A Graph Dynamics Prior for Relational Inference**|Liming Pan et.al.|[2306.06041v2](http://arxiv.org/abs/2306.06041v2)|[link](https://github.com/dadacheng/gdp)|
-|**2023-12-20**|**Fast Cell Library Characterization for Design Technology Co-Optimization Based on Graph Neural Networks**|Tianliang Ma et.al.|[2312.12784v1](http://arxiv.org/abs/2312.12784v1)|null|
-|**2023-08-16**|**DeSCo: Towards Generalizable and Scalable Deep Subgraph Counting**|Tianyu Fu et.al.|[2308.08198v2](http://arxiv.org/abs/2308.08198v2)|[link](https://github.com/fuvty/DeSCo)|
-|**2023-12-20**|**Cross-Modal Reasoning with Event Correlation for Video Question Answering**|Chengxiang Yin et.al.|[2312.12721v1](http://arxiv.org/abs/2312.12721v1)|null|
-|**2023-12-20**|**DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization**|Aritra Bhowmick et.al.|[2312.12697v1](http://arxiv.org/abs/2312.12697v1)|null|
-|**2023-12-20**|**Data-driven Design of High Pressure Hydride Superconductors using DFT and Deep Learning**|Daniel Wines et.al.|[2312.12694v1](http://arxiv.org/abs/2312.12694v1)|null|
-|**2022-12-08**|**Latent Graph Representations for Critical View of Safety Assessment**|Aditya Murali et.al.|[2212.04155v4](http://arxiv.org/abs/2212.04155v4)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-16**|**Fair GANs through model rebalancing for extremely imbalanced class distributions**|Anubhav Jain et.al.|[2308.08638v2](http://arxiv.org/abs/2308.08638v2)|null|
 |**2023-12-19**|**Deviation of top eigenvalue for some tridiagonal matrices under various moment assumptions**|Yi Han et.al.|[2312.12146v1](http://arxiv.org/abs/2312.12146v1)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-12-13**|**Typicality of operators on Fréchet algebras admitting a hypercyclic algebra**|William Alexandre et.al.|[2312.08321v1](http://arxiv.org/abs/2312.08321v1)|null|
@@ -52,7 +53,6 @@
 |**2023-11-17**|**Ultra-quantum coherent states in a single finite quantum system**|A. Vourdas et.al.|[2311.10429v1](http://arxiv.org/abs/2311.10429v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
 |**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v1](http://arxiv.org/abs/2311.09454v1)|null|
-|**2023-10-27**|**Dynamic Dynamic Time Warping**|Karl Bringmann et.al.|[2310.18128v3](http://arxiv.org/abs/2310.18128v3)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +78,9 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-21**|**A Bayesian approach to functional regression: theory and computation**|José R. Berrendero et.al.|[2312.14086v1](http://arxiv.org/abs/2312.14086v1)|[link](https://github.com/antcc/rk-bfr)|
+|**2023-01-19**|**Parameter estimation and model selection for stochastic differential equations for biological growth**|F. Baltazar-Larios et.al.|[2301.08294v2](http://arxiv.org/abs/2301.08294v2)|null|
+|**2023-12-20**|**A General Model for Aggregating Annotations Across Simple, Complex, and Multi-Object Annotation Tasks**|Alexander Braylan et.al.|[2312.13437v1](http://arxiv.org/abs/2312.13437v1)|null|
 |**2023-09-17**|**ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing**|Ian Arawjo et.al.|[2309.09128v2](http://arxiv.org/abs/2309.09128v2)|[link](https://github.com/ianarawjo/ChainForge)|
 |**2023-12-20**|**AutoXPCR: Automated Multi-Objective Model Selection for Time Series Forecasting**|Raphael Fischer et.al.|[2312.13038v1](http://arxiv.org/abs/2312.13038v1)|null|
 |**2023-12-19**|**How to develop, externally validate, and update multinomial prediction models**|Celina K Gehringer et.al.|[2312.12008v2](http://arxiv.org/abs/2312.12008v2)|null|
@@ -90,6 +93,3 @@
 |**2023-12-16**|**Random Models for Fuzzy Clustering Similarity Measures**|Ryan DeWolfe et.al.|[2312.10270v1](http://arxiv.org/abs/2312.10270v1)|null|
 |**2023-01-05**|**Bayesian model selection for GRB 211211A through multi-wavelength analyses**|Nina Kunert et.al.|[2301.02049v2](http://arxiv.org/abs/2301.02049v2)|null|
 |**2023-12-07**|**Enhancing the Rationale-Input Alignment for Self-explaining Rationalization**|Wei Liu et.al.|[2312.04103v2](http://arxiv.org/abs/2312.04103v2)|null|
-|**2022-10-17**|**Inferring Synergistic and Antagonistic Interactions in Mixtures of Exposures**|Shounak Chattopadhyay et.al.|[2210.09279v2](http://arxiv.org/abs/2210.09279v2)|[link](https://github.com/shounakchattopadhyay/said)|
-|**2021-06-07**|**AI without networks**|Partha P Mitra et.al.|[2106.03354v2](http://arxiv.org/abs/2106.03354v2)|null|
-|**2023-12-14**|**Efficient speech detection in environmental audio using acoustic recognition and knowledge distillation**|Drew Priebe et.al.|[2312.09269v1](http://arxiv.org/abs/2312.09269v1)|null|
