@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2023-12-29 07:22:54 Asia/Shanghai
+ Automated deployment @ 2023-12-29 19:20:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-26**|**Do Graph Neural Networks Dream of Landau Damping? Insights from Kinetic Simulations of a Plasma Sheet Model**|Diogo D Carvalho et.al.|[2310.17646v2](http://arxiv.org/abs/2310.17646v2)|null|
+|**2023-12-04**|**Digital Histopathology with Graph Neural Networks: Concepts and Explanations for Clinicians**|Alessandro Farace di Villaforesta et.al.|[2312.02225v2](http://arxiv.org/abs/2312.02225v2)|null|
+|**2023-12-28**|**Molecular Property Prediction Based on Graph Structure Learning**|Bangyi Zhao et.al.|[2312.16855v1](http://arxiv.org/abs/2312.16855v1)|null|
+|**2023-12-28**|**Learning Scalable Structural Representations for Link Prediction with Bloom Signatures**|Tianyi Zhang et.al.|[2312.16784v1](http://arxiv.org/abs/2312.16784v1)|null|
+|**2023-12-28**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755v1](http://arxiv.org/abs/2312.16755v1)|null|
+|**2023-12-27**|**Performance Comparison of Session-based Recommendation Algorithms based on GNNs**|Faisal Shehzad et.al.|[2312.16695v1](http://arxiv.org/abs/2312.16695v1)|null|
+|**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542v1](http://arxiv.org/abs/2312.16542v1)|null|
+|**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473v1](http://arxiv.org/abs/2312.16473v1)|null|
+|**2023-12-27**|**Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting**|Minbo Ma et.al.|[2312.16403v1](http://arxiv.org/abs/2312.16403v1)|null|
 |**2023-05-10**|**Active Semantic Localization with Graph Neural Embedding**|Mitsuki Yoshida et.al.|[2305.06141v5](http://arxiv.org/abs/2305.06141v5)|null|
 |**2023-12-26**|**BalMCTS: Balancing Objective Function and Search Nodes in MCTS for Constraint Optimization Problems**|Yingkai Xiao et.al.|[2312.15864v1](http://arxiv.org/abs/2312.15864v1)|null|
 |**2023-12-25**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825v1](http://arxiv.org/abs/2312.15825v1)|null|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v2](http://arxiv.org/abs/2312.08372v2)|null|
 |**2023-12-22**|**Large Scale Training of Graph Neural Networks for Optimal Markov-Chain Partitioning Using the Kemeny Constant**|Sam Alexander Martino et.al.|[2312.14847v2](http://arxiv.org/abs/2312.14847v2)|null|
 |**2023-11-18**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167v2](http://arxiv.org/abs/2311.11167v2)|null|
-|**2023-12-24**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training**|Charles Dickens et.al.|[2312.15520v1](http://arxiv.org/abs/2312.15520v1)|[link](https://github.com/amazon-science/convolution-matching)|
-|**2023-12-04**|**GNN2R: Weakly-Supervised Rationale-Providing Question Answering over Knowledge Graphs**|Ruijie Wang et.al.|[2312.02317v2](http://arxiv.org/abs/2312.02317v2)|[link](https://github.com/ruijie-wang-uzh/gnn2r)|
-|**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813v3](http://arxiv.org/abs/2307.02813v3)|null|
-|**2023-12-24**|**Combinatorial music generation model with song structure graph analysis**|Seonghyeon Go et.al.|[2312.15400v1](http://arxiv.org/abs/2312.15400v1)|[link](https://github.com/slslslrhfem/song_structure_graph)|
-|**2023-07-24**|**Learning Resource Allocation Policy: Vertex-GNN or Edge-GNN?**|Yao Peng et.al.|[2307.12480v2](http://arxiv.org/abs/2307.12480v2)|null|
-|**2023-12-23**|**Towards Fine-Grained Explainability for Heterogeneous Graph Neural Network**|Tong Li et.al.|[2312.15237v1](http://arxiv.org/abs/2312.15237v1)|[link](https://github.com/litong99/xpath)|
-|**2023-06-17**|**OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**|Zhiyao Zhou et.al.|[2306.10280v4](http://arxiv.org/abs/2306.10280v4)|[link](https://github.com/opengsl/opengsl)|
-|**2023-12-22**|**Learning Lagrangian Multipliers for the Travelling Salesman Problem**|Augustin Parjadis et.al.|[2312.14836v1](http://arxiv.org/abs/2312.14836v1)|null|
-|**2023-12-22**|**Joint Learning Neuronal Skeleton and Brain Circuit Topology with Permutation Invariant Encoders for Neuron Classification**|Minghui Liao et.al.|[2312.14518v1](http://arxiv.org/abs/2312.14518v1)|[link](https://github.com/whuminghui/neunet)|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,8 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2020-07-10**|**The maximal degree in random recursive graphs with random weights**|Bas Lodewijks et.al.|[2007.05438v4](http://arxiv.org/abs/2007.05438v4)|null|
+|**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251v1](http://arxiv.org/abs/2312.16251v1)|null|
 |**2020-11-05**|**Noncommutative $C^k$ functions and Fréchet derivatives of operator functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v3](http://arxiv.org/abs/2011.03126v3)|null|
 |**2023-12-22**|**Local boundary representations for local operator systems**|Maria Joiţa et.al.|[2312.14477v1](http://arxiv.org/abs/2312.14477v1)|null|
 |**2023-12-22**|**Strict Frechet Differentiability of the Metric Projection Operator in Hilbert Spaces**|Jinlu Li et.al.|[2312.14362v1](http://arxiv.org/abs/2312.14362v1)|null|
@@ -70,14 +72,17 @@
 |**2023-12-01**|**Consistent Mesh Diffusion**|Julian Knodt et.al.|[2312.00971v1](http://arxiv.org/abs/2312.00971v1)|null|
 |**2023-11-27**|**Strict Frechet and generalized differentiability of the metric projection operator onto balls in Hilbert spaces**|Jinlu Li et.al.|[2311.16310v1](http://arxiv.org/abs/2311.16310v1)|null|
 |**2023-11-22**|**Importance of Feature Extraction in the Calculation of Fréchet Distance for Medical Imaging**|McKell Woodland et.al.|[2311.13717v1](http://arxiv.org/abs/2311.13717v1)|[link](https://github.com/mckellwoodland/fid-med-eval)|
-|**2023-11-22**|**The Challenges of Image Generation Models in Generating Multi-Component Images**|Tham Yik Foong et.al.|[2311.13620v1](http://arxiv.org/abs/2311.13620v1)|null|
-|**2023-11-19**|**FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model**|Yunxiang Li et.al.|[2311.12070v1](http://arxiv.org/abs/2311.12070v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-28**|**Inconsistency of cross-validation for structure learning in Gaussian graphical models**|Zhao Lyu et.al.|[2312.17047v1](http://arxiv.org/abs/2312.17047v1)|null|
+|**2023-12-28**|**Subsampling MCMC for Bayesian Variable Selection and Model Averaging in BGNLM**|Jon Lachmann et.al.|[2312.16997v1](http://arxiv.org/abs/2312.16997v1)|null|
+|**2023-07-12**|**Deep learning for dynamic graphs: models and benchmarks**|Alessio Gravina et.al.|[2307.06104v2](http://arxiv.org/abs/2307.06104v2)|[link](https://github.com/gravins/dynamic_graph_benchmark)|
+|**2023-12-27**|**DOSA-MO: Dual-stage Optimizer for Systematic overestimation Adjustment in Multi-Objective problems improves biomarker discovery**|Luca Cattelani et.al.|[2312.16624v1](http://arxiv.org/abs/2312.16624v1)|null|
+|**2023-12-27**|**Inverse Reinforcement Learning with Unknown Reward Model based on Structural Risk Minimization**|Chendi Qu et.al.|[2312.16566v1](http://arxiv.org/abs/2312.16566v1)|null|
 |**2023-12-24**|**Variable Selection in High Dimensional Linear Regressions with Parameter Instability**|Alexander Chudik et.al.|[2312.15494v1](http://arxiv.org/abs/2312.15494v1)|null|
 |**2023-12-23**|**X-Vine Models for Multivariate Extremes**|Anna Kiriliouk et.al.|[2312.15205v1](http://arxiv.org/abs/2312.15205v1)|null|
 |**2023-12-22**|**Probabilistic Modeling for Sequences of Sets in Continuous-Time**|Yuxin Chang et.al.|[2312.15045v1](http://arxiv.org/abs/2312.15045v1)|null|
@@ -88,8 +93,3 @@
 |**2023-12-20**|**AutoXPCR: Automated Multi-Objective Model Selection for Time Series Forecasting**|Raphael Fischer et.al.|[2312.13038v1](http://arxiv.org/abs/2312.13038v1)|[link](https://github.com/raphischer/xpcr)|
 |**2023-12-19**|**How to develop, externally validate, and update multinomial prediction models**|Celina K Gehringer et.al.|[2312.12008v2](http://arxiv.org/abs/2312.12008v2)|[link](https://github.com/celinagehringer/multinomial_risk_prediction_ra)|
 |**2012-10-17**|**Mixture model for designs in high dimensional regression and the LASSO**|Mohamed Ibrahim Assoweh et.al.|[1210.4762v3](http://arxiv.org/abs/1210.4762v3)|null|
-|**2023-05-10**|**Flexible cost-penalized Bayesian model selection: developing inclusion paths with an application to diagnosis of heart disease**|Erica M. Porter et.al.|[2305.06262v2](http://arxiv.org/abs/2305.06262v2)|null|
-|**2023-10-09**|**FlexKnot and Gaussian Process for 21 cm global signal analysis and foreground separation**|Stefan Heimersheim et.al.|[2310.05608v2](http://arxiv.org/abs/2310.05608v2)|null|
-|**2023-12-17**|**Sparse Learning and Class Probability Estimation with Weighted Support Vector Machines**|Liyun Zeng et.al.|[2312.10618v1](http://arxiv.org/abs/2312.10618v1)|null|
-|**2023-12-17**|**Bayesian Model Selection via Mean-Field Variational Approximation**|Yangfan Zhang et.al.|[2312.10607v1](http://arxiv.org/abs/2312.10607v1)|null|
-|**2023-12-17**|**Random Forest Variable Importance-based Selection Algorithm in Class Imbalance Problem**|Yunbi Nam et.al.|[2312.10573v1](http://arxiv.org/abs/2312.10573v1)|null|
