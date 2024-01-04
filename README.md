@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-04 07:23:40 Asia/Shanghai
+ Automated deployment @ 2024-01-04 19:19:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874v1](http://arxiv.org/abs/2401.01874v1)|[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)|
+|**2024-01-03**|**On the hardness of learning under symmetries**|Bobak T. Kiani et.al.|[2401.01869v1](http://arxiv.org/abs/2401.01869v1)|null|
+|**2023-07-03**|**CardiGraphormer: Unveiling the Power of Self-Supervised Learning in Revolutionizing Drug Discovery**|Abhijit Gupta et.al.|[2307.00859v3](http://arxiv.org/abs/2307.00859v3)|null|
+|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846v1](http://arxiv.org/abs/2401.01846v1)|null|
+|**2024-01-03**|**A quatum inspired neural network for geometric modeling**|Weitao Du et.al.|[2401.01801v1](http://arxiv.org/abs/2401.01801v1)|null|
+|**2024-01-03**|**MLPs Compass: What is learned when MLPs are combined with PLMs?**|Li Zhou et.al.|[2401.01667v1](http://arxiv.org/abs/2401.01667v1)|null|
+|**2024-01-03**|**On the Expressive Power of Graph Neural Networks**|Ashwin Nalwade et.al.|[2401.01626v1](http://arxiv.org/abs/2401.01626v1)|null|
+|**2023-10-06**|**Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**|Heehyeon Kim et.al.|[2310.04171v3](http://arxiv.org/abs/2310.04171v3)|[link](https://github.com/bdi-lab/drag)|
+|**2023-06-30**|**LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**|Zijian Cai et.al.|[2306.17408v3](http://arxiv.org/abs/2306.17408v3)|[link](https://github.com/czjdsg/lmbot)|
+|**2023-10-30**|**Prediction of Effective Elastic Moduli of Rocks using Graph Neural Networks**|Jaehong Chung et.al.|[2310.19274v3](http://arxiv.org/abs/2310.19274v3)|[link](https://github.com/jh-chung1/gnn_elasticmodulus_prediction)|
 |**2024-01-02**|**Graph Elimination Networks**|Shuo Wang et.al.|[2401.01233v1](http://arxiv.org/abs/2401.01233v1)|null|
 |**2024-01-02**|**Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**|Li Sun et.al.|[2401.01232v1](http://arxiv.org/abs/2401.01232v1)|[link](https://github.com/riemanngraph/motifrgc)|
 |**2024-01-01**|**A Survey on Graph Neural Networks in Intelligent Transportation Systems**|Hourun Li et.al.|[2401.00713v2](http://arxiv.org/abs/2401.00713v2)|null|
 |**2023-04-25**|**When Do Graph Neural Networks Help with Node Classification? Investigating the Impact of Homophily Principle on Node Distinguishability**|Sitao Luan et.al.|[2304.14274v4](http://arxiv.org/abs/2304.14274v4)|[link](https://github.com/SitaoLuan/When-Do-GNNs-Help)|
 |**2023-12-14**|**COMBHelper: A Neural Approach to Reduce Search Space for Graph Combinatorial Problems**|Hao Tian et.al.|[2312.09086v2](http://arxiv.org/abs/2312.09086v2)|[link](https://github.com/1041877801/COMBHelper)|
-|**2024-01-01**|**Saliency-Aware Regularized Graph Neural Network**|Wenjie Pei et.al.|[2401.00755v1](http://arxiv.org/abs/2401.00755v1)|null|
-|**2024-01-01**|**On Discprecncies between Perturbation Evaluations of Graph Neural Network Attributions**|Razieh Rezaei et.al.|[2401.00633v1](http://arxiv.org/abs/2401.00633v1)|null|
-|**2023-12-31**|**Generating High-Precision Force Fields for Molecular Dynamics Simulations to Study Chemical Reaction Mechanisms using Molecular Configuration Transformer**|Sihao Yuan et.al.|[2401.00499v1](http://arxiv.org/abs/2401.00499v1)|null|
-|**2023-12-31**|**Deeper and Wider Networks for Performance Metrics Prediction in Communication Networks**|Aijia Liu et.al.|[2401.00429v1](http://arxiv.org/abs/2401.00429v1)|null|
-|**2023-12-31**|**FusionMind -- Improving question and answering with external context fusion**|Shreyas Verma et.al.|[2401.00388v1](http://arxiv.org/abs/2401.00388v1)|null|
-|**2023-12-30**|**A clean-label graph backdoor attack method in node classification task**|Xiaogang Xing et.al.|[2401.00163v1](http://arxiv.org/abs/2401.00163v1)|null|
-|**2023-12-30**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158v1](http://arxiv.org/abs/2401.00158v1)|null|
-|**2023-12-30**|**Balanced Graph Structure Information for Brain Disease Detection**|Falih Gozi Febrinanto et.al.|[2401.00876v1](http://arxiv.org/abs/2401.00876v1)|[link](https://github.com/falihgoz/bargrain)|
-|**2023-12-07**|**Graph Metanetworks for Processing Diverse Neural Architectures**|Derek Lim et.al.|[2312.04501v2](http://arxiv.org/abs/2312.04501v2)|null|
-|**2022-06-26**|**FlowX: Towards Explainable Graph Neural Networks via Message Flows**|Shurui Gui et.al.|[2206.12987v3](http://arxiv.org/abs/2206.12987v3)|[link](https://github.com/CM-BF/FlowX)|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-30**|**GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation**|M. AbdulRazek et.al.|[2401.00314v1](http://arxiv.org/abs/2401.00314v1)|null|
-|**2020-07-10**|**The maximal degree in random recursive graphs with random weights**|Bas Lodewijks et.al.|[2007.05438v4](http://arxiv.org/abs/2007.05438v4)|null|
-|**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251v1](http://arxiv.org/abs/2312.16251v1)|[link](https://github.com/xxyqwq/metascript)|
-|**2020-11-05**|**Noncommutative $C^k$ functions and Fréchet derivatives of operator functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v3](http://arxiv.org/abs/2011.03126v3)|null|
-|**2023-12-22**|**Local boundary representations for local operator systems**|Maria Joiţa et.al.|[2312.14477v1](http://arxiv.org/abs/2312.14477v1)|null|
-|**2023-12-22**|**Strict Frechet Differentiability of the Metric Projection Operator in Hilbert Spaces**|Jinlu Li et.al.|[2312.14362v1](http://arxiv.org/abs/2312.14362v1)|null|
-|**2023-08-16**|**Fair GANs through model rebalancing for extremely imbalanced class distributions**|Anubhav Jain et.al.|[2308.08638v2](http://arxiv.org/abs/2308.08638v2)|null|
-|**2023-12-19**|**Deviation of top eigenvalue for some tridiagonal matrices under various moment assumptions**|Yi Han et.al.|[2312.12146v1](http://arxiv.org/abs/2312.12146v1)|null|
-|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
-|**2023-12-15**|**The continuity of curvature flow in Fréchet distance**|Shiyi Ma et.al.|[2312.15005v1](http://arxiv.org/abs/2312.15005v1)|null|
-|**2023-12-13**|**Typicality of operators on Fréchet algebras admitting a hypercyclic algebra**|William Alexandre et.al.|[2312.08321v1](http://arxiv.org/abs/2312.08321v1)|null|
-|**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v2](http://arxiv.org/abs/2312.03701v2)|[link](https://github.com/LTH14/rcg)|
-|**2023-12-07**|**Estimating Fréchet bounds for validating programmatic weak supervision**|Felipe Maia Polo et.al.|[2312.04601v1](http://arxiv.org/abs/2312.04601v1)|null|
-|**2023-12-01**|**Consistent Mesh Diffusion**|Julian Knodt et.al.|[2312.00971v1](http://arxiv.org/abs/2312.00971v1)|null|
-|**2023-11-27**|**Strict Frechet and generalized differentiability of the metric projection operator onto balls in Hilbert spaces**|Jinlu Li et.al.|[2311.16310v1](http://arxiv.org/abs/2311.16310v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,11 +54,34 @@
 |**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
 |**2021-09-29**|**Metric Geometry of Spaces of Persistence Diagrams**|Mauricio Che et.al.|[2109.14697v3](http://arxiv.org/abs/2109.14697v3)|null|
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-03**|**Frechet differentiability of the metric projection operator in Banach spaces**|Jinlu Li et.al.|[2401.01480v1](http://arxiv.org/abs/2401.01480v1)|null|
+|**2024-01-02**|**VALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics**|Ammar A. Siddiqui et.al.|[2401.01414v1](http://arxiv.org/abs/2401.01414v1)|null|
+|**2023-12-30**|**GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation**|M. AbdulRazek et.al.|[2401.00314v1](http://arxiv.org/abs/2401.00314v1)|null|
+|**2020-07-10**|**The maximal degree in random recursive graphs with random weights**|Bas Lodewijks et.al.|[2007.05438v4](http://arxiv.org/abs/2007.05438v4)|null|
+|**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251v1](http://arxiv.org/abs/2312.16251v1)|[link](https://github.com/xxyqwq/metascript)|
+|**2020-11-05**|**Noncommutative $C^k$ functions and Fréchet derivatives of operator functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v3](http://arxiv.org/abs/2011.03126v3)|null|
+|**2023-12-22**|**Local boundary representations for local operator systems**|Maria Joiţa et.al.|[2312.14477v1](http://arxiv.org/abs/2312.14477v1)|null|
+|**2023-12-22**|**Strict Frechet Differentiability of the Metric Projection Operator in Hilbert Spaces**|Jinlu Li et.al.|[2312.14362v1](http://arxiv.org/abs/2312.14362v1)|null|
+|**2023-08-16**|**Fair GANs through model rebalancing for extremely imbalanced class distributions**|Anubhav Jain et.al.|[2308.08638v2](http://arxiv.org/abs/2308.08638v2)|null|
+|**2023-12-19**|**Deviation of top eigenvalue for some tridiagonal matrices under various moment assumptions**|Yi Han et.al.|[2312.12146v1](http://arxiv.org/abs/2312.12146v1)|null|
+|**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|**2023-12-15**|**The continuity of curvature flow in Fréchet distance**|Shiyi Ma et.al.|[2312.15005v1](http://arxiv.org/abs/2312.15005v1)|null|
+|**2023-12-13**|**Typicality of operators on Fréchet algebras admitting a hypercyclic algebra**|William Alexandre et.al.|[2312.08321v1](http://arxiv.org/abs/2312.08321v1)|null|
+|**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v2](http://arxiv.org/abs/2312.03701v2)|[link](https://github.com/LTH14/rcg)|
+|**2023-12-07**|**Estimating Fréchet bounds for validating programmatic weak supervision**|Felipe Maia Polo et.al.|[2312.04601v1](http://arxiv.org/abs/2312.04601v1)|null|
+
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-03**|**Physics-informed appliance signatures generator for energy disaggregation**|Ilia Kamyshev et.al.|[2401.01828v1](http://arxiv.org/abs/2401.01828v1)|null|
+|**2023-12-10**|**Topological Data Analysis for Neural Network Analysis: A Comprehensive Survey**|Rubén Ballester et.al.|[2312.05840v2](http://arxiv.org/abs/2312.05840v2)|null|
+|**2024-01-03**|**Few-shot Adaptation of Multi-modal Foundation Models: A Survey**|Fan Liu et.al.|[2401.01736v1](http://arxiv.org/abs/2401.01736v1)|null|
+|**2024-01-03**|**Evidence-based certification of quantum dimensions**|Y. S. Teo et.al.|[2401.01562v1](http://arxiv.org/abs/2401.01562v1)|null|
 |**2024-01-02**|**Explainable Adaptive Tree-based Model Selection for Time Series Forecasting**|Matthias Jakobs et.al.|[2401.01124v1](http://arxiv.org/abs/2401.01124v1)|null|
 |**2024-01-01**|**Downstream Task-Oriented Generative Model Selections on Synthetic Data Training for Fraud Detection Models**|Yinan Cheng et.al.|[2401.00974v1](http://arxiv.org/abs/2401.00974v1)|null|
 |**2024-01-01**|**Automated Model Selection for Tabular Data**|Avinash Amballa et.al.|[2401.00961v1](http://arxiv.org/abs/2401.00961v1)|null|
@@ -89,7 +93,3 @@
 |**2023-07-12**|**Deep learning for dynamic graphs: models and benchmarks**|Alessio Gravina et.al.|[2307.06104v2](http://arxiv.org/abs/2307.06104v2)|[link](https://github.com/gravins/dynamic_graph_benchmark)|
 |**2023-12-27**|**DOSA-MO: Dual-stage Optimizer for Systematic overestimation Adjustment in Multi-Objective problems improves biomarker discovery**|Luca Cattelani et.al.|[2312.16624v1](http://arxiv.org/abs/2312.16624v1)|null|
 |**2023-12-27**|**Inverse Reinforcement Learning with Unknown Reward Model based on Structural Risk Minimization**|Chendi Qu et.al.|[2312.16566v1](http://arxiv.org/abs/2312.16566v1)|null|
-|**2023-12-24**|**Variable Selection in High Dimensional Linear Regressions with Parameter Instability**|Alexander Chudik et.al.|[2312.15494v1](http://arxiv.org/abs/2312.15494v1)|null|
-|**2023-12-23**|**X-Vine Models for Multivariate Extremes**|Anna Kiriliouk et.al.|[2312.15205v1](http://arxiv.org/abs/2312.15205v1)|null|
-|**2023-12-22**|**Probabilistic Modeling for Sequences of Sets in Continuous-Time**|Yuxin Chang et.al.|[2312.15045v1](http://arxiv.org/abs/2312.15045v1)|null|
-|**2023-12-21**|**A Bayesian approach to functional regression: theory and computation**|José R. Berrendero et.al.|[2312.14086v1](http://arxiv.org/abs/2312.14086v1)|[link](https://github.com/antcc/rk-bfr)|
