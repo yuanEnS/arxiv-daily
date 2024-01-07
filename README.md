@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-07 07:21:41 Asia/Shanghai
+ Automated deployment @ 2024-01-07 19:19:20 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -21,7 +21,7 @@
 |**2023-12-14**|**Uncertainty in GNN Learning Evaluations: A Comparison Between Measures for Quantifying Randomness in GNN Community Detection**|William Leeney et.al.|[2312.09015v2](http://arxiv.org/abs/2312.09015v2)|null|
 |**2024-01-04**|**Path-based Explanation for Knowledge Graph Completion**|Heng Chang et.al.|[2401.02290v1](http://arxiv.org/abs/2401.02290v1)|null|
 |**2023-06-20**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586v3](http://arxiv.org/abs/2306.11586v3)|null|
-|**2024-01-04**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions**|Cheng-Te Li et.al.|[2401.02143v1](http://arxiv.org/abs/2401.02143v1)|null|
+|**2024-01-04**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions**|Cheng-Te Li et.al.|[2401.02143v1](http://arxiv.org/abs/2401.02143v1)|[link](https://github.com/roytsai27/awesome-gnn4tdl)|
 |**2024-01-04**|**Spectral-based Graph Neutral Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130v1](http://arxiv.org/abs/2401.02130v1)|null|
 |**2024-01-04**|**View-based Explanations for Graph Neural Networks**|Tingyang Chen et.al.|[2401.02086v1](http://arxiv.org/abs/2401.02086v1)|[link](https://github.com/zju-daily/gvex)|
 |**2024-01-04**|**Accelerated Band Offset Prediction in Semiconductor Interfaces with DFT and Deep Learning**|Kamal Choudhary et.al.|[2401.02021v1](http://arxiv.org/abs/2401.02021v1)|null|
@@ -89,7 +89,7 @@
 |**2024-01-01**|**Downstream Task-Oriented Generative Model Selections on Synthetic Data Training for Fraud Detection Models**|Yinan Cheng et.al.|[2401.00974v1](http://arxiv.org/abs/2401.00974v1)|null|
 |**2024-01-01**|**Automated Model Selection for Tabular Data**|Avinash Amballa et.al.|[2401.00961v1](http://arxiv.org/abs/2401.00961v1)|[link](https://github.com/amballaavinash/modelselection)|
 |**2023-12-31**|**GeoGalactica: A Scientific Large Language Model in Geoscience**|Zhouhan Lin et.al.|[2401.00434v1](http://arxiv.org/abs/2401.00434v1)|[link](https://github.com/geobrain-ai/geogalactica)|
-|**2023-12-31**|**Energetic Variational Gaussian Process Regression for Computer Experiments**|Lulu Kang et.al.|[2401.00395v1](http://arxiv.org/abs/2401.00395v1)|null|
+|**2023-12-31**|**Energetic Variational Gaussian Process Regression for Computer Experiments**|Lulu Kang et.al.|[2401.00395v1](http://arxiv.org/abs/2401.00395v1)|[link](https://github.com/xavierowen/evigp)|
 |**2023-06-24**|**Post-Selection Inference for the Cox Model with Interval-Censored Data**|Jianrui Zhang et.al.|[2306.13870v3](http://arxiv.org/abs/2306.13870v3)|null|
 |**2023-12-28**|**Inconsistency of cross-validation for structure learning in Gaussian graphical models**|Zhao Lyu et.al.|[2312.17047v1](http://arxiv.org/abs/2312.17047v1)|null|
 |**2023-12-28**|**Subsampling MCMC for Bayesian Variable Selection and Model Averaging in BGNLM**|Jon Lachmann et.al.|[2312.16997v1](http://arxiv.org/abs/2312.16997v1)|null|
