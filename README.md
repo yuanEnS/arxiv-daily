@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-12 07:23:27 Asia/Shanghai
+ Automated deployment @ 2024-01-12 19:20:34 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -33,33 +33,12 @@
 |**2023-06-04**|**Clarify Confused Nodes Through Separated Learning**|Jiajun Zhou et.al.|[2306.02285v2](http://arxiv.org/abs/2306.02285v2)|null|
 |**2024-01-08**|**A Primer on Temporal Graph Learning**|Aniq Ur Rahman et.al.|[2401.03988v2](http://arxiv.org/abs/2401.03988v2)|null|
 
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
-|**2024-01-10**|**Experiment Planning with Function Approximation**|Aldo Pacchiano et.al.|[2401.05193v1](http://arxiv.org/abs/2401.05193v1)|null|
-|**2024-01-09**|**Group lasso priors for Bayesian accelerated failure time models with left-truncated and interval-censored data**|Harrison T. Reeder et.al.|[2401.04832v1](http://arxiv.org/abs/2401.04832v1)|null|
-|**2023-11-30**|**Model selection for risk analysis of wastewater networks**|Aaron Dunton et.al.|[2312.06623v2](http://arxiv.org/abs/2312.06623v2)|null|
-|**2024-01-09**|**Co-Clustering Multi-View Data Using the Latent Block Model**|Joshua Tobin et.al.|[2401.04693v1](http://arxiv.org/abs/2401.04693v1)|null|
-|**2023-07-12**|**Online Laplace Model Selection Revisited**|Jihao Andreas Lin et.al.|[2307.06093v2](http://arxiv.org/abs/2307.06093v2)|null|
-|**2023-10-11**|**Risk Assessment and Statistical Significance in the Age of Foundation Models**|Apoorva Nitsure et.al.|[2310.07132v2](http://arxiv.org/abs/2310.07132v2)|null|
-|**2024-01-09**|**Semi-Supervised Deep Sobolev Regression: Estimation, Variable Selection and Beyond**|Zhao Ding et.al.|[2401.04535v1](http://arxiv.org/abs/2401.04535v1)|null|
-|**2023-04-21**|**Auditing and Generating Synthetic Data with Controllable Trust Trade-offs**|Brian Belgodere et.al.|[2304.10819v3](http://arxiv.org/abs/2304.10819v3)|null|
-|**2024-01-09**|**Learning tapestries, a statistical learning substrate for open chaotic systems measured with error**|Michael LuValle et.al.|[2401.04410v1](http://arxiv.org/abs/2401.04410v1)|null|
-|**2024-01-09**|**On the Stochastic Gravitational Wave Background from Binary Black Hole Mergers Dynamically Assembled in Dense Star Clusters**|Xiao-Xiao Kou et.al.|[2401.04347v1](http://arxiv.org/abs/2401.04347v1)|null|
-|**2024-01-09**|**Music Genre Classification: A Comparative Analysis of CNN and XGBoost Approaches with Mel-frequency cepstral coefficients and Mel Spectrograms**|Yigang Meng et.al.|[2401.04737v1](http://arxiv.org/abs/2401.04737v1)|null|
-|**2024-01-09**|**Staged trees for discrete longitudinal data**|Jack Storror Carter et.al.|[2401.04297v1](http://arxiv.org/abs/2401.04297v1)|null|
-|**2023-04-14**|**The Deep Latent Position Topic Model for Clustering and Representation of Networks with Textual Edges**|Rémi Boutin et.al.|[2304.08242v2](http://arxiv.org/abs/2304.08242v2)|null|
-|**2022-05-17**|**An updated nuclear-physics and multi-messenger astrophysics framework for binary neutron star mergers**|Peter T. H. Pang et.al.|[2205.08513v2](http://arxiv.org/abs/2205.08513v2)|[link](https://github.com/nuclear-multimessenger-astronomy/nmma)|
-
 ## Non-Euclidean Staistics
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v1](http://arxiv.org/abs/2401.03126v1)|null|
+|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v2](http://arxiv.org/abs/2401.03126v2)|null|
 |**2023-02-22**|**Score-Based Data Generation for EEG Spatial Covariance Matrices: Towards Boosting BCI Performance**|Ce Ju et.al.|[2302.11410v3](http://arxiv.org/abs/2302.11410v3)|[link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |**2023-11-18**|**Strong law of large numbers for the generalized Fréchet means with random minimizing domains**|Jaesung Park et.al.|[2311.10958v1](http://arxiv.org/abs/2311.10958v1)|null|
 |**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
@@ -81,7 +60,7 @@
 |**2023-12-22**|**Generalized differentiability of the metric projection operator in Hilbert spaces**|Jinlu Li et.al.|[2401.01906v2](http://arxiv.org/abs/2401.01906v2)|null|
 |**2024-01-09**|**Vision Reimagined: AI-Powered Breakthroughs in WiFi Indoor Imaging**|Jianyang Shi et.al.|[2401.04317v1](http://arxiv.org/abs/2401.04317v1)|null|
 |**2024-01-07**|**Revisiting the Fréchet distance between piecewise smooth curves**|Jacobus Conradi et.al.|[2401.03339v1](http://arxiv.org/abs/2401.03339v1)|null|
-|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v1](http://arxiv.org/abs/2401.03126v1)|null|
+|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v2](http://arxiv.org/abs/2401.03126v2)|null|
 |**2023-09-14**|**Retrieval-Augmented Text-to-Audio Generation**|Yi Yuan et.al.|[2309.08051v2](http://arxiv.org/abs/2309.08051v2)|null|
 |**2024-01-04**|**When ideals properly extend the class of Arbault sets**|Pratulananda Das et.al.|[2401.02103v1](http://arxiv.org/abs/2401.02103v1)|null|
 |**2023-11-27**|**Strict Frechet and generalized differentiability of the metric projection operator onto balls in Hilbert spaces**|Jinlu Li et.al.|[2311.16310v2](http://arxiv.org/abs/2311.16310v2)|null|
@@ -93,3 +72,24 @@
 |**2020-11-05**|**Noncommutative $C^k$ functions and Fréchet derivatives of operator functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v3](http://arxiv.org/abs/2011.03126v3)|null|
 |**2023-12-22**|**Local boundary representations for local operator systems**|Maria Joiţa et.al.|[2312.14477v1](http://arxiv.org/abs/2312.14477v1)|null|
 |**2023-12-22**|**Strict Frechet Differentiability of the Metric Projection Operator in Hilbert Spaces**|Jinlu Li et.al.|[2312.14362v1](http://arxiv.org/abs/2312.14362v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
+|**2024-01-10**|**Experiment Planning with Function Approximation**|Aldo Pacchiano et.al.|[2401.05193v1](http://arxiv.org/abs/2401.05193v1)|null|
+|**2024-01-09**|**Group lasso priors for Bayesian accelerated failure time models with left-truncated and interval-censored data**|Harrison T. Reeder et.al.|[2401.04832v2](http://arxiv.org/abs/2401.04832v2)|null|
+|**2023-11-30**|**Model selection for risk analysis of wastewater networks**|Aaron Dunton et.al.|[2312.06623v2](http://arxiv.org/abs/2312.06623v2)|null|
+|**2024-01-09**|**Co-Clustering Multi-View Data Using the Latent Block Model**|Joshua Tobin et.al.|[2401.04693v1](http://arxiv.org/abs/2401.04693v1)|null|
+|**2023-07-12**|**Online Laplace Model Selection Revisited**|Jihao Andreas Lin et.al.|[2307.06093v2](http://arxiv.org/abs/2307.06093v2)|null|
+|**2023-10-11**|**Risk Assessment and Statistical Significance in the Age of Foundation Models**|Apoorva Nitsure et.al.|[2310.07132v2](http://arxiv.org/abs/2310.07132v2)|null|
+|**2024-01-09**|**Semi-Supervised Deep Sobolev Regression: Estimation, Variable Selection and Beyond**|Zhao Ding et.al.|[2401.04535v1](http://arxiv.org/abs/2401.04535v1)|null|
+|**2023-04-21**|**Auditing and Generating Synthetic Data with Controllable Trust Trade-offs**|Brian Belgodere et.al.|[2304.10819v3](http://arxiv.org/abs/2304.10819v3)|null|
+|**2024-01-09**|**Learning tapestries, a statistical learning substrate for open chaotic systems measured with error**|Michael LuValle et.al.|[2401.04410v1](http://arxiv.org/abs/2401.04410v1)|null|
+|**2024-01-09**|**On the Stochastic Gravitational Wave Background from Binary Black Hole Mergers Dynamically Assembled in Dense Star Clusters**|Xiao-Xiao Kou et.al.|[2401.04347v1](http://arxiv.org/abs/2401.04347v1)|null|
+|**2024-01-09**|**Music Genre Classification: A Comparative Analysis of CNN and XGBoost Approaches with Mel-frequency cepstral coefficients and Mel Spectrograms**|Yigang Meng et.al.|[2401.04737v1](http://arxiv.org/abs/2401.04737v1)|null|
+|**2024-01-09**|**Staged trees for discrete longitudinal data**|Jack Storror Carter et.al.|[2401.04297v1](http://arxiv.org/abs/2401.04297v1)|null|
+|**2023-04-14**|**The Deep Latent Position Topic Model for Clustering and Representation of Networks with Textual Edges**|Rémi Boutin et.al.|[2304.08242v2](http://arxiv.org/abs/2304.08242v2)|null|
+|**2022-05-17**|**An updated nuclear-physics and multi-messenger astrophysics framework for binary neutron star mergers**|Peter T. H. Pang et.al.|[2205.08513v2](http://arxiv.org/abs/2205.08513v2)|[link](https://github.com/nuclear-multimessenger-astronomy/nmma)|
