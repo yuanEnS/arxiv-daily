@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-13 07:21:59 Asia/Shanghai
+ Automated deployment @ 2024-01-13 19:19:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-03-11**|**Multimodal Data Integration for Oncology in the Era of Deep Neural Networks: A Review**|Asim Waqas et.al.|[2303.06471v2](http://arxiv.org/abs/2303.06471v2)|null|
+|**2023-11-01**|**Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures**|Runa Eschenhagen et.al.|[2311.00636v2](http://arxiv.org/abs/2311.00636v2)|null|
+|**2024-01-11**|**On the Power of Graph Neural Networks and Feature Augmentation Strategies to Classify Social Networks**|Walid Guettala et.al.|[2401.06048v1](http://arxiv.org/abs/2401.06048v1)|null|
+|**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040v1](http://arxiv.org/abs/2401.06040v1)|[link](https://github.com/qqian99/wavgcrn)|
+|**2024-01-04**|**Spectral-based Graph Neural Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130v2](http://arxiv.org/abs/2401.02130v2)|null|
+|**2024-01-11**|**Use of Graph Neural Networks in Aiding Defensive Cyber Operations**|Shaswata Mitra et.al.|[2401.05680v1](http://arxiv.org/abs/2401.05680v1)|null|
+|**2023-09-10**|**Distance-Restricted Folklore Weisfeiler-Leman GNNs with Provable Cycle Counting Power**|Junru Zhou et.al.|[2309.04941v3](http://arxiv.org/abs/2309.04941v3)|[link](https://github.com/zml72062/dr-fwl-2)|
+|**2024-01-11**|**Graph Q-Learning for Combinatorial Optimization**|Victoria M. Dax et.al.|[2401.05610v1](http://arxiv.org/abs/2401.05610v1)|null|
+|**2023-09-02**|**SEPAL: Spatial Gene Expression Prediction from Local Graphs**|Gabriel Mejia et.al.|[2309.01036v3](http://arxiv.org/abs/2309.01036v3)|[link](https://github.com/bcv-uniandes/sepal)|
+|**2023-10-17**|**Analyzing Modularity Maximization in Approximation, Heuristic, and Graph Neural Network Algorithms for Community Detection**|Samin Aref et.al.|[2310.10898v2](http://arxiv.org/abs/2310.10898v2)|null|
 |**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
+|**2024-01-10**|**Population Graph Cross-Network Node Classification for Autism Detection Across Sample Groups**|Anna Stephens et.al.|[2401.05478v1](http://arxiv.org/abs/2401.05478v1)|[link](https://github.com/ajoystephens/otgcn)|
 |**2023-12-20**|**Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement Approach**|Sushil Sharma et.al.|[2312.13104v2](http://arxiv.org/abs/2312.13104v2)|null|
 |**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223v1](http://arxiv.org/abs/2401.05223v1)|null|
 |**2023-12-17**|**Non-Euclidean Spatial Graph Neural Network**|Zheng Zhang et.al.|[2312.10808v2](http://arxiv.org/abs/2312.10808v2)|[link](https://github.com/rollingstonezz/sdm24_manifold_spatial_networks)|
-|**2023-06-23**|**TrustGuard: GNN-based Robust and Explainable Trust Evaluation with Dynamicity Support**|Jie Wang et.al.|[2306.13339v3](http://arxiv.org/abs/2306.13339v3)|[link](https://github.com/jieerbobo/trustguard)|
-|**2023-06-05**|**Tensorized Hypergraph Neural Networks**|Maolin Wang et.al.|[2306.02560v2](http://arxiv.org/abs/2306.02560v2)|null|
-|**2024-01-10**|**MGNet: Learning Correspondences via Multiple Graphs**|Luanyuan Dai et.al.|[2401.04984v1](http://arxiv.org/abs/2401.04984v1)|null|
-|**2023-09-11**|**Fully-Connected Spatial-Temporal Graph for Multivariate Time-Series Data**|Yucheng Wang et.al.|[2309.05305v3](http://arxiv.org/abs/2309.05305v3)|[link](https://github.com/Frank-Wang-oss/FCSTGNN)|
-|**2024-01-05**|**Powerformer: A Section-adaptive Transformer for Power Flow Adjustment**|Kaixuan Chen et.al.|[2401.02771v2](http://arxiv.org/abs/2401.02771v2)|null|
-|**2024-01-10**|**LPAC: Learnable Perception-Action-Communication Loops with Applications to Coverage Control**|Saurav Agarwal et.al.|[2401.04855v1](http://arxiv.org/abs/2401.04855v1)|null|
-|**2023-09-23**|**Enhancing Student Performance Prediction on Learnersourced Questions with SGNN-LLM Synergy**|Lin Ni et.al.|[2309.13500v2](http://arxiv.org/abs/2309.13500v2)|null|
-|**2024-01-09**|**GNNShap: Fast and Accurate GNN Explanations using Shapley Values**|Selahattin Akkas et.al.|[2401.04829v1](http://arxiv.org/abs/2401.04829v1)|null|
-|**2024-01-05**|**Graph2Tac: Learning Hierarchical Representations of Math Concepts in Theorem proving**|Jason Rute et.al.|[2401.02949v2](http://arxiv.org/abs/2401.02949v2)|null|
-|**2023-06-04**|**Clarify Confused Nodes Through Separated Learning**|Jiajun Zhou et.al.|[2306.02285v2](http://arxiv.org/abs/2306.02285v2)|null|
-|**2024-01-08**|**A Primer on Temporal Graph Learning**|Aniq Ur Rahman et.al.|[2401.03988v2](http://arxiv.org/abs/2401.03988v2)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-22**|**Generalized differentiability of the metric projection operator in Hilbert spaces**|Jinlu Li et.al.|[2401.01906v2](http://arxiv.org/abs/2401.01906v2)|null|
-|**2024-01-09**|**Vision Reimagined: AI-Powered Breakthroughs in WiFi Indoor Imaging**|Jianyang Shi et.al.|[2401.04317v1](http://arxiv.org/abs/2401.04317v1)|null|
-|**2024-01-07**|**Revisiting the Fréchet distance between piecewise smooth curves**|Jacobus Conradi et.al.|[2401.03339v1](http://arxiv.org/abs/2401.03339v1)|null|
-|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v2](http://arxiv.org/abs/2401.03126v2)|null|
-|**2023-09-14**|**Retrieval-Augmented Text-to-Audio Generation**|Yi Yuan et.al.|[2309.08051v2](http://arxiv.org/abs/2309.08051v2)|null|
-|**2024-01-04**|**When ideals properly extend the class of Arbault sets**|Pratulananda Das et.al.|[2401.02103v1](http://arxiv.org/abs/2401.02103v1)|null|
-|**2023-11-27**|**Strict Frechet and generalized differentiability of the metric projection operator onto balls in Hilbert spaces**|Jinlu Li et.al.|[2311.16310v2](http://arxiv.org/abs/2311.16310v2)|null|
-|**2024-01-03**|**Frechet differentiability of the metric projection operator in Banach spaces**|Jinlu Li et.al.|[2401.01480v1](http://arxiv.org/abs/2401.01480v1)|null|
-|**2024-01-02**|**VALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics**|Ammar A. Siddiqui et.al.|[2401.01414v1](http://arxiv.org/abs/2401.01414v1)|null|
-|**2023-12-30**|**GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation**|M. AbdulRazek et.al.|[2401.00314v1](http://arxiv.org/abs/2401.00314v1)|null|
-|**2020-07-10**|**The maximal degree in random recursive graphs with random weights**|Bas Lodewijks et.al.|[2007.05438v4](http://arxiv.org/abs/2007.05438v4)|null|
-|**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251v1](http://arxiv.org/abs/2312.16251v1)|[link](https://github.com/xxyqwq/metascript)|
-|**2020-11-05**|**Noncommutative $C^k$ functions and Fréchet derivatives of operator functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v3](http://arxiv.org/abs/2011.03126v3)|null|
-|**2023-12-22**|**Local boundary representations for local operator systems**|Maria Joiţa et.al.|[2312.14477v1](http://arxiv.org/abs/2312.14477v1)|null|
-|**2023-12-22**|**Strict Frechet Differentiability of the Metric Projection Operator in Hilbert Spaces**|Jinlu Li et.al.|[2312.14362v1](http://arxiv.org/abs/2312.14362v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,15 +54,35 @@
 |**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
 |**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-11**|**Multivariate Extreme Value Theory Based Channel Modeling for Ultra-Reliable Communications**|Niloofar Mehrnia et.al.|[2401.05833v1](http://arxiv.org/abs/2401.05833v1)|null|
+|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v2](http://arxiv.org/abs/2401.03126v2)|null|
+|**2023-12-22**|**Generalized differentiability of the metric projection operator in Hilbert spaces**|Jinlu Li et.al.|[2401.01906v2](http://arxiv.org/abs/2401.01906v2)|null|
+|**2024-01-09**|**Vision Reimagined: AI-Powered Breakthroughs in WiFi Indoor Imaging**|Jianyang Shi et.al.|[2401.04317v1](http://arxiv.org/abs/2401.04317v1)|null|
+|**2024-01-07**|**Revisiting the Fréchet distance between piecewise smooth curves**|Jacobus Conradi et.al.|[2401.03339v1](http://arxiv.org/abs/2401.03339v1)|null|
+|**2023-09-14**|**Retrieval-Augmented Text-to-Audio Generation**|Yi Yuan et.al.|[2309.08051v2](http://arxiv.org/abs/2309.08051v2)|null|
+|**2024-01-04**|**When ideals properly extend the class of Arbault sets**|Pratulananda Das et.al.|[2401.02103v1](http://arxiv.org/abs/2401.02103v1)|null|
+|**2023-11-27**|**Strict Frechet and generalized differentiability of the metric projection operator onto balls in Hilbert spaces**|Jinlu Li et.al.|[2311.16310v2](http://arxiv.org/abs/2311.16310v2)|null|
+|**2024-01-03**|**Frechet differentiability of the metric projection operator in Banach spaces**|Jinlu Li et.al.|[2401.01480v1](http://arxiv.org/abs/2401.01480v1)|null|
+|**2024-01-02**|**VALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics**|Ammar A. Siddiqui et.al.|[2401.01414v1](http://arxiv.org/abs/2401.01414v1)|null|
+|**2023-12-30**|**GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation**|M. AbdulRazek et.al.|[2401.00314v1](http://arxiv.org/abs/2401.00314v1)|null|
+|**2020-07-10**|**The maximal degree in random recursive graphs with random weights**|Bas Lodewijks et.al.|[2007.05438v4](http://arxiv.org/abs/2007.05438v4)|null|
+|**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251v1](http://arxiv.org/abs/2312.16251v1)|[link](https://github.com/xxyqwq/metascript)|
+|**2020-11-05**|**Noncommutative $C^k$ functions and Fréchet derivatives of operator functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v3](http://arxiv.org/abs/2011.03126v3)|null|
+|**2023-12-22**|**Local boundary representations for local operator systems**|Maria Joiţa et.al.|[2312.14477v1](http://arxiv.org/abs/2312.14477v1)|null|
+
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-12-02**|**Designing Ecosystems of Intelligence from First Principles**|Karl J Friston et.al.|[2212.01354v2](http://arxiv.org/abs/2212.01354v2)|null|
+|**2024-01-09**|**Group lasso priors for Bayesian accelerated failure time models with left-truncated and interval-censored data**|Harrison T. Reeder et.al.|[2401.04832v2](http://arxiv.org/abs/2401.04832v2)|null|
 |**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
 |**2024-01-10**|**Experiment Planning with Function Approximation**|Aldo Pacchiano et.al.|[2401.05193v1](http://arxiv.org/abs/2401.05193v1)|null|
-|**2024-01-09**|**Group lasso priors for Bayesian accelerated failure time models with left-truncated and interval-censored data**|Harrison T. Reeder et.al.|[2401.04832v2](http://arxiv.org/abs/2401.04832v2)|null|
-|**2023-11-30**|**Model selection for risk analysis of wastewater networks**|Aaron Dunton et.al.|[2312.06623v2](http://arxiv.org/abs/2312.06623v2)|null|
+|**2023-11-30**|**Model selection for risk analysis of wastewater networks**|Aaron Dunton et.al.|[2312.06623v2](http://arxiv.org/abs/2312.06623v2)|[link](https://github.com/ajdunton/ww-model-selection)|
 |**2024-01-09**|**Co-Clustering Multi-View Data Using the Latent Block Model**|Joshua Tobin et.al.|[2401.04693v1](http://arxiv.org/abs/2401.04693v1)|null|
 |**2023-07-12**|**Online Laplace Model Selection Revisited**|Jihao Andreas Lin et.al.|[2307.06093v2](http://arxiv.org/abs/2307.06093v2)|null|
 |**2023-10-11**|**Risk Assessment and Statistical Significance in the Age of Foundation Models**|Apoorva Nitsure et.al.|[2310.07132v2](http://arxiv.org/abs/2310.07132v2)|null|
@@ -92,4 +93,3 @@
 |**2024-01-09**|**Music Genre Classification: A Comparative Analysis of CNN and XGBoost Approaches with Mel-frequency cepstral coefficients and Mel Spectrograms**|Yigang Meng et.al.|[2401.04737v1](http://arxiv.org/abs/2401.04737v1)|null|
 |**2024-01-09**|**Staged trees for discrete longitudinal data**|Jack Storror Carter et.al.|[2401.04297v1](http://arxiv.org/abs/2401.04297v1)|null|
 |**2023-04-14**|**The Deep Latent Position Topic Model for Clustering and Representation of Networks with Textual Edges**|Rémi Boutin et.al.|[2304.08242v2](http://arxiv.org/abs/2304.08242v2)|null|
-|**2022-05-17**|**An updated nuclear-physics and multi-messenger astrophysics framework for binary neutron star mergers**|Peter T. H. Pang et.al.|[2205.08513v2](http://arxiv.org/abs/2205.08513v2)|[link](https://github.com/nuclear-multimessenger-astronomy/nmma)|
