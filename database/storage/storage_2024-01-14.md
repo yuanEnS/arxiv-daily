@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-14 07:23:40 Asia/Shanghai
+ Automated deployment @ 2024-01-14 19:19:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -30,7 +30,7 @@
 |**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
 |**2024-01-10**|**Population Graph Cross-Network Node Classification for Autism Detection Across Sample Groups**|Anna Stephens et.al.|[2401.05478v1](http://arxiv.org/abs/2401.05478v1)|[link](https://github.com/ajoystephens/otgcn)|
 |**2023-12-20**|**Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement Approach**|Sushil Sharma et.al.|[2312.13104v2](http://arxiv.org/abs/2312.13104v2)|null|
-|**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223v1](http://arxiv.org/abs/2401.05223v1)|null|
+|**2024-01-10**|**Physics guided dual Self-supervised learning for structure-based materials property prediction**|Nihang Fu et.al.|[2401.05223v1](http://arxiv.org/abs/2401.05223v1)|[link](https://github.com/usccolumbia/dssl)|
 |**2023-12-17**|**Non-Euclidean Spatial Graph Neural Network**|Zheng Zhang et.al.|[2312.10808v2](http://arxiv.org/abs/2312.10808v2)|[link](https://github.com/rollingstonezz/sdm24_manifold_spatial_networks)|
 
 ## Non-Euclidean Staistics
