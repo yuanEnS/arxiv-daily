@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-17 07:22:59 Asia/Shanghai
+ Automated deployment @ 2024-01-17 19:20:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-16**|**Spoofing Detection in the Physical Layer with Graph Neural Networks**|Tien Ngoc Ha et.al.|[2401.08220v1](http://arxiv.org/abs/2401.08220v1)|null|
+|**2023-09-27**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)**|Yutong Ye et.al.|[2309.15641v3](http://arxiv.org/abs/2309.15641v3)|null|
+|**2024-01-16**|**Structure-based out-of-distribution (OOD) materials property prediction: a benchmark study**|Sadman Sadeed Omee et.al.|[2401.08032v1](http://arxiv.org/abs/2401.08032v1)|null|
+|**2024-01-15**|**Integrate Any Omics: Towards genome-wide data integration for patient stratification**|Shihao Ma et.al.|[2401.07937v1](http://arxiv.org/abs/2401.07937v1)|[link](https://github.com/bowang-lab/integrao)|
+|**2022-04-08**|**Self-Supervised Graph Neural Network for Multi-Source Domain Adaptation**|Jin Yuan et.al.|[2204.05104v2](http://arxiv.org/abs/2204.05104v2)|null|
+|**2023-11-28**|**Dynamic Fault Characteristics Evaluation in Power Grid**|Hao Pei et.al.|[2311.16522v2](http://arxiv.org/abs/2311.16522v2)|null|
+|**2023-10-23**|**Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules**|Zhiyuan Liu et.al.|[2310.14753v2](http://arxiv.org/abs/2310.14753v2)|[link](https://github.com/syr-cn/simsgt)|
+|**2024-01-15**|**Multimodal Language and Graph Learning of Adsorption Configuration in Catalysis**|Janghoon Ock et.al.|[2401.07408v1](http://arxiv.org/abs/2401.07408v1)|null|
+|**2023-06-05**|**Extending the Design Space of Graph Neural Networks by Rethinking Folklore Weisfeiler-Lehman**|Jiarui Feng et.al.|[2306.03266v3](http://arxiv.org/abs/2306.03266v3)|[link](https://github.com/jiaruifeng/n2gnn)|
+|**2024-01-13**|**Graph Language Models**|Moritz Plenz et.al.|[2401.07105v1](http://arxiv.org/abs/2401.07105v1)|[link](https://github.com/heidelberg-nlp/graphlanguagemodels)|
+|**2023-07-03**|**CardiGraphormer: Unveiling the Power of Self-Supervised Learning in Revolutionizing Drug Discovery**|Abhijit Gupta et.al.|[2307.00859v4](http://arxiv.org/abs/2307.00859v4)|null|
+|**2024-01-13**|**Reinforcement Learning for Scalable Train Timetable Rescheduling with Graph Representation**|Peng Yue et.al.|[2401.06952v1](http://arxiv.org/abs/2401.06952v1)|null|
+|**2024-01-12**|**Accelerating Neural Networks for Large Language Models and Graph Processing with Silicon Photonics**|Salma Afifi et.al.|[2401.06885v1](http://arxiv.org/abs/2401.06885v1)|null|
 |**2023-06-27**|**Asynchronous Algorithmic Alignment with Cocycles**|Andrew Dudzik et.al.|[2306.15632v3](http://arxiv.org/abs/2306.15632v3)|null|
 |**2024-01-12**|**A General Benchmark Framework is Dynamic Graph Neural Network Need**|Yusen Zhang et.al.|[2401.06559v1](http://arxiv.org/abs/2401.06559v1)|null|
-|**2024-01-12**|**Treatment-Aware Hyperbolic Representation Learning for Causal Effect Estimation with Social Networks**|Ziqiang Cui et.al.|[2401.06557v1](http://arxiv.org/abs/2401.06557v1)|null|
-|**2023-10-27**|**Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs**|Yijian Qin et.al.|[2310.18152v3](http://arxiv.org/abs/2310.18152v3)|null|
-|**2023-03-11**|**Multimodal Data Integration for Oncology in the Era of Deep Neural Networks: A Review**|Asim Waqas et.al.|[2303.06471v2](http://arxiv.org/abs/2303.06471v2)|null|
-|**2023-11-01**|**Kronecker-Factored Approximate Curvature for Modern Neural Network Architectures**|Runa Eschenhagen et.al.|[2311.00636v2](http://arxiv.org/abs/2311.00636v2)|null|
-|**2024-01-11**|**On the Power of Graph Neural Networks and Feature Augmentation Strategies to Classify Social Networks**|Walid Guettala et.al.|[2401.06048v1](http://arxiv.org/abs/2401.06048v1)|null|
-|**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040v1](http://arxiv.org/abs/2401.06040v1)|[link](https://github.com/qqian99/wavgcrn)|
-|**2024-01-04**|**Spectral-based Graph Neural Networks for Complementary Item Recommendation**|Haitong Luo et.al.|[2401.02130v2](http://arxiv.org/abs/2401.02130v2)|null|
-|**2024-01-11**|**Use of Graph Neural Networks in Aiding Defensive Cyber Operations**|Shaswata Mitra et.al.|[2401.05680v1](http://arxiv.org/abs/2401.05680v1)|null|
-|**2023-09-10**|**Distance-Restricted Folklore Weisfeiler-Leman GNNs with Provable Cycle Counting Power**|Junru Zhou et.al.|[2309.04941v3](http://arxiv.org/abs/2309.04941v3)|[link](https://github.com/zml72062/dr-fwl-2)|
-|**2024-01-11**|**Graph Q-Learning for Combinatorial Optimization**|Victoria M. Dax et.al.|[2401.05610v1](http://arxiv.org/abs/2401.05610v1)|null|
-|**2023-09-02**|**SEPAL: Spatial Gene Expression Prediction from Local Graphs**|Gabriel Mejia et.al.|[2309.01036v3](http://arxiv.org/abs/2309.01036v3)|[link](https://github.com/bcv-uniandes/sepal)|
-|**2023-10-17**|**Analyzing Modularity Maximization in Approximation, Heuristic, and Graph Neural Network Algorithms for Community Detection**|Samin Aref et.al.|[2310.10898v2](http://arxiv.org/abs/2310.10898v2)|null|
-|**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,8 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v2](http://arxiv.org/abs/2211.02951v2)|null|
+|**2022-03-19**|**On Practical Nearest Sub-Trajectory Queries under the Fréchet Distance**|Joachim Gudmundsson et.al.|[2203.10364v2](http://arxiv.org/abs/2203.10364v2)|[link](https://github.com/japfeifer/frechet-queries)|
 |**2024-01-11**|**Multivariate Extreme Value Theory Based Channel Modeling for Ultra-Reliable Communications**|Niloofar Mehrnia et.al.|[2401.05833v1](http://arxiv.org/abs/2401.05833v1)|null|
 |**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v2](http://arxiv.org/abs/2401.03126v2)|null|
 |**2023-12-22**|**Generalized differentiability of the metric projection operator in Hilbert spaces**|Jinlu Li et.al.|[2401.01906v2](http://arxiv.org/abs/2401.01906v2)|null|
@@ -70,14 +72,19 @@
 |**2023-12-30**|**GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation**|M. AbdulRazek et.al.|[2401.00314v1](http://arxiv.org/abs/2401.00314v1)|null|
 |**2020-07-10**|**The maximal degree in random recursive graphs with random weights**|Bas Lodewijks et.al.|[2007.05438v4](http://arxiv.org/abs/2007.05438v4)|null|
 |**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251v1](http://arxiv.org/abs/2312.16251v1)|[link](https://github.com/xxyqwq/metascript)|
-|**2020-11-05**|**Noncommutative $C^k$ functions and Fréchet derivatives of operator functions**|Evangelos A. Nikitopoulos et.al.|[2011.03126v3](http://arxiv.org/abs/2011.03126v3)|null|
-|**2023-12-22**|**Local boundary representations for local operator systems**|Maria Joiţa et.al.|[2312.14477v1](http://arxiv.org/abs/2312.14477v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-16**|**Sparse PCA with False Discovery Rate Controlled Variable Selection**|Jasin Machkour et.al.|[2401.08375v1](http://arxiv.org/abs/2401.08375v1)|null|
+|**2023-06-15**|**AQuA: A Benchmarking Tool for Label Quality Assessment**|Mononito Goswami et.al.|[2306.09467v2](http://arxiv.org/abs/2306.09467v2)|[link](https://github.com/autonlab/aqua)|
+|**2024-01-16**|**On GEE for Mean-Variance-Correlation Models: Variance Estimation and Model Selection**|Zhenyu Xu et.al.|[2401.08172v1](http://arxiv.org/abs/2401.08172v1)|null|
+|**2022-06-10**|**Integrating complex selection rules into the latent overlapping group Lasso for constructing coherent prediction models**|Guanbo Wang et.al.|[2206.05337v2](http://arxiv.org/abs/2206.05337v2)|[link](https://github.com/guanbo-w/selectiondictionary)|
+|**2021-10-03**|**A general framework for formulating structured variable selection**|Guanbo Wang et.al.|[2110.01031v4](http://arxiv.org/abs/2110.01031v4)|null|
+|**2023-10-10**|**Bayesian cross-validation by parallel Markov Chain Monte Carlo**|Alex Cooper et.al.|[2310.07002v2](http://arxiv.org/abs/2310.07002v2)|[link](https://github.com/kuperov/parallelcv)|
+|**2024-01-12**|**An Axiomatic Approach to Model-Agnostic Concept Explanations**|Zhili Feng et.al.|[2401.06890v1](http://arxiv.org/abs/2401.06890v1)|null|
 |**2024-01-12**|**A Weibull Mixture Cure Frailty Model for High-dimensional Covariates**|Fatih Kızılaslan et.al.|[2401.06575v1](http://arxiv.org/abs/2401.06575v1)|null|
 |**2024-01-12**|**Valid causal inference with unobserved confounding in high-dimensional settings**|Niloofar Moosavi et.al.|[2401.06564v1](http://arxiv.org/abs/2401.06564v1)|[link](https://github.com/stat4reg/hdim.ui)|
 |**2024-01-12**|**INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning**|Yutao Zhu et.al.|[2401.06532v1](http://arxiv.org/abs/2401.06532v1)|[link](https://github.com/daod/inters)|
@@ -86,10 +93,3 @@
 |**2024-01-10**|**Arrival Time Prediction for Autonomous Shuttle Services in the Real World: Evidence from Five Cities**|Carolin Schmidt et.al.|[2401.05322v1](http://arxiv.org/abs/2401.05322v1)|null|
 |**2024-01-10**|**Experiment Planning with Function Approximation**|Aldo Pacchiano et.al.|[2401.05193v1](http://arxiv.org/abs/2401.05193v1)|null|
 |**2023-11-30**|**Model selection for risk analysis of wastewater networks**|Aaron Dunton et.al.|[2312.06623v2](http://arxiv.org/abs/2312.06623v2)|[link](https://github.com/ajdunton/ww-model-selection)|
-|**2024-01-09**|**Co-Clustering Multi-View Data Using the Latent Block Model**|Joshua Tobin et.al.|[2401.04693v1](http://arxiv.org/abs/2401.04693v1)|null|
-|**2023-07-12**|**Online Laplace Model Selection Revisited**|Jihao Andreas Lin et.al.|[2307.06093v2](http://arxiv.org/abs/2307.06093v2)|null|
-|**2023-10-11**|**Risk Assessment and Statistical Significance in the Age of Foundation Models**|Apoorva Nitsure et.al.|[2310.07132v2](http://arxiv.org/abs/2310.07132v2)|null|
-|**2024-01-09**|**Semi-Supervised Deep Sobolev Regression: Estimation, Variable Selection and Beyond**|Zhao Ding et.al.|[2401.04535v1](http://arxiv.org/abs/2401.04535v1)|null|
-|**2023-04-21**|**Auditing and Generating Synthetic Data with Controllable Trust Trade-offs**|Brian Belgodere et.al.|[2304.10819v3](http://arxiv.org/abs/2304.10819v3)|null|
-|**2024-01-09**|**Learning tapestries, a statistical learning substrate for open chaotic systems measured with error**|Michael LuValle et.al.|[2401.04410v1](http://arxiv.org/abs/2401.04410v1)|null|
-|**2024-01-09**|**On the Stochastic Gravitational Wave Background from Binary Black Hole Mergers Dynamically Assembled in Dense Star Clusters**|Xiao-Xiao Kou et.al.|[2401.04347v1](http://arxiv.org/abs/2401.04347v1)|null|
