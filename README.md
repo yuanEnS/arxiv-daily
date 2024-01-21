@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-21 07:23:42 Asia/Shanghai
+ Automated deployment @ 2024-01-21 19:19:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2023-05-22**|**GraphCare: Enhancing Healthcare Predictions with Personalized Knowledge Graphs**|Pengcheng Jiang et.al.|[2305.12788v3](http://arxiv.org/abs/2305.12788v3)|null|
 |**2024-01-17**|**BENO: Boundary-embedded Neural Operators for Elliptic PDEs**|Haixin Wang et.al.|[2401.09323v1](http://arxiv.org/abs/2401.09323v1)|[link](https://github.com/ai4science-westlakeu/beno)|
 |**2024-01-17**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193v1](http://arxiv.org/abs/2401.09193v1)|[link](https://github.com/gdl-unive/histogram-intersection-kernel)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-18**|**Functional Conditional Gaussian Graphical Models**|Rita Fici et.al.|[2401.10196v1](http://arxiv.org/abs/2401.10196v1)|null|
+|**2024-01-18**|**tinyVAST: R package with an expressive interface to specify lagged and simultaneous effects in multivariate spatio-temporal models**|James T. Thorson et.al.|[2401.10193v1](http://arxiv.org/abs/2401.10193v1)|null|
+|**2024-01-18**|**Chiral confining Hartree-Fock Lagrangians based on Nambu-Jona--Lasino model**|M. Chamseddine et.al.|[2401.10100v1](http://arxiv.org/abs/2401.10100v1)|null|
+|**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061v1](http://arxiv.org/abs/2401.10061v1)|null|
+|**2024-01-18**|**False Discovery Rate Control for Gaussian Graphical Models via Neighborhood Screening**|Taulant Koka et.al.|[2401.09979v1](http://arxiv.org/abs/2401.09979v1)|null|
+|**2020-08-07**|**From the power law to extreme value mixture distributions**|Clement Lee et.al.|[2008.03073v4](http://arxiv.org/abs/2008.03073v4)|null|
+|**2023-01-17**|**Testing Firm Conduct**|Marco Duarte et.al.|[2301.06720v2](http://arxiv.org/abs/2301.06720v2)|[link](https://github.com/anyatarascina/pyrvtest)|
+|**2024-01-16**|**Sparse PCA with False Discovery Rate Controlled Variable Selection**|Jasin Machkour et.al.|[2401.08375v1](http://arxiv.org/abs/2401.08375v1)|null|
+|**2023-06-15**|**AQuA: A Benchmarking Tool for Label Quality Assessment**|Mononito Goswami et.al.|[2306.09467v2](http://arxiv.org/abs/2306.09467v2)|[link](https://github.com/autonlab/aqua)|
+|**2024-01-16**|**On GEE for Mean-Variance-Correlation Models: Variance Estimation and Model Selection**|Zhenyu Xu et.al.|[2401.08172v1](http://arxiv.org/abs/2401.08172v1)|null|
+|**2022-06-10**|**Integrating complex selection rules into the latent overlapping group Lasso for constructing coherent prediction models**|Guanbo Wang et.al.|[2206.05337v2](http://arxiv.org/abs/2206.05337v2)|[link](https://github.com/guanbo-w/selectiondictionary)|
+|**2021-10-03**|**A general framework for formulating structured variable selection**|Guanbo Wang et.al.|[2110.01031v4](http://arxiv.org/abs/2110.01031v4)|null|
+|**2023-10-10**|**Bayesian cross-validation by parallel Markov Chain Monte Carlo**|Alex Cooper et.al.|[2310.07002v2](http://arxiv.org/abs/2310.07002v2)|[link](https://github.com/kuperov/parallelcv)|
+|**2024-01-12**|**An Axiomatic Approach to Model-Agnostic Concept Explanations**|Zhili Feng et.al.|[2401.06890v1](http://arxiv.org/abs/2401.06890v1)|null|
+|**2024-01-12**|**A Weibull Mixture Cure Frailty Model for High-dimensional Covariates**|Fatih Kızılaslan et.al.|[2401.06575v1](http://arxiv.org/abs/2401.06575v1)|[link](https://github.com/fatihki/penmcfm)|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2023-12-30**|**GAN-GA: A Generative Model based on Genetic Algorithm for Medical Image Generation**|M. AbdulRazek et.al.|[2401.00314v1](http://arxiv.org/abs/2401.00314v1)|null|
 |**2020-07-10**|**The maximal degree in random recursive graphs with random weights**|Bas Lodewijks et.al.|[2007.05438v4](http://arxiv.org/abs/2007.05438v4)|null|
 |**2023-12-25**|**MetaScript: Few-Shot Handwritten Chinese Content Generation via Generative Adversarial Networks**|Xiangyuan Xue et.al.|[2312.16251v1](http://arxiv.org/abs/2312.16251v1)|[link](https://github.com/xxyqwq/metascript)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-18**|**Functional Conditional Gaussian Graphical Models**|Rita Fici et.al.|[2401.10196v1](http://arxiv.org/abs/2401.10196v1)|null|
-|**2024-01-18**|**tinyVAST: R package with an expressive interface to specify lagged and simultaneous effects in multivariate spatio-temporal models**|James T. Thorson et.al.|[2401.10193v1](http://arxiv.org/abs/2401.10193v1)|null|
-|**2024-01-18**|**Chiral confining Hartree-Fock Lagrangians based on Nambu-Jona--Lasino model**|M. Chamseddine et.al.|[2401.10100v1](http://arxiv.org/abs/2401.10100v1)|null|
-|**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061v1](http://arxiv.org/abs/2401.10061v1)|null|
-|**2024-01-18**|**False Discovery Rate Control for Gaussian Graphical Models via Neighborhood Screening**|Taulant Koka et.al.|[2401.09979v1](http://arxiv.org/abs/2401.09979v1)|null|
-|**2020-08-07**|**From the power law to extreme value mixture distributions**|Clement Lee et.al.|[2008.03073v4](http://arxiv.org/abs/2008.03073v4)|null|
-|**2023-01-17**|**Testing Firm Conduct**|Marco Duarte et.al.|[2301.06720v2](http://arxiv.org/abs/2301.06720v2)|[link](https://github.com/anyatarascina/pyrvtest)|
-|**2024-01-16**|**Sparse PCA with False Discovery Rate Controlled Variable Selection**|Jasin Machkour et.al.|[2401.08375v1](http://arxiv.org/abs/2401.08375v1)|null|
-|**2023-06-15**|**AQuA: A Benchmarking Tool for Label Quality Assessment**|Mononito Goswami et.al.|[2306.09467v2](http://arxiv.org/abs/2306.09467v2)|[link](https://github.com/autonlab/aqua)|
-|**2024-01-16**|**On GEE for Mean-Variance-Correlation Models: Variance Estimation and Model Selection**|Zhenyu Xu et.al.|[2401.08172v1](http://arxiv.org/abs/2401.08172v1)|null|
-|**2022-06-10**|**Integrating complex selection rules into the latent overlapping group Lasso for constructing coherent prediction models**|Guanbo Wang et.al.|[2206.05337v2](http://arxiv.org/abs/2206.05337v2)|[link](https://github.com/guanbo-w/selectiondictionary)|
-|**2021-10-03**|**A general framework for formulating structured variable selection**|Guanbo Wang et.al.|[2110.01031v4](http://arxiv.org/abs/2110.01031v4)|null|
-|**2023-10-10**|**Bayesian cross-validation by parallel Markov Chain Monte Carlo**|Alex Cooper et.al.|[2310.07002v2](http://arxiv.org/abs/2310.07002v2)|[link](https://github.com/kuperov/parallelcv)|
-|**2024-01-12**|**An Axiomatic Approach to Model-Agnostic Concept Explanations**|Zhili Feng et.al.|[2401.06890v1](http://arxiv.org/abs/2401.06890v1)|null|
-|**2024-01-12**|**A Weibull Mixture Cure Frailty Model for High-dimensional Covariates**|Fatih Kızılaslan et.al.|[2401.06575v1](http://arxiv.org/abs/2401.06575v1)|[link](https://github.com/fatihki/penmcfm)|
