@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-27 07:22:23 Asia/Shanghai
+ Automated deployment @ 2024-01-27 19:18:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -85,7 +85,7 @@
 |**2023-11-17**|**How False Data Affects Machine Learning Models in Electrochemistry?**|Krittapong Deshsorna et.al.|[2311.10795v2](http://arxiv.org/abs/2311.10795v2)|[link](https://github.com/Demodesu/How-False-Data-Affects-Machine-Learning-Models-in-Electrochemistry)|
 |**2024-01-23**|**Gridsemble: Selective Ensembling for False Discovery Rates**|Jenna M. Landy et.al.|[2401.12865v1](http://arxiv.org/abs/2401.12865v1)|[link](https://github.com/jennalandy/gridsemblefdr)|
 |**2023-06-05**|**Data-Driven Online Model Selection With Regret Guarantees**|Aldo Pacchiano et.al.|[2306.02869v3](http://arxiv.org/abs/2306.02869v3)|null|
-|**2024-01-23**|**A Computationally Efficient Approach to False Discovery Rate Control and Power Maximisation via Randomisation and Mirror Statistic**|Marco Molinari et.al.|[2401.12697v1](http://arxiv.org/abs/2401.12697v1)|null|
+|**2024-01-23**|**A Computationally Efficient Approach to False Discovery Rate Control and Power Maximisation via Randomisation and Mirror Statistic**|Marco Molinari et.al.|[2401.12697v1](http://arxiv.org/abs/2401.12697v1)|[link](https://github.com/marcoelba/selectiveinference)|
 |**2023-09-15**|**Quantifying predictive uncertainty of aphasia severity in stroke patients with sparse heteroscedastic Bayesian high-dimensional regression**|Anja Zgodic et.al.|[2309.08783v3](http://arxiv.org/abs/2309.08783v3)|null|
 |**2024-01-23**|**Towards Improved Variational Inference for Deep Bayesian Models**|Sebastian W. Ober et.al.|[2401.12418v1](http://arxiv.org/abs/2401.12418v1)|null|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512v1](http://arxiv.org/abs/2401.11512v1)|null|
