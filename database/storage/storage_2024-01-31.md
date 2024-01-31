@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-01-31 07:23:21 Asia/Shanghai
+ Automated deployment @ 2024-01-31 19:18:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,23 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299v1](http://arxiv.org/abs/2401.16299v1)|null|
-|**2024-01-29**|**Graph Neural Networks: Theory for Estimation with Application on Network Heterogeneity**|Yike Wang et.al.|[2401.16275v1](http://arxiv.org/abs/2401.16275v1)|null|
-|**2024-01-29**|**AnisoGNN: graph neural networks generalizing to anisotropic properties of polycrystals**|Guangyu Hu et.al.|[2401.16271v1](http://arxiv.org/abs/2401.16271v1)|null|
-|**2024-01-29**|**Graph Neural Network-based Joint Equalization and Decoding**|Jannis Clausius et.al.|[2401.16187v1](http://arxiv.org/abs/2401.16187v1)|null|
-|**2024-01-29**|**Combined track finding with GNN & CKF**|Lukas Heinrich et.al.|[2401.16016v1](http://arxiv.org/abs/2401.16016v1)|null|
-|**2023-05-31**|**Improving Expressivity of Graph Neural Networks using Localization**|Anant Kumar et.al.|[2305.19659v3](http://arxiv.org/abs/2305.19659v3)|null|
-|**2024-01-29**|**Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction**|Zhixin Huang et.al.|[2401.15964v1](http://arxiv.org/abs/2401.15964v1)|null|
-|**2023-09-13**|**Improved particle-flow event reconstruction with scalable neural networks for current and future particle detectors**|Joosep Pata et.al.|[2309.06782v4](http://arxiv.org/abs/2309.06782v4)|null|
-|**2024-01-29**|**A Gated MLP Architecture for Learning Topological Dependencies in Spatio-Temporal Graphs**|Yun Young Choi et.al.|[2401.15894v1](http://arxiv.org/abs/2401.15894v1)|null|
-|**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507v2](http://arxiv.org/abs/2311.04507v2)|[link](https://github.com/leson502/CORECT_EMNLP2023)|
-|**2024-01-23**|**PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering**|Yifang Qin et.al.|[2401.12590v2](http://arxiv.org/abs/2401.12590v2)|null|
-|**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007v2](http://arxiv.org/abs/2401.12007v2)|[link](https://github.com/taowen0309/ttg-nn)|
-|**2023-09-23**|**Enhancing Student Performance Prediction on Learnersourced Questions with SGNN-LLM Synergy**|Lin Ni et.al.|[2309.13500v3](http://arxiv.org/abs/2309.13500v3)|null|
-|**2022-07-03**|**DiSCoMaT: Distantly Supervised Composition Extraction from Tables in Materials Science Articles**|Tanishq Gupta et.al.|[2207.01079v4](http://arxiv.org/abs/2207.01079v4)|[link](https://github.com/m3rg-iitd/discomat)|
-|**2024-01-25**|**Estimation of partially known Gaussian graphical models with score-based structural priors**|Martín Sevilla et.al.|[2401.14340v2](http://arxiv.org/abs/2401.14340v2)|[link](https://github.com/tenceto/langevin_ggm)|
+|**2023-03-22**|**LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals**|Arjun Karpur et.al.|[2303.12779v3](http://arxiv.org/abs/2303.12779v3)|null|
+|**2023-10-19**|**Graph Neural Networks with polynomial activations have limited expressivity**|Sammy Khalife et.al.|[2310.13139v4](http://arxiv.org/abs/2310.13139v4)|null|
+|**2023-06-13**|**Discrete Graph Auto-Encoder**|Yoann Boget et.al.|[2306.07735v2](http://arxiv.org/abs/2306.07735v2)|null|
+|**2024-01-17**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering**|Jingwei Guo et.al.|[2401.09071v2](http://arxiv.org/abs/2401.09071v2)|null|
+|**2023-08-28**|**TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems**|Peiyan Zhang et.al.|[2308.14355v2](http://arxiv.org/abs/2308.14355v2)|null|
+|**2024-01-05**|**Powerformer: A Section-adaptive Transformer for Power Flow Adjustment**|Kaixuan Chen et.al.|[2401.02771v3](http://arxiv.org/abs/2401.02771v3)|null|
+|**2024-01-30**|**Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials**|Ivan Grega et.al.|[2401.16914v1](http://arxiv.org/abs/2401.16914v1)|null|
+|**2023-10-16**|**Equivariant Matrix Function Neural Networks**|Ilyes Batatia et.al.|[2310.10434v2](http://arxiv.org/abs/2310.10434v2)|null|
+|**2023-10-24**|**Solving the flexible job-shop scheduling problem through an enhanced deep reinforcement learning approach**|Imanol Echeverria et.al.|[2310.15706v2](http://arxiv.org/abs/2310.15706v2)|null|
+|**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507v3](http://arxiv.org/abs/2311.04507v3)|[link](https://github.com/leson502/CORECT_EMNLP2023)|
+|**2024-01-30**|**Online Algorithm for Node Feature Forecasting in Temporal Graphs**|Aniq Ur Rahman et.al.|[2401.16800v1](http://arxiv.org/abs/2401.16800v1)|null|
+|**2024-01-30**|**Graph Fairness Learning under Distribution Shifts**|Yibo Li et.al.|[2401.16784v1](http://arxiv.org/abs/2401.16784v1)|null|
+|**2023-11-28**|**MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs**|Xingtong Yu et.al.|[2312.03731v4](http://arxiv.org/abs/2312.03731v4)|null|
+|**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007v3](http://arxiv.org/abs/2401.12007v3)|[link](https://github.com/taowen0309/ttg-nn)|
+|**2023-09-17**|**Towards Differential Privacy in Sequential Recommendation: A Noisy Graph Neural Network Approach**|Wentao Hu et.al.|[2309.11515v2](http://arxiv.org/abs/2309.11515v2)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-26**|**Faster Fréchet Distance Approximation through Truncated Smoothing**|Thijs van der Horst et.al.|[2401.14815v1](http://arxiv.org/abs/2401.14815v1)|null|
-|**2023-11-30**|**Rethinking FID: Towards a Better Evaluation Metric for Image Generation**|Sadeep Jayasumana et.al.|[2401.09603v2](http://arxiv.org/abs/2401.09603v2)|[link](https://github.com/google-research/google-research)|
-|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v3](http://arxiv.org/abs/2211.02951v3)|null|
-|**2024-01-25**|**Existence of solution for two classes of quasilinear systems defined on a non-reflexive Orlicz-Sobolev Spaces**|Lucas da Silva et.al.|[2401.13955v1](http://arxiv.org/abs/2401.13955v1)|null|
-|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v6](http://arxiv.org/abs/2306.08013v6)|[link](https://github.com/LAIT-CVLab/TopPR)|
-|**2023-07-10**|**On the first bifurcation of Stokes waves**|Vladimir Kozlov et.al.|[2307.05573v2](http://arxiv.org/abs/2307.05573v2)|null|
-|**2024-01-19**|**Dream360: Diverse and Immersive Outdoor Virtual Scene Creation via Transformer-Based 360 Image Outpainting**|Hao Ai et.al.|[2401.10564v1](http://arxiv.org/abs/2401.10564v1)|null|
-|**2022-03-19**|**On Practical Nearest Sub-Trajectory Queries under the Fréchet Distance**|Joachim Gudmundsson et.al.|[2203.10364v2](http://arxiv.org/abs/2203.10364v2)|[link](https://github.com/japfeifer/frechet-queries)|
-|**2024-01-11**|**Multivariate Extreme Value Theory Based Channel Modeling for Ultra-Reliable Communications**|Niloofar Mehrnia et.al.|[2401.05833v1](http://arxiv.org/abs/2401.05833v1)|null|
-|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v2](http://arxiv.org/abs/2401.03126v2)|null|
-|**2023-12-22**|**Generalized differentiability of the metric projection operator in Hilbert spaces**|Jinlu Li et.al.|[2401.01906v2](http://arxiv.org/abs/2401.01906v2)|null|
-|**2024-01-09**|**Vision Reimagined: AI-Powered Breakthroughs in WiFi Indoor Imaging**|Jianyang Shi et.al.|[2401.04317v1](http://arxiv.org/abs/2401.04317v1)|null|
-|**2024-01-07**|**Revisiting the Fréchet distance between piecewise smooth curves**|Jacobus Conradi et.al.|[2401.03339v1](http://arxiv.org/abs/2401.03339v1)|null|
-|**2023-09-14**|**Retrieval-Augmented Text-to-Audio Generation**|Yi Yuan et.al.|[2309.08051v2](http://arxiv.org/abs/2309.08051v2)|null|
-|**2024-01-04**|**When ideals properly extend the class of Arbault sets**|Pratulananda Das et.al.|[2401.02103v1](http://arxiv.org/abs/2401.02103v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -73,11 +54,32 @@
 |**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
 |**2022-11-30**|**Exponential Concentration for Geometric-Median-of-Means in Non-Positive Curvature Spaces**|Ho Yun et.al.|[2211.17155v1](http://arxiv.org/abs/2211.17155v1)|null|
 
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-01-30**|**Polynomial Chaos Expansions on Principal Geodesic Grassmannian Submanifolds for Surrogate Modeling and Uncertainty Quantification**|Dimitris G. Giovanis et.al.|[2401.16683v1](http://arxiv.org/abs/2401.16683v1)|null|
+|**2024-01-26**|**Faster Fréchet Distance Approximation through Truncated Smoothing**|Thijs van der Horst et.al.|[2401.14815v1](http://arxiv.org/abs/2401.14815v1)|null|
+|**2023-11-30**|**Rethinking FID: Towards a Better Evaluation Metric for Image Generation**|Sadeep Jayasumana et.al.|[2401.09603v2](http://arxiv.org/abs/2401.09603v2)|[link](https://github.com/google-research/google-research)|
+|**2022-11-05**|**Map matching queries on realistic input graphs under the Fréchet distance**|Joachim Gudmundsson et.al.|[2211.02951v3](http://arxiv.org/abs/2211.02951v3)|null|
+|**2024-01-25**|**Existence of solution for two classes of quasilinear systems defined on a non-reflexive Orlicz-Sobolev Spaces**|Lucas da Silva et.al.|[2401.13955v1](http://arxiv.org/abs/2401.13955v1)|null|
+|**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v6](http://arxiv.org/abs/2306.08013v6)|[link](https://github.com/LAIT-CVLab/TopPR)|
+|**2023-07-10**|**On the first bifurcation of Stokes waves**|Vladimir Kozlov et.al.|[2307.05573v2](http://arxiv.org/abs/2307.05573v2)|null|
+|**2024-01-19**|**Dream360: Diverse and Immersive Outdoor Virtual Scene Creation via Transformer-Based 360 Image Outpainting**|Hao Ai et.al.|[2401.10564v1](http://arxiv.org/abs/2401.10564v1)|null|
+|**2022-03-19**|**On Practical Nearest Sub-Trajectory Queries under the Fréchet Distance**|Joachim Gudmundsson et.al.|[2203.10364v2](http://arxiv.org/abs/2203.10364v2)|[link](https://github.com/japfeifer/frechet-queries)|
+|**2024-01-11**|**Multivariate Extreme Value Theory Based Channel Modeling for Ultra-Reliable Communications**|Niloofar Mehrnia et.al.|[2401.05833v1](http://arxiv.org/abs/2401.05833v1)|null|
+|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v2](http://arxiv.org/abs/2401.03126v2)|null|
+|**2023-12-22**|**Generalized differentiability of the metric projection operator in Hilbert spaces**|Jinlu Li et.al.|[2401.01906v2](http://arxiv.org/abs/2401.01906v2)|null|
+|**2024-01-09**|**Vision Reimagined: AI-Powered Breakthroughs in WiFi Indoor Imaging**|Jianyang Shi et.al.|[2401.04317v1](http://arxiv.org/abs/2401.04317v1)|null|
+|**2024-01-07**|**Revisiting the Fréchet distance between piecewise smooth curves**|Jacobus Conradi et.al.|[2401.03339v1](http://arxiv.org/abs/2401.03339v1)|null|
+|**2023-09-14**|**Retrieval-Augmented Text-to-Audio Generation**|Yi Yuan et.al.|[2309.08051v2](http://arxiv.org/abs/2309.08051v2)|null|
+
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-01-30**|**Dynamical System Identification, Model Selection and Model Uncertainty Quantification by Bayesian Inference**|Robert K. Niven et.al.|[2401.16943v1](http://arxiv.org/abs/2401.16943v1)|null|
+|**2024-01-29**|**MT-HCCAR: Multi-Task Deep Learning with Hierarchical Classification and Attention-based Regression for Cloud Property Retrieval**|Xingyan Li et.al.|[2401.16520v1](http://arxiv.org/abs/2401.16520v1)|[link](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
 |**2024-01-29**|**Is K-fold cross validation the best model selection method for Machine Learning?**|Juan M Gorriz et.al.|[2401.16407v1](http://arxiv.org/abs/2401.16407v1)|null|
 |**2024-01-26**|**Graph fission and cross-validation**|James Leiner et.al.|[2401.15063v2](http://arxiv.org/abs/2401.15063v2)|null|
 |**2024-01-29**|**Green Runner: A tool for efficient deep learning component selection**|Jai Kannan et.al.|[2401.15810v1](http://arxiv.org/abs/2401.15810v1)|null|
@@ -91,5 +93,3 @@
 |**2024-01-25**|**GammaBayes: a Bayesian pipeline for dark matter detection with CTA**|Liam Pinchbeck et.al.|[2401.13876v1](http://arxiv.org/abs/2401.13876v1)|[link](https://github.com/lpin0002/gammabayes)|
 |**2024-01-24**|**An Ising Similarity Regression Model for Modeling Multivariate Binary Data**|Zhi Yang Tho et.al.|[2401.13379v1](http://arxiv.org/abs/2401.13379v1)|null|
 |**2024-01-24**|**Assessing Influential Observations in Pain Prediction using fMRI Data**|Dongliang Zhang et.al.|[2401.13208v1](http://arxiv.org/abs/2401.13208v1)|null|
-|**2023-11-17**|**How False Data Affects Machine Learning Models in Electrochemistry?**|Krittapong Deshsorna et.al.|[2311.10795v2](http://arxiv.org/abs/2311.10795v2)|[link](https://github.com/Demodesu/How-False-Data-Affects-Machine-Learning-Models-in-Electrochemistry)|
-|**2024-01-23**|**Gridsemble: Selective Ensembling for False Discovery Rates**|Jenna M. Landy et.al.|[2401.12865v1](http://arxiv.org/abs/2401.12865v1)|[link](https://github.com/jennalandy/gridsemblefdr)|
