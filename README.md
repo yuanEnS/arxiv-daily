@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-04 07:21:20 Asia/Shanghai
+ Automated deployment @ 2024-02-04 19:18:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -24,7 +24,7 @@
 |**2024-02-01**|**CPT: Competence-progressive Training Strategy for Few-shot Node Classification**|Qilong Yan et.al.|[2402.00450v1](http://arxiv.org/abs/2402.00450v1)|null|
 |**2024-02-01**|**A Survey of Data-Efficient Graph Learning**|Wei Ju et.al.|[2402.00447v1](http://arxiv.org/abs/2402.00447v1)|null|
 |**2024-02-01**|**Attention-based Dynamic Multilayer Graph Neural Networks for Loan Default Prediction**|Sahab Zandi et.al.|[2402.00299v1](http://arxiv.org/abs/2402.00299v1)|null|
-|**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661v2](http://arxiv.org/abs/2401.03661v2)|null|
+|**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661v2](http://arxiv.org/abs/2401.03661v2)|[link](https://github.com/yigongqin/graingraphnn)|
 |**2024-01-31**|**Benchmarking Sensitivity of Continual Graph Learning for Skeleton-Based Action Recognition**|Wei Wei et.al.|[2401.18054v1](http://arxiv.org/abs/2401.18054v1)|null|
 |**2024-01-31**|**Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning**|Erwan Escudie et.al.|[2401.17914v1](http://arxiv.org/abs/2401.17914v1)|null|
 |**2024-01-31**|**Graph Transformers without Positional Encodings**|Ayush Garg et.al.|[2401.17791v1](http://arxiv.org/abs/2401.17791v1)|null|
@@ -81,7 +81,7 @@
 |**2023-03-10**|**Machine learning for sports betting: should model selection be based on accuracy or calibration?**|Conor Walsh et.al.|[2303.06021v4](http://arxiv.org/abs/2303.06021v4)|null|
 |**2024-02-01**|**Dropout-Based Rashomon Set Exploration for Efficient Predictive Multiplicity Estimation**|Hsiang Hsu et.al.|[2402.00728v1](http://arxiv.org/abs/2402.00728v1)|null|
 |**2024-02-01**|**Factor copula models for non-Gaussian longitudinal data**|Subhajit Chattopadhyay et.al.|[2402.00668v1](http://arxiv.org/abs/2402.00668v1)|null|
-|**2020-10-13**|**Quasi-maximum Likelihood Inference for Linear Double Autoregressive Models**|Hua Liu et.al.|[2010.06103v2](http://arxiv.org/abs/2010.06103v2)|null|
+|**2020-10-13**|**Quasi-maximum Likelihood Inference for Linear Double Autoregressive Models**|Hua Liu et.al.|[2010.06103v2](http://arxiv.org/abs/2010.06103v2)|[link](https://github.com/tansonghua-sufe/linear-double-autoregression)|
 |**2024-02-01**|**A Personalized Framework for Consumer and Producer Group Fairness Optimization in Recommender Systems**|Hossein A. Rahmani et.al.|[2402.00485v1](http://arxiv.org/abs/2402.00485v1)|null|
 |**2024-01-31**|**A review of regularised estimation methods and cross-validation in spatiotemporal statistics**|Philipp Otto et.al.|[2402.00183v1](http://arxiv.org/abs/2402.00183v1)|null|
 |**2024-01-31**|**Penalized G-estimation for effect modifier selection in the structural nested mean models for repeated outcomes**|Ajmery Jaman et.al.|[2402.00154v1](http://arxiv.org/abs/2402.00154v1)|null|
