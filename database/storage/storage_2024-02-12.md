@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-12 07:21:59 Asia/Shanghai
+ Automated deployment @ 2024-02-12 19:18:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-09**|**Deceptive Path Planning via Reinforcement Learning with Graph Neural Networks**|Michael Y. Fatemi et.al.|[2402.06552v1](http://arxiv.org/abs/2402.06552v1)|[link](https://github.com/myfatemi04/rl-deceptive-graph-planning)|
+|**2024-02-07**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915v2](http://arxiv.org/abs/2402.04915v2)|[link](https://github.com/timd3/moco)|
+|**2024-02-09**|**The Deep Equilibrium Algorithmic Reasoner**|Dobrik Georgiev et.al.|[2402.06445v1](http://arxiv.org/abs/2402.06445v1)|null|
+|**2024-01-25**|**Energy-Efficient Power Allocation in Cell-Free Massive MIMO via Graph Neural Networks**|Ramprasad Raghunath et.al.|[2401.14281v3](http://arxiv.org/abs/2401.14281v3)|[link](https://gitlab.com/ichbinram/ee_cell_free)|
+|**2023-08-31**|**CktGNN: Circuit Graph Neural Network for Electronic Design Automation**|Zehao Dong et.al.|[2308.16406v2](http://arxiv.org/abs/2308.16406v2)|[link](https://github.com/zehao-dong/CktGNN)|
+|**2023-09-01**|**Rethinking the Power of Graph Canonization in Graph Representation Learning with Stability**|Zehao Dong et.al.|[2309.00738v3](http://arxiv.org/abs/2309.00738v3)|null|
+|**2024-02-09**|**Neural SPH: Improved Neural Modeling of Lagrangian Fluid Dynamics**|Artur P. Toshev et.al.|[2402.06275v1](http://arxiv.org/abs/2402.06275v1)|[link](https://github.com/tumaer/neuralsph)|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v2](http://arxiv.org/abs/2402.05894v2)|null|
+|**2024-02-09**|**N-1 Reduced Optimal Power Flow Using Augmented Hierarchical Graph Neural Network**|Thuan Pham et.al.|[2402.06226v1](http://arxiv.org/abs/2402.06226v1)|null|
+|**2024-01-30**|**Time Series Supplier Allocation via Deep Black-Litterman Model**|Jiayuan Luo et.al.|[2401.17350v2](http://arxiv.org/abs/2401.17350v2)|[link](https://github.com/wentaozhang2001/dblm)|
+|**2024-02-09**|**Rethinking Node-wise Propagation for Large-scale Graph Learning**|Xunkai Li et.al.|[2402.06128v1](http://arxiv.org/abs/2402.06128v1)|[link](https://github.com/xkli-allen/atp)|
+|**2024-01-19**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve Health Outcomes**|Jodi Chiam et.al.|[2401.10816v2](http://arxiv.org/abs/2401.10816v2)|null|
+|**2024-02-08**|**Deep Learning for Data-Driven Districting-and-Routing**|Arthur Ferraz et.al.|[2402.06040v1](http://arxiv.org/abs/2402.06040v1)|null|
+|**2024-02-08**|**Game-theoretic Counterfactual Explanation for Graph Neural Networks**|Chirag Chhablani et.al.|[2402.06030v1](http://arxiv.org/abs/2402.06030v1)|null|
 |**2024-02-08**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934v1](http://arxiv.org/abs/2402.05934v1)|[link](https://github.com/dani3lwinter/cohop)|
-|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|null|
-|**2024-01-10**|**LPAC: Learnable Perception-Action-Communication Loops with Applications to Coverage Control**|Saurav Agarwal et.al.|[2401.04855v3](http://arxiv.org/abs/2401.04855v3)|null|
-|**2024-02-08**|**Rethinking Propagation for Unsupervised Graph Domain Adaptation**|Meihan Liu et.al.|[2402.05660v1](http://arxiv.org/abs/2402.05660v1)|[link](https://github.com/meihan-liu/24aaai-a2gnn)|
-|**2024-02-08**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569v1](http://arxiv.org/abs/2402.05569v1)|null|
-|**2024-01-17**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering**|Jingwei Guo et.al.|[2401.09071v3](http://arxiv.org/abs/2401.09071v3)|null|
-|**2024-02-08**|**TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning**|Gangda Deng et.al.|[2402.05396v1](http://arxiv.org/abs/2402.05396v1)|null|
-|**2024-02-08**|**Graph Neural Networks for Physical-Layer Security in Multi-User Flexible-Duplex Networks**|Tharaka Perera et.al.|[2402.05378v1](http://arxiv.org/abs/2402.05378v1)|null|
-|**2024-02-07**|**Graph Neural Networks as Fast and High-fidelity Emulators for Finite-Element Ice Sheet Modeling**|Maryam Rahnemoonfar et.al.|[2402.05291v1](http://arxiv.org/abs/2402.05291v1)|null|
-|**2023-12-09**|**Factorized Explainer for Graph Neural Networks**|Rundong Huang et.al.|[2312.05596v2](http://arxiv.org/abs/2312.05596v2)|null|
-|**2024-02-07**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039v1](http://arxiv.org/abs/2402.05039v1)|null|
-|**2024-02-07**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**|Yuchen Zhang et.al.|[2402.05011v1](http://arxiv.org/abs/2402.05011v1)|[link](https://github.com/nus-hpc-ai-lab/geom)|
-|**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692v2](http://arxiv.org/abs/2402.02692v2)|null|
-|**2024-02-07**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915v1](http://arxiv.org/abs/2402.04915v1)|[link](https://github.com/timd3/moco)|
-|**2023-12-03**|**Recurrent Distance Filtering for Graph Representation Learning**|Yuhui Ding et.al.|[2312.01538v2](http://arxiv.org/abs/2312.01538v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-16**|**Model Selection of Zero-shot Anomaly Detectors in the Absence of Labeled Validation Data**|Clement Fung et.al.|[2310.10461v2](http://arxiv.org/abs/2310.10461v2)|null|
+|**2023-04-03**|**How Graph Structure and Label Dependencies Contribute to Node Classification in a Large Network of Documents**|Pirmin Lemberger et.al.|[2304.01235v2](http://arxiv.org/abs/2304.01235v2)|[link](https://github.com/toinesayan/node-classification-and-label-dependencies)|
 |**2024-02-08**|**Pretrained Generative Language Models as General Learning Frameworks for Sequence-Based Tasks**|Ben Fauber et.al.|[2402.05616v1](http://arxiv.org/abs/2402.05616v1)|null|
 |**2021-09-24**|**An overview of variable selection procedures using regularization paths in high-dimensional Gaussian linear regression**|Perrine Lacroix et.al.|[2109.12006v2](http://arxiv.org/abs/2109.12006v2)|null|
 |**2023-11-01**|**Can Large Language Models Capture Public Opinion about Global Warming? An Empirical Assessment of Algorithmic Fidelity and Bias**|S. Lee et.al.|[2311.00217v2](http://arxiv.org/abs/2311.00217v2)|null|
@@ -91,5 +93,3 @@
 |**2023-10-11**|**On the Computational Complexity of Private High-dimensional Model Selection**|Saptarshi Roy et.al.|[2310.07852v2](http://arxiv.org/abs/2310.07852v2)|[link](https://github.com/roysaptaumich/dp-bss)|
 |**2024-02-05**|**Detecting Scams Using Large Language Models**|Liming Jiang et.al.|[2402.03147v1](http://arxiv.org/abs/2402.03147v1)|null|
 |**2024-02-05**|**Best Practices for Text Annotation with Large Language Models**|Petter Törnberg et.al.|[2402.05129v1](http://arxiv.org/abs/2402.05129v1)|null|
-|**2024-02-05**|**Decoding-time Realignment of Language Models**|Tianlin Liu et.al.|[2402.02992v1](http://arxiv.org/abs/2402.02992v1)|null|
-|**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin et.al.|[2311.01256v2](http://arxiv.org/abs/2311.01256v2)|null|
