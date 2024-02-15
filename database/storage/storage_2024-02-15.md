@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-15 07:23:21 Asia/Shanghai
+ Automated deployment @ 2024-02-15 19:20:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-14**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381v1](http://arxiv.org/abs/2402.09381v1)|[link](https://github.com/aliaaz99/grassrep)|
+|**2024-02-14**|**Safe Distributed Control of Multi-Robot Systems with Communication Delays**|Luca Ballotta et.al.|[2402.09382v1](http://arxiv.org/abs/2402.09382v1)|null|
+|**2024-02-13**|**Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective**|Kai Guo et.al.|[2402.08228v2](http://arxiv.org/abs/2402.08228v2)|null|
+|**2024-02-14**|**Uncertainty-Aware Transient Stability-Constrained Preventive Redispatch: A Distributional Reinforcement Learning Approach**|Zhengcheng Wang et.al.|[2402.09263v1](http://arxiv.org/abs/2402.09263v1)|null|
+|**2024-02-14**|**Robust Training of Temporal GNNs using Nearest Neighbours based Hard Negatives**|Shubham Gupta et.al.|[2402.09239v1](http://arxiv.org/abs/2402.09239v1)|null|
+|**2023-11-28**|**Attentional Graph Neural Networks for Robust Massive Network Localization**|Wenzhong Yan et.al.|[2311.16856v2](http://arxiv.org/abs/2311.16856v2)|null|
+|**2024-02-14**|**DisGNet: A Distance Graph Neural Network for Forward Kinematics Learning of Gough-Stewart Platform**|Huizhi Zhu et.al.|[2402.09077v1](http://arxiv.org/abs/2402.09077v1)|null|
+|**2024-02-06**|**On dimensionality of feature vectors in MPNNs**|César Bravo et.al.|[2402.03966v2](http://arxiv.org/abs/2402.03966v2)|null|
+|**2022-11-20**|**Deep Reinforcement Learning Guided Improvement Heuristic for Job Shop Scheduling**|Cong Zhang et.al.|[2211.10936v3](http://arxiv.org/abs/2211.10936v3)|[link](https://github.com/zcaicaros/l2s)|
+|**2024-02-14**|**Graph Inference Acceleration by Learning MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2402.08918v1](http://arxiv.org/abs/2402.08918v1)|[link](https://github.com/zehong-wang/simmlp)|
+|**2024-02-14**|**Multiscale graph neural networks with adaptive mesh refinement for accelerating mesh-based simulations**|Roberto Perera et.al.|[2402.08863v1](http://arxiv.org/abs/2402.08863v1)|null|
+|**2024-02-13**|**Disambiguated Node Classification with Graph Neural Networks**|Tianxiang Zhao et.al.|[2402.08824v1](http://arxiv.org/abs/2402.08824v1)|[link](https://github.com/tianxiangzhao/disambiguatedgnn)|
 |**2024-02-13**|**Graph Mamba: Towards Learning on Graphs with State Space Models**|Ali Behrouz et.al.|[2402.08678v1](http://arxiv.org/abs/2402.08678v1)|[link](https://github.com/graphmamba/gmn)|
 |**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653v1](http://arxiv.org/abs/2402.08653v1)|null|
 |**2024-02-13**|**Homomorphism Counts for Graph Neural Networks: All About That Basis**|Emily Jin et.al.|[2402.08595v1](http://arxiv.org/abs/2402.08595v1)|null|
-|**2024-02-13**|**Graph Feature Preprocessor: Real-time Extraction of Subgraph-based Features from Transaction Graphs**|Jovan Blanuša et.al.|[2402.08593v1](http://arxiv.org/abs/2402.08593v1)|null|
-|**2024-02-13**|**Mixture of Link Predictors**|Li Ma et.al.|[2402.08583v1](http://arxiv.org/abs/2402.08583v1)|null|
-|**2024-02-12**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment Analysis**|Xiaowei Zhao et.al.|[2402.07787v2](http://arxiv.org/abs/2402.07787v2)|[link](https://github.com/TYZY89/EMGF)|
-|**2024-02-13**|**Revealing Decurve Flows for Generalized Graph Propagation**|Chen Lin et.al.|[2402.08480v1](http://arxiv.org/abs/2402.08480v1)|null|
-|**2024-02-13**|**Parallel-friendly Spatio-Temporal Graph Learning for Photovoltaic Degradation Analysis at Scale**|Yangxin Fan et.al.|[2402.08470v1](http://arxiv.org/abs/2402.08470v1)|[link](https://github.com/yangxin666/st-gtrend)|
-|**2024-02-13**|**Subgraphormer: Unifying Subgraph GNNs and Graph Transformers via Graph Products**|Guy Bar-Shalom et.al.|[2402.08450v1](http://arxiv.org/abs/2402.08450v1)|null|
-|**2023-12-11**|**Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum**|Fan Xu et.al.|[2312.06441v2](http://arxiv.org/abs/2312.06441v2)|null|
-|**2023-11-06**|**PowerFlowNet: Power Flow Approximation Using Message Passing Graph Neural Networks**|Nan Lin et.al.|[2311.03415v3](http://arxiv.org/abs/2311.03415v3)|[link](https://github.com/distributionnetworkstudelft/poweflownet)|
-|**2024-02-13**|**LOSS-GAT: Label Propagation and One-Class Semi-Supervised Graph Attention Network for Fake News Detection**|Batool Lakzaei et.al.|[2402.08401v1](http://arxiv.org/abs/2402.08401v1)|null|
-|**2024-02-13**|**NeuRes: Learning Proofs of Propositional Satisfiability**|Mohamed Ghanem et.al.|[2402.08365v1](http://arxiv.org/abs/2402.08365v1)|null|
-|**2024-02-13**|**Multi-Level GNN Preconditioner for Solving Large Scale Problems**|Matthieu Nastorg et.al.|[2402.08296v1](http://arxiv.org/abs/2402.08296v1)|null|
-|**2024-02-13**|**Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs**|Hengnian Gu et.al.|[2402.08256v1](http://arxiv.org/abs/2402.08256v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-14**|**Extreme Video Compression with Pre-trained Diffusion Models**|Bohan Li et.al.|[2402.08934v1](http://arxiv.org/abs/2402.08934v1)|[link](https://github.com/elesionkyrie/extreme-video-compression-with-prediction-using-pre-trainded-diffusion-models-)|
 |**2024-02-12**|**Quasinormable Fréchet spaces and M. W. Wong's inequality**|Eduard A. Nigsch et.al.|[2402.08044v1](http://arxiv.org/abs/2402.08044v1)|null|
 |**2024-02-08**|**Deformed Fréchet law for Wigner and sample covariance matrices with tail in crossover regime**|Yi Han et.al.|[2402.05590v1](http://arxiv.org/abs/2402.05590v1)|null|
 |**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031v1](http://arxiv.org/abs/2402.04031v1)|[link](https://github.com/mobaidoctor/polyp-ddpm)|
@@ -71,13 +72,14 @@
 |**2024-01-25**|**Existence of solution for two classes of quasilinear systems defined on a non-reflexive Orlicz-Sobolev Spaces**|Lucas da Silva et.al.|[2401.13955v1](http://arxiv.org/abs/2401.13955v1)|null|
 |**2023-06-13**|**TopP&R: Robust Support Estimation Approach for Evaluating Fidelity and Diversity in Generative Models**|Pum Jun Kim et.al.|[2306.08013v6](http://arxiv.org/abs/2306.08013v6)|[link](https://github.com/LAIT-CVLab/TopPR)|
 |**2023-07-10**|**On the first bifurcation of Stokes waves**|Vladimir Kozlov et.al.|[2307.05573v2](http://arxiv.org/abs/2307.05573v2)|null|
-|**2024-01-19**|**Dream360: Diverse and Immersive Outdoor Virtual Scene Creation via Transformer-Based 360 Image Outpainting**|Hao Ai et.al.|[2401.10564v1](http://arxiv.org/abs/2401.10564v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-14**|**Confidence-aware Fine-tuning of Sequential Recommendation Systems via Conformal Prediction**|Chen Wang et.al.|[2402.08976v1](http://arxiv.org/abs/2402.08976v1)|null|
+|**2024-02-14**|**Quasi-Akaike information criterion of structural equation modeling with latent variables for diffusion processes**|Shogo Kusano et.al.|[2402.08959v1](http://arxiv.org/abs/2402.08959v1)|null|
 |**2024-02-13**|**Model Assessment and Selection under Temporal Distribution Shift**|Elise Han et.al.|[2402.08672v1](http://arxiv.org/abs/2402.08672v1)|[link](https://github.com/eliselyhan/arw)|
 |**2024-02-13**|**Online Foundation Model Selection in Robotics**|Po-han Li et.al.|[2402.08570v1](http://arxiv.org/abs/2402.08570v1)|null|
 |**2017-11-01**|**Sophisticated and small versus simple and sizeable: When does it pay off to introduce drifting coefficients in Bayesian VARs?**|Martin Feldkircher et.al.|[1711.00564v3](http://arxiv.org/abs/1711.00564v3)|null|
@@ -91,5 +93,3 @@
 |**2024-02-12**|**Compressive Recovery of Signals Defined on Perturbed Graphs**|Sabyasachi Ghosh et.al.|[2402.07637v1](http://arxiv.org/abs/2402.07637v1)|null|
 |**2024-02-12**|**Rethinking Scaling Laws for Learning in Strategic Environments**|Tinashe Handina et.al.|[2402.07588v1](http://arxiv.org/abs/2402.07588v1)|null|
 |**2024-02-12**|**EM Estimation of the B-spline Copula with Penalized Log-Likelihood Function**|Xiaoling Dou et.al.|[2402.07569v1](http://arxiv.org/abs/2402.07569v1)|null|
-|**2024-02-11**|**Two-Stage Multi-task Self-Supervised Learning for Medical Image Segmentation**|Binyan Hu et.al.|[2402.07119v1](http://arxiv.org/abs/2402.07119v1)|null|
-|**2021-05-11**|**Innovative Approaches in Soil Carbon Sequestration Modelling for Better Prediction with Limited Data**|Mohammad Javad Davoudabadi et.al.|[2105.04789v3](http://arxiv.org/abs/2105.04789v3)|null|
