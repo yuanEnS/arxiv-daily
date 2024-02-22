@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-22 07:22:05 Asia/Shanghai
+ Automated deployment @ 2024-02-22 19:18:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-02-12**|**Unsupervised Optimisation of GNNs for Node Clustering**|William Leeney et.al.|[2402.07845v2](http://arxiv.org/abs/2402.07845v2)|null|
-|**2024-02-15**|**Clifford Group Equivariant Simplicial Message Passing Networks**|Cong Liu et.al.|[2402.10011v2](http://arxiv.org/abs/2402.10011v2)|[link](https://github.com/congliuuva/clifford-group-equivariant-simplicial-message-passing-networks)|
-|**2024-02-20**|**BuffGraph: Enhancing Class-Imbalanced Node Classification via Buffer Nodes**|Qian Wang et.al.|[2402.13114v1](http://arxiv.org/abs/2402.13114v1)|null|
-|**2024-02-20**|**A Microstructure-based Graph Neural Network for Accelerating Multiscale Simulations**|J. Storm et.al.|[2402.13101v1](http://arxiv.org/abs/2402.13101v1)|[link](https://github.com/joepstorm/microscale-gnn-surrogate)|
-|**2024-02-20**|**Enhancing Real-World Complex Network Representations with Hyperedge Augmentation**|Xiangyu Zhao et.al.|[2402.13033v1](http://arxiv.org/abs/2402.13033v1)|null|
-|**2024-02-20**|**Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables**|Haisong Gong et.al.|[2402.13028v1](http://arxiv.org/abs/2402.13028v1)|[link](https://github.com/deno-v/heterfc)|
-|**2023-10-30**|**Interpretable Prototype-based Graph Information Bottleneck**|Sangwoo Seo et.al.|[2310.19906v2](http://arxiv.org/abs/2310.19906v2)|[link](https://github.com/sang-woo-seo/pgib)|
-|**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978v4](http://arxiv.org/abs/2308.11978v4)|null|
-|**2023-06-08**|**Hybrid Graph: A Unified Graph Representation with Datasets and Benchmarks for Complex Graphs**|Zehui Li et.al.|[2306.05108v2](http://arxiv.org/abs/2306.05108v2)|null|
-|**2024-02-20**|**A unifying primary framework for quantum graph neural networks from quantum graph states**|Ammar Daskin et.al.|[2402.13001v1](http://arxiv.org/abs/2402.13001v1)|null|
-|**2024-02-20**|**Distributionally Robust Graph-based Recommendation System**|Bohao Wang et.al.|[2402.12994v1](http://arxiv.org/abs/2402.12994v1)|[link](https://github.com/WANGBohaO-jpg/DR-GNN)|
-|**2024-02-20**|**Can GNN be Good Adapter for LLMs?**|Xuanwen Huang et.al.|[2402.12984v1](http://arxiv.org/abs/2402.12984v1)|null|
-|**2024-02-20**|**Cell Graph Transformer for Nuclei Classification**|Wei Lou et.al.|[2402.12946v1](http://arxiv.org/abs/2402.12946v1)|[link](https://github.com/lhaof/cgt)|
-|**2024-02-20**|**GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural Networks**|Anuj Kumar Sirohi et.al.|[2402.12937v1](http://arxiv.org/abs/2402.12937v1)|null|
-|**2023-10-08**|**How Graph Neural Networks Learn: Lessons from Training Dynamics**|Chenxiao Yang et.al.|[2310.05105v2](http://arxiv.org/abs/2310.05105v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-02-12**|**Unsupervised Optimisation of GNNs for Node Clustering**|William Leeney et.al.|[2402.07845v2](http://arxiv.org/abs/2402.07845v2)|null|
-|**2024-02-20**|**On scalable ARMA models**|Yuchang Lin et.al.|[2402.12825v1](http://arxiv.org/abs/2402.12825v1)|null|
-|**2024-02-20**|**Learning under Singularity: An Information Criterion improving WBIC and sBIC**|Lirui Liu et.al.|[2402.12762v1](http://arxiv.org/abs/2402.12762v1)|null|
-|**2024-02-20**|**Controlled Variable Selection from Summary Statistics Only? A Solution via GhostKnockoffs and Penalized Regression**|Zhaomeng Chen et.al.|[2402.12724v1](http://arxiv.org/abs/2402.12724v1)|null|
-|**2022-06-17**|**Ensemble distributional forecasting for insurance loss reserving**|Benjamin Avanzi et.al.|[2206.08541v4](http://arxiv.org/abs/2206.08541v4)|[link](https://github.com/agi-lab/reserving-ensemble)|
-|**2024-02-19**|**Expressing and visualizing model uncertainty in Bayesian variable selection using Cartesian credible sets**|J. E. Griffin et.al.|[2402.12323v1](http://arxiv.org/abs/2402.12323v1)|null|
-|**2021-09-06**|**Screening the Discrepancy Function of a Computer Model**|Pierre Barbillon et.al.|[2109.02726v2](http://arxiv.org/abs/2109.02726v2)|null|
-|**2024-02-07**|**Tuning In: Analysis of Audio Classifier Performance in Clinical Settings with Limited Data**|Hamza Mahdi et.al.|[2402.10100v2](http://arxiv.org/abs/2402.10100v2)|null|
-|**2023-11-14**|**Semi-parametric local variable selection under misspecification**|David Rossell et.al.|[2401.10235v2](http://arxiv.org/abs/2401.10235v2)|null|
-|**2023-09-05**|**Ab initio uncertainty quantification in scattering analysis of microscopy**|Mengyang Gu et.al.|[2309.02468v2](http://arxiv.org/abs/2309.02468v2)|null|
-|**2023-10-11**|**Transformers for Green Semantic Communication: Less Energy, More Semantics**|Shubhabrata Mukherjee et.al.|[2310.07592v2](http://arxiv.org/abs/2310.07592v2)|[link](https://github.com/shubha07m/Energy-optimized-semantic-loss)|
-|**2024-02-18**|**Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**|Lanning Wei et.al.|[2402.11641v1](http://arxiv.org/abs/2402.11641v1)|null|
-|**2024-02-18**|**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**|Siyuan Wang et.al.|[2402.11443v1](http://arxiv.org/abs/2402.11443v1)|[link](https://github.com/nanshineloong/self-evolving-benchmark)|
-|**2023-12-04**|**How Many Validation Labels Do You Need? Exploring the Design Space of Label-Efficient Model Ranking**|Zhengyu Hu et.al.|[2312.01619v3](http://arxiv.org/abs/2312.01619v3)|[link](https://github.com/ppsmk388/morabench)|
-|**2023-06-19**|**Human Limits in Machine Learning: Prediction of Plant Phenotypes Using Soil Microbiome Data**|Rosa Aghdam et.al.|[2306.11157v2](http://arxiv.org/abs/2306.11157v2)|[link](https://github.com/solislemuslab/soil-microbiome-nn)|
+|**2024-02-21**|**A Simple and Yet Fairly Effective Defense for Graph Neural Networks**|Sofiane Ennadir et.al.|[2402.13987v1](http://arxiv.org/abs/2402.13987v1)|[link](https://github.com/sennadir/noisygnn)|
+|**2024-02-21**|**Linear-Time Graph Neural Networks for Scalable Recommendations**|Jiahao Zhang et.al.|[2402.13973v1](http://arxiv.org/abs/2402.13973v1)|[link](https://github.com/qwq2000/thewebconf24-ltgnn-pytorch)|
+|**2024-02-15**|**ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback**|Henry W. Sprueill et.al.|[2402.10980v2](http://arxiv.org/abs/2402.10980v2)|null|
+|**2024-02-21**|**AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning**|Vasudev Gohil et.al.|[2402.13946v1](http://arxiv.org/abs/2402.13946v1)|null|
+|**2024-02-21**|**Verifying message-passing neural networks via topology-based bounds tightening**|Christopher Hojny et.al.|[2402.13937v1](http://arxiv.org/abs/2402.13937v1)|null|
+|**2024-02-20**|**Distributionally Robust Graph-based Recommendation System**|Bohao Wang et.al.|[2402.12994v2](http://arxiv.org/abs/2402.12994v2)|[link](https://github.com/WANGBohaO-jpg/DR-GNN)|
+|**2024-02-21**|**General Debiasing for Graph-based Collaborative Filtering via Adversarial Graph Dropout**|An Zhang et.al.|[2402.13769v1](http://arxiv.org/abs/2402.13769v1)|[link](https://github.com/arthurma71/advdrop)|
+|**2024-02-21**|**Reasoning Algorithmically in Graph Neural Networks**|Danilo Numeroso et.al.|[2402.13744v1](http://arxiv.org/abs/2402.13744v1)|null|
+|**2022-05-16**|**Trustworthy Graph Neural Networks: Aspects, Methods and Trends**|He Zhang et.al.|[2205.07424v2](http://arxiv.org/abs/2205.07424v2)|null|
+|**2024-02-21**|**UniGraph: Learning a Cross-Domain Graph Foundation Model From Natural Language**|Yufei He et.al.|[2402.13630v1](http://arxiv.org/abs/2402.13630v1)|null|
+|**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800v2](http://arxiv.org/abs/2308.16800v2)|[link](https://github.com/roth-andreas/rank_collapse)|
+|**2024-02-21**|**Near-Field Multiuser Beam-Training for Extremely Large-Scale MIMO Systems**|Wang Liu et.al.|[2402.13597v1](http://arxiv.org/abs/2402.13597v1)|null|
+|**2024-02-20**|**A unifying primary framework for quantum graph neural networks from quantum graph states**|Ammar Daskin et.al.|[2402.13001v2](http://arxiv.org/abs/2402.13001v2)|null|
+|**2024-02-21**|**Inductive Graph Alignment Prompt: Bridging the Gap between Graph Pre-training and Inductive Fine-tuning From Spectral Perspective**|Yuchen Yan et.al.|[2402.13556v1](http://arxiv.org/abs/2402.13556v1)|null|
+|**2024-02-21**|**Balancing Spectral, Temporal and Spatial Information for EEG-based Alzheimer's Disease Classification**|Stephan Goerttler et.al.|[2402.13523v1](http://arxiv.org/abs/2402.13523v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
 |**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-12**|**Rethinking Scaling Laws for Learning in Strategic Environments**|Tinashe Handina et.al.|[2402.07588v2](http://arxiv.org/abs/2402.07588v2)|null|
+|**2023-03-30**|**Change Point Detection on A Separable Model for Dynamic Networks**|Yik Lun Kei et.al.|[2303.17642v3](http://arxiv.org/abs/2303.17642v3)|[link](https://github.com/allenkei/cpdstergm)|
+|**2024-02-12**|**Unsupervised Optimisation of GNNs for Node Clustering**|William Leeney et.al.|[2402.07845v2](http://arxiv.org/abs/2402.07845v2)|null|
+|**2024-02-20**|**On scalable ARMA models**|Yuchang Lin et.al.|[2402.12825v1](http://arxiv.org/abs/2402.12825v1)|null|
+|**2024-02-20**|**Learning under Singularity: An Information Criterion improving WBIC and sBIC**|Lirui Liu et.al.|[2402.12762v1](http://arxiv.org/abs/2402.12762v1)|null|
+|**2024-02-20**|**Controlled Variable Selection from Summary Statistics Only? A Solution via GhostKnockoffs and Penalized Regression**|Zhaomeng Chen et.al.|[2402.12724v1](http://arxiv.org/abs/2402.12724v1)|null|
+|**2022-06-17**|**Ensemble distributional forecasting for insurance loss reserving**|Benjamin Avanzi et.al.|[2206.08541v4](http://arxiv.org/abs/2206.08541v4)|[link](https://github.com/agi-lab/reserving-ensemble)|
+|**2024-02-19**|**Expressing and visualizing model uncertainty in Bayesian variable selection using Cartesian credible sets**|J. E. Griffin et.al.|[2402.12323v1](http://arxiv.org/abs/2402.12323v1)|null|
+|**2021-09-06**|**Screening the Discrepancy Function of a Computer Model**|Pierre Barbillon et.al.|[2109.02726v2](http://arxiv.org/abs/2109.02726v2)|null|
+|**2024-02-07**|**Tuning In: Analysis of Audio Classifier Performance in Clinical Settings with Limited Data**|Hamza Mahdi et.al.|[2402.10100v2](http://arxiv.org/abs/2402.10100v2)|null|
+|**2023-11-14**|**Semi-parametric local variable selection under misspecification**|David Rossell et.al.|[2401.10235v2](http://arxiv.org/abs/2401.10235v2)|null|
+|**2023-09-05**|**Ab initio uncertainty quantification in scattering analysis of microscopy**|Mengyang Gu et.al.|[2309.02468v2](http://arxiv.org/abs/2309.02468v2)|null|
+|**2023-10-11**|**Transformers for Green Semantic Communication: Less Energy, More Semantics**|Shubhabrata Mukherjee et.al.|[2310.07592v2](http://arxiv.org/abs/2310.07592v2)|[link](https://github.com/shubha07m/Energy-optimized-semantic-loss)|
+|**2024-02-18**|**Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**|Lanning Wei et.al.|[2402.11641v1](http://arxiv.org/abs/2402.11641v1)|null|
+|**2024-02-18**|**Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation**|Siyuan Wang et.al.|[2402.11443v1](http://arxiv.org/abs/2402.11443v1)|[link](https://github.com/nanshineloong/self-evolving-benchmark)|
