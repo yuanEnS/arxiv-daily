@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-28 07:21:03 Asia/Shanghai
+ Automated deployment @ 2024-02-28 19:21:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-02-06**|**PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks**|Junwei Su et.al.|[2402.04284v2](http://arxiv.org/abs/2402.04284v2)|null|
-|**2024-02-26**|**Graph Learning with Distributional Edge Layouts**|Xinjian Zhao et.al.|[2402.16402v1](http://arxiv.org/abs/2402.16402v1)|null|
-|**2024-02-26**|**Boosting Graph Pooling with Persistent Homology**|Chaolong Ying et.al.|[2402.16346v1](http://arxiv.org/abs/2402.16346v1)|null|
-|**2023-12-14**|**MaxK-GNN: Extremely Fast GPU Kernel Design for Accelerating Graph Neural Networks Training**|Hongwu Peng et.al.|[2312.08656v4](http://arxiv.org/abs/2312.08656v4)|[link](https://github.com/harveyp123/maxk-gnn)|
-|**2024-02-02**|**Unveiling Delay Effects in Traffic Forecasting: A Perspective from Spatial-Temporal Delay Differential Equations**|Qingqing Long et.al.|[2402.01231v2](http://arxiv.org/abs/2402.01231v2)|null|
-|**2024-02-26**|**High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text-attributed Graphs**|Peiyan Zhang et.al.|[2402.16240v1](http://arxiv.org/abs/2402.16240v1)|null|
-|**2023-09-08**|**Graph Neural Networks Use Graphs When They Shouldn't**|Maya Bechler-Speicher et.al.|[2309.04332v2](http://arxiv.org/abs/2309.04332v2)|[link](https://github.com/mayabechlerspeicher/Graph_Neural_Networks_Overfit_Graphs)|
-|**2022-07-06**|**TREE-G: Decision Trees Contesting Graph Neural Networks**|Maya Bechler-Speicher et.al.|[2207.02760v5](http://arxiv.org/abs/2207.02760v5)|[link](https://github.com/mayabechlerspeicher/tree-g)|
-|**2024-02-25**|**HiGPT: Heterogeneous Graph Language Model**|Jiabin Tang et.al.|[2402.16024v1](http://arxiv.org/abs/2402.16024v1)|[link](https://github.com/hkuds/higpt)|
-|**2023-05-04**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759v4](http://arxiv.org/abs/2305.02759v4)|[link](https://github.com/hkuds/dccf)|
-|**2023-10-24**|**Representation Learning with Large Language Models for Recommendation**|Xubin Ren et.al.|[2310.15950v4](http://arxiv.org/abs/2310.15950v4)|[link](https://github.com/hkuds/rlmrec)|
-|**2022-02-14**|**Graph Neural Networks for Graphs with Heterophily: A Survey**|Xin Zheng et.al.|[2202.07082v3](http://arxiv.org/abs/2202.07082v3)|null|
-|**2024-02-24**|**Pretraining Strategy for Neural Potentials**|Zehua Zhang et.al.|[2402.15921v1](http://arxiv.org/abs/2402.15921v1)|null|
-|**2023-07-09**|**Graph Neural Networks as an Enabler of Terahertz-based Flow-guided Nanoscale Localization over Highly Erroneous Raw Data**|Gerard Calvo Bartra et.al.|[2307.05551v3](http://arxiv.org/abs/2307.05551v3)|null|
-|**2023-10-07**|**Label-free Node Classification on Graphs with Large Language Models (LLMS)**|Zhikai Chen et.al.|[2310.04668v3](http://arxiv.org/abs/2310.04668v3)|[link](https://github.com/currytang/llmgnn)|
+|**2024-02-27**|**Predicting Instability in Complex Oscillator Networks: Limitations and Potentials of Network Measures and Machine Learning**|Christian Nauck et.al.|[2402.17500v1](http://arxiv.org/abs/2402.17500v1)|[link](https://github.com/pik-icone/networkscienceml_paper-companion)|
+|**2024-02-27**|**Fraud Detection with Binding Global and Local Relational Interaction**|Haolin Li et.al.|[2402.17472v1](http://arxiv.org/abs/2402.17472v1)|null|
+|**2023-12-31**|**Generating High-Precision Force Fields for Molecular Dynamics Simulations to Study Chemical Reaction Mechanisms using Molecular Configuration Transformer**|Sihao Yuan et.al.|[2401.00499v2](http://arxiv.org/abs/2401.00499v2)|null|
+|**2024-02-27**|**A case study of sending graph neural networks back to the test bench for applications in high-energy particle physics**|Emanuel Pfeffer et.al.|[2402.17386v1](http://arxiv.org/abs/2402.17386v1)|null|
+|**2024-02-23**|**GraphEdit: Large Language Models for Graph Structure Learning**|Zirui Guo et.al.|[2402.15183v2](http://arxiv.org/abs/2402.15183v2)|[link](https://github.com/hkuds/graphedit)|
+|**2024-02-27**|**A new graph-neural-network flavor tagger for Belle II and measurement of $\sin2φ_1$ in $B^0 \to J/ψK^0_\text{S}$ decays**|Belle II Collaboration et.al.|[2402.17260v1](http://arxiv.org/abs/2402.17260v1)|null|
+|**2024-02-27**|**Prediction of the SYM-H Index Using a Bayesian Deep Learning Method with Uncertainty Quantification**|Yasser Abduallah et.al.|[2402.17196v1](http://arxiv.org/abs/2402.17196v1)|null|
+|**2023-07-10**|**On the power of graph neural networks and the role of the activation function**|Sammy Khalife et.al.|[2307.04661v4](http://arxiv.org/abs/2307.04661v4)|null|
+|**2024-02-26**|**One-Shot Graph Representation Learning Using Hyperdimensional Computing**|Abhishek Dalvi et.al.|[2402.17073v1](http://arxiv.org/abs/2402.17073v1)|null|
+|**2024-02-21**|**AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning**|Vasudev Gohil et.al.|[2402.13946v2](http://arxiv.org/abs/2402.13946v2)|null|
+|**2023-03-25**|**Deep Augmentation: Self-Supervised Learning with Transformations in Activation Space**|Rickard Brüel-Gabrielsson et.al.|[2303.14537v2](http://arxiv.org/abs/2303.14537v2)|null|
+|**2024-02-26**|**Accelerating Graph Neural Networks on Real Processing-In-Memory Systems**|Christina Giannoula et.al.|[2402.16731v1](http://arxiv.org/abs/2402.16731v1)|null|
+|**2023-10-18**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762v3](http://arxiv.org/abs/2310.11762v3)|null|
+|**2024-02-26**|**Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models**|Yifu Gao et.al.|[2402.16568v1](http://arxiv.org/abs/2402.16568v1)|null|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539v1](http://arxiv.org/abs/2402.16539v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,12 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2018-09-12**|**High-dimensional Bayesian Fourier Analysis For Detecting Circadian Gene Expressions**|Silvia Montagna et.al.|[1809.04347v2](http://arxiv.org/abs/1809.04347v2)|null|
+|**2024-02-27**|**On the Impact and Utility of Single-Exomoon Modeling for Multi-Moon Systems**|Alex Teachey et.al.|[2402.17324v1](http://arxiv.org/abs/2402.17324v1)|null|
+|**2024-02-26**|**Z-AGI Labs at ClimateActivism 2024: Stance and Hate Event Detection on Social Media**|Nikhil Narayan et.al.|[2402.17014v1](http://arxiv.org/abs/2402.17014v1)|null|
+|**2023-10-18**|**Simultaneous Nonparametric Inference of M-regression under Complex Temporal Dynamics**|Miaoshiqi Liu et.al.|[2310.11724v2](http://arxiv.org/abs/2310.11724v2)|null|
+|**2024-02-26**|**Penalized Generative Variable Selection**|Tong Wang et.al.|[2402.16661v1](http://arxiv.org/abs/2402.16661v1)|null|
+|**2024-02-26**|**Information-Enriched Selection of Stationary and Non-Stationary Autoregressions using the Adaptive Lasso**|Thilo Reinschlüssel et.al.|[2402.16580v1](http://arxiv.org/abs/2402.16580v1)|null|
 |**2023-10-16**|**RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models**|Zijun Long et.al.|[2310.10221v2](http://arxiv.org/abs/2310.10221v2)|[link](https://github.com/longkukuhi/armbench)|
 |**2024-02-18**|**Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**|Lanning Wei et.al.|[2402.11641v2](http://arxiv.org/abs/2402.11641v2)|null|
 |**2024-02-23**|**A modified debiased inverse-variance weighted estimator in two-sample summary-data Mendelian randomization**|Youpeng Su et.al.|[2402.15086v1](http://arxiv.org/abs/2402.15086v1)|null|
@@ -87,9 +93,3 @@
 |**2024-02-22**|**TinyLLaVA: A Framework of Small-scale Large Multimodal Models**|Baichuan Zhou et.al.|[2402.14289v1](http://arxiv.org/abs/2402.14289v1)|[link](https://github.com/dlcv-buaa/tinyllavabench)|
 |**2023-03-16**|**Bootstrap based asymptotic refinements for high-dimensional nonlinear models**|Joel L. Horowitz et.al.|[2303.09680v2](http://arxiv.org/abs/2303.09680v2)|null|
 |**2024-02-12**|**Rethinking Scaling Laws for Learning in Strategic Environments**|Tinashe Handina et.al.|[2402.07588v2](http://arxiv.org/abs/2402.07588v2)|null|
-|**2023-03-30**|**Change Point Detection on A Separable Model for Dynamic Networks**|Yik Lun Kei et.al.|[2303.17642v3](http://arxiv.org/abs/2303.17642v3)|[link](https://github.com/allenkei/cpdstergm)|
-|**2024-02-12**|**Unsupervised Optimisation of GNNs for Node Clustering**|William Leeney et.al.|[2402.07845v2](http://arxiv.org/abs/2402.07845v2)|null|
-|**2024-02-20**|**On scalable ARMA models**|Yuchang Lin et.al.|[2402.12825v1](http://arxiv.org/abs/2402.12825v1)|null|
-|**2024-02-20**|**Controlled Variable Selection from Summary Statistics Only? A Solution via GhostKnockoffs and Penalized Regression**|Zhaomeng Chen et.al.|[2402.12724v1](http://arxiv.org/abs/2402.12724v1)|null|
-|**2022-06-17**|**Ensemble distributional forecasting for insurance loss reserving**|Benjamin Avanzi et.al.|[2206.08541v4](http://arxiv.org/abs/2206.08541v4)|[link](https://github.com/agi-lab/reserving-ensemble)|
-|**2024-02-19**|**Expressing and visualizing model uncertainty in Bayesian variable selection using Cartesian credible sets**|J. E. Griffin et.al.|[2402.12323v1](http://arxiv.org/abs/2402.12323v1)|null|
