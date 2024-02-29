@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-02-29 07:24:52 Asia/Shanghai
+ Automated deployment @ 2024-02-29 19:19:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-28**|**Universal neural network potentials as descriptors: Towards scalable chemical property prediction using quantum and classical computers**|Tomoya Shiota et.al.|[2402.18433v1](http://arxiv.org/abs/2402.18433v1)|null|
+|**2024-02-28**|**CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots**|Zeqing Zhang et.al.|[2402.18420v1](http://arxiv.org/abs/2402.18420v1)|null|
+|**2024-02-28**|**Recursive GNNs for Learning Precoding Policies with Size-Generalizability**|Jia Guo et.al.|[2402.18332v1](http://arxiv.org/abs/2402.18332v1)|null|
+|**2024-02-28**|**Reinforcement Learning and Graph Neural Networks for Probabilistic Risk Assessment**|Joachim Grimstad et.al.|[2402.18246v1](http://arxiv.org/abs/2402.18246v1)|null|
+|**2024-02-28**|**Challenges in Pre-Training Graph Neural Networks for Context-Based Fake News Detection: An Evaluation of Current Strategies and Resource Limitations**|Gregor Donabauer et.al.|[2402.18179v1](http://arxiv.org/abs/2402.18179v1)|null|
+|**2023-05-31**|**Harnessing Explanations: LLM-to-LM Interpreter for Enhanced Text-Attributed Graph Representation Learning**|Xiaoxin He et.al.|[2305.19523v4](http://arxiv.org/abs/2305.19523v4)|[link](https://github.com/xiaoxinhe/tape_arxiv_2023)|
+|**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730v4](http://arxiv.org/abs/2310.11730v4)|null|
+|**2023-04-11**|**A Comprehensive Survey on Deep Graph Representation Learning**|Wei Ju et.al.|[2304.05055v3](http://arxiv.org/abs/2304.05055v3)|null|
+|**2024-02-06**|**ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor**|Yi-Chien Lin et.al.|[2402.03671v2](http://arxiv.org/abs/2402.03671v2)|[link](https://github.com/jasonlin316/argo)|
+|**2024-02-27**|**Using Graph Neural Networks to Predict Local Culture**|Thiago H Silva et.al.|[2402.17905v1](http://arxiv.org/abs/2402.17905v1)|null|
 |**2024-02-27**|**Predicting Instability in Complex Oscillator Networks: Limitations and Potentials of Network Measures and Machine Learning**|Christian Nauck et.al.|[2402.17500v1](http://arxiv.org/abs/2402.17500v1)|[link](https://github.com/pik-icone/networkscienceml_paper-companion)|
 |**2024-02-27**|**Fraud Detection with Binding Global and Local Relational Interaction**|Haolin Li et.al.|[2402.17472v1](http://arxiv.org/abs/2402.17472v1)|null|
 |**2023-12-31**|**Generating High-Precision Force Fields for Molecular Dynamics Simulations to Study Chemical Reaction Mechanisms using Molecular Configuration Transformer**|Sihao Yuan et.al.|[2401.00499v2](http://arxiv.org/abs/2401.00499v2)|null|
+|**2024-02-27**|**Graph Neural Networks and Arithmetic Circuits**|Timon Barlag et.al.|[2402.17805v1](http://arxiv.org/abs/2402.17805v1)|null|
 |**2024-02-27**|**A case study of sending graph neural networks back to the test bench for applications in high-energy particle physics**|Emanuel Pfeffer et.al.|[2402.17386v1](http://arxiv.org/abs/2402.17386v1)|null|
-|**2024-02-23**|**GraphEdit: Large Language Models for Graph Structure Learning**|Zirui Guo et.al.|[2402.15183v2](http://arxiv.org/abs/2402.15183v2)|[link](https://github.com/hkuds/graphedit)|
-|**2024-02-27**|**A new graph-neural-network flavor tagger for Belle II and measurement of $\sin2φ_1$ in $B^0 \to J/ψK^0_\text{S}$ decays**|Belle II Collaboration et.al.|[2402.17260v1](http://arxiv.org/abs/2402.17260v1)|null|
-|**2024-02-27**|**Prediction of the SYM-H Index Using a Bayesian Deep Learning Method with Uncertainty Quantification**|Yasser Abduallah et.al.|[2402.17196v1](http://arxiv.org/abs/2402.17196v1)|null|
-|**2023-07-10**|**On the power of graph neural networks and the role of the activation function**|Sammy Khalife et.al.|[2307.04661v4](http://arxiv.org/abs/2307.04661v4)|null|
-|**2024-02-26**|**One-Shot Graph Representation Learning Using Hyperdimensional Computing**|Abhishek Dalvi et.al.|[2402.17073v1](http://arxiv.org/abs/2402.17073v1)|null|
-|**2024-02-21**|**AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning**|Vasudev Gohil et.al.|[2402.13946v2](http://arxiv.org/abs/2402.13946v2)|null|
-|**2023-03-25**|**Deep Augmentation: Self-Supervised Learning with Transformations in Activation Space**|Rickard Brüel-Gabrielsson et.al.|[2303.14537v2](http://arxiv.org/abs/2303.14537v2)|null|
-|**2024-02-26**|**Accelerating Graph Neural Networks on Real Processing-In-Memory Systems**|Christina Giannoula et.al.|[2402.16731v1](http://arxiv.org/abs/2402.16731v1)|null|
-|**2023-10-18**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762v3](http://arxiv.org/abs/2310.11762v3)|null|
-|**2024-02-26**|**Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models**|Yifu Gao et.al.|[2402.16568v1](http://arxiv.org/abs/2402.16568v1)|null|
-|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539v1](http://arxiv.org/abs/2402.16539v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v1](http://arxiv.org/abs/2402.18450v1)|null|
+|**2024-02-28**|**Unveiling the Potential of Robustness in Evaluating Causal Inference Models**|Yiyan Huang et.al.|[2402.18392v1](http://arxiv.org/abs/2402.18392v1)|null|
+|**2024-02-28**|**A network-constrain Weibull AFT model for biomarkers discovery**|Claudia Angelini et.al.|[2402.18242v1](http://arxiv.org/abs/2402.18242v1)|null|
+|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v4](http://arxiv.org/abs/2301.06058v4)|null|
 |**2018-09-12**|**High-dimensional Bayesian Fourier Analysis For Detecting Circadian Gene Expressions**|Silvia Montagna et.al.|[1809.04347v2](http://arxiv.org/abs/1809.04347v2)|null|
 |**2024-02-27**|**On the Impact and Utility of Single-Exomoon Modeling for Multi-Moon Systems**|Alex Teachey et.al.|[2402.17324v1](http://arxiv.org/abs/2402.17324v1)|null|
 |**2024-02-26**|**Z-AGI Labs at ClimateActivism 2024: Stance and Hate Event Detection on Social Media**|Nikhil Narayan et.al.|[2402.17014v1](http://arxiv.org/abs/2402.17014v1)|null|
@@ -89,7 +93,3 @@
 |**2024-02-23**|**A modified debiased inverse-variance weighted estimator in two-sample summary-data Mendelian randomization**|Youpeng Su et.al.|[2402.15086v1](http://arxiv.org/abs/2402.15086v1)|null|
 |**2024-02-22**|**Comparative Analysis of Data Preprocessing Methods, Feature Selection Techniques and Machine Learning Models for Improved Classification and Regression Performance on Imbalanced Genetic Data**|Arshmeet Kaur et.al.|[2402.14980v1](http://arxiv.org/abs/2402.14980v1)|null|
 |**2024-02-20**|**Learning under Singularity: An Information Criterion improving WBIC and sBIC**|Lirui Liu et.al.|[2402.12762v2](http://arxiv.org/abs/2402.12762v2)|null|
-|**2024-02-22**|**Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation**|Mingxuan Yan et.al.|[2402.14326v1](http://arxiv.org/abs/2402.14326v1)|null|
-|**2024-02-22**|**TinyLLaVA: A Framework of Small-scale Large Multimodal Models**|Baichuan Zhou et.al.|[2402.14289v1](http://arxiv.org/abs/2402.14289v1)|[link](https://github.com/dlcv-buaa/tinyllavabench)|
-|**2023-03-16**|**Bootstrap based asymptotic refinements for high-dimensional nonlinear models**|Joel L. Horowitz et.al.|[2303.09680v2](http://arxiv.org/abs/2303.09680v2)|null|
-|**2024-02-12**|**Rethinking Scaling Laws for Learning in Strategic Environments**|Tinashe Handina et.al.|[2402.07588v2](http://arxiv.org/abs/2402.07588v2)|null|
