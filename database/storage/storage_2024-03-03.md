@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-03 07:21:06 Asia/Shanghai
+ Automated deployment @ 2024-03-03 19:18:08 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,7 +17,7 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-02-29**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364v1](http://arxiv.org/abs/2402.19364v1)|null|
+|**2024-02-29**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364v1](http://arxiv.org/abs/2402.19364v1)|[link](https://github.com/spcl/arrow-matrix)|
 |**2023-03-03**|**Estimating the parameters of epidemic spread on two-layer random graphs: a classical and a neural network approach**|Ágnes Backhausz et.al.|[2303.02195v2](http://arxiv.org/abs/2303.02195v2)|null|
 |**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302v1](http://arxiv.org/abs/2402.19302v1)|[link](https://github.com/iit-pavis/diffassemble)|
 |**2024-01-29**|**Unveiling Molecular Moieties through Hierarchical Graph Explainability**|Paolo Sortino et.al.|[2402.01744v2](http://arxiv.org/abs/2402.01744v2)|null|
@@ -79,6 +79,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2023-12-27**|**Dual-stage optimizer for systematic overestimation adjustment applied to multi-objective genetic algorithms for biomarker selection**|Luca Cattelani et.al.|[2312.16624v3](http://arxiv.org/abs/2312.16624v3)|null|
+|**2020-06-18**|**Offline detection of change-points in the mean for stationary graph signals**|Alejandro de la Concha et.al.|[2006.10628v2](http://arxiv.org/abs/2006.10628v2)|[link](https://github.com/alejandrodelaconcha/vsgs)|
+|**2021-06-19**|**Practical Transferability Estimation for Image Classification Tasks**|Yang Tan et.al.|[2106.10479v3](http://arxiv.org/abs/2106.10479v3)|null|
 |**2023-11-30**|**Determining the core-collapse supernova explosion mechanism with current and future gravitational-wave observatories**|Jade Powell et.al.|[2311.18221v2](http://arxiv.org/abs/2311.18221v2)|null|
 |**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v1](http://arxiv.org/abs/2402.18450v1)|null|
 |**2024-02-28**|**Unveiling the Potential of Robustness in Evaluating Causal Inference Models**|Yiyan Huang et.al.|[2402.18392v1](http://arxiv.org/abs/2402.18392v1)|null|
@@ -91,5 +93,3 @@
 |**2024-02-26**|**Penalized Generative Variable Selection**|Tong Wang et.al.|[2402.16661v1](http://arxiv.org/abs/2402.16661v1)|null|
 |**2024-02-26**|**Information-Enriched Selection of Stationary and Non-Stationary Autoregressions using the Adaptive Lasso**|Thilo Reinschlüssel et.al.|[2402.16580v1](http://arxiv.org/abs/2402.16580v1)|null|
 |**2023-10-16**|**RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models**|Zijun Long et.al.|[2310.10221v2](http://arxiv.org/abs/2310.10221v2)|[link](https://github.com/longkukuhi/armbench)|
-|**2024-02-18**|**Towards Versatile Graph Learning Approach: from the Perspective of Large Language Models**|Lanning Wei et.al.|[2402.11641v2](http://arxiv.org/abs/2402.11641v2)|null|
-|**2024-02-23**|**A modified debiased inverse-variance weighted estimator in two-sample summary-data Mendelian randomization**|Youpeng Su et.al.|[2402.15086v1](http://arxiv.org/abs/2402.15086v1)|null|
