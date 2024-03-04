@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-04 07:21:50 Asia/Shanghai
+ Automated deployment @ 2024-03-04 20:02:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-14**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks**|Zhili Wang et.al.|[2308.06960v2](http://arxiv.org/abs/2308.06960v2)|[link](https://github.com/zwangeo/icde2024)|
+|**2024-02-19**|**Equivariant, Safe and Sensitive -- Graph Networks for New Physics**|Akanksha Bhardwaj et.al.|[2402.12449v2](http://arxiv.org/abs/2402.12449v2)|null|
+|**2023-10-17**|**Fast Graph Condensation with Structure-based Neural Tangent Kernel**|Lin Wang et.al.|[2310.11046v2](http://arxiv.org/abs/2310.11046v2)|[link](https://github.com/wanglin0126/gcsntk)|
+|**2023-11-01**|**Rational design of acid stable oxide catalysts for OER with OC22**|Richard Tran et.al.|[2311.00784v2](http://arxiv.org/abs/2311.00784v2)|null|
 |**2024-02-29**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364v1](http://arxiv.org/abs/2402.19364v1)|[link](https://github.com/spcl/arrow-matrix)|
 |**2023-03-03**|**Estimating the parameters of epidemic spread on two-layer random graphs: a classical and a neural network approach**|Ágnes Backhausz et.al.|[2303.02195v2](http://arxiv.org/abs/2303.02195v2)|null|
 |**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302v1](http://arxiv.org/abs/2402.19302v1)|[link](https://github.com/iit-pavis/diffassemble)|
@@ -28,10 +32,6 @@
 |**2023-09-29**|**ASAP: Automated Sequence Planning for Complex Robotic Assembly with Physical Feasibility**|Yunsheng Tian et.al.|[2309.16909v2](http://arxiv.org/abs/2309.16909v2)|null|
 |**2024-02-29**|**Benchmarking phonon anharmonicity in machine learning interatomic potentials**|Sasaank Bandi et.al.|[2402.18891v1](http://arxiv.org/abs/2402.18891v1)|null|
 |**2024-02-29**|**Loss-aware Curriculum Learning for Heterogeneous Graph Neural Networks**|Zhen Hao Wong et.al.|[2402.18875v1](http://arxiv.org/abs/2402.18875v1)|[link](https://github.com/lars-research/clgnn)|
-|**2024-02-23**|**GraphEdit: Large Language Models for Graph Structure Learning**|Zirui Guo et.al.|[2402.15183v3](http://arxiv.org/abs/2402.15183v3)|[link](https://github.com/hkuds/graphedit)|
-|**2023-10-02**|**Score dynamics: scaling molecular dynamics with picosecond timesteps via conditional diffusion model**|Tim Hsu et.al.|[2310.01678v3](http://arxiv.org/abs/2310.01678v3)|[link](https://github.com/llnl/graphite)|
-|**2024-01-15**|**Multimodal Language and Graph Learning of Adsorption Configuration in Catalysis**|Janghoon Ock et.al.|[2401.07408v2](http://arxiv.org/abs/2401.07408v2)|[link](https://github.com/hoon-ock/multi-view)|
-|**2024-02-28**|**GNSS Positioning using Cost Function Regulated Multilateration and Graph Neural Networks**|Amir Jalalirad et.al.|[2402.18630v1](http://arxiv.org/abs/2402.18630v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,7 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-11**|**Exact variable selection in sparse nonparametric models**|Natalia Stepanova et.al.|[2310.07677v2](http://arxiv.org/abs/2310.07677v2)|null|
 |**2023-12-27**|**Dual-stage optimizer for systematic overestimation adjustment applied to multi-objective genetic algorithms for biomarker selection**|Luca Cattelani et.al.|[2312.16624v3](http://arxiv.org/abs/2312.16624v3)|null|
 |**2020-06-18**|**Offline detection of change-points in the mean for stationary graph signals**|Alejandro de la Concha et.al.|[2006.10628v2](http://arxiv.org/abs/2006.10628v2)|[link](https://github.com/alejandrodelaconcha/vsgs)|
 |**2021-06-19**|**Practical Transferability Estimation for Image Classification Tasks**|Yang Tan et.al.|[2106.10479v3](http://arxiv.org/abs/2106.10479v3)|null|
@@ -92,4 +93,3 @@
 |**2023-10-18**|**Simultaneous Nonparametric Inference of M-regression under Complex Temporal Dynamics**|Miaoshiqi Liu et.al.|[2310.11724v2](http://arxiv.org/abs/2310.11724v2)|null|
 |**2024-02-26**|**Penalized Generative Variable Selection**|Tong Wang et.al.|[2402.16661v1](http://arxiv.org/abs/2402.16661v1)|null|
 |**2024-02-26**|**Information-Enriched Selection of Stationary and Non-Stationary Autoregressions using the Adaptive Lasso**|Thilo Reinschlüssel et.al.|[2402.16580v1](http://arxiv.org/abs/2402.16580v1)|null|
-|**2023-10-16**|**RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models**|Zijun Long et.al.|[2310.10221v2](http://arxiv.org/abs/2310.10221v2)|[link](https://github.com/longkukuhi/armbench)|
