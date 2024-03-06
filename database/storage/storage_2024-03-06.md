@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-06 07:21:28 Asia/Shanghai
+ Automated deployment @ 2024-03-06 19:19:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,42 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2022-09-13**|**Characterizing Graph Datasets for Node Classification: Homophily-Heterophily Dichotomy and Beyond**|Oleg Platonov et.al.|[2209.06177v4](http://arxiv.org/abs/2209.06177v4)|null|
-|**2024-03-02**|**Less is More: Hop-Wise Graph Attention for Scalable and Generalizable Learning on Circuits**|Chenhui Deng et.al.|[2403.01317v1](http://arxiv.org/abs/2403.01317v1)|null|
-|**2023-02-22**|**A critical look at the evaluation of GNNs under heterophily: Are we really making progress?**|Oleg Platonov et.al.|[2302.11640v2](http://arxiv.org/abs/2302.11640v2)|[link](https://github.com/yandex-research/heterophilous-graphs)|
-|**2023-12-20**|**Data-driven Design of High Pressure Hydride Superconductors using DFT and Deep Learning**|Daniel Wines et.al.|[2312.12694v3](http://arxiv.org/abs/2312.12694v3)|null|
-|**2024-03-02**|**Polynormer: Polynomial-Expressive Graph Transformer in Linear Time**|Chenhui Deng et.al.|[2403.01232v1](http://arxiv.org/abs/2403.01232v1)|[link](https://github.com/cornell-zhang/polynormer)|
-|**2024-02-07**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**|Yuchen Zhang et.al.|[2402.05011v2](http://arxiv.org/abs/2402.05011v2)|[link](https://github.com/nus-hpc-ai-lab/geom)|
-|**2024-01-08**|**Inferring Properties of Graph Neural Networks**|Dat Nguyen et.al.|[2401.03790v2](http://arxiv.org/abs/2401.03790v2)|null|
-|**2024-03-02**|**COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting**|Wei Ju et.al.|[2403.01091v1](http://arxiv.org/abs/2403.01091v1)|null|
-|**2024-03-02**|**Teaching MLP More Graph Information: A Three-stage Multitask Knowledge Distillation Framework**|Junxian Li et.al.|[2403.01079v1](http://arxiv.org/abs/2403.01079v1)|null|
-|**2024-03-01**|**An Interpretable Ensemble of Graph and Language Models for Improving Search Relevance in E-Commerce**|Nurendra Choudhary et.al.|[2403.00923v1](http://arxiv.org/abs/2403.00923v1)|null|
-|**2024-03-01**|**Subhomogeneous Deep Equilibrium Models**|Pietro Sittoni et.al.|[2403.00720v1](http://arxiv.org/abs/2403.00720v1)|null|
-|**2024-03-01**|**Toward Autonomous Cooperation in Heterogeneous Nanosatellite Constellations Using Dynamic Graph Neural Networks**|Guillem Casadesus-Vila et.al.|[2403.00692v2](http://arxiv.org/abs/2403.00692v2)|null|
+|**2024-02-19**|**Attacks on Node Attributes in Graph Neural Networks**|Ying Xu et.al.|[2402.12426v2](http://arxiv.org/abs/2402.12426v2)|null|
+|**2023-06-06**|**Optimal Inference in Contextual Stochastic Block Models**|O. Duranthon et.al.|[2306.07948v2](http://arxiv.org/abs/2306.07948v2)|null|
+|**2021-11-20**|**Generalizing Graph Neural Networks on Out-Of-Distribution Graphs**|Shaohua Fan et.al.|[2111.10657v3](http://arxiv.org/abs/2111.10657v3)|[link](https://github.com/googlebaba/stablegnn)|
+|**2024-02-16**|**ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment**|Yangyifei Luo et.al.|[2402.11000v2](http://arxiv.org/abs/2402.11000v2)|[link](https://github.com/lyyf2002/asgea)|
+|**2023-11-30**|**An Effective Universal Polynomial Basis for Spectral Graph Neural Networks**|Keke Huang et.al.|[2311.18177v2](http://arxiv.org/abs/2311.18177v2)|null|
+|**2024-02-28**|**CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots**|Zeqing Zhang et.al.|[2402.18420v2](http://arxiv.org/abs/2402.18420v2)|null|
+|**2024-03-05**|**Semi-Supervised Graph Representation Learning with Human-centric Explanation for Predicting Fatty Liver Disease**|So Yeon Kim et.al.|[2403.02786v1](http://arxiv.org/abs/2403.02786v1)|null|
+|**2023-04-10**|**A Unified Framework for Exploratory Learning-Aided Community Detection Under Topological Uncertainty**|Yu Hou et.al.|[2304.04497v3](http://arxiv.org/abs/2304.04497v3)|null|
+|**2024-03-05**|**Minimum Topology Attacks for Graph Neural Networks**|Mengmei Zhang et.al.|[2403.02723v1](http://arxiv.org/abs/2403.02723v1)|null|
+|**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228v2](http://arxiv.org/abs/2304.12228v2)|null|
+|**2024-02-28**|**GraphPub: Generation of Differential Privacy Graph with High Availability**|Wanghan Xu et.al.|[2403.00030v2](http://arxiv.org/abs/2403.00030v2)|null|
+|**2024-02-23**|**GraphEdit: Large Language Models for Graph Structure Learning**|Zirui Guo et.al.|[2402.15183v4](http://arxiv.org/abs/2402.15183v4)|[link](https://github.com/hkuds/graphedit)|
+|**2024-03-04**|**MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR**|Jad El Karchi et.al.|[2403.02518v1](http://arxiv.org/abs/2403.02518v1)|null|
+|**2024-03-04**|**Better Schedules for Low Precision Training of Deep Neural Networks**|Cameron R. Wolfe et.al.|[2403.02243v1](http://arxiv.org/abs/2403.02243v1)|null|
 |**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040v3](http://arxiv.org/abs/2401.06040v3)|[link](https://github.com/qqian99/wavgcrn)|
-|**2024-03-01**|**Graph Theory and GNNs to Unravel the Topographical Organization of Brain Lesions in Variants of Alzheimer's Disease Progression**|Leopold Hebert-Stevens et.al.|[2403.00636v1](http://arxiv.org/abs/2403.00636v1)|null|
-|**2024-03-01**|**PowerFlowMultiNet: Multigraph Neural Networks for Unbalanced Three-Phase Distribution Systems**|Salah Ghamizi et.al.|[2403.00892v1](http://arxiv.org/abs/2403.00892v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-05**|**Regularised Canonical Correlation Analysis: graphical lasso, biplots and beyond**|Lennie Wells et.al.|[2403.02979v1](http://arxiv.org/abs/2403.02979v1)|null|
+|**2024-03-04**|**Boosting Distributional Copula Regression for Bivariate Binary, Discrete and Mixed Responses**|Guillermo Briseño Sanchez et.al.|[2403.02194v1](http://arxiv.org/abs/2403.02194v1)|null|
+|**2024-03-04**|**Statistical Mechanics of Dynamical System Identification**|Andrei A. Klishin et.al.|[2403.01723v1](http://arxiv.org/abs/2403.01723v1)|null|
+|**2024-03-04**|**Dendrogram of mixing measures: Learning latent hierarchy and model selection for finite mixture models**|Dat Do et.al.|[2403.01684v1](http://arxiv.org/abs/2403.01684v1)|null|
+|**2024-03-03**|**A Unified Model Selection Technique for Spectral Clustering Based Motion Segmentation**|Yuxiang Huang et.al.|[2403.01606v1](http://arxiv.org/abs/2403.01606v1)|null|
+|**2024-03-03**|**On the Model-Agnostic Multi-Source-Free Unsupervised Domain Adaptation**|Jiangbo Pei et.al.|[2403.01582v1](http://arxiv.org/abs/2403.01582v1)|[link](https://github.com/spiresearch/mmda)|
+|**2023-09-01**|**SortedNet, a Place for Every Network and Every Network in its Place: Towards a Generalized Solution for Training Many-in-One Neural Networks**|Mojtaba Valipour et.al.|[2309.00255v2](http://arxiv.org/abs/2309.00255v2)|null|
+|**2024-03-01**|**Fast variable selection for distributional regression with application to continuous glucose monitoring data**|Alexander Coulter et.al.|[2403.00922v1](http://arxiv.org/abs/2403.00922v1)|null|
+|**2024-03-01**|**Defining Expertise: Applications to Treatment Effect Estimation**|Alihan Hüyük et.al.|[2403.00694v1](http://arxiv.org/abs/2403.00694v1)|[link](https://github.com/qiyaowei/expertise)|
+|**2024-03-01**|**Structurally Aware Robust Model Selection for Mixtures**|Jiawei Li et.al.|[2403.00687v1](http://arxiv.org/abs/2403.00687v1)|null|
+|**2022-12-26**|**Multivariate Bayesian variable selection with application to multi-trait genetic fine mapping**|Travis Canida et.al.|[2212.13294v3](http://arxiv.org/abs/2212.13294v3)|null|
+|**2023-10-11**|**Exact variable selection in sparse nonparametric models**|Natalia Stepanova et.al.|[2310.07677v2](http://arxiv.org/abs/2310.07677v2)|null|
+|**2024-02-29**|**Spatio-temporal modeling for record-breaking temperature events in Spain**|Jorge Castillo-Mateo et.al.|[2403.00080v1](http://arxiv.org/abs/2403.00080v1)|null|
+|**2023-12-27**|**Dual-stage optimizer for systematic overestimation adjustment applied to multi-objective genetic algorithms for biomarker selection**|Luca Cattelani et.al.|[2312.16624v3](http://arxiv.org/abs/2312.16624v3)|null|
+|**2020-06-18**|**Offline detection of change-points in the mean for stationary graph signals**|Alejandro de la Concha et.al.|[2006.10628v2](http://arxiv.org/abs/2006.10628v2)|[link](https://github.com/alejandrodelaconcha/vsgs)|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +78,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-03**|**SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation**|Hongjian Liu et.al.|[2403.01505v1](http://arxiv.org/abs/2403.01505v1)|null|
 |**2024-03-01**|**Fast variable selection for distributional regression with application to continuous glucose monitoring data**|Alexander Coulter et.al.|[2403.00922v1](http://arxiv.org/abs/2403.00922v1)|null|
 |**2024-02-20**|**Barking dogs: A Fréchet distance variant for detour detection**|Ivor van der Hoog et.al.|[2402.13159v1](http://arxiv.org/abs/2402.13159v1)|null|
 |**2024-02-19**|**A Lower Bound for Estimating Fréchet Means**|Shayan Hundrieser et.al.|[2402.12290v1](http://arxiv.org/abs/2402.12290v1)|null|
@@ -71,25 +93,3 @@
 |**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031v1](http://arxiv.org/abs/2402.04031v1)|[link](https://github.com/mobaidoctor/polyp-ddpm)|
 |**2024-02-05**|**Improving EEG Signal Classification Accuracy Using Wasserstein Generative Adversarial Networks**|Joshua Park et.al.|[2402.09453v1](http://arxiv.org/abs/2402.09453v1)|[link](https://github.com/joshparksj/eeg-wgan)|
 |**2021-12-30**|**A Novel Generator with Auxiliary Branch for Improving GAN Performance**|Seung Park et.al.|[2112.14968v2](http://arxiv.org/abs/2112.14968v2)|null|
-|**2024-02-02**|**Variational Quantum Circuits Enhanced Generative Adversarial Network**|Runqiu Shu et.al.|[2402.01791v1](http://arxiv.org/abs/2402.01791v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-01**|**Fast variable selection for distributional regression with application to continuous glucose monitoring data**|Alexander Coulter et.al.|[2403.00922v1](http://arxiv.org/abs/2403.00922v1)|null|
-|**2024-03-01**|**Defining Expertise: Applications to Treatment Effect Estimation**|Alihan Hüyük et.al.|[2403.00694v1](http://arxiv.org/abs/2403.00694v1)|[link](https://github.com/qiyaowei/expertise)|
-|**2024-03-01**|**Structurally Aware Robust Model Selection for Mixtures**|Jiawei Li et.al.|[2403.00687v1](http://arxiv.org/abs/2403.00687v1)|null|
-|**2022-12-26**|**Multivariate Bayesian variable selection with application to multi-trait genetic fine mapping**|Travis Canida et.al.|[2212.13294v3](http://arxiv.org/abs/2212.13294v3)|null|
-|**2023-10-11**|**Exact variable selection in sparse nonparametric models**|Natalia Stepanova et.al.|[2310.07677v2](http://arxiv.org/abs/2310.07677v2)|null|
-|**2024-02-29**|**Spatio-temporal modeling for record-breaking temperature events in Spain**|Jorge Castillo-Mateo et.al.|[2403.00080v1](http://arxiv.org/abs/2403.00080v1)|null|
-|**2023-12-27**|**Dual-stage optimizer for systematic overestimation adjustment applied to multi-objective genetic algorithms for biomarker selection**|Luca Cattelani et.al.|[2312.16624v3](http://arxiv.org/abs/2312.16624v3)|null|
-|**2020-06-18**|**Offline detection of change-points in the mean for stationary graph signals**|Alejandro de la Concha et.al.|[2006.10628v2](http://arxiv.org/abs/2006.10628v2)|[link](https://github.com/alejandrodelaconcha/vsgs)|
-|**2021-06-19**|**Practical Transferability Estimation for Image Classification Tasks**|Yang Tan et.al.|[2106.10479v3](http://arxiv.org/abs/2106.10479v3)|null|
-|**2023-11-30**|**Determining the core-collapse supernova explosion mechanism with current and future gravitational-wave observatories**|Jade Powell et.al.|[2311.18221v2](http://arxiv.org/abs/2311.18221v2)|null|
-|**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v1](http://arxiv.org/abs/2402.18450v1)|null|
-|**2024-02-28**|**Unveiling the Potential of Robustness in Evaluating Causal Inference Models**|Yiyan Huang et.al.|[2402.18392v1](http://arxiv.org/abs/2402.18392v1)|null|
-|**2024-02-28**|**A network-constrain Weibull AFT model for biomarkers discovery**|Claudia Angelini et.al.|[2402.18242v1](http://arxiv.org/abs/2402.18242v1)|null|
-|**2023-01-15**|**Discrete parametric graphical models with Dirichlet type priors**|Bartosz Kołodziejek et.al.|[2301.06058v4](http://arxiv.org/abs/2301.06058v4)|null|
-|**2018-09-12**|**High-dimensional Bayesian Fourier Analysis For Detecting Circadian Gene Expressions**|Silvia Montagna et.al.|[1809.04347v2](http://arxiv.org/abs/1809.04347v2)|null|
