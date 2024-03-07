@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-07 07:20:53 Asia/Shanghai
+ Automated deployment @ 2024-03-07 19:18:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,29 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-02-19**|**Attacks on Node Attributes in Graph Neural Networks**|Ying Xu et.al.|[2402.12426v2](http://arxiv.org/abs/2402.12426v2)|null|
-|**2023-06-06**|**Optimal Inference in Contextual Stochastic Block Models**|O. Duranthon et.al.|[2306.07948v2](http://arxiv.org/abs/2306.07948v2)|null|
-|**2021-11-20**|**Generalizing Graph Neural Networks on Out-Of-Distribution Graphs**|Shaohua Fan et.al.|[2111.10657v3](http://arxiv.org/abs/2111.10657v3)|[link](https://github.com/googlebaba/stablegnn)|
-|**2024-02-16**|**ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment**|Yangyifei Luo et.al.|[2402.11000v2](http://arxiv.org/abs/2402.11000v2)|[link](https://github.com/lyyf2002/asgea)|
-|**2023-11-30**|**An Effective Universal Polynomial Basis for Spectral Graph Neural Networks**|Keke Huang et.al.|[2311.18177v2](http://arxiv.org/abs/2311.18177v2)|null|
-|**2024-02-28**|**CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots**|Zeqing Zhang et.al.|[2402.18420v2](http://arxiv.org/abs/2402.18420v2)|null|
-|**2024-03-05**|**Semi-Supervised Graph Representation Learning with Human-centric Explanation for Predicting Fatty Liver Disease**|So Yeon Kim et.al.|[2403.02786v1](http://arxiv.org/abs/2403.02786v1)|null|
-|**2023-04-10**|**A Unified Framework for Exploratory Learning-Aided Community Detection Under Topological Uncertainty**|Yu Hou et.al.|[2304.04497v3](http://arxiv.org/abs/2304.04497v3)|null|
-|**2024-03-05**|**Minimum Topology Attacks for Graph Neural Networks**|Mengmei Zhang et.al.|[2403.02723v1](http://arxiv.org/abs/2403.02723v1)|null|
-|**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228v2](http://arxiv.org/abs/2304.12228v2)|null|
-|**2024-02-28**|**GraphPub: Generation of Differential Privacy Graph with High Availability**|Wanghan Xu et.al.|[2403.00030v2](http://arxiv.org/abs/2403.00030v2)|null|
-|**2024-02-23**|**GraphEdit: Large Language Models for Graph Structure Learning**|Zirui Guo et.al.|[2402.15183v4](http://arxiv.org/abs/2402.15183v4)|[link](https://github.com/hkuds/graphedit)|
-|**2024-03-04**|**MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR**|Jad El Karchi et.al.|[2403.02518v1](http://arxiv.org/abs/2403.02518v1)|null|
-|**2024-03-04**|**Better Schedules for Low Precision Training of Deep Neural Networks**|Cameron R. Wolfe et.al.|[2403.02243v1](http://arxiv.org/abs/2403.02243v1)|null|
-|**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040v3](http://arxiv.org/abs/2401.06040v3)|[link](https://github.com/qqian99/wavgcrn)|
+|**2022-10-17**|**FIMP: Foundation Model-Informed Message Passing for Graph Neural Networks**|Syed Asad Rizvi et.al.|[2210.09475v4](http://arxiv.org/abs/2210.09475v4)|null|
+|**2024-03-06**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880v1](http://arxiv.org/abs/2403.03880v1)|[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)|
+|**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767v1](http://arxiv.org/abs/2403.03767v1)|null|
+|**2024-03-06**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714v1](http://arxiv.org/abs/2403.03714v1)|null|
+|**2024-03-06**|**Simplified PCNet with Robustness**|Bingheng Li et.al.|[2403.03676v1](http://arxiv.org/abs/2403.03676v1)|null|
+|**2024-03-06**|**Provable Filter for Real-world Graph Clustering**|Xuanting Xie et.al.|[2403.03666v1](http://arxiv.org/abs/2403.03666v1)|null|
+|**2024-03-06**|**K-Link: Knowledge-Link Graph from LLMs for Enhanced Representation Learning in Multivariate Time-Series Data**|Yucheng Wang et.al.|[2403.03645v1](http://arxiv.org/abs/2403.03645v1)|null|
+|**2024-03-06**|**Learning Invariant Representations of Graph Neural Networks via Cluster Generalization**|Donglin Xia et.al.|[2403.03599v1](http://arxiv.org/abs/2403.03599v1)|[link](https://github.com/bupt-gamma/citgnn)|
+|**2024-03-06**|**LDSF: Lightweight Dual-Stream Framework for SAR Target Recognition by Coupling Local Electromagnetic Scattering Features and Global Visual Features**|Xuying Xiong et.al.|[2403.03527v1](http://arxiv.org/abs/2403.03527v1)|null|
+|**2024-03-06**|**IB-Net: Initial Branch Network for Variable Decision in Boolean Satisfiability**|Tsz Ho Chan et.al.|[2403.03517v1](http://arxiv.org/abs/2403.03517v1)|null|
+|**2024-03-02**|**Less is More: Hop-Wise Graph Attention for Scalable and Generalizable Learning on Circuits**|Chenhui Deng et.al.|[2403.01317v2](http://arxiv.org/abs/2403.01317v2)|null|
+|**2024-03-06**|**A Teacher-Free Graph Knowledge Distillation Framework with Dual Self-Distillation**|Lirong Wu et.al.|[2403.03483v1](http://arxiv.org/abs/2403.03483v1)|null|
+|**2024-03-06**|**Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding**|Mengying Jiang et.al.|[2403.03465v1](http://arxiv.org/abs/2403.03465v1)|[link](https://github.com/mengyingjiang/gcn-sa)|
+|**2024-03-06**|**An AI-enabled Agent-Based Model and Its Application in Measles Outbreak Simulation for New Zealand**|Sijin Zhang et.al.|[2403.03434v1](http://arxiv.org/abs/2403.03434v1)|null|
+|**2023-11-06**|**From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach**|Tuan Nguyen et.al.|[2311.03260v2](http://arxiv.org/abs/2311.03260v2)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-05-06**|**Differentially Private Generalized Linear Models Revisited**|Raman Arora et.al.|[2205.03014v2](http://arxiv.org/abs/2205.03014v2)|null|
+|**2024-03-06**|**Bayesian Generalized Distributed Lag Regression with Variable Selection**|Daniel Dempsey et.al.|[2403.03646v1](http://arxiv.org/abs/2403.03646v1)|null|
 |**2024-03-05**|**Regularised Canonical Correlation Analysis: graphical lasso, biplots and beyond**|Lennie Wells et.al.|[2403.02979v1](http://arxiv.org/abs/2403.02979v1)|null|
 |**2024-03-04**|**Boosting Distributional Copula Regression for Bivariate Binary, Discrete and Mixed Responses**|Guillermo Briseño Sanchez et.al.|[2403.02194v1](http://arxiv.org/abs/2403.02194v1)|null|
 |**2024-03-04**|**Statistical Mechanics of Dynamical System Identification**|Andrei A. Klishin et.al.|[2403.01723v1](http://arxiv.org/abs/2403.01723v1)|null|
@@ -51,14 +53,14 @@
 |**2022-12-26**|**Multivariate Bayesian variable selection with application to multi-trait genetic fine mapping**|Travis Canida et.al.|[2212.13294v3](http://arxiv.org/abs/2212.13294v3)|null|
 |**2023-10-11**|**Exact variable selection in sparse nonparametric models**|Natalia Stepanova et.al.|[2310.07677v2](http://arxiv.org/abs/2310.07677v2)|null|
 |**2024-02-29**|**Spatio-temporal modeling for record-breaking temperature events in Spain**|Jorge Castillo-Mateo et.al.|[2403.00080v1](http://arxiv.org/abs/2403.00080v1)|null|
-|**2023-12-27**|**Dual-stage optimizer for systematic overestimation adjustment applied to multi-objective genetic algorithms for biomarker selection**|Luca Cattelani et.al.|[2312.16624v3](http://arxiv.org/abs/2312.16624v3)|null|
-|**2020-06-18**|**Offline detection of change-points in the mean for stationary graph signals**|Alejandro de la Concha et.al.|[2006.10628v2](http://arxiv.org/abs/2006.10628v2)|[link](https://github.com/alejandrodelaconcha/vsgs)|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-06**|**Generative Active Learning with Variational Autoencoder for Radiology Data Generation in Veterinary Medicine**|In-Gyu Lee et.al.|[2403.03642v1](http://arxiv.org/abs/2403.03642v1)|null|
+|**2023-11-02**|**Adapting Frechet Audio Distance for Generative Music Evaluation**|Azalea Gui et.al.|[2311.01616v2](http://arxiv.org/abs/2311.01616v2)|[link](https://github.com/microsoft/fadtk)|
 |**2024-03-03**|**SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation**|Hongjian Liu et.al.|[2403.01505v1](http://arxiv.org/abs/2403.01505v1)|null|
 |**2024-03-01**|**Fast variable selection for distributional regression with application to continuous glucose monitoring data**|Alexander Coulter et.al.|[2403.00922v1](http://arxiv.org/abs/2403.00922v1)|null|
 |**2024-02-20**|**Barking dogs: A Fréchet distance variant for detour detection**|Ivor van der Hoog et.al.|[2402.13159v1](http://arxiv.org/abs/2402.13159v1)|null|
@@ -72,8 +74,6 @@
 |**2024-02-12**|**Quasinormable Fréchet spaces and M. W. Wong's inequality**|Eduard A. Nigsch et.al.|[2402.08044v1](http://arxiv.org/abs/2402.08044v1)|null|
 |**2024-02-08**|**Deformed Fréchet law for Wigner and sample covariance matrices with tail in crossover regime**|Yi Han et.al.|[2402.05590v1](http://arxiv.org/abs/2402.05590v1)|null|
 |**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031v1](http://arxiv.org/abs/2402.04031v1)|[link](https://github.com/mobaidoctor/polyp-ddpm)|
-|**2024-02-05**|**Improving EEG Signal Classification Accuracy Using Wasserstein Generative Adversarial Networks**|Joshua Park et.al.|[2402.09453v1](http://arxiv.org/abs/2402.09453v1)|[link](https://github.com/joshparksj/eeg-wgan)|
-|**2021-12-30**|**A Novel Generator with Auxiliary Branch for Improving GAN Performance**|Seung Park et.al.|[2112.14968v2](http://arxiv.org/abs/2112.14968v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
