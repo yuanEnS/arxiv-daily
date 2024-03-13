@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-13 07:22:52 Asia/Shanghai
+ Automated deployment @ 2024-03-13 19:21:55 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-02-16**|**Unlink to Unlearn: Simplifying Edge Unlearning in GNNs**|Jiajun Tan et.al.|[2402.10695v2](http://arxiv.org/abs/2402.10695v2)|null|
-|**2024-03-11**|**Are Targeted Messages More Effective?**|Martin Grohe et.al.|[2403.06817v1](http://arxiv.org/abs/2403.06817v1)|null|
-|**2023-10-29**|**The Weisfeiler-Leman Dimension of Conjunctive Queries**|Andreas Göbel et.al.|[2310.19006v2](http://arxiv.org/abs/2310.19006v2)|null|
-|**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687v1](http://arxiv.org/abs/2403.06687v1)|null|
-|**2024-03-11**|**Graph Neural Network with Two Uplift Estimators for Label-Scarcity Individual Uplift Modeling**|Dingyuan Zhu et.al.|[2403.06489v1](http://arxiv.org/abs/2403.06489v1)|null|
-|**2024-03-11**|**Financial Default Prediction via Motif-preserving Graph Neural Network with Curriculum Learning**|Daixin Wang et.al.|[2403.06482v1](http://arxiv.org/abs/2403.06482v1)|null|
-|**2024-03-11**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457v1](http://arxiv.org/abs/2403.06457v1)|null|
-|**2024-03-11**|**Joint-Embedding Masked Autoencoder for Self-supervised Learning of Dynamic Functional Connectivity from the Human Brain**|Jungwon Choi et.al.|[2403.06432v1](http://arxiv.org/abs/2403.06432v1)|null|
-|**2024-03-11**|**A Differential Geometric View and Explainability of GNN on Evolving Graphs**|Yazheng Liu et.al.|[2403.06425v1](http://arxiv.org/abs/2403.06425v1)|null|
-|**2023-12-07**|**Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification**|Henan Sun et.al.|[2312.04111v2](http://arxiv.org/abs/2312.04111v2)|null|
-|**2024-03-10**|**Cooperative Classification and Rationalization for Graph Generalization**|Linan Yue et.al.|[2403.06239v1](http://arxiv.org/abs/2403.06239v1)|null|
-|**2024-02-02**|**TEDDY: Trimming Edges with Degree-based Discrimination strategY**|Hyunjin Seo et.al.|[2402.01261v2](http://arxiv.org/abs/2402.01261v2)|null|
-|**2021-11-20**|**Generalizing Graph Neural Networks on Out-Of-Distribution Graphs**|Shaohua Fan et.al.|[2111.10657v4](http://arxiv.org/abs/2111.10657v4)|[link](https://github.com/googlebaba/stablegnn)|
-|**2024-03-10**|**Local Vertex Colouring Graph Neural Networks**|Shouheng Li et.al.|[2403.06080v1](http://arxiv.org/abs/2403.06080v1)|[link](https://github.com/seanli3/lvc)|
-|**2024-03-10**|**Generalization of Graph Neural Networks through the Lens of Homomorphism**|Shouheng Li et.al.|[2403.06079v1](http://arxiv.org/abs/2403.06079v1)|null|
+|**2024-03-12**|**Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**|Harish G. Naik et.al.|[2403.07849v1](http://arxiv.org/abs/2403.07849v1)|null|
+|**2024-03-12**|**OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data Repositories**|Christos Koutras et.al.|[2403.07653v1](http://arxiv.org/abs/2403.07653v1)|null|
+|**2024-02-15**|**Clifford Group Equivariant Simplicial Message Passing Networks**|Cong Liu et.al.|[2402.10011v3](http://arxiv.org/abs/2402.10011v3)|[link](https://github.com/congliuuva/clifford-group-equivariant-simplicial-message-passing-networks)|
+|**2024-03-12**|**Towards Graph Foundation Models for Personalization**|Andreas Damianou et.al.|[2403.07478v1](http://arxiv.org/abs/2403.07478v1)|null|
+|**2024-03-12**|**One for All and All for One: GNN-based Control-Flow Attestation for Embedded Devices**|Marco Chilese et.al.|[2403.07465v1](http://arxiv.org/abs/2403.07465v1)|null|
+|**2024-03-01**|**PowerFlowMultiNet: Multigraph Neural Networks for Unbalanced Three-Phase Distribution Systems**|Salah Ghamizi et.al.|[2403.00892v2](http://arxiv.org/abs/2403.00892v2)|null|
+|**2021-06-21**|**Customizing Graph Neural Networks using Path Reweighting**|Jianpeng Chen et.al.|[2106.10866v3](http://arxiv.org/abs/2106.10866v3)|[link](https://github.com/cjpcool/customgnn)|
+|**2023-08-25**|**SEGNO: Generalizing Equivariant Graph Neural Networks with Physical Inductive Biases**|Yang Liu et.al.|[2308.13212v2](http://arxiv.org/abs/2308.13212v2)|null|
+|**2024-03-08**|**Jet Discrimination with Quantum Complete Graph Neural Network**|Yi-An Chen et.al.|[2403.04990v2](http://arxiv.org/abs/2403.04990v2)|null|
+|**2024-03-12**|**Graph Unlearning with Efficient Partial Retraining**|Jiahao Zhang et.al.|[2403.07353v1](http://arxiv.org/abs/2403.07353v1)|null|
+|**2024-03-12**|**Graph Data Condensation via Self-expressive Graph Structure Reconstruction**|Zhanyu Liu et.al.|[2403.07294v1](http://arxiv.org/abs/2403.07294v1)|null|
+|**2022-09-02**|**SATformer: Transformer-Based UNSAT Core Learning**|Zhengyuan Shi et.al.|[2209.00953v2](http://arxiv.org/abs/2209.00953v2)|null|
+|**2024-03-11**|**Uncertainty in Graph Neural Networks: A Survey**|Fangxin Wang et.al.|[2403.07185v1](http://arxiv.org/abs/2403.07185v1)|null|
+|**2024-02-12**|**NetInfoF Framework: Measuring and Exploiting Network Usable Information**|Meng-Chieh Lee et.al.|[2402.07999v2](http://arxiv.org/abs/2402.07999v2)|null|
+|**2022-02-17**|**An alternative approach to train neural networks using monotone variational inequality**|Chen Xu et.al.|[2202.08876v4](http://arxiv.org/abs/2202.08876v4)|[link](https://github.com/hamrel-cxu/svi-nn-training)|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-11**|**Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits**|Yu Xia et.al.|[2403.07213v1](http://arxiv.org/abs/2403.07213v1)|null|
+|**2024-03-11**|**Bayesian Bell regression model for fitting of overdispersed count data with application**|Ameer Musa Imran Alhseeni et.al.|[2403.07067v1](http://arxiv.org/abs/2403.07067v1)|null|
 |**2024-03-11**|**Detection of Unobserved Common Causes based on NML Code in Discrete, Mixed, and Continuous Variables**|Masatoshi Kobayashi et.al.|[2403.06499v1](http://arxiv.org/abs/2403.06499v1)|[link](https://github.com/matsushima-lab/cloud)|
 |**2024-03-11**|**Pre-Trained Model Recommendation for Downstream Fine-tuning**|Jiameng Bai et.al.|[2403.06382v1](http://arxiv.org/abs/2403.06382v1)|null|
 |**2024-03-08**|**Systematic assessment of various universal machine-learning interatomic potentials**|Haochen Yu et.al.|[2403.05729v1](http://arxiv.org/abs/2403.05729v1)|null|
@@ -91,5 +93,3 @@
 |**2022-11-06**|**Collaborative Video Analytics on Distributed Edges with Multiagent Deep Reinforcement Learning**|Guanyu Gao et.al.|[2211.03102v2](http://arxiv.org/abs/2211.03102v2)|null|
 |**2024-03-07**|**A data-centric approach to class-specific bias in image data augmentation**|Athanasios Angelakis et.al.|[2403.04120v1](http://arxiv.org/abs/2403.04120v1)|null|
 |**2022-05-06**|**Differentially Private Generalized Linear Models Revisited**|Raman Arora et.al.|[2205.03014v2](http://arxiv.org/abs/2205.03014v2)|null|
-|**2024-03-06**|**Bayesian Generalized Distributed Lag Regression with Variable Selection**|Daniel Dempsey et.al.|[2403.03646v1](http://arxiv.org/abs/2403.03646v1)|null|
-|**2024-03-05**|**Regularised Canonical Correlation Analysis: graphical lasso, biplots and beyond**|Lennie Wells et.al.|[2403.02979v1](http://arxiv.org/abs/2403.02979v1)|null|
