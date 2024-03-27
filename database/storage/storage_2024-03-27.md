@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-03-27 07:24:07 Asia/Shanghai
+ Automated deployment @ 2024-03-27 19:19:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656v1](http://arxiv.org/abs/2403.16656v1)|[link](https://github.com/hkuds/graphaug)|
-|**2024-03-25**|**LSTTN: A Long-Short Term Transformer-based Spatio-temporal Neural Network for Traffic Flow Forecasting**|Qinyao Luo et.al.|[2403.16495v1](http://arxiv.org/abs/2403.16495v1)|null|
-|**2023-04-03**|**Counterfactual Learning on Graphs: A Survey**|Zhimeng Guo et.al.|[2304.01391v2](http://arxiv.org/abs/2304.01391v2)|[link](https://github.com/timelovercc/awesome-graph-causal-learning)|
-|**2024-03-25**|**ChebMixer: Efficient Graph Representation Learning with MLP Mixer**|Xiaoyan Kui et.al.|[2403.16358v1](http://arxiv.org/abs/2403.16358v1)|null|
-|**2022-08-14**|**Convolutional Spiking Neural Networks for Detecting Anticipatory Brain Potentials Using Electroencephalogram**|Nathan Lutes et.al.|[2208.06900v3](http://arxiv.org/abs/2208.06900v3)|null|
-|**2022-09-19**|**Generative Graphical Inverse Kinematics**|Oliver Limoyo et.al.|[2209.08812v4](http://arxiv.org/abs/2209.08812v4)|[link](https://github.com/utiasstars/generative-graphik)|
-|**2023-06-21**|**DGC-GNN: Leveraging Geometry and Color Cues for Visual Descriptor-Free 2D-3D Matching**|Shuzhe Wang et.al.|[2306.12547v2](http://arxiv.org/abs/2306.12547v2)|[link](https://github.com/aaltovision/dgc-gnn-release)|
-|**2024-03-24**|**Rumor Detection with a novel graph neural network approach**|Tianrui Liu et.al.|[2403.16206v1](http://arxiv.org/abs/2403.16206v1)|null|
-|**2023-01-18**|**FreshGNN: Reducing Memory Access via Stable Historical Embeddings for Graph Neural Network Training**|Kezhao Huang et.al.|[2301.07482v3](http://arxiv.org/abs/2301.07482v3)|null|
-|**2024-03-24**|**A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective**|Ziwen Zhao et.al.|[2403.16137v1](http://arxiv.org/abs/2403.16137v1)|[link](https://github.com/newiz430/pretext)|
-|**2024-03-24**|**SSHPool: The Separated Subgraph-based Hierarchical Pooling**|Zhuo Xu et.al.|[2403.16133v1](http://arxiv.org/abs/2403.16133v1)|null|
-|**2023-11-14**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente Gonzalez et.al.|[2311.08118v2](http://arxiv.org/abs/2311.08118v2)|[link](https://github.com/ericssonresearch/gnn-neighbors-xai)|
-|**2023-08-14**|**Inductive Knowledge Graph Completion with GNNs and Rules: An Analysis**|Akash Anil et.al.|[2308.07942v2](http://arxiv.org/abs/2308.07942v2)|[link](https://github.com/anilakash/indkgc)|
-|**2024-03-24**|**Segment Anything Model for Road Network Graph Extraction**|Congrui Hetang et.al.|[2403.16051v1](http://arxiv.org/abs/2403.16051v1)|[link](https://github.com/htcr/sam_road)|
-|**2024-03-24**|**Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks**|Hongyin Zhu et.al.|[2403.16033v1](http://arxiv.org/abs/2403.16033v1)|null|
+|**2023-10-03**|**Probabilistically Rewired Message-Passing Neural Networks**|Chendi Qian et.al.|[2310.02156v4](http://arxiv.org/abs/2310.02156v4)|[link](https://github.com/chendiqian/PR-MPNN)|
+|**2023-06-22**|**A Decade of Scholarly Research on Open Knowledge Graphs**|Houcemeddine Turki et.al.|[2306.13186v3](http://arxiv.org/abs/2306.13186v3)|[link](https://github.com/data-engineering-and-semantics/openkgbiblio)|
+|**2024-03-26**|**CANOS: A Fast and Scalable Neural AC-OPF Solver Robust To N-1 Perturbations**|Luis Piloto et.al.|[2403.17660v1](http://arxiv.org/abs/2403.17660v1)|null|
+|**2024-03-26**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2403.17647v1](http://arxiv.org/abs/2403.17647v1)|[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)|
+|**2024-03-26**|**EL-MLFFs: Ensemble Learning of Machine Leaning Force Fields**|Bangchen Yin et.al.|[2403.17507v1](http://arxiv.org/abs/2403.17507v1)|null|
+|**2024-03-26**|**Variational Graph Auto-Encoder Based Inductive Learning Method for Semi-Supervised Classification**|Hanxuan Yang et.al.|[2403.17500v1](http://arxiv.org/abs/2403.17500v1)|null|
+|**2023-02-06**|**An Implicit GNN Solver for Poisson-like problems**|Matthieu Nastorg et.al.|[2302.10891v3](http://arxiv.org/abs/2302.10891v3)|null|
+|**2024-03-26**|**AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations**|Wei Wu et.al.|[2403.17416v1](http://arxiv.org/abs/2403.17416v1)|null|
+|**2023-11-06**|**Brain Networks and Intelligence: A Graph Neural Network Based Approach to Resting State fMRI Data**|Bishal Thapaliya et.al.|[2311.03520v2](http://arxiv.org/abs/2311.03520v2)|[link](https://github.com/bishalth01/Brain-ROI-Aware-Graph-Isomorphism-Networks-BrainRGIN-)|
+|**2024-03-21**|**NaNa and MiGu: Semantic Data Augmentation Techniques to Enhance Protein Classification in Graph Neural Networks**|Yi-Shan Lan et.al.|[2403.14736v2](http://arxiv.org/abs/2403.14736v2)|[link](https://github.com/r08b46009/code_for_migu_nana)|
+|**2024-03-26**|**Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation**|Hyeon-Ju Jeon et.al.|[2403.17384v1](http://arxiv.org/abs/2403.17384v1)|null|
+|**2024-02-29**|**Identification of Craving Maps among Marijuana Users via the Analysis of Functional Brain Networks with High-Order Attention Graph Neural Networks**|Jun-En Ding et.al.|[2403.00033v4](http://arxiv.org/abs/2403.00033v4)|null|
+|**2024-03-24**|**Rumor Detection with a novel graph neural network approach**|Tianrui Liu et.al.|[2403.16206v2](http://arxiv.org/abs/2403.16206v2)|null|
+|**2024-03-26**|**Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network**|Yilun Zheng et.al.|[2403.17351v1](http://arxiv.org/abs/2403.17351v1)|null|
+|**2023-12-22**|**Joint Learning Neuronal Skeleton and Brain Circuit Topology with Permutation Invariant Encoders for Neuron Classification**|Minghui Liao et.al.|[2312.14518v2](http://arxiv.org/abs/2312.14518v2)|[link](https://github.com/whuminghui/neunet)|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,8 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-26**|**Correlation of Fréchet Audio Distance With Human Perception of Environmental Audio Is Embedding Dependant**|Modan Tailleur et.al.|[2403.17508v1](http://arxiv.org/abs/2403.17508v1)|null|
+|**2024-03-26**|**A Type of Nonlinear Fréchet Regressions**|Lu Lin et.al.|[2403.17481v1](http://arxiv.org/abs/2403.17481v1)|null|
 |**2024-03-24**|**Caracterisation of Frechet differentiability norm for dual complex Banach spaces**|Mohammad Daher et.al.|[2403.16213v1](http://arxiv.org/abs/2403.16213v1)|null|
 |**2021-10-14**|**Integrating Fréchet distance and AI reveals the evolutionary trajectory and origin of SARS-CoV-2**|Anyou Wang et.al.|[2110.07696v3](http://arxiv.org/abs/2110.07696v3)|null|
 |**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380v2](http://arxiv.org/abs/2309.06380v2)|[link](https://github.com/gnobitab/instaflow)|
@@ -70,26 +72,24 @@
 |**2022-02-10**|**Random Forest Weighted Local Fréchet Regression with Random Objects**|Rui Qiu et.al.|[2202.04912v4](http://arxiv.org/abs/2202.04912v4)|null|
 |**2023-08-04**|**Optimal Control of Stationary Doubly Diffusive Flows on Two and Three Dimensional Bounded Lipschitz Domains: A Theoretical Study**|Jai Tushar et.al.|[2308.02178v2](http://arxiv.org/abs/2308.02178v2)|null|
 |**2024-03-08**|**Follow-the-Perturbed-Leader with Fréchet-type Tail Distributions: Optimality in Adversarial Bandits and Best-of-Both-Worlds**|Jongyeong Lee et.al.|[2403.05134v1](http://arxiv.org/abs/2403.05134v1)|null|
-|**2024-03-06**|**Generative Active Learning with Variational Autoencoder for Radiology Data Generation in Veterinary Medicine**|In-Gyu Lee et.al.|[2403.03642v1](http://arxiv.org/abs/2403.03642v1)|null|
-|**2023-11-02**|**Adapting Frechet Audio Distance for Generative Music Evaluation**|Azalea Gui et.al.|[2311.01616v2](http://arxiv.org/abs/2311.01616v2)|[link](https://github.com/microsoft/fadtk)|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-03-26**|**Nonsmooth convex-concave saddle point problems with cardinality penalties**|Wei Bian et.al.|[2403.17535v1](http://arxiv.org/abs/2403.17535v1)|null|
+|**2024-03-26**|**EL-MLFFs: Ensemble Learning of Machine Leaning Force Fields**|Bangchen Yin et.al.|[2403.17507v1](http://arxiv.org/abs/2403.17507v1)|null|
+|**2021-02-02**|**Bayesian data-driven discovery of partial differential equations with variable coefficients**|Aoxue Chen et.al.|[2102.01432v2](http://arxiv.org/abs/2102.01432v2)|null|
+|**2024-03-13**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738v4](http://arxiv.org/abs/2403.09738v4)|[link](https://github.com/granelle/naacl24-user-sim)|
+|**2024-03-25**|**Sparse inference in Poisson Log-Normal model by approximating the L0-norm**|Togo Jean Yves Kioye et.al.|[2403.17087v1](http://arxiv.org/abs/2403.17087v1)|null|
 |**2024-03-14**|**Emergent time scales of epistasis in protein evolution**|Leonardo Di Bari et.al.|[2403.09436v2](http://arxiv.org/abs/2403.09436v2)|null|
+|**2019-08-06**|**Multi-view Deep Subspace Clustering Networks**|Pengfei Zhu et.al.|[1908.01978v2](http://arxiv.org/abs/1908.01978v2)|[link](https://github.com/yxjdarren/mvdscn)|
 |**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v2](http://arxiv.org/abs/2310.08446v2)|[link](https://github.com/LINs-lab/M3)|
 |**2024-03-23**|**Carbon Intensity-Aware Adaptive Inference of DNNs**|Jiwan Jung et.al.|[2403.15824v1](http://arxiv.org/abs/2403.15824v1)|null|
 |**2024-03-23**|**Optimized Model Selection for Estimating Treatment Effects from Costly Simulations of the US Opioid Epidemic**|Abdulrahman A. Ahmed et.al.|[2403.15755v1](http://arxiv.org/abs/2403.15755v1)|null|
 |**2023-05-24**|**Rethinking the Evaluation Protocol of Domain Generalization**|Han Yu et.al.|[2305.15253v2](http://arxiv.org/abs/2305.15253v2)|null|
 |**2024-03-22**|**Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization**|Khiem Le et.al.|[2403.15605v1](http://arxiv.org/abs/2403.15605v1)|null|
 |**2024-03-22**|**Conformal online model aggregation**|Matteo Gasparin et.al.|[2403.15527v1](http://arxiv.org/abs/2403.15527v1)|[link](https://github.com/matteogaspa/coma)|
-|**2024-03-13**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738v3](http://arxiv.org/abs/2403.09738v3)|[link](https://github.com/granelle/naacl24-user-sim)|
 |**2024-03-08**|**Systematic assessment of various universal machine-learning interatomic potentials**|Haochen Yu et.al.|[2403.05729v2](http://arxiv.org/abs/2403.05729v2)|null|
 |**2023-11-29**|**WyCryst: Wyckoff Inorganic Crystal Generator Framework**|Ruiming Zhu et.al.|[2311.17916v2](http://arxiv.org/abs/2311.17916v2)|[link](https://github.com/raymondzhurm/wycryst)|
-|**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v1](http://arxiv.org/abs/2403.13797v1)|null|
-|**2024-03-20**|**Investigating model influence on the analytical resolution of neutron reflectometry**|Nicolas Shiaelis et.al.|[2403.13566v1](http://arxiv.org/abs/2403.13566v1)|null|
-|**2024-03-14**|**Surgery duration prediction using multi-task feature selection**|David Azriel et.al.|[2403.09791v2](http://arxiv.org/abs/2403.09791v2)|null|
-|**2024-03-20**|**The Simple Yield Curve Models**|Ethan Akin et.al.|[2403.13531v1](http://arxiv.org/abs/2403.13531v1)|null|
-|**2023-01-28**|**Forward selection and post-selection inference in factorial designs**|Lei Shi et.al.|[2301.12045v2](http://arxiv.org/abs/2301.12045v2)|null|
