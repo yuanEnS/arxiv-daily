@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-02 07:23:23 Asia/Shanghai
+ Automated deployment @ 2024-04-02 19:19:42 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-08-13**|**Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes**|Quang Truong et.al.|[2308.06838v6](http://arxiv.org/abs/2308.06838v6)|null|
+|**2023-07-11**|**Weisfeiler and Leman Go Measurement Modeling: Probing the Validity of the WL Test**|Arjun Subramonian et.al.|[2307.05775v3](http://arxiv.org/abs/2307.05775v3)|[link](https://github.com/arjunsubramonian/wl-test-exploration)|
+|**2023-11-02**|**Neural Atoms: Propagating Long-range Interaction in Molecular Graphs through Efficient Communication Channel**|Xuan Li et.al.|[2311.01276v3](http://arxiv.org/abs/2311.01276v3)|null|
+|**2024-03-19**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418v2](http://arxiv.org/abs/2403.12418v2)|null|
+|**2023-05-24**|**gRNAde: Geometric Deep Learning for 3D RNA inverse design**|Chaitanya K. Joshi et.al.|[2305.14749v4](http://arxiv.org/abs/2305.14749v4)|[link](https://github.com/chaitjo/geometric-rna-design)|
+|**2024-03-24**|**Segment Anything Model for Road Network Graph Extraction**|Congrui Hetang et.al.|[2403.16051v2](http://arxiv.org/abs/2403.16051v2)|[link](https://github.com/htcr/sam_road)|
+|**2023-11-14**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118v3](http://arxiv.org/abs/2311.08118v3)|[link](https://github.com/ericssonresearch/gnn-neighbors-xai)|
+|**2023-12-13**|**CUTTANA: Scalable Graph Partitioning for Faster Distributed Graph Databases and Analytics**|Milad Rezaei Hajidehi et.al.|[2312.08356v2](http://arxiv.org/abs/2312.08356v2)|null|
 |**2024-03-29**|**Graph Neural Aggregation-diffusion with Metastability**|Kaiyuan Cui et.al.|[2403.20221v1](http://arxiv.org/abs/2403.20221v1)|null|
 |**2024-03-29**|**On Size and Hardness Generalization in Unsupervised Learning for the Travelling Salesman Problem**|Yimeng Min et.al.|[2403.20212v1](http://arxiv.org/abs/2403.20212v1)|null|
 |**2024-03-18**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624v3](http://arxiv.org/abs/2403.11624v3)|null|
@@ -24,35 +32,6 @@
 |**2024-03-29**|**KGUF: Simple Knowledge-aware Graph-based Recommender with User-based Semantic Features Filtering**|Salvatore Bufi et.al.|[2403.20095v1](http://arxiv.org/abs/2403.20095v1)|[link](https://github.com/sisinflab/kguf)|
 |**2024-03-29**|**Beyond the Known: Novel Class Discovery for Open-world Graph Learning**|Yucheng Jin et.al.|[2403.19907v1](http://arxiv.org/abs/2403.19907v1)|null|
 |**2023-06-25**|**Real-time Seismic Intensity Prediction using Self-supervised Contrastive GNN for Earthquake Early Warning**|Rafid Umayer Murshed et.al.|[2306.14336v4](http://arxiv.org/abs/2306.14336v4)|null|
-|**2024-03-28**|**A Review of Graph Neural Networks in Epidemic Modeling**|Zewen Liu et.al.|[2403.19852v1](http://arxiv.org/abs/2403.19852v1)|null|
-|**2023-03-11**|**Multimodal Data Integration for Oncology in the Era of Deep Neural Networks: A Review**|Asim Waqas et.al.|[2303.06471v3](http://arxiv.org/abs/2303.06471v3)|null|
-|**2023-02-08**|**Attending to Graph Transformers**|Luis Müller et.al.|[2302.04181v3](http://arxiv.org/abs/2302.04181v3)|[link](https://github.com/luis-mueller/probing-graph-transformers)|
-|**2024-03-28**|**Gegenbauer Graph Neural Networks for Time-varying Signal Reconstruction**|Jhon A. Castro-Correa et.al.|[2403.19800v1](http://arxiv.org/abs/2403.19800v1)|[link](https://github.com/jcastro295/gegengnn)|
-|**2023-01-31**|**Complete Neural Networks for Complete Euclidean Graphs**|Snir Hordan et.al.|[2301.13821v3](http://arxiv.org/abs/2301.13821v3)|null|
-|**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474v1](http://arxiv.org/abs/2403.19474v1)|[link](https://github.com/dfki-av/sg-pgm)|
-|**2024-03-27**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666v2](http://arxiv.org/abs/2403.18666v2)|[link](https://github.com/kierensharma/fluxgat)|
-|**2024-03-19**|**Graph Neural Networks for Carbon Dioxide Adsorption Prediction in Aluminium-Exchanged Zeolites**|Marko Petković et.al.|[2403.12659v2](http://arxiv.org/abs/2403.12659v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2022-03-22**|**Nonstationary Spatial Process Models with Spatially Varying Covariance Kernels**|Sébastien Coube-Sisqueille et.al.|[2203.11873v2](http://arxiv.org/abs/2203.11873v2)|null|
-|**2024-03-27**|**Collaborative graphical lasso**|Alessio Albanese et.al.|[2403.18602v1](http://arxiv.org/abs/2403.18602v1)|null|
-|**2024-02-22**|**Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation**|Mingxuan Yan et.al.|[2402.14326v2](http://arxiv.org/abs/2402.14326v2)|null|
-|**2024-03-27**|**A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements**|Darwin Alexander O. Co et.al.|[2403.18265v1](http://arxiv.org/abs/2403.18265v1)|[link](https://github.com/darwinnerco/dnn-for-ts-vs-poles)|
-|**2024-03-26**|**Doubly robust causal inference through penalized bias-reduced estimation: combining non-probability samples with designed surveys**|Jiacong Du et.al.|[2403.18039v1](http://arxiv.org/abs/2403.18039v1)|null|
-|**2024-03-26**|**Estimating parameters of continuous-time multi-chain hidden Markov models for infectious diseases**|Ibrahim Bouzalmat et.al.|[2403.18875v1](http://arxiv.org/abs/2403.18875v1)|null|
-|**2024-03-26**|**Nonsmooth convex-concave saddle point problems with cardinality penalties**|Wei Bian et.al.|[2403.17535v1](http://arxiv.org/abs/2403.17535v1)|null|
-|**2024-03-26**|**EL-MLFFs: Ensemble Learning of Machine Leaning Force Fields**|Bangchen Yin et.al.|[2403.17507v1](http://arxiv.org/abs/2403.17507v1)|null|
-|**2021-02-02**|**Bayesian data-driven discovery of partial differential equations with variable coefficients**|Aoxue Chen et.al.|[2102.01432v2](http://arxiv.org/abs/2102.01432v2)|null|
-|**2024-03-13**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738v4](http://arxiv.org/abs/2403.09738v4)|[link](https://github.com/granelle/naacl24-user-sim)|
-|**2024-03-25**|**Sparse inference in Poisson Log-Normal model by approximating the L0-norm**|Togo Jean Yves Kioye et.al.|[2403.17087v1](http://arxiv.org/abs/2403.17087v1)|null|
-|**2024-03-14**|**Emergent time scales of epistasis in protein evolution**|Leonardo Di Bari et.al.|[2403.09436v2](http://arxiv.org/abs/2403.09436v2)|null|
-|**2019-08-06**|**Multi-view Deep Subspace Clustering Networks**|Pengfei Zhu et.al.|[1908.01978v2](http://arxiv.org/abs/1908.01978v2)|[link](https://github.com/yxjdarren/mvdscn)|
-|**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v2](http://arxiv.org/abs/2310.08446v2)|[link](https://github.com/LINs-lab/M3)|
-|**2024-03-23**|**Carbon Intensity-Aware Adaptive Inference of DNNs**|Jiwan Jung et.al.|[2403.15824v1](http://arxiv.org/abs/2403.15824v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
 |**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-10-10**|**FTFT: Efficient and Robust Fine-Tuning by Transferring Training Dynamics**|Yupei Du et.al.|[2310.06588v2](http://arxiv.org/abs/2310.06588v2)|[link](https://github.com/nlpsoc/ftft)|
+|**2022-01-30**|**Two-Step Mixed-Type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v5](http://arxiv.org/abs/2201.12839v5)|[link](https://github.com/raybai07/mtmbsp)|
+|**2022-03-22**|**Nonstationary Spatial Process Models with Spatially Varying Covariance Kernels**|Sébastien Coube-Sisqueille et.al.|[2203.11873v2](http://arxiv.org/abs/2203.11873v2)|null|
+|**2024-03-27**|**Collaborative graphical lasso**|Alessio Albanese et.al.|[2403.18602v1](http://arxiv.org/abs/2403.18602v1)|null|
+|**2024-02-22**|**Think before You Leap: Content-Aware Low-Cost Edge-Assisted Video Semantic Segmentation**|Mingxuan Yan et.al.|[2402.14326v2](http://arxiv.org/abs/2402.14326v2)|null|
+|**2024-03-27**|**A Deep Learning Framework for Disentangling Triangle Singularity and Pole-Based Enhancements**|Darwin Alexander O. Co et.al.|[2403.18265v1](http://arxiv.org/abs/2403.18265v1)|[link](https://github.com/darwinnerco/dnn-for-ts-vs-poles)|
+|**2024-03-26**|**Doubly robust causal inference through penalized bias-reduced estimation: combining non-probability samples with designed surveys**|Jiacong Du et.al.|[2403.18039v1](http://arxiv.org/abs/2403.18039v1)|null|
+|**2024-03-26**|**Estimating parameters of continuous-time multi-chain hidden Markov models for infectious diseases**|Ibrahim Bouzalmat et.al.|[2403.18875v1](http://arxiv.org/abs/2403.18875v1)|null|
+|**2024-03-26**|**Nonsmooth convex-concave saddle point problems with cardinality penalties**|Wei Bian et.al.|[2403.17535v1](http://arxiv.org/abs/2403.17535v1)|null|
+|**2024-03-26**|**EL-MLFFs: Ensemble Learning of Machine Leaning Force Fields**|Bangchen Yin et.al.|[2403.17507v1](http://arxiv.org/abs/2403.17507v1)|null|
+|**2021-02-02**|**Bayesian data-driven discovery of partial differential equations with variable coefficients**|Aoxue Chen et.al.|[2102.01432v2](http://arxiv.org/abs/2102.01432v2)|null|
+|**2024-03-13**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738v4](http://arxiv.org/abs/2403.09738v4)|[link](https://github.com/granelle/naacl24-user-sim)|
+|**2024-03-25**|**Sparse inference in Poisson Log-Normal model by approximating the L0-norm**|Togo Jean Yves Kioye et.al.|[2403.17087v1](http://arxiv.org/abs/2403.17087v1)|null|
+|**2024-03-14**|**Emergent time scales of epistasis in protein evolution**|Leonardo Di Bari et.al.|[2403.09436v2](http://arxiv.org/abs/2403.09436v2)|null|
+|**2019-08-06**|**Multi-view Deep Subspace Clustering Networks**|Pengfei Zhu et.al.|[1908.01978v2](http://arxiv.org/abs/1908.01978v2)|[link](https://github.com/yxjdarren/mvdscn)|
