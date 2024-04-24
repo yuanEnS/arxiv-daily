@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-24 07:22:28 Asia/Shanghai
+ Automated deployment @ 2024-04-24 19:21:27 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-23**|**PHLP: Sole Persistent Homology for Link Prediction -- Interpretable Feature Extraction**|Junwon You et.al.|[2404.15225v1](http://arxiv.org/abs/2404.15225v1)|null|
+|**2024-03-18**|**Problem space structural adversarial attacks for Network Intrusion Detection Systems based on Graph Neural Networks**|Andrea Venturi et.al.|[2403.11830v2](http://arxiv.org/abs/2403.11830v2)|[link](https://github.com/andreaventuri01/Structural_attacks_GNN_NIDS)|
+|**2024-04-23**|**Formal Verification of Graph Convolutional Networks with Uncertain Node Features and Uncertain Graph Structure**|Tobias Ladner et.al.|[2404.15065v1](http://arxiv.org/abs/2404.15065v1)|null|
+|**2024-04-23**|**Digital Twin of Industrial Networked Control System based on Value of Information**|Van-Phuc Bui et.al.|[2404.14960v1](http://arxiv.org/abs/2404.14960v1)|null|
+|**2024-04-23**|**Delayed Bottlenecking: Alleviating Forgetting in Pre-trained Graph Neural Networks**|Zhe Zhao et.al.|[2404.14941v1](http://arxiv.org/abs/2404.14941v1)|null|
+|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928v1](http://arxiv.org/abs/2404.14928v1)|null|
+|**2024-04-23**|**CNN2GNN: How to Bridge CNN with GNN**|Ziheng Jiao et.al.|[2404.14822v1](http://arxiv.org/abs/2404.14822v1)|null|
+|**2024-04-23**|**Source Code Vulnerability Detection: Combining Code Language Models and Code Property Graphs**|Ruitong Liu et.al.|[2404.14719v1](http://arxiv.org/abs/2404.14719v1)|null|
+|**2024-04-23**|**Deep Overlapping Community Search via Subspace Embedding**|Qing Sima et.al.|[2404.14692v1](http://arxiv.org/abs/2404.14692v1)|null|
+|**2024-04-23**|**Uncertainty Quantification on Graph Learning: A Survey**|Chao Chen et.al.|[2404.14642v1](http://arxiv.org/abs/2404.14642v1)|null|
 |**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687v2](http://arxiv.org/abs/2403.06687v2)|null|
 |**2024-02-27**|**Using Graph Neural Networks to Predict Local Culture**|Thiago H Silva et.al.|[2402.17905v3](http://arxiv.org/abs/2402.17905v3)|null|
 |**2024-04-22**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061v1](http://arxiv.org/abs/2404.14061v1)|null|
 |**2024-04-22**|**Liquid-Graph Time-Constant Network for Multi-Agent Systems Control**|Antonio Marino et.al.|[2404.13982v1](http://arxiv.org/abs/2404.13982v1)|null|
 |**2023-11-07**|**Operational risk quantification of power grids using graph neural network surrogates of the DC OPF**|Yadong Zhang et.al.|[2311.03661v2](http://arxiv.org/abs/2311.03661v2)|null|
-|**2024-03-28**|**A Review of Graph Neural Networks in Epidemic Modeling**|Zewen Liu et.al.|[2403.19852v3](http://arxiv.org/abs/2403.19852v3)|[link](https://github.com/emory-melody/awesome-epidemic-modeling-papers)|
-|**2024-04-21**|**SPGNN: Recognizing Salient Subgraph Patterns via Enhanced Graph Convolution and Pooling**|Zehao Dong et.al.|[2404.13655v1](http://arxiv.org/abs/2404.13655v1)|null|
-|**2024-04-21**|**Unsupervised Social Bot Detection via Structural Information Theory**|Hao Peng et.al.|[2404.13595v1](http://arxiv.org/abs/2404.13595v1)|null|
-|**2024-04-21**|**Test-Time Training on Graphs with Large Language Models (LLMs)**|Jiaxin Zhang et.al.|[2404.13571v1](http://arxiv.org/abs/2404.13571v1)|null|
-|**2024-04-21**|**Graph4GUI: Graph Neural Networks for Representing Graphical User Interfaces**|Yue Jiang et.al.|[2404.13521v1](http://arxiv.org/abs/2404.13521v1)|null|
-|**2023-04-20**|**Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One**|Hongyuan Zhang et.al.|[2304.10126v2](http://arxiv.org/abs/2304.10126v2)|[link](https://github.com/hyzhang98/sgnn)|
-|**2024-04-21**|**Authentic Emotion Mapping: Benchmarking Facial Expressions in Real News**|Qixuan Zhang et.al.|[2404.13493v1](http://arxiv.org/abs/2404.13493v1)|null|
-|**2024-04-20**|**GRANOLA: Adaptive Normalization for Graph Neural Networks**|Moshe Eliasof et.al.|[2404.13344v1](http://arxiv.org/abs/2404.13344v1)|null|
-|**2023-07-25**|**Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers**|Hadi Abdine et.al.|[2307.14367v3](http://arxiv.org/abs/2307.14367v3)|[link](https://github.com/hadi-abdine/Prot2Text)|
-|**2024-04-16**|**Advancing Network Intrusion Detection: Integrating Graph Neural Networks with Scattering Transform and Node2Vec for Enhanced Anomaly Detection**|Abdeljalil Zoubir et.al.|[2404.10800v2](http://arxiv.org/abs/2404.10800v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v1](http://arxiv.org/abs/2404.14965v1)|null|
+|**2024-04-23**|**Probabilistic forecasting of power system imbalance using neural network-based ensembles**|Jonas Van Gompel et.al.|[2404.14836v1](http://arxiv.org/abs/2404.14836v1)|null|
 |**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v3](http://arxiv.org/abs/2210.12382v3)|null|
 |**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v3](http://arxiv.org/abs/2303.03649v3)|[link](https://github.com/hiendn/panic)|
 |**2024-04-21**|**The relationship of SMBHs and host galaxies at $z<4$ in the deep optical variability-selected AGN sample in the COSMOS field**|Atsushi Hoshi et.al.|[2404.13561v1](http://arxiv.org/abs/2404.13561v1)|null|
@@ -91,5 +93,3 @@
 |**2023-11-10**|**Time-Varying Identification of Monetary Policy Shocks**|Annika Camehl et.al.|[2311.05883v3](http://arxiv.org/abs/2311.05883v3)|null|
 |**2024-04-18**|**Generalizing Machine Learning Evaluation through the Integration of Shannon Entropy and Rough Set Theory**|Olga Cherednichenko et.al.|[2404.12511v1](http://arxiv.org/abs/2404.12511v1)|null|
 |**2024-04-18**|**Regional impacts poorly constrained by climate sensitivity**|Ranjini Swaminathan et.al.|[2404.11939v1](http://arxiv.org/abs/2404.11939v1)|null|
-|**2022-11-14**|**Additive Covariance Matrix Models: Modelling Regional Electricity Net-Demand in Great Britain**|V. Gioia et.al.|[2211.07451v3](http://arxiv.org/abs/2211.07451v3)|[link](https://github.com/vingioia90/scm)|
-|**2023-08-30**|**Adaptive Lasso, Transfer Lasso, and Beyond: An Asymptotic Perspective**|Masaaki Takada et.al.|[2308.15838v2](http://arxiv.org/abs/2308.15838v2)|[link](https://github.com/tkdmah/trlasso)|
