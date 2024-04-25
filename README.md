@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-25 07:25:11 Asia/Shanghai
+ Automated deployment @ 2024-04-25 19:19:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-24**|**FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search**|Haoming Zhang et.al.|[2404.15622v1](http://arxiv.org/abs/2404.15622v1)|[link](https://github.com/emi-group/fr-nas)|
+|**2024-04-24**|**DyGCL: Dynamic Graph Contrastive Learning For Event Prediction**|Muhammed Ifte Khairul Islam et.al.|[2404.15612v1](http://arxiv.org/abs/2404.15612v1)|null|
+|**2024-04-23**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510v1](http://arxiv.org/abs/2404.15510v1)|null|
+|**2024-04-23**|**NMBEnet: Efficient Near-field mmWave Beam Training for Multiuser OFDM Systems Using Sub-6 GHz Pilots**|Wang Liu et.al.|[2404.15469v1](http://arxiv.org/abs/2404.15469v1)|null|
 |**2024-04-23**|**PHLP: Sole Persistent Homology for Link Prediction -- Interpretable Feature Extraction**|Junwon You et.al.|[2404.15225v1](http://arxiv.org/abs/2404.15225v1)|null|
 |**2024-03-18**|**Problem space structural adversarial attacks for Network Intrusion Detection Systems based on Graph Neural Networks**|Andrea Venturi et.al.|[2403.11830v2](http://arxiv.org/abs/2403.11830v2)|[link](https://github.com/andreaventuri01/Structural_attacks_GNN_NIDS)|
 |**2024-04-23**|**Formal Verification of Graph Convolutional Networks with Uncertain Node Features and Uncertain Graph Structure**|Tobias Ladner et.al.|[2404.15065v1](http://arxiv.org/abs/2404.15065v1)|null|
@@ -28,10 +32,6 @@
 |**2024-04-23**|**Deep Overlapping Community Search via Subspace Embedding**|Qing Sima et.al.|[2404.14692v1](http://arxiv.org/abs/2404.14692v1)|null|
 |**2024-04-23**|**Uncertainty Quantification on Graph Learning: A Survey**|Chao Chen et.al.|[2404.14642v1](http://arxiv.org/abs/2404.14642v1)|null|
 |**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687v2](http://arxiv.org/abs/2403.06687v2)|null|
-|**2024-02-27**|**Using Graph Neural Networks to Predict Local Culture**|Thiago H Silva et.al.|[2402.17905v3](http://arxiv.org/abs/2402.17905v3)|null|
-|**2024-04-22**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061v1](http://arxiv.org/abs/2404.14061v1)|null|
-|**2024-04-22**|**Liquid-Graph Time-Constant Network for Multi-Agent Systems Control**|Antonio Marino et.al.|[2404.13982v1](http://arxiv.org/abs/2404.13982v1)|null|
-|**2023-11-07**|**Operational risk quantification of power grids using graph neural network surrogates of the DC OPF**|Yadong Zhang et.al.|[2311.03661v2](http://arxiv.org/abs/2311.03661v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -51,7 +51,7 @@
 |**2024-04-05**|**Discrete Fréchet Distance Oracles**|Boris Aronov et.al.|[2404.04065v1](http://arxiv.org/abs/2404.04065v1)|null|
 |**2024-04-05**|**Wasserstein F-tests for Fréchet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2404.03878v1](http://arxiv.org/abs/2404.03878v1)|null|
 |**2023-05-08**|**Synthesis of Annotated Colorectal Cancer Tissue Images from Gland Layout**|Srijay Deshpande et.al.|[2305.05006v2](http://arxiv.org/abs/2305.05006v2)|null|
-|**2022-03-25**|**Robust deep learning for eye fundus images: Bridging real and synthetic data for enhancing generalization**|Guilherme C. Oliveira et.al.|[2203.13856v2](http://arxiv.org/abs/2203.13856v2)|[link](https://github.com/NVlabs/stylegan2-ada-pytorch)|
+|**2022-03-25**|**Robust deep learning for eye fundus images: Bridging real and synthetic data for enhancing generalization**|Guilherme C. Oliveira et.al.|[2203.13856v2](http://arxiv.org/abs/2203.13856v2)|[link](https://github.com/guicamargox/retamd)|
 |**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905v1](http://arxiv.org/abs/2404.02905v1)|[link](https://github.com/FoundationVision/VAR)|
 
 ### Frechet Mean
@@ -79,7 +79,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v1](http://arxiv.org/abs/2404.14965v1)|null|
-|**2024-04-23**|**Probabilistic forecasting of power system imbalance using neural network-based ensembles**|Jonas Van Gompel et.al.|[2404.14836v1](http://arxiv.org/abs/2404.14836v1)|null|
+|**2024-04-23**|**Probabilistic forecasting of power system imbalance using neural network-based ensembles**|Jonas Van Gompel et.al.|[2404.14836v2](http://arxiv.org/abs/2404.14836v2)|null|
 |**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v3](http://arxiv.org/abs/2210.12382v3)|null|
 |**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v3](http://arxiv.org/abs/2303.03649v3)|[link](https://github.com/hiendn/panic)|
 |**2024-04-21**|**The relationship of SMBHs and host galaxies at $z<4$ in the deep optical variability-selected AGN sample in the COSMOS field**|Atsushi Hoshi et.al.|[2404.13561v1](http://arxiv.org/abs/2404.13561v1)|null|
