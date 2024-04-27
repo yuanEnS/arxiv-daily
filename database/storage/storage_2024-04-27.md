@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-27 07:22:16 Asia/Shanghai
+ Automated deployment @ 2024-04-27 19:18:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,7 +17,7 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-23**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510v2](http://arxiv.org/abs/2404.15510v2)|null|
+|**2024-04-23**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510v2](http://arxiv.org/abs/2404.15510v2)|[link](https://github.com/neurachip/neurachip)|
 |**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532v1](http://arxiv.org/abs/2404.16532v1)|null|
 |**2024-02-28**|**FlowCyt: A Comparative Study of Deep Learning Approaches for Multi-Class Classification in Flow Cytometry Benchmarking**|Lorenzo Bini et.al.|[2403.00024v2](http://arxiv.org/abs/2403.00024v2)|[link](https://github.com/LorenzoBini4/FlowCyt-Classification-Benchmark)|
 |**2023-05-25**|**IDEA: Invariant Defense for Graph Adversarial Robustness**|Shuchang Tao et.al.|[2305.15792v2](http://arxiv.org/abs/2305.15792v2)|null|
@@ -32,27 +32,6 @@
 |**2023-12-15**|**Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction**|Guangxuan Song et.al.|[2312.09744v2](http://arxiv.org/abs/2312.09744v2)|null|
 |**2024-04-24**|**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**|Zhaoyang Chu et.al.|[2404.15687v1](http://arxiv.org/abs/2404.15687v1)|[link](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection)|
 |**2023-11-09**|**Materials Properties Prediction (MAPP): Empowering the prediction of material properties solely based on chemical formulas**|Si-Da Xue et.al.|[2311.05133v2](http://arxiv.org/abs/2311.05133v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776v1](http://arxiv.org/abs/2404.16776v1)|null|
-|**2024-04-25**|**Estimating the Number of Components in Finite Mixture Models via Variational Approximation**|Chenyang Wang et.al.|[2404.16746v1](http://arxiv.org/abs/2404.16746v1)|null|
-|**2024-04-25**|**Automated Model Selection for Generalized Linear Models**|Benjamin Schwendinger et.al.|[2404.16560v1](http://arxiv.org/abs/2404.16560v1)|null|
-|**2023-03-14**|**Empirical Bayes inference in sparse high-dimensional generalized linear models**|Yiqi Tang et.al.|[2303.07854v2](http://arxiv.org/abs/2303.07854v2)|null|
-|**2024-04-24**|**Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy**|Zhaozhou An et.al.|[2404.16184v1](http://arxiv.org/abs/2404.16184v1)|null|
-|**2023-03-06**|**Bayesian Variable Selection for Function-on-Scalar Regression Models: a comparative analysis**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v4](http://arxiv.org/abs/2303.03521v4)|null|
-|**2024-04-23**|**Probabilistic forecasting of power system imbalance using neural network-based ensembles**|Jonas Van Gompel et.al.|[2404.14836v2](http://arxiv.org/abs/2404.14836v2)|null|
-|**2022-11-06**|**EdgeVision: Towards Collaborative Video Analytics on Distributed Edges for Performance Maximization**|Guanyu Gao et.al.|[2211.03102v3](http://arxiv.org/abs/2211.03102v3)|null|
-|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v1](http://arxiv.org/abs/2404.14965v1)|null|
-|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v3](http://arxiv.org/abs/2210.12382v3)|null|
-|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v3](http://arxiv.org/abs/2303.03649v3)|[link](https://github.com/hiendn/panic)|
-|**2024-04-21**|**The relationship of SMBHs and host galaxies at $z<4$ in the deep optical variability-selected AGN sample in the COSMOS field**|Atsushi Hoshi et.al.|[2404.13561v1](http://arxiv.org/abs/2404.13561v1)|null|
-|**2024-04-20**|**Group COMBSS: Group Selection via Continuous Optimization**|Anant Mathur et.al.|[2404.13339v1](http://arxiv.org/abs/2404.13339v1)|null|
-|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v3](http://arxiv.org/abs/2401.03776v3)|null|
-|**2023-07-10**|**Automatic Debiased Machine Learning for Covariate Shifts**|Victor Chernozhukov et.al.|[2307.04527v3](http://arxiv.org/abs/2307.04527v3)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
 |**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776v1](http://arxiv.org/abs/2404.16776v1)|null|
+|**2024-04-25**|**Estimating the Number of Components in Finite Mixture Models via Variational Approximation**|Chenyang Wang et.al.|[2404.16746v1](http://arxiv.org/abs/2404.16746v1)|null|
+|**2024-04-25**|**Automated Model Selection for Generalized Linear Models**|Benjamin Schwendinger et.al.|[2404.16560v1](http://arxiv.org/abs/2404.16560v1)|null|
+|**2023-03-14**|**Empirical Bayes inference in sparse high-dimensional generalized linear models**|Yiqi Tang et.al.|[2303.07854v2](http://arxiv.org/abs/2303.07854v2)|null|
+|**2024-04-24**|**Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy**|Zhaozhou An et.al.|[2404.16184v1](http://arxiv.org/abs/2404.16184v1)|null|
+|**2023-03-06**|**Bayesian Variable Selection for Function-on-Scalar Regression Models: a comparative analysis**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v4](http://arxiv.org/abs/2303.03521v4)|null|
+|**2024-04-23**|**Probabilistic forecasting of power system imbalance using neural network-based ensembles**|Jonas Van Gompel et.al.|[2404.14836v2](http://arxiv.org/abs/2404.14836v2)|null|
+|**2022-11-06**|**EdgeVision: Towards Collaborative Video Analytics on Distributed Edges for Performance Maximization**|Guanyu Gao et.al.|[2211.03102v3](http://arxiv.org/abs/2211.03102v3)|null|
+|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v1](http://arxiv.org/abs/2404.14965v1)|null|
+|**2022-10-22**|**Model-free controlled variable selection via data splitting**|Yixin Han et.al.|[2210.12382v3](http://arxiv.org/abs/2210.12382v3)|null|
+|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v3](http://arxiv.org/abs/2303.03649v3)|[link](https://github.com/hiendn/panic)|
+|**2024-04-21**|**The relationship of SMBHs and host galaxies at $z<4$ in the deep optical variability-selected AGN sample in the COSMOS field**|Atsushi Hoshi et.al.|[2404.13561v1](http://arxiv.org/abs/2404.13561v1)|null|
+|**2024-04-20**|**Group COMBSS: Group Selection via Continuous Optimization**|Anant Mathur et.al.|[2404.13339v1](http://arxiv.org/abs/2404.13339v1)|null|
+|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v3](http://arxiv.org/abs/2401.03776v3)|null|
+|**2023-07-10**|**Automatic Debiased Machine Learning for Covariate Shifts**|Victor Chernozhukov et.al.|[2307.04527v3](http://arxiv.org/abs/2307.04527v3)|null|
