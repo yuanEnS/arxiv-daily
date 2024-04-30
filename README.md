@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-04-30 07:21:50 Asia/Shanghai
+ Automated deployment @ 2024-04-30 19:21:55 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-26**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in Graph Neural Networks**|Duna Zhan et.al.|[2404.17511v1](http://arxiv.org/abs/2404.17511v1)|null|
-|**2022-07-08**|**Open World Learning Graph Convolution for Latency Estimation in Routing Networks**|Yifei Jin et.al.|[2207.14643v2](http://arxiv.org/abs/2207.14643v2)|[link](https://github.com/bluelancer/routinggnn_appendix)|
-|**2024-01-17**|**Inverse analysis of granular flows using differentiable graph neural network simulator**|Yongjin Choi et.al.|[2401.13695v3](http://arxiv.org/abs/2401.13695v3)|[link](https://github.com/geoelements/gns)|
-|**2023-11-30**|**Optimizing ZX-Diagrams with Deep Reinforcement Learning**|Maximilian Nägele et.al.|[2311.18588v2](http://arxiv.org/abs/2311.18588v2)|[link](https://github.com/maxnaeg/zxreinforce)|
-|**2024-04-26**|**Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials**|Fleur Hendriks et.al.|[2404.17365v1](http://arxiv.org/abs/2404.17365v1)|null|
-|**2022-10-03**|**DDoS: A Graph Neural Network based Drug Synergy Prediction Algorithm**|Kyriakos Schwarz et.al.|[2210.00802v3](http://arxiv.org/abs/2210.00802v3)|[link](https://github.com/uzh-dqbm-cmi/graphnn)|
-|**2024-04-26**|**FairGT: A Fairness-aware Graph Transformer**|Renqiang Luo et.al.|[2404.17169v1](http://arxiv.org/abs/2404.17169v1)|[link](https://github.com/yushuowiki/fairgt)|
-|**2024-04-26**|**DPGAN: A Dual-Path Generative Adversarial Network for Missing Data Imputation in Graphs**|Xindi Zheng et.al.|[2404.17164v1](http://arxiv.org/abs/2404.17164v1)|null|
-|**2023-07-24**|**HiHGNN: Accelerating HGNNs through Parallelism and Data Reusability Exploitation**|Runzhen Xue et.al.|[2307.12765v2](http://arxiv.org/abs/2307.12765v2)|null|
-|**2024-04-26**|**Sub-6GHz Assisted mmWave Hybrid Beamforming with Heterogeneous Graph Neural Network**|Zhaohui Huang et.al.|[2404.17138v1](http://arxiv.org/abs/2404.17138v1)|null|
-|**2024-04-24**|**A General Black-box Adversarial Attack on Graph-based Fake News Detectors**|Peican Zhu et.al.|[2404.15744v2](http://arxiv.org/abs/2404.15744v2)|null|
-|**2024-04-26**|**Unleashing the Potential of Fractional Calculus in Graph Neural Networks with FROND**|Qiyu Kang et.al.|[2404.17099v1](http://arxiv.org/abs/2404.17099v1)|[link](https://github.com/zknus/torchfde)|
-|**2024-04-25**|**Transductive Spiking Graph Neural Networks for Loihi**|Shay Snyder et.al.|[2404.17048v1](http://arxiv.org/abs/2404.17048v1)|null|
-|**2022-10-12**|**Graph Neural Network Surrogate for Seismic Reliability Analysis of Highway Bridge Systems**|Tong Liu et.al.|[2210.06404v2](http://arxiv.org/abs/2210.06404v2)|null|
-|**2024-04-23**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510v2](http://arxiv.org/abs/2404.15510v2)|[link](https://github.com/neurachip/neurachip)|
+|**2024-04-16**|**Interpolation and differentiation of alchemical degrees of freedom in machine learning interatomic potentials**|Juno Nam et.al.|[2404.10746v2](http://arxiv.org/abs/2404.10746v2)|[link](https://github.com/learningmatter-mit/alchemical-mlip)|
+|**2024-04-21**|**SPGNN: Recognizing Salient Subgraph Patterns via Enhanced Graph Convolution and Pooling**|Zehao Dong et.al.|[2404.13655v2](http://arxiv.org/abs/2404.13655v2)|null|
+|**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568v6](http://arxiv.org/abs/2308.15568v6)|null|
+|**2023-07-17**|**Latent Space Representations of Neural Algorithmic Reasoners**|Vladimir V. Mirjanić et.al.|[2307.08874v2](http://arxiv.org/abs/2307.08874v2)|[link](https://github.com/mirjanic/nar-latent-spaces)|
+|**2022-06-06**|**Restructuring Graph for Higher Homophily via Adaptive Spectral Clustering**|Shouheng Li et.al.|[2206.02386v3](http://arxiv.org/abs/2206.02386v3)|null|
+|**2024-04-28**|**Multi-stage Attack Detection and Prediction Using Graph Neural Networks: An IoT Feasibility Study**|Hamdi Friji et.al.|[2404.18328v1](http://arxiv.org/abs/2404.18328v1)|null|
+|**2024-04-28**|**Parameter-Efficient Tuning Large Language Models for Graph Representation Learning**|Qi Zhu et.al.|[2404.18271v1](http://arxiv.org/abs/2404.18271v1)|null|
+|**2024-04-17**|**End-to-End Mesh Optimization of a Hybrid Deep Learning Black-Box PDE Solver**|Shaocong Ma et.al.|[2404.11766v2](http://arxiv.org/abs/2404.11766v2)|null|
+|**2024-04-28**|**A survey of dynamic graph neural networks**|Yanping Zheng et.al.|[2404.18211v1](http://arxiv.org/abs/2404.18211v1)|null|
+|**2024-04-28**|**Decidability of Graph Neural Networks via Logical Characterizations**|Michael Benedikt et.al.|[2404.18151v1](http://arxiv.org/abs/2404.18151v1)|null|
+|**2023-10-31**|**Stochastic Gradient Descent for Gaussian Processes Done Right**|Jihao Andreas Lin et.al.|[2310.20581v2](http://arxiv.org/abs/2310.20581v2)|[link](https://github.com/cambridge-mlg/sgd-gp)|
+|**2024-04-10**|**CaDRec: Contextualized and Debiased Recommender Model**|Xinfeng Wang et.al.|[2404.06895v2](http://arxiv.org/abs/2404.06895v2)|[link](https://github.com/wangxfng/cadrec)|
+|**2024-04-10**|**NFARec: A Negative Feedback-Aware Recommender Model**|Xinfeng Wang et.al.|[2404.06900v2](http://arxiv.org/abs/2404.06900v2)|[link](https://github.com/wangxfng/nfarec)|
+|**2023-10-19**|**Heterogeneous Graph Neural Networks for End-to-End Traffic Assignment and Traffic Flow Learning**|Tong Liu et.al.|[2310.13193v2](http://arxiv.org/abs/2310.13193v2)|null|
+|**2024-04-28**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040v1](http://arxiv.org/abs/2404.18040v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-29**|**A faster algorithm for the Fréchet distance in 1D for the imbalanced case**|Lotte Blank et.al.|[2404.18738v1](http://arxiv.org/abs/2404.18738v1)|null|
 |**2021-04-08**|**Un exemple de somme de série de vecteurs propres à valeurs propres de module un, non récurrente**|Pierre Mazet et.al.|[2104.03943v2](http://arxiv.org/abs/2104.03943v2)|null|
 |**2024-04-22**|**SI-FID: Only One Objective Indicator for Evaluating Stitched Images**|Xinrui Zhang et.al.|[2404.13905v1](http://arxiv.org/abs/2404.13905v1)|null|
 |**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v2](http://arxiv.org/abs/2404.12814v2)|null|
@@ -71,25 +72,24 @@
 |**2024-04-05**|**Discrete Fréchet Distance Oracles**|Boris Aronov et.al.|[2404.04065v1](http://arxiv.org/abs/2404.04065v1)|null|
 |**2024-04-05**|**Wasserstein F-tests for Fréchet regression on Bures-Wasserstein manifolds**|Haoshu Xu et.al.|[2404.03878v1](http://arxiv.org/abs/2404.03878v1)|null|
 |**2023-05-08**|**Synthesis of Annotated Colorectal Cancer Tissue Images from Gland Layout**|Srijay Deshpande et.al.|[2305.05006v2](http://arxiv.org/abs/2305.05006v2)|null|
-|**2022-03-25**|**Robust deep learning for eye fundus images: Bridging real and synthetic data for enhancing generalization**|Guilherme C. Oliveira et.al.|[2203.13856v2](http://arxiv.org/abs/2203.13856v2)|[link](https://github.com/guicamargox/retamd)|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-19**|**Expressing and visualizing model uncertainty in Bayesian variable selection using Cartesian credible sets**|J. E. Griffin et.al.|[2402.12323v2](http://arxiv.org/abs/2402.12323v2)|null|
+|**2022-11-03**|**Empirical Analysis of Model Selection for Heterogeneous Causal Effect Estimation**|Divyat Mahajan et.al.|[2211.01939v3](http://arxiv.org/abs/2211.01939v3)|[link](https://github.com/divyat09/cate-estimator-selection)|
+|**2024-04-29**|**Sequential model confidence**|Sebastian Arnold et.al.|[2404.18678v1](http://arxiv.org/abs/2404.18678v1)|null|
+|**2023-02-10**|**Bayesian Sparse Vector Autoregressive Switching Models with Application to Human Gesture Phase Segmentation**|Beniamino Hadj-Amar et.al.|[2302.05347v2](http://arxiv.org/abs/2302.05347v2)|[link](https://github.com/beniamino92/sparsevarhsmm)|
+|**2024-04-29**|**Semiparametric mean and variance joint models with Laplace link functions for count time series**|Tianqing Liu et.al.|[2404.18421v1](http://arxiv.org/abs/2404.18421v1)|null|
+|**2024-04-28**|**A cautious approach to constraint-based causal model selection**|Daniel Malinsky et.al.|[2404.18232v1](http://arxiv.org/abs/2404.18232v1)|null|
+|**2024-04-28**|**New quasars behind the Magellanic Clouds. II. Spectroscopic confirmation of 136 near-infrared selected candidates**|Valentin D. Ivanov et.al.|[2404.18175v1](http://arxiv.org/abs/2404.18175v1)|null|
+|**2024-04-27**|**A General Framework for Random Effects Models for Binary, Ordinal, Count Type and Continuous Dependent Variables Including Variable Selection**|Gerhard Tutz et.al.|[2404.17792v1](http://arxiv.org/abs/2404.17792v1)|null|
+|**2024-04-27**|**MRScore: Evaluating Radiology Report Generation with LLM-based Reward System**|Yunyi Liu et.al.|[2404.17778v1](http://arxiv.org/abs/2404.17778v1)|null|
 |**2022-10-03**|**Generating Hidden Markov Models from Process Models Through Nonnegative Tensor Factorization**|Erik Skau et.al.|[2210.01060v2](http://arxiv.org/abs/2210.01060v2)|null|
 |**2024-04-26**|**A comparison of the discrimination performance of lasso and maximum likelihood estimation in logistic regression model**|Gilberto P. Alcântara Junior et.al.|[2404.17482v1](http://arxiv.org/abs/2404.17482v1)|null|
 |**2024-01-12**|**A Weibull Mixture Cure Frailty Model for High-dimensional Covariates**|Fatih Kızılaslan et.al.|[2401.06575v2](http://arxiv.org/abs/2401.06575v2)|[link](https://github.com/fatihki/penmcfm)|
 |**2024-04-26**|**Consistent information criteria for regularized regression and loss-based learning problems**|Qingyuan Zhang et.al.|[2404.17181v1](http://arxiv.org/abs/2404.17181v1)|null|
 |**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776v1](http://arxiv.org/abs/2404.16776v1)|[link](https://github.com/hggzjx/sfa)|
 |**2024-04-25**|**Estimating the Number of Components in Finite Mixture Models via Variational Approximation**|Chenyang Wang et.al.|[2404.16746v1](http://arxiv.org/abs/2404.16746v1)|null|
-|**2024-04-25**|**Automated Model Selection for Generalized Linear Models**|Benjamin Schwendinger et.al.|[2404.16560v1](http://arxiv.org/abs/2404.16560v1)|null|
-|**2024-04-25**|**mlr3summary: Concise and interpretable summaries for machine learning models**|Susanne Dandl et.al.|[2404.16899v1](http://arxiv.org/abs/2404.16899v1)|[link](https://github.com/mlr-org/mlr3summary)|
-|**2023-03-14**|**Empirical Bayes inference in sparse high-dimensional generalized linear models**|Yiqi Tang et.al.|[2303.07854v2](http://arxiv.org/abs/2303.07854v2)|null|
-|**2024-04-24**|**Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy**|Zhaozhou An et.al.|[2404.16184v1](http://arxiv.org/abs/2404.16184v1)|null|
-|**2023-03-06**|**Bayesian Variable Selection for Function-on-Scalar Regression Models: a comparative analysis**|Pedro Henrique T. O. Sousa et.al.|[2303.03521v4](http://arxiv.org/abs/2303.03521v4)|null|
-|**2024-04-23**|**Probabilistic forecasting of power system imbalance using neural network-based ensembles**|Jonas Van Gompel et.al.|[2404.14836v2](http://arxiv.org/abs/2404.14836v2)|null|
-|**2022-11-06**|**EdgeVision: Towards Collaborative Video Analytics on Distributed Edges for Performance Maximization**|Guanyu Gao et.al.|[2211.03102v3](http://arxiv.org/abs/2211.03102v3)|null|
-|**2024-04-23**|**On uncertainty-penalized Bayesian information criterion**|Pongpisit Thanasutives et.al.|[2404.16881v1](http://arxiv.org/abs/2404.16881v1)|null|
-|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v1](http://arxiv.org/abs/2404.14965v1)|null|
