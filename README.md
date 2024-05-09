@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-09 07:23:51 Asia/Shanghai
+ Automated deployment @ 2024-05-09 19:20:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08**|**DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-of-Core GNN Training**|Renjie Liu et.al.|[2405.05231v1](http://arxiv.org/abs/2405.05231v1)|null|
+|**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205v1](http://arxiv.org/abs/2405.05205v1)|null|
+|**2023-10-01**|**PACIA: Parameter-Efficient Adapter for Few-Shot Molecular Property Prediction**|Shiguang Wu et.al.|[2310.00614v2](http://arxiv.org/abs/2310.00614v2)|[link](https://github.com/lars-research/pacia)|
+|**2024-01-26**|**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**|Hao Chen et.al.|[2401.14939v2](http://arxiv.org/abs/2401.14939v2)|[link](https://github.com/yuanchenbei/macgnn)|
+|**2024-01-29**|**Unveiling Molecular Moieties through Hierarchical Graph Explainability**|Paolo Sortino et.al.|[2402.01744v3](http://arxiv.org/abs/2402.01744v3)|[link](https://github.com/chilab1/hge)|
+|**2024-05-03**|**CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks**|Brook Wander et.al.|[2405.02078v2](http://arxiv.org/abs/2405.02078v2)|null|
+|**2024-05-08**|**Dual-domain Collaborative Denoising for Social Recommendation**|Wenjie Chen et.al.|[2405.04942v1](http://arxiv.org/abs/2405.04942v1)|null|
+|**2024-05-08**|**Empowering Wireless Networks with Artificial Intelligence Generated Graph**|Jiacheng Wang et.al.|[2405.04907v1](http://arxiv.org/abs/2405.04907v1)|null|
+|**2024-05-08**|**Imbalanced Graph Classification with Multi-scale Oversampling Graph Neural Networks**|Rongrong Ma et.al.|[2405.04903v1](http://arxiv.org/abs/2405.04903v1)|null|
+|**2024-04-27**|**Noisy Node Classification by Bi-level Optimization based Multi-teacher Distillation**|Yujing Liu et.al.|[2404.17875v2](http://arxiv.org/abs/2404.17875v2)|null|
+|**2024-05-08**|**A Novel Technique for Query Plan Representation Based on Graph Neural Networks**|Baoming Chang et.al.|[2405.04814v1](http://arxiv.org/abs/2405.04814v1)|null|
+|**2024-05-08**|**Hypergraph-enhanced Dual Semi-supervised Graph Classification**|Wei Ju et.al.|[2405.04773v1](http://arxiv.org/abs/2405.04773v1)|null|
+|**2024-05-08**|**Conditional Local Feature Encoding for Graph Neural Networks**|Yongze Wang et.al.|[2405.04755v1](http://arxiv.org/abs/2405.04755v1)|null|
+|**2024-04-03**|**Generative-Enhanced Heterogeneous Graph Contrastive Learning**|Yu Wang et.al.|[2404.02810v2](http://arxiv.org/abs/2404.02810v2)|null|
 |**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478v1](http://arxiv.org/abs/2405.04478v1)|null|
-|**2023-11-21**|**Distilling particle knowledge for fast reconstruction at high-energy physics experiments**|Aritra Bal et.al.|[2311.12551v2](http://arxiv.org/abs/2311.12551v2)|null|
-|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466v1](http://arxiv.org/abs/2405.04466v1)|[link](https://github.com/Litianyu141/Gen-FVGN-steady)|
-|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387v1](http://arxiv.org/abs/2405.04387v1)|null|
-|**2024-05-07**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336v1](http://arxiv.org/abs/2405.04336v1)|null|
-|**2022-12-19**|**Material Property Prediction using Graphs based on Generically Complete Isometry Invariants**|Jonathan Balasingham et.al.|[2212.11246v3](http://arxiv.org/abs/2212.11246v3)|null|
-|**2024-02-15**|**Class-Balanced and Reinforced Active Learning on Graphs**|Chengcheng Yu et.al.|[2402.10074v3](http://arxiv.org/abs/2402.10074v3)|null|
-|**2023-10-19**|**GraphGPT: Graph Instruction Tuning for Large Language Models**|Jiabin Tang et.al.|[2310.13023v3](http://arxiv.org/abs/2310.13023v3)|[link](https://github.com/HKUDS/GraphGPT)|
-|**2024-05-07**|**Acceleration Algorithms in GNNs: A Survey**|Lu Ma et.al.|[2405.04114v1](http://arxiv.org/abs/2405.04114v1)|[link](https://github.com/PKU-DAIR/SGL)|
-|**2024-05-07**|**Adaptive Least Mean pth Power Graph Neural Networks**|Changran Peng et.al.|[2405.04111v1](http://arxiv.org/abs/2405.04111v1)|null|
-|**2024-05-07**|**Binarized Simplicial Convolutional Neural Networks**|Yi Yan et.al.|[2405.04098v1](http://arxiv.org/abs/2405.04098v1)|null|
-|**2024-05-07**|**Structured Click Control in Transformer-based Interactive Segmentation**|Long Xu et.al.|[2405.04009v1](http://arxiv.org/abs/2405.04009v1)|[link](https://github.com/hahamyt/scc)|
-|**2024-05-07**|**ESIHGNN: Event-State Interactions Infused Heterogeneous Graph Neural Network for Conversational Emotion Recognition**|Xupeng Zha et.al.|[2405.03960v1](http://arxiv.org/abs/2405.03960v1)|null|
-|**2023-05-31**|**Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials**|Mingguo He et.al.|[2305.19872v3](http://arxiv.org/abs/2305.19872v3)|[link](https://github.com/ivam-he/pshgcn)|
-|**2024-05-07**|**Relating-Up: Advancing Graph Neural Networks through Inter-Graph Relationships**|Qi Zou et.al.|[2405.03950v1](http://arxiv.org/abs/2405.03950v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,13 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-07-11**|**Bayesian taut splines for estimating the number of modes**|José E. Chacón et.al.|[2307.05825v3](http://arxiv.org/abs/2307.05825v3)|null|
+|**2024-05-08**|**A goodness-of-fit diagnostic for count data derived from half-normal plots with a simulated envelope**|Darshana Jayakumari et.al.|[2405.05121v1](http://arxiv.org/abs/2405.05121v1)|null|
+|**2024-04-29**|**Sequential model confidence sets**|Sebastian Arnold et.al.|[2404.18678v2](http://arxiv.org/abs/2404.18678v2)|null|
+|**2022-11-10**|**Robust Model Selection of Gaussian Graphical Models**|Abrar Zahin et.al.|[2211.05690v2](http://arxiv.org/abs/2211.05690v2)|null|
+|**2023-11-10**|**Time-Varying Identification of Monetary Policy Shocks**|Annika Camehl et.al.|[2311.05883v4](http://arxiv.org/abs/2311.05883v4)|null|
+|**2023-05-10**|**Occam Factor for Random Graphs: Erdös-Rényi, Independent Edge, and Rank-1 Stochastic Blockmodel**|Tianyu Wang et.al.|[2305.06465v4](http://arxiv.org/abs/2305.06465v4)|null|
+|**2024-05-07**|**Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking**|Emre Can Acikgoz et.al.|[2405.04685v1](http://arxiv.org/abs/2405.04685v1)|null|
 |**2023-11-03**|**Bayesian Quantile Regression with Subset Selection: A Posterior Summarization Perspective**|Joseph Feldman et.al.|[2311.02043v2](http://arxiv.org/abs/2311.02043v2)|null|
 |**2024-04-01**|**A group testing based exploration of age-varying factors in chlamydia infections among Iowa residents**|Yizeng Li et.al.|[2404.01469v2](http://arxiv.org/abs/2404.01469v2)|[link](https://github.com/yizenglistat/rvcm4gt)|
 |**2024-03-03**|**A Unified Model Selection Technique for Spectral Clustering Based Motion Segmentation**|Yuxiang Huang et.al.|[2403.01606v2](http://arxiv.org/abs/2403.01606v2)|null|
@@ -86,10 +93,3 @@
 |**2023-05-10**|**Flexible cost-penalized Bayesian model selection: developing inclusion paths with an application to diagnosis of heart disease**|Erica M. Porter et.al.|[2305.06262v3](http://arxiv.org/abs/2305.06262v3)|null|
 |**2024-05-06**|**Don't Waste Your Time: Early Stopping Cross-Validation**|Edward Bergman et.al.|[2405.03389v1](http://arxiv.org/abs/2405.03389v1)|null|
 |**2024-05-05**|**Stability of a Generalized Debiased Lasso with Applications to Resampling-Based Variable Selection**|Jingbo Liu et.al.|[2405.03063v1](http://arxiv.org/abs/2405.03063v1)|null|
-|**2024-05-02**|**On Quantum Ambiguity and Potential Exponential Computational Speed-Ups to Solving Dynamic Asset Pricing Models**|Eric Ghysels et.al.|[2405.01479v2](http://arxiv.org/abs/2405.01479v2)|null|
-|**2024-05-04**|**Grouping predictors via network-wide metrics**|Brandon Woosuk Park et.al.|[2405.02715v1](http://arxiv.org/abs/2405.02715v1)|null|
-|**2024-05-04**|**Distributed Iterative Hard Thresholding for Variable Selection in Tobit Models**|Changxin Yang et.al.|[2405.02539v1](http://arxiv.org/abs/2405.02539v1)|null|
-|**2023-09-17**|**ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing**|Ian Arawjo et.al.|[2309.09128v3](http://arxiv.org/abs/2309.09128v3)|[link](https://github.com/ianarawjo/ChainForge)|
-|**2024-03-22**|**Conformal online model aggregation**|Matteo Gasparin et.al.|[2403.15527v2](http://arxiv.org/abs/2403.15527v2)|[link](https://github.com/matteogaspa/coma)|
-|**2024-05-02**|**Misclassification bounds for PAC-Bayesian sparse deep learning**|The Tien Mai et.al.|[2405.01304v1](http://arxiv.org/abs/2405.01304v1)|null|
-|**2024-05-02**|**Variable Selection in Ultra-high Dimensional Feature Space for the Cox Model with Interval-Censored Data**|Daewoo Pak et.al.|[2405.01275v1](http://arxiv.org/abs/2405.01275v1)|null|
