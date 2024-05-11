@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-11 07:22:14 Asia/Shanghai
+ Automated deployment @ 2024-05-11 19:18:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -35,25 +35,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803v1](http://arxiv.org/abs/2405.03803v1)|null|
-|**2024-05-06**|**Generative adversarial learning with optimal input dimension and its adaptive generator architecture**|Zhiyao Tan et.al.|[2405.03723v1](http://arxiv.org/abs/2405.03723v1)|null|
-|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822v1](http://arxiv.org/abs/2405.01822v1)|null|
-|**2024-05-02**|**Unifying and extending Precision Recall metrics for assessing generative models**|Benjamin Sykes et.al.|[2405.01611v1](http://arxiv.org/abs/2405.01611v1)|null|
-|**2023-12-22**|**Strict Frechet Differentiability of the Metric Projection Operator in Hilbert Spaces**|Jinlu Li et.al.|[2312.14362v2](http://arxiv.org/abs/2312.14362v2)|null|
-|**2024-04-10**|**GANsemble for Small and Imbalanced Data Sets: A Baseline for Synthetic Microplastics Data**|Daniel Platnick et.al.|[2404.07356v2](http://arxiv.org/abs/2404.07356v2)|[link](https://github.com/DanielPlatnick/GANsemble)|
-|**2024-04-29**|**A faster algorithm for the Fréchet distance in 1D for the imbalanced case**|Lotte Blank et.al.|[2404.18738v1](http://arxiv.org/abs/2404.18738v1)|null|
-|**2021-04-08**|**Un exemple de somme de série de vecteurs propres à valeurs propres de module un, non récurrente**|Pierre Mazet et.al.|[2104.03943v2](http://arxiv.org/abs/2104.03943v2)|null|
-|**2024-04-22**|**SI-FID: Only One Objective Indicator for Evaluating Stitched Images**|Xinrui Zhang et.al.|[2404.13905v1](http://arxiv.org/abs/2404.13905v1)|null|
-|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v2](http://arxiv.org/abs/2404.12814v2)|null|
-|**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391v1](http://arxiv.org/abs/2404.12391v1)|null|
-|**2024-04-16**|**Semi-supervised Fréchet Regression**|Rui Qiu et.al.|[2404.10444v1](http://arxiv.org/abs/2404.10444v1)|null|
-|**2024-03-03**|**SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation**|Hongjian Liu et.al.|[2403.01505v2](http://arxiv.org/abs/2403.01505v2)|null|
-|**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander W. Blasingame et.al.|[2301.04218v4](http://arxiv.org/abs/2301.04218v4)|null|
-|**2024-04-09**|**The Impact of Print-and-Scan in Heterogeneous Morph Evaluation Scenarios**|Richard E. Neddo et.al.|[2404.06559v1](http://arxiv.org/abs/2404.06559v1)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -72,6 +53,25 @@
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
 |**2022-12-22**|**Fréchet Mean Set Estimation in the Hausdorff Metric, via Relaxation**|Moise Blanchard et.al.|[2212.12057v1](http://arxiv.org/abs/2212.12057v1)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803v1](http://arxiv.org/abs/2405.03803v1)|null|
+|**2024-05-06**|**Generative adversarial learning with optimal input dimension and its adaptive generator architecture**|Zhiyao Tan et.al.|[2405.03723v1](http://arxiv.org/abs/2405.03723v1)|null|
+|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822v1](http://arxiv.org/abs/2405.01822v1)|null|
+|**2024-05-02**|**Unifying and extending Precision Recall metrics for assessing generative models**|Benjamin Sykes et.al.|[2405.01611v1](http://arxiv.org/abs/2405.01611v1)|null|
+|**2023-12-22**|**Strict Frechet Differentiability of the Metric Projection Operator in Hilbert Spaces**|Jinlu Li et.al.|[2312.14362v2](http://arxiv.org/abs/2312.14362v2)|null|
+|**2024-04-10**|**GANsemble for Small and Imbalanced Data Sets: A Baseline for Synthetic Microplastics Data**|Daniel Platnick et.al.|[2404.07356v2](http://arxiv.org/abs/2404.07356v2)|[link](https://github.com/DanielPlatnick/GANsemble)|
+|**2024-04-29**|**A faster algorithm for the Fréchet distance in 1D for the imbalanced case**|Lotte Blank et.al.|[2404.18738v1](http://arxiv.org/abs/2404.18738v1)|null|
+|**2021-04-08**|**Un exemple de somme de série de vecteurs propres à valeurs propres de module un, non récurrente**|Pierre Mazet et.al.|[2104.03943v2](http://arxiv.org/abs/2104.03943v2)|null|
+|**2024-04-22**|**SI-FID: Only One Objective Indicator for Evaluating Stitched Images**|Xinrui Zhang et.al.|[2404.13905v1](http://arxiv.org/abs/2404.13905v1)|null|
+|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v2](http://arxiv.org/abs/2404.12814v2)|null|
+|**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391v1](http://arxiv.org/abs/2404.12391v1)|null|
+|**2024-04-16**|**Semi-supervised Fréchet Regression**|Rui Qiu et.al.|[2404.10444v1](http://arxiv.org/abs/2404.10444v1)|null|
+|**2024-03-03**|**SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation**|Hongjian Liu et.al.|[2403.01505v2](http://arxiv.org/abs/2403.01505v2)|null|
+|**2023-01-10**|**Leveraging Diffusion For Strong and High Quality Face Morphing Attacks**|Zander W. Blasingame et.al.|[2301.04218v4](http://arxiv.org/abs/2301.04218v4)|null|
+|**2024-04-09**|**The Impact of Print-and-Scan in Heterogeneous Morph Evaluation Scenarios**|Richard E. Neddo et.al.|[2404.06559v1](http://arxiv.org/abs/2404.06559v1)|null|
 
 ## Variable Selection
 
