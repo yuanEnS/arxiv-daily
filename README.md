@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-15 07:22:00 Asia/Shanghai
+ Automated deployment @ 2024-05-15 19:20:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-10-13**|**Graph Distillation with Eigenbasis Matching**|Yang Liu et.al.|[2310.09202v2](http://arxiv.org/abs/2310.09202v2)|[link](https://github.com/liuyang-tian/gdem)|
+|**2023-12-08**|**Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials**|Teddy Koker et.al.|[2312.05388v2](http://arxiv.org/abs/2312.05388v2)|[link](https://github.com/AIforGreatGood/charge3net)|
+|**2024-05-14**|**Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks**|Killian Sheriff et.al.|[2405.08628v1](http://arxiv.org/abs/2405.08628v1)|null|
+|**2024-03-27**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v2](http://arxiv.org/abs/2403.18296v2)|[link](https://github.com/chunbaobao/genet)|
+|**2024-05-14**|**Improving the Real-Data Driven Network Evaluation Model for Digital Twin Networks**|Hyeju Shin et.al.|[2405.08473v1](http://arxiv.org/abs/2405.08473v1)|null|
+|**2023-10-26**|**Learning the dynamics of a one-dimensional plasma model with graph neural networks**|Diogo D Carvalho et.al.|[2310.17646v3](http://arxiv.org/abs/2310.17646v3)|[link](https://github.com/diogodcarvalho/gns-sheet-model)|
+|**2023-10-18**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v3](http://arxiv.org/abs/2310.12350v3)|[link](https://github.com/yuening-lab/f2gnn)|
+|**2024-05-13**|**Graph Neural Networks for Parameterized Quantum Circuits Expressibility Estimation**|Shamminuj Aktar et.al.|[2405.08100v1](http://arxiv.org/abs/2405.08100v1)|null|
 |**2024-05-13**|**KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative Manipulators**|Wansong Liu et.al.|[2405.07962v1](http://arxiv.org/abs/2405.07962v1)|null|
 |**2024-05-13**|**Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks**|Yuchen Lou et.al.|[2405.07915v1](http://arxiv.org/abs/2405.07915v1)|null|
 |**2024-05-13**|**All Nodes are created Not Equal: Node-Specific Layer Aggregation and Filtration for GNN**|Shilong Wang et.al.|[2405.07892v1](http://arxiv.org/abs/2405.07892v1)|null|
@@ -24,14 +32,27 @@
 |**2024-04-04**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777v2](http://arxiv.org/abs/2404.03777v2)|null|
 |**2024-05-12**|**Graph neural networks for power grid operational risk assessment under evolving grid topology**|Yadong Zhang et.al.|[2405.07343v1](http://arxiv.org/abs/2405.07343v1)|null|
 |**2024-05-12**|**Context Neural Networks: A Scalable Multivariate Model for Time Series Forecasting**|Abishek Sriramulu et.al.|[2405.07117v1](http://arxiv.org/abs/2405.07117v1)|null|
-|**2024-05-11**|**Fair Graph Representation Learning via Sensitive Attribute Disentanglement**|Yuchang Zhu et.al.|[2405.07011v1](http://arxiv.org/abs/2405.07011v1)|[link](https://github.com/zzoomd/fairsad)|
-|**2024-03-19**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418v3](http://arxiv.org/abs/2403.12418v3)|[link](https://github.com/LincanLi98/STG-Mamba)|
-|**2024-05-11**|**Input Snapshots Fusion for Scalable Discrete Dynamic Graph Nerual Networks**|QingGuo Qi et.al.|[2405.06975v1](http://arxiv.org/abs/2405.06975v1)|null|
-|**2024-02-01**|**A Survey of Data-Efficient Graph Learning**|Wei Ju et.al.|[2402.00447v2](http://arxiv.org/abs/2402.00447v2)|null|
-|**2024-05-11**|**Design Requirements for Human-Centered Graph Neural Network Explanations**|Pantea Habibi et.al.|[2405.06917v1](http://arxiv.org/abs/2405.06917v1)|null|
-|**2024-05-10**|**GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs**|Mustafa Munir et.al.|[2405.06849v1](http://arxiv.org/abs/2405.06849v1)|null|
-|**2024-05-10**|**G-FARS: Gradient-Field-based Auto-Regressive Sampling for 3D Part Grouping**|Junfeng Cheng et.al.|[2405.06828v1](http://arxiv.org/abs/2405.06828v1)|[link](https://github.com/j-f-cheng/g-fars-3dpartgrouping)|
-|**2023-09-29**|**G4SATBench: Benchmarking and Advancing SAT Solving with Graph Neural Networks**|Zhaoyu Li et.al.|[2309.16941v2](http://arxiv.org/abs/2309.16941v2)|[link](https://github.com/zhaoyu-li/g4satbench)|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-04-15**|**On the Necessity of Collaboration in Online Model Selection with Decentralized Data**|Junfan Li et.al.|[2404.09494v2](http://arxiv.org/abs/2404.09494v2)|null|
+|**2024-03-31**|**Learning the mechanisms of network growth**|Lourens Touwen et.al.|[2404.00793v2](http://arxiv.org/abs/2404.00793v2)|[link](https://github.com/LourensT/DynamicNetworkSimulation)|
+|**2024-05-13**|**Improved LARS algorithm for adaptive LASSO in the linear regression model**|Manickavasagar Kayanan et.al.|[2405.07985v1](http://arxiv.org/abs/2405.07985v1)|null|
+|**2024-05-13**|**Hierarchical inference of evidence using posterior samples**|Stefano Rinaldi et.al.|[2405.07504v1](http://arxiv.org/abs/2405.07504v1)|null|
+|**2024-05-12**|**The Spike-and-Slab Quantile LASSO for Robust Variable Selection in Cancer Genomics Studies**|Yuwen Liu et.al.|[2405.07397v1](http://arxiv.org/abs/2405.07397v1)|null|
+|**2024-05-06**|**Outlier Gradient Analysis: Efficiently Improving Deep Learning Model Performance via Hessian-Free Influence Functions**|Anshuman Chhabra et.al.|[2405.03869v2](http://arxiv.org/abs/2405.03869v2)|null|
+|**2021-12-23**|**Optimal and instance-dependent guarantees for Markovian linear stochastic approximation**|Wenlong Mou et.al.|[2112.12770v2](http://arxiv.org/abs/2112.12770v2)|null|
+|**2024-05-11**|**Robust Model Aggregation for Heterogeneous Federated Learning: Analysis and Optimizations**|Yumeng Shao et.al.|[2405.06993v1](http://arxiv.org/abs/2405.06993v1)|null|
+|**2024-05-10**|**Post-selection inference for causal effects after causal discovery**|Ting-Hsuan Chang et.al.|[2405.06763v1](http://arxiv.org/abs/2405.06763v1)|null|
+|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v4](http://arxiv.org/abs/2401.03776v4)|null|
+|**2023-07-11**|**Bayesian taut splines for estimating the number of modes**|José E. Chacón et.al.|[2307.05825v3](http://arxiv.org/abs/2307.05825v3)|null|
+|**2024-05-08**|**A goodness-of-fit diagnostic for count data derived from half-normal plots with a simulated envelope**|Darshana Jayakumari et.al.|[2405.05121v1](http://arxiv.org/abs/2405.05121v1)|null|
+|**2024-04-29**|**Sequential model confidence sets**|Sebastian Arnold et.al.|[2404.18678v2](http://arxiv.org/abs/2404.18678v2)|null|
+|**2022-11-10**|**Robust Model Selection of Gaussian Graphical Models**|Abrar Zahin et.al.|[2211.05690v2](http://arxiv.org/abs/2211.05690v2)|null|
+|**2023-11-10**|**Time-Varying Identification of Monetary Policy Shocks**|Annika Camehl et.al.|[2311.05883v4](http://arxiv.org/abs/2311.05883v4)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v2](http://arxiv.org/abs/2207.03943v2)|null|
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-13**|**Improved LARS algorithm for adaptive LASSO in the linear regression model**|Manickavasagar Kayanan et.al.|[2405.07985v1](http://arxiv.org/abs/2405.07985v1)|null|
-|**2024-05-13**|**Hierarchical inference of evidence using posterior samples**|Stefano Rinaldi et.al.|[2405.07504v1](http://arxiv.org/abs/2405.07504v1)|null|
-|**2024-05-12**|**The Spike-and-Slab Quantile LASSO for Robust Variable Selection in Cancer Genomics Studies**|Yuwen Liu et.al.|[2405.07397v1](http://arxiv.org/abs/2405.07397v1)|null|
-|**2024-05-06**|**Outlier Gradient Analysis: Efficiently Improving Deep Learning Model Performance via Hessian-Free Influence Functions**|Anshuman Chhabra et.al.|[2405.03869v2](http://arxiv.org/abs/2405.03869v2)|null|
-|**2021-12-23**|**Optimal and instance-dependent guarantees for Markovian linear stochastic approximation**|Wenlong Mou et.al.|[2112.12770v2](http://arxiv.org/abs/2112.12770v2)|null|
-|**2024-05-11**|**Robust Model Aggregation for Heterogeneous Federated Learning: Analysis and Optimizations**|Yumeng Shao et.al.|[2405.06993v1](http://arxiv.org/abs/2405.06993v1)|null|
-|**2024-05-10**|**Post-selection inference for causal effects after causal discovery**|Ting-Hsuan Chang et.al.|[2405.06763v1](http://arxiv.org/abs/2405.06763v1)|null|
-|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v4](http://arxiv.org/abs/2401.03776v4)|null|
-|**2023-07-11**|**Bayesian taut splines for estimating the number of modes**|José E. Chacón et.al.|[2307.05825v3](http://arxiv.org/abs/2307.05825v3)|null|
-|**2024-05-08**|**A goodness-of-fit diagnostic for count data derived from half-normal plots with a simulated envelope**|Darshana Jayakumari et.al.|[2405.05121v1](http://arxiv.org/abs/2405.05121v1)|null|
-|**2024-04-29**|**Sequential model confidence sets**|Sebastian Arnold et.al.|[2404.18678v2](http://arxiv.org/abs/2404.18678v2)|null|
-|**2022-11-10**|**Robust Model Selection of Gaussian Graphical Models**|Abrar Zahin et.al.|[2211.05690v2](http://arxiv.org/abs/2211.05690v2)|null|
-|**2023-11-10**|**Time-Varying Identification of Monetary Policy Shocks**|Annika Camehl et.al.|[2311.05883v4](http://arxiv.org/abs/2311.05883v4)|null|
-|**2023-05-10**|**Occam Factor for Random Graphs: Erdös-Rényi, Independent Edge, and Rank-1 Stochastic Blockmodel**|Tianyu Wang et.al.|[2305.06465v4](http://arxiv.org/abs/2305.06465v4)|null|
-|**2024-05-07**|**Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking**|Emre Can Acikgoz et.al.|[2405.04685v1](http://arxiv.org/abs/2405.04685v1)|null|
