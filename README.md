@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-16 07:24:02 Asia/Shanghai
+ Automated deployment @ 2024-05-16 19:21:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522v1](http://arxiv.org/abs/2405.09522v1)|null|
+|**2024-05-15**|**Desk-AId: Humanitarian Aid Desk Assessment with Geospatial AI for Predicting Landmine Areas**|Flavio Cirillo et.al.|[2405.09444v1](http://arxiv.org/abs/2405.09444v1)|null|
+|**2024-05-15**|**Learning Coarse-Grained Dynamics on Graph**|Yin Yu et.al.|[2405.09324v1](http://arxiv.org/abs/2405.09324v1)|null|
+|**2024-05-15**|**Graph Neural Network based Handwritten Trajectories Recognition**|Anuj Sharma et.al.|[2405.09247v1](http://arxiv.org/abs/2405.09247v1)|null|
+|**2024-05-15**|**SMUG-Explain: A Framework for Symbolic Music Graph Explanations**|Emmanouil Karystinaios et.al.|[2405.09241v1](http://arxiv.org/abs/2405.09241v1)|null|
+|**2024-05-15**|**Unraveling impacts of polycrystalline microstructures on ionic conductivity of ceramic electrolytes by computational homogenization and machine learning**|Xiang-Long Peng et.al.|[2405.09227v1](http://arxiv.org/abs/2405.09227v1)|null|
+|**2024-05-15**|**Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-Task Learning**|Xiaoling Zhang et.al.|[2405.09112v1](http://arxiv.org/abs/2405.09112v1)|null|
+|**2024-05-15**|**Deep Learning in Earthquake Engineering: A Comprehensive Review**|Yazhou Xie et.al.|[2405.09021v1](http://arxiv.org/abs/2405.09021v1)|null|
 |**2023-10-13**|**Graph Distillation with Eigenbasis Matching**|Yang Liu et.al.|[2310.09202v2](http://arxiv.org/abs/2310.09202v2)|[link](https://github.com/liuyang-tian/gdem)|
 |**2023-12-08**|**Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials**|Teddy Koker et.al.|[2312.05388v2](http://arxiv.org/abs/2312.05388v2)|[link](https://github.com/AIforGreatGood/charge3net)|
 |**2024-05-14**|**Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks**|Killian Sheriff et.al.|[2405.08628v1](http://arxiv.org/abs/2405.08628v1)|null|
 |**2024-03-27**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v2](http://arxiv.org/abs/2403.18296v2)|[link](https://github.com/chunbaobao/genet)|
 |**2024-05-14**|**Improving the Real-Data Driven Network Evaluation Model for Digital Twin Networks**|Hyeju Shin et.al.|[2405.08473v1](http://arxiv.org/abs/2405.08473v1)|null|
+|**2024-05-14**|**FLEXIBLE: Forecasting Cellular Traffic by Leveraging Explicit Inductive Graph-Based Learning**|Duc Thinh Ngo et.al.|[2405.08843v1](http://arxiv.org/abs/2405.08843v1)|null|
 |**2023-10-26**|**Learning the dynamics of a one-dimensional plasma model with graph neural networks**|Diogo D Carvalho et.al.|[2310.17646v3](http://arxiv.org/abs/2310.17646v3)|[link](https://github.com/diogodcarvalho/gns-sheet-model)|
-|**2023-10-18**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350v3](http://arxiv.org/abs/2310.12350v3)|[link](https://github.com/yuening-lab/f2gnn)|
-|**2024-05-13**|**Graph Neural Networks for Parameterized Quantum Circuits Expressibility Estimation**|Shamminuj Aktar et.al.|[2405.08100v1](http://arxiv.org/abs/2405.08100v1)|null|
-|**2024-05-13**|**KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative Manipulators**|Wansong Liu et.al.|[2405.07962v1](http://arxiv.org/abs/2405.07962v1)|null|
-|**2024-05-13**|**Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks**|Yuchen Lou et.al.|[2405.07915v1](http://arxiv.org/abs/2405.07915v1)|null|
-|**2024-05-13**|**All Nodes are created Not Equal: Node-Specific Layer Aggregation and Filtration for GNN**|Shilong Wang et.al.|[2405.07892v1](http://arxiv.org/abs/2405.07892v1)|null|
-|**2024-05-13**|**Hamiltonian-based Quantum Reinforcement Learning for Neural Combinatorial Optimization**|Georg Kruse et.al.|[2405.07790v1](http://arxiv.org/abs/2405.07790v1)|null|
-|**2024-04-04**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777v2](http://arxiv.org/abs/2404.03777v2)|null|
-|**2024-05-12**|**Graph neural networks for power grid operational risk assessment under evolving grid topology**|Yadong Zhang et.al.|[2405.07343v1](http://arxiv.org/abs/2405.07343v1)|null|
-|**2024-05-12**|**Context Neural Networks: A Scalable Multivariate Model for Time Series Forecasting**|Abishek Sriramulu et.al.|[2405.07117v1](http://arxiv.org/abs/2405.07117v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-15**|**Stability via resampling: statistical problems beyond the real line**|Jake A. Soloff et.al.|[2405.09511v1](http://arxiv.org/abs/2405.09511v1)|null|
+|**2024-05-15**|**Predicting Future Change-points in Time Series**|Chak Fung Choi et.al.|[2405.09485v1](http://arxiv.org/abs/2405.09485v1)|null|
+|**2024-01-31**|**A review of regularised estimation methods and cross-validation in spatiotemporal statistics**|Philipp Otto et.al.|[2402.00183v2](http://arxiv.org/abs/2402.00183v2)|null|
+|**2024-05-08**|**On foundation of generative statistics with F-entropy: a gradient-based approach**|Bing Cheng et.al.|[2405.05389v4](http://arxiv.org/abs/2405.05389v4)|null|
 |**2024-04-15**|**On the Necessity of Collaboration in Online Model Selection with Decentralized Data**|Junfan Li et.al.|[2404.09494v2](http://arxiv.org/abs/2404.09494v2)|null|
 |**2024-03-31**|**Learning the mechanisms of network growth**|Lourens Touwen et.al.|[2404.00793v2](http://arxiv.org/abs/2404.00793v2)|[link](https://github.com/LourensT/DynamicNetworkSimulation)|
 |**2024-05-13**|**Improved LARS algorithm for adaptive LASSO in the linear regression model**|Manickavasagar Kayanan et.al.|[2405.07985v1](http://arxiv.org/abs/2405.07985v1)|null|
@@ -89,7 +93,3 @@
 |**2024-05-10**|**Post-selection inference for causal effects after causal discovery**|Ting-Hsuan Chang et.al.|[2405.06763v1](http://arxiv.org/abs/2405.06763v1)|null|
 |**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v4](http://arxiv.org/abs/2401.03776v4)|null|
 |**2023-07-11**|**Bayesian taut splines for estimating the number of modes**|José E. Chacón et.al.|[2307.05825v3](http://arxiv.org/abs/2307.05825v3)|null|
-|**2024-05-08**|**A goodness-of-fit diagnostic for count data derived from half-normal plots with a simulated envelope**|Darshana Jayakumari et.al.|[2405.05121v1](http://arxiv.org/abs/2405.05121v1)|[link](https://github.com/DARSHANAJAYA/Goodness-of-fit-Distance-metric)|
-|**2024-04-29**|**Sequential model confidence sets**|Sebastian Arnold et.al.|[2404.18678v2](http://arxiv.org/abs/2404.18678v2)|[link](https://github.com/ggavrilos/smcs)|
-|**2022-11-10**|**Robust Model Selection of Gaussian Graphical Models**|Abrar Zahin et.al.|[2211.05690v2](http://arxiv.org/abs/2211.05690v2)|null|
-|**2023-11-10**|**Time-Varying Identification of Monetary Policy Shocks**|Annika Camehl et.al.|[2311.05883v4](http://arxiv.org/abs/2311.05883v4)|null|
