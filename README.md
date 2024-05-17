@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-17 07:23:05 Asia/Shanghai
+ Automated deployment @ 2024-05-17 19:20:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,10 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218v1](http://arxiv.org/abs/2405.10218v1)|null|
+|**2024-05-16**|**Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level**|Chenlong Zhao et.al.|[2405.10202v1](http://arxiv.org/abs/2405.10202v1)|[link](https://github.com/molichenxi/haesum)|
+|**2024-05-02**|**EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time**|Shengyao Lu et.al.|[2405.01762v2](http://arxiv.org/abs/2405.01762v2)|[link](https://github.com/sluxsr/EiG-Search)|
+|**2024-05-16**|**Integrating Uncertainty-Aware Human Motion Prediction into Graph-Based Manipulator Motion Planning**|Wansong Liu et.al.|[2405.09779v1](http://arxiv.org/abs/2405.09779v1)|null|
 |**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522v1](http://arxiv.org/abs/2405.09522v1)|null|
 |**2024-05-15**|**Desk-AId: Humanitarian Aid Desk Assessment with Geospatial AI for Predicting Landmine Areas**|Flavio Cirillo et.al.|[2405.09444v1](http://arxiv.org/abs/2405.09444v1)|null|
 |**2024-05-15**|**Learning Coarse-Grained Dynamics on Graph**|Yin Yu et.al.|[2405.09324v1](http://arxiv.org/abs/2405.09324v1)|null|
@@ -28,12 +32,27 @@
 |**2023-10-13**|**Graph Distillation with Eigenbasis Matching**|Yang Liu et.al.|[2310.09202v2](http://arxiv.org/abs/2310.09202v2)|[link](https://github.com/liuyang-tian/gdem)|
 |**2023-12-08**|**Higher-Order Equivariant Neural Networks for Charge Density Prediction in Materials**|Teddy Koker et.al.|[2312.05388v2](http://arxiv.org/abs/2312.05388v2)|[link](https://github.com/AIforGreatGood/charge3net)|
 |**2024-05-14**|**Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks**|Killian Sheriff et.al.|[2405.08628v1](http://arxiv.org/abs/2405.08628v1)|null|
-|**2024-03-27**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296v2](http://arxiv.org/abs/2403.18296v2)|[link](https://github.com/chunbaobao/genet)|
-|**2024-05-14**|**Improving the Real-Data Driven Network Evaluation Model for Digital Twin Networks**|Hyeju Shin et.al.|[2405.08473v1](http://arxiv.org/abs/2405.08473v1)|null|
-|**2024-05-14**|**FLEXIBLE: Forecasting Cellular Traffic by Leveraging Explicit Inductive Graph-Based Learning**|Duc Thinh Ngo et.al.|[2405.08843v1](http://arxiv.org/abs/2405.08843v1)|null|
-|**2023-10-26**|**Learning the dynamics of a one-dimensional plasma model with graph neural networks**|Diogo D Carvalho et.al.|[2310.17646v3](http://arxiv.org/abs/2310.17646v3)|[link](https://github.com/diogodcarvalho/gns-sheet-model)|
 
 ## Non-Euclidean Staistics
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-16**|**Detecting Domain Shift in Multiple Instance Learning for Digital Pathology Using Fréchet Domain Distance**|Milda Pocevičiūtė et.al.|[2405.09934v1](http://arxiv.org/abs/2405.09934v1)|null|
+|**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v3](http://arxiv.org/abs/2305.02501v3)|null|
+|**2024-05-12**|**AdaptNet: Rethinking Sensing and Communication for a Seamless Internet of Drones Experience**|Ananya Hazarika et.al.|[2405.07318v1](http://arxiv.org/abs/2405.07318v1)|null|
+|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v1](http://arxiv.org/abs/2405.06558v1)|null|
+|**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803v1](http://arxiv.org/abs/2405.03803v1)|null|
+|**2024-05-06**|**Generative adversarial learning with optimal input dimension and its adaptive generator architecture**|Zhiyao Tan et.al.|[2405.03723v1](http://arxiv.org/abs/2405.03723v1)|null|
+|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822v1](http://arxiv.org/abs/2405.01822v1)|null|
+|**2024-05-02**|**Unifying and extending Precision Recall metrics for assessing generative models**|Benjamin Sykes et.al.|[2405.01611v1](http://arxiv.org/abs/2405.01611v1)|null|
+|**2023-12-22**|**Strict Frechet Differentiability of the Metric Projection Operator in Hilbert Spaces**|Jinlu Li et.al.|[2312.14362v2](http://arxiv.org/abs/2312.14362v2)|null|
+|**2024-04-10**|**GANsemble for Small and Imbalanced Data Sets: A Baseline for Synthetic Microplastics Data**|Daniel Platnick et.al.|[2404.07356v2](http://arxiv.org/abs/2404.07356v2)|[link](https://github.com/DanielPlatnick/GANsemble)|
+|**2024-04-29**|**A faster algorithm for the Fréchet distance in 1D for the imbalanced case**|Lotte Blank et.al.|[2404.18738v1](http://arxiv.org/abs/2404.18738v1)|null|
+|**2021-04-08**|**Un exemple de somme de série de vecteurs propres à valeurs propres de module un, non récurrente**|Pierre Mazet et.al.|[2104.03943v2](http://arxiv.org/abs/2104.03943v2)|null|
+|**2024-04-22**|**SI-FID: Only One Objective Indicator for Evaluating Stitched Images**|Xinrui Zhang et.al.|[2404.13905v1](http://arxiv.org/abs/2404.13905v1)|null|
+|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v2](http://arxiv.org/abs/2404.12814v2)|null|
+|**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391v1](http://arxiv.org/abs/2404.12391v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -54,34 +73,18 @@
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-12**|**AdaptNet: Rethinking Sensing and Communication for a Seamless Internet of Drones Experience**|Ananya Hazarika et.al.|[2405.07318v1](http://arxiv.org/abs/2405.07318v1)|null|
-|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v1](http://arxiv.org/abs/2405.06558v1)|null|
-|**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803v1](http://arxiv.org/abs/2405.03803v1)|null|
-|**2024-05-06**|**Generative adversarial learning with optimal input dimension and its adaptive generator architecture**|Zhiyao Tan et.al.|[2405.03723v1](http://arxiv.org/abs/2405.03723v1)|null|
-|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822v1](http://arxiv.org/abs/2405.01822v1)|null|
-|**2024-05-02**|**Unifying and extending Precision Recall metrics for assessing generative models**|Benjamin Sykes et.al.|[2405.01611v1](http://arxiv.org/abs/2405.01611v1)|null|
-|**2023-12-22**|**Strict Frechet Differentiability of the Metric Projection Operator in Hilbert Spaces**|Jinlu Li et.al.|[2312.14362v2](http://arxiv.org/abs/2312.14362v2)|null|
-|**2024-04-10**|**GANsemble for Small and Imbalanced Data Sets: A Baseline for Synthetic Microplastics Data**|Daniel Platnick et.al.|[2404.07356v2](http://arxiv.org/abs/2404.07356v2)|[link](https://github.com/DanielPlatnick/GANsemble)|
-|**2024-04-29**|**A faster algorithm for the Fréchet distance in 1D for the imbalanced case**|Lotte Blank et.al.|[2404.18738v1](http://arxiv.org/abs/2404.18738v1)|null|
-|**2021-04-08**|**Un exemple de somme de série de vecteurs propres à valeurs propres de module un, non récurrente**|Pierre Mazet et.al.|[2104.03943v2](http://arxiv.org/abs/2104.03943v2)|null|
-|**2024-04-22**|**SI-FID: Only One Objective Indicator for Evaluating Stitched Images**|Xinrui Zhang et.al.|[2404.13905v1](http://arxiv.org/abs/2404.13905v1)|null|
-|**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v2](http://arxiv.org/abs/2404.12814v2)|null|
-|**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391v1](http://arxiv.org/abs/2404.12391v1)|null|
-|**2024-04-16**|**Semi-supervised Fréchet Regression**|Rui Qiu et.al.|[2404.10444v1](http://arxiv.org/abs/2404.10444v1)|null|
-|**2024-03-03**|**SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation**|Hongjian Liu et.al.|[2403.01505v2](http://arxiv.org/abs/2403.01505v2)|null|
-
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-08**|**On foundation of generative statistics with F-entropy: a gradient-based approach**|Bing Cheng et.al.|[2405.05389v5](http://arxiv.org/abs/2405.05389v5)|null|
+|**2024-05-16**|**Simultaneous Identification of Sparse Structures and Communities in Heterogeneous Graphical Models**|Dapeng Shi et.al.|[2405.09841v1](http://arxiv.org/abs/2405.09841v1)|null|
+|**2024-05-16**|**Are all models wrong? Falsifying binary formation models in gravitational-wave astronomy**|Lachlan Passenger et.al.|[2405.09739v1](http://arxiv.org/abs/2405.09739v1)|null|
+|**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190v1](http://arxiv.org/abs/2405.10190v1)|null|
 |**2024-05-15**|**Stability via resampling: statistical problems beyond the real line**|Jake A. Soloff et.al.|[2405.09511v1](http://arxiv.org/abs/2405.09511v1)|null|
 |**2024-05-15**|**Predicting Future Change-points in Time Series**|Chak Fung Choi et.al.|[2405.09485v1](http://arxiv.org/abs/2405.09485v1)|null|
 |**2024-01-31**|**A review of regularised estimation methods and cross-validation in spatiotemporal statistics**|Philipp Otto et.al.|[2402.00183v2](http://arxiv.org/abs/2402.00183v2)|null|
-|**2024-05-08**|**On foundation of generative statistics with F-entropy: a gradient-based approach**|Bing Cheng et.al.|[2405.05389v4](http://arxiv.org/abs/2405.05389v4)|null|
 |**2024-04-15**|**On the Necessity of Collaboration in Online Model Selection with Decentralized Data**|Junfan Li et.al.|[2404.09494v2](http://arxiv.org/abs/2404.09494v2)|null|
 |**2024-03-31**|**Learning the mechanisms of network growth**|Lourens Touwen et.al.|[2404.00793v2](http://arxiv.org/abs/2404.00793v2)|[link](https://github.com/LourensT/DynamicNetworkSimulation)|
 |**2024-05-13**|**Improved LARS algorithm for adaptive LASSO in the linear regression model**|Manickavasagar Kayanan et.al.|[2405.07985v1](http://arxiv.org/abs/2405.07985v1)|null|
@@ -90,6 +93,3 @@
 |**2024-05-06**|**Outlier Gradient Analysis: Efficiently Improving Deep Learning Model Performance via Hessian-Free Influence Functions**|Anshuman Chhabra et.al.|[2405.03869v2](http://arxiv.org/abs/2405.03869v2)|null|
 |**2021-12-23**|**Optimal and instance-dependent guarantees for Markovian linear stochastic approximation**|Wenlong Mou et.al.|[2112.12770v2](http://arxiv.org/abs/2112.12770v2)|null|
 |**2024-05-11**|**Robust Model Aggregation for Heterogeneous Federated Learning: Analysis and Optimizations**|Yumeng Shao et.al.|[2405.06993v1](http://arxiv.org/abs/2405.06993v1)|null|
-|**2024-05-10**|**Post-selection inference for causal effects after causal discovery**|Ting-Hsuan Chang et.al.|[2405.06763v1](http://arxiv.org/abs/2405.06763v1)|null|
-|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v4](http://arxiv.org/abs/2401.03776v4)|null|
-|**2023-07-11**|**Bayesian taut splines for estimating the number of modes**|José E. Chacón et.al.|[2307.05825v3](http://arxiv.org/abs/2307.05825v3)|null|
