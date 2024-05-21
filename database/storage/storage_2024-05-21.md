@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-21 07:23:28 Asia/Shanghai
+ Automated deployment @ 2024-05-21 19:22:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,28 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-16**|**Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural Networks**|Joshua Melton et.al.|[2404.10228v2](http://arxiv.org/abs/2404.10228v2)|null|
-|**2024-05-17**|**Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective**|Zhiwei Zhang et.al.|[2405.10757v1](http://arxiv.org/abs/2405.10757v1)|null|
-|**2023-04-25**|**Node Feature Augmentation Vitaminizes Network Alignment**|Jin-Duk Park et.al.|[2304.12751v4](http://arxiv.org/abs/2304.12751v4)|null|
-|**2024-05-17**|**Hi-GMAE: Hierarchical Graph Masked Autoencoders**|Chuang Liu et.al.|[2405.10642v1](http://arxiv.org/abs/2405.10642v1)|[link](https://github.com/liuchuang0059/hi-gmae)|
-|**2024-05-17**|**Harnessing Collective Structure Knowledge in Data Augmentation for Graph Neural Networks**|Rongrong Ma et.al.|[2405.10633v1](http://arxiv.org/abs/2405.10633v1)|null|
-|**2024-05-08**|**Imbalanced Graph Classification with Multi-scale Oversampling Graph Neural Networks**|Rongrong Ma et.al.|[2405.04903v2](http://arxiv.org/abs/2405.04903v2)|null|
-|**2024-05-17**|**CACL: Community-Aware Heterogeneous Graph Contrastive Learning for Social Media Bot Detection**|Sirry Chen et.al.|[2405.10558v1](http://arxiv.org/abs/2405.10558v1)|null|
-|**2024-05-17**|**Multi-Evidence based Fact Verification via A Confidential Graph Neural Network**|Yuqing Lan et.al.|[2405.10481v1](http://arxiv.org/abs/2405.10481v1)|null|
-|**2023-11-15**|**Distributed Constrained Combinatorial Optimization leveraging Hypergraph Neural Networks**|Nasimeh Heydaribeni et.al.|[2311.09375v2](http://arxiv.org/abs/2311.09375v2)|null|
-|**2024-05-16**|**Physics-Informed Heterogeneous Graph Neural Networks for DC Blocker Placement**|Hongwei Jin et.al.|[2405.10389v1](http://arxiv.org/abs/2405.10389v1)|null|
-|**2024-05-16**|**ENADPool: The Edge-Node Attention-based Differentiable Pooling for Graph Neural Networks**|Zhehan Zhao et.al.|[2405.10218v1](http://arxiv.org/abs/2405.10218v1)|null|
-|**2024-05-16**|**Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level**|Chenlong Zhao et.al.|[2405.10202v1](http://arxiv.org/abs/2405.10202v1)|[link](https://github.com/molichenxi/haesum)|
-|**2024-05-02**|**EiG-Search: Generating Edge-Induced Subgraphs for GNN Explanation in Linear Time**|Shengyao Lu et.al.|[2405.01762v2](http://arxiv.org/abs/2405.01762v2)|[link](https://github.com/sluxsr/EiG-Search)|
-|**2024-05-16**|**Integrating Uncertainty-Aware Human Motion Prediction into Graph-Based Manipulator Motion Planning**|Wansong Liu et.al.|[2405.09779v1](http://arxiv.org/abs/2405.09779v1)|null|
-|**2024-05-15**|**ContourCraft: Learning to Resolve Intersections in Neural Multi-Garment Simulations**|Artur Grigorev et.al.|[2405.09522v1](http://arxiv.org/abs/2405.09522v1)|null|
+|**2024-05-20**|**Conditional Shift-Robust Conformal Prediction for Graph Neural Network**|S. Akansha et.al.|[2405.11968v1](http://arxiv.org/abs/2405.11968v1)|null|
+|**2024-05-20**|**CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**|Yanran Tang et.al.|[2405.11791v1](http://arxiv.org/abs/2405.11791v1)|[link](https://github.com/yanran-tang/casegnn)|
+|**2022-10-25**|**Teal: Learning-Accelerated Optimization of WAN Traffic Engineering**|Zhiying Xu et.al.|[2210.13763v4](http://arxiv.org/abs/2210.13763v4)|[link](https://github.com/harvard-cns/teal)|
+|**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531v1](http://arxiv.org/abs/2405.11531v1)|null|
+|**2024-03-11**|**Are Targeted Messages More Effective?**|Martin Grohe et.al.|[2403.06817v2](http://arxiv.org/abs/2403.06817v2)|null|
+|**2024-05-19**|**CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction**|Zijian Du et.al.|[2405.11502v1](http://arxiv.org/abs/2405.11502v1)|null|
+|**2024-02-25**|**HiGPT: Heterogeneous Graph Language Model**|Jiabin Tang et.al.|[2402.16024v2](http://arxiv.org/abs/2402.16024v2)|[link](https://github.com/hkuds/higpt)|
+|**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984v3](http://arxiv.org/abs/2308.15984v3)|[link](https://github.com/lucasbrynte/gasfm)|
+|**2023-09-23**|**A Model-Agnostic Graph Neural Network for Integrating Local and Global Information**|Wenzhuo Zhou et.al.|[2309.13459v3](http://arxiv.org/abs/2309.13459v3)|null|
+|**2023-01-25**|**Knowledge-augmented Graph Neural Networks with Concept-aware Attention for Adverse Drug Event Detection**|Shaoxiong Ji et.al.|[2301.10451v3](http://arxiv.org/abs/2301.10451v3)|null|
+|**2024-05-18**|**Hierarchical Reinforcement Learning Empowered Task Offloading in V2I Networks**|Xinyu You et.al.|[2405.11352v1](http://arxiv.org/abs/2405.11352v1)|null|
+|**2024-05-18**|**Detecting Complex Multi-step Attacks with Explainable Graph Neural Network**|Wei Liu et.al.|[2405.11335v1](http://arxiv.org/abs/2405.11335v1)|null|
+|**2024-05-18**|**GinAR: An End-To-End Multivariate Time Series Forecasting Model Suitable for Variable Missing**|Chengqing Yu et.al.|[2405.11333v1](http://arxiv.org/abs/2405.11333v1)|[link](https://github.com/chengqingyu/ginar)|
+|**2024-03-19**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418v4](http://arxiv.org/abs/2403.12418v4)|[link](https://github.com/LincanLi98/STG-Mamba)|
+|**2024-05-18**|**SeBot: Structural Entropy Guided Multi-View Contrastive Learning for Social Bot Detection**|Yingguang Yang et.al.|[2405.11225v1](http://arxiv.org/abs/2405.11225v1)|[link](https://github.com/846468230/sebot)|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-18**|**On the limit distribution of extremes of generalized Oppenheim random variables**|Milto Hadjikyriakou et.al.|[2405.11241v1](http://arxiv.org/abs/2405.11241v1)|null|
 |**2024-05-16**|**Detecting Domain Shift in Multiple Instance Learning for Digital Pathology Using Fréchet Domain Distance**|Milda Pocevičiūtė et.al.|[2405.09934v1](http://arxiv.org/abs/2405.09934v1)|null|
 |**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v3](http://arxiv.org/abs/2305.02501v3)|null|
 |**2024-05-12**|**AdaptNet: Rethinking Sensing and Communication for a Seamless Internet of Drones Experience**|Ananya Hazarika et.al.|[2405.07318v1](http://arxiv.org/abs/2405.07318v1)|null|
@@ -52,7 +53,6 @@
 |**2021-04-08**|**Un exemple de somme de série de vecteurs propres à valeurs propres de module un, non récurrente**|Pierre Mazet et.al.|[2104.03943v2](http://arxiv.org/abs/2104.03943v2)|null|
 |**2024-04-22**|**SI-FID: Only One Objective Indicator for Evaluating Stitched Images**|Xinrui Zhang et.al.|[2404.13905v1](http://arxiv.org/abs/2404.13905v1)|null|
 |**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v2](http://arxiv.org/abs/2404.12814v2)|null|
-|**2024-04-18**|**On the Content Bias in Fréchet Video Distance**|Songwei Ge et.al.|[2404.12391v1](http://arxiv.org/abs/2404.12391v1)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,7 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v2](http://arxiv.org/abs/2404.14965v2)|null|
+|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v3](http://arxiv.org/abs/2404.14965v3)|null|
+|**2024-05-19**|**Movie Revenue Prediction using Machine Learning Models**|Vikranth Udandarao et.al.|[2405.11651v1](http://arxiv.org/abs/2405.11651v1)|[link](https://github.com/vikranth3140/movie-revenue-prediction)|
+|**2024-05-19**|**A comparative study of augmented inverse propensity weighted estimators using outcome-adaptive lasso and other penalized regression methods**|Wataru Hongo et.al.|[2405.11522v1](http://arxiv.org/abs/2405.11522v1)|null|
+|**2023-01-07**|**ExcelFormer: Can a DNN be a Sure Bet for Tabular Prediction?**|Jintai Chen et.al.|[2301.02819v4](http://arxiv.org/abs/2301.02819v4)|[link](https://github.com/whatashot/excelformer)|
 |**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v3](http://arxiv.org/abs/2210.05983v3)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
 |**2024-05-08**|**On foundation of generative statistics with F-entropy: a gradient-based approach**|Bing Cheng et.al.|[2405.05389v5](http://arxiv.org/abs/2405.05389v5)|null|
 |**2024-05-16**|**Simultaneous Identification of Sparse Structures and Communities in Heterogeneous Graphical Models**|Dapeng Shi et.al.|[2405.09841v1](http://arxiv.org/abs/2405.09841v1)|null|
@@ -90,6 +93,3 @@
 |**2024-04-15**|**On the Necessity of Collaboration in Online Model Selection with Decentralized Data**|Junfan Li et.al.|[2404.09494v2](http://arxiv.org/abs/2404.09494v2)|null|
 |**2024-03-31**|**Learning the mechanisms of network growth**|Lourens Touwen et.al.|[2404.00793v2](http://arxiv.org/abs/2404.00793v2)|[link](https://github.com/LourensT/DynamicNetworkSimulation)|
 |**2024-05-13**|**Improved LARS algorithm for adaptive LASSO in the linear regression model**|Manickavasagar Kayanan et.al.|[2405.07985v1](http://arxiv.org/abs/2405.07985v1)|null|
-|**2024-05-13**|**Hierarchical inference of evidence using posterior samples**|Stefano Rinaldi et.al.|[2405.07504v1](http://arxiv.org/abs/2405.07504v1)|null|
-|**2024-05-12**|**The Spike-and-Slab Quantile LASSO for Robust Variable Selection in Cancer Genomics Studies**|Yuwen Liu et.al.|[2405.07397v1](http://arxiv.org/abs/2405.07397v1)|null|
-|**2024-05-06**|**Outlier Gradient Analysis: Efficiently Improving Deep Learning Model Performance via Hessian-Free Influence Functions**|Anshuman Chhabra et.al.|[2405.03869v2](http://arxiv.org/abs/2405.03869v2)|null|
