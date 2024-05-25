@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-25 07:22:10 Asia/Shanghai
+ Automated deployment @ 2024-05-25 19:20:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2022-04-09**|**Translating Subgraphs to Nodes Makes Simple GNNs Strong and Efficient for Subgraph Representation Learning**|Dongkwan Kim et.al.|[2204.04510v4](http://arxiv.org/abs/2204.04510v4)|[link](https://github.com/dongkwan-kim/S2N)|
 |**2023-12-14**|**Graph Neural Networks with Diverse Spectral Filtering**|Jingwei Guo et.al.|[2312.09041v3](http://arxiv.org/abs/2312.09041v3)|[link](https://github.com/jingweio/dsf)|
 |**2024-05-23**|**Automated Loss function Search for Class-imbalanced Node Classification**|Xinyu Guo et.al.|[2405.14133v1](http://arxiv.org/abs/2405.14133v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-23**|**AnyLoss: Transforming Classification Metrics into Loss Functions**|Doheon Han et.al.|[2405.14745v1](http://arxiv.org/abs/2405.14745v1)|null|
+|**2024-03-03**|**Selection, Ensemble, and Adaptation: Advancing Multi-Source-Free Domain Adaptation via Architecture Zoo**|Jiangbo Pei et.al.|[2403.01582v2](http://arxiv.org/abs/2403.01582v2)|null|
+|**2024-02-06**|**A Bias-Variance Decomposition for Ensembles over Multiple Synthetic Datasets**|Ossi Räisä et.al.|[2402.03985v2](http://arxiv.org/abs/2402.03985v2)|null|
+|**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190v2](http://arxiv.org/abs/2405.10190v2)|null|
+|**2024-05-22**|**Symmetric Linear Bandits with Hidden Symmetry**|Nam Phuong Tran et.al.|[2405.13899v1](http://arxiv.org/abs/2405.13899v1)|null|
+|**2023-02-14**|**When mitigating bias is unfair: multiplicity and arbitrariness in algorithmic group fairness**|Natasa Krco et.al.|[2302.07185v2](http://arxiv.org/abs/2302.07185v2)|[link](https://github.com/axa-rev-research/comparing-fairml-strategies)|
+|**2024-04-15**|**On the Necessity of Collaboration in Online Model Selection with Decentralized Data**|Junfan Li et.al.|[2404.09494v3](http://arxiv.org/abs/2404.09494v3)|null|
+|**2024-05-08**|**On foundation of generative statistics with F-entropy: a gradient-based approach**|Bing Cheng et.al.|[2405.05389v6](http://arxiv.org/abs/2405.05389v6)|null|
+|**2024-05-21**|**The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison**|Davide Piras et.al.|[2405.12965v1](http://arxiv.org/abs/2405.12965v1)|[link](https://github.com/dpiras/cosmopower-jax)|
+|**2024-05-20**|**Determine the Number of States in Hidden Markov Models via Marginal Likelihood**|Yang Chen et.al.|[2405.12343v1](http://arxiv.org/abs/2405.12343v1)|null|
+|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v3](http://arxiv.org/abs/2404.14965v3)|null|
+|**2024-05-19**|**Movie Revenue Prediction using Machine Learning Models**|Vikranth Udandarao et.al.|[2405.11651v1](http://arxiv.org/abs/2405.11651v1)|[link](https://github.com/vikranth3140/movie-revenue-prediction)|
+|**2024-05-19**|**A comparative study of augmented inverse propensity weighted estimators using outcome-adaptive lasso and other penalized regression methods**|Wataru Hongo et.al.|[2405.11522v1](http://arxiv.org/abs/2405.11522v1)|null|
+|**2023-01-07**|**ExcelFormer: Can a DNN be a Sure Bet for Tabular Prediction?**|Jintai Chen et.al.|[2301.02819v4](http://arxiv.org/abs/2301.02819v4)|[link](https://github.com/whatashot/excelformer)|
+|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v3](http://arxiv.org/abs/2210.05983v3)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2021-04-08**|**Un exemple de somme de série de vecteurs propres à valeurs propres de module un, non récurrente**|Pierre Mazet et.al.|[2104.03943v2](http://arxiv.org/abs/2104.03943v2)|null|
 |**2024-04-22**|**SI-FID: Only One Objective Indicator for Evaluating Stitched Images**|Xinrui Zhang et.al.|[2404.13905v1](http://arxiv.org/abs/2404.13905v1)|null|
 |**2024-04-19**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814v2](http://arxiv.org/abs/2404.12814v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-23**|**AnyLoss: Transforming Classification Metrics into Loss Functions**|Doheon Han et.al.|[2405.14745v1](http://arxiv.org/abs/2405.14745v1)|null|
-|**2024-03-03**|**Selection, Ensemble, and Adaptation: Advancing Multi-Source-Free Domain Adaptation via Architecture Zoo**|Jiangbo Pei et.al.|[2403.01582v2](http://arxiv.org/abs/2403.01582v2)|null|
-|**2024-02-06**|**A Bias-Variance Decomposition for Ensembles over Multiple Synthetic Datasets**|Ossi Räisä et.al.|[2402.03985v2](http://arxiv.org/abs/2402.03985v2)|null|
-|**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190v2](http://arxiv.org/abs/2405.10190v2)|null|
-|**2024-05-22**|**Symmetric Linear Bandits with Hidden Symmetry**|Nam Phuong Tran et.al.|[2405.13899v1](http://arxiv.org/abs/2405.13899v1)|null|
-|**2023-02-14**|**When mitigating bias is unfair: multiplicity and arbitrariness in algorithmic group fairness**|Natasa Krco et.al.|[2302.07185v2](http://arxiv.org/abs/2302.07185v2)|[link](https://github.com/axa-rev-research/comparing-fairml-strategies)|
-|**2024-04-15**|**On the Necessity of Collaboration in Online Model Selection with Decentralized Data**|Junfan Li et.al.|[2404.09494v3](http://arxiv.org/abs/2404.09494v3)|null|
-|**2024-05-08**|**On foundation of generative statistics with F-entropy: a gradient-based approach**|Bing Cheng et.al.|[2405.05389v6](http://arxiv.org/abs/2405.05389v6)|null|
-|**2024-05-21**|**The future of cosmological likelihood-based inference: accelerated high-dimensional parameter estimation and model comparison**|Davide Piras et.al.|[2405.12965v1](http://arxiv.org/abs/2405.12965v1)|[link](https://github.com/dpiras/cosmopower-jax)|
-|**2024-05-20**|**Determine the Number of States in Hidden Markov Models via Marginal Likelihood**|Yang Chen et.al.|[2405.12343v1](http://arxiv.org/abs/2405.12343v1)|null|
-|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v3](http://arxiv.org/abs/2404.14965v3)|null|
-|**2024-05-19**|**Movie Revenue Prediction using Machine Learning Models**|Vikranth Udandarao et.al.|[2405.11651v1](http://arxiv.org/abs/2405.11651v1)|[link](https://github.com/vikranth3140/movie-revenue-prediction)|
-|**2024-05-19**|**A comparative study of augmented inverse propensity weighted estimators using outcome-adaptive lasso and other penalized regression methods**|Wataru Hongo et.al.|[2405.11522v1](http://arxiv.org/abs/2405.11522v1)|null|
-|**2023-01-07**|**ExcelFormer: Can a DNN be a Sure Bet for Tabular Prediction?**|Jintai Chen et.al.|[2301.02819v4](http://arxiv.org/abs/2301.02819v4)|[link](https://github.com/whatashot/excelformer)|
-|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v3](http://arxiv.org/abs/2210.05983v3)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
