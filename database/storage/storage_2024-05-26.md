@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-05-26 07:21:45 Asia/Shanghai
+ Automated deployment @ 2024-05-26 19:19:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -79,6 +79,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-05-23**|**AnyLoss: Transforming Classification Metrics into Loss Functions**|Doheon Han et.al.|[2405.14745v1](http://arxiv.org/abs/2405.14745v1)|null|
+|**2022-07-08**|**Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**|Shunyu Liu et.al.|[2207.03902v4](http://arxiv.org/abs/2207.03902v4)|[link](https://github.com/liushunyu/opt)|
 |**2024-03-03**|**Selection, Ensemble, and Adaptation: Advancing Multi-Source-Free Domain Adaptation via Architecture Zoo**|Jiangbo Pei et.al.|[2403.01582v2](http://arxiv.org/abs/2403.01582v2)|null|
 |**2024-02-06**|**A Bias-Variance Decomposition for Ensembles over Multiple Synthetic Datasets**|Ossi Räisä et.al.|[2402.03985v2](http://arxiv.org/abs/2402.03985v2)|null|
 |**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190v2](http://arxiv.org/abs/2405.10190v2)|null|
@@ -92,4 +93,3 @@
 |**2024-05-19**|**Movie Revenue Prediction using Machine Learning Models**|Vikranth Udandarao et.al.|[2405.11651v1](http://arxiv.org/abs/2405.11651v1)|[link](https://github.com/vikranth3140/movie-revenue-prediction)|
 |**2024-05-19**|**A comparative study of augmented inverse propensity weighted estimators using outcome-adaptive lasso and other penalized regression methods**|Wataru Hongo et.al.|[2405.11522v1](http://arxiv.org/abs/2405.11522v1)|null|
 |**2023-01-07**|**ExcelFormer: Can a DNN be a Sure Bet for Tabular Prediction?**|Jintai Chen et.al.|[2301.02819v4](http://arxiv.org/abs/2301.02819v4)|[link](https://github.com/whatashot/excelformer)|
-|**2022-10-12**|**Model-based clustering in simple hypergraphs through a stochastic blockmodel**|Luca Brusa et.al.|[2210.05983v3](http://arxiv.org/abs/2210.05983v3)|[link](https://github.com/lb1304/hypergraph-stochastic-blockmodel)|
