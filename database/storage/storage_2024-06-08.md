@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-08 07:24:46 Asia/Shanghai
+ Automated deployment @ 2024-06-08 19:20:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -56,25 +56,6 @@
 
 ## Non-Euclidean Staistics
 
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
-|**2024-06-05**|**Velichko's notions close to sequentially separability and their hereditary variants in $C_p$-theory**|Alexander V. Osipov et.al.|[2406.03014v1](http://arxiv.org/abs/2406.03014v1)|null|
-|**2024-06-04**|**Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion**|Colin Hansen et.al.|[2406.02477v1](http://arxiv.org/abs/2406.02477v1)|null|
-|**2024-02-08**|**Deformed Fréchet law for Wigner and sample covariance matrices with tail in crossover regime**|Yi Han et.al.|[2402.05590v2](http://arxiv.org/abs/2402.05590v2)|null|
-|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v1](http://arxiv.org/abs/2406.01388v1)|null|
-|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v3](http://arxiv.org/abs/2307.16865v3)|null|
-|**2024-05-23**|**Generating camera failures as a class of physics-based adversarial examples**|Manav Prabhakar et.al.|[2405.15033v1](http://arxiv.org/abs/2405.15033v1)|null|
-|**2024-05-18**|**On the limit distribution of extremes of generalized Oppenheim random variables**|Milto Hadjikyriakou et.al.|[2405.11241v1](http://arxiv.org/abs/2405.11241v1)|null|
-|**2024-05-16**|**Detecting Domain Shift in Multiple Instance Learning for Digital Pathology Using Fréchet Domain Distance**|Milda Pocevičiūtė et.al.|[2405.09934v1](http://arxiv.org/abs/2405.09934v1)|null|
-|**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v3](http://arxiv.org/abs/2305.02501v3)|null|
-|**2024-05-12**|**AdaptNet: Rethinking Sensing and Communication for a Seamless Internet of Drones Experience**|Ananya Hazarika et.al.|[2405.07318v1](http://arxiv.org/abs/2405.07318v1)|null|
-|**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803v1](http://arxiv.org/abs/2405.03803v1)|null|
-|**2024-05-06**|**Generative adversarial learning with optimal input dimension and its adaptive generator architecture**|Zhiyao Tan et.al.|[2405.03723v1](http://arxiv.org/abs/2405.03723v1)|null|
-|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822v1](http://arxiv.org/abs/2405.01822v1)|null|
-|**2024-05-02**|**Unifying and extending Precision Recall metrics for assessing generative models**|Benjamin Sykes et.al.|[2405.01611v1](http://arxiv.org/abs/2405.01611v1)|null|
-
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -93,3 +74,22 @@
 |**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v2](http://arxiv.org/abs/2207.03943v2)|null|
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
+|**2024-06-05**|**Velichko's notions close to sequentially separability and their hereditary variants in $C_p$-theory**|Alexander V. Osipov et.al.|[2406.03014v1](http://arxiv.org/abs/2406.03014v1)|null|
+|**2024-06-04**|**Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion**|Colin Hansen et.al.|[2406.02477v1](http://arxiv.org/abs/2406.02477v1)|null|
+|**2024-02-08**|**Deformed Fréchet law for Wigner and sample covariance matrices with tail in crossover regime**|Yi Han et.al.|[2402.05590v2](http://arxiv.org/abs/2402.05590v2)|null|
+|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v1](http://arxiv.org/abs/2406.01388v1)|null|
+|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v3](http://arxiv.org/abs/2307.16865v3)|null|
+|**2024-05-23**|**Generating camera failures as a class of physics-based adversarial examples**|Manav Prabhakar et.al.|[2405.15033v1](http://arxiv.org/abs/2405.15033v1)|null|
+|**2024-05-18**|**On the limit distribution of extremes of generalized Oppenheim random variables**|Milto Hadjikyriakou et.al.|[2405.11241v1](http://arxiv.org/abs/2405.11241v1)|null|
+|**2024-05-16**|**Detecting Domain Shift in Multiple Instance Learning for Digital Pathology Using Fréchet Domain Distance**|Milda Pocevičiūtė et.al.|[2405.09934v1](http://arxiv.org/abs/2405.09934v1)|null|
+|**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v3](http://arxiv.org/abs/2305.02501v3)|null|
+|**2024-05-12**|**AdaptNet: Rethinking Sensing and Communication for a Seamless Internet of Drones Experience**|Ananya Hazarika et.al.|[2405.07318v1](http://arxiv.org/abs/2405.07318v1)|null|
+|**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803v1](http://arxiv.org/abs/2405.03803v1)|null|
+|**2024-05-06**|**Generative adversarial learning with optimal input dimension and its adaptive generator architecture**|Zhiyao Tan et.al.|[2405.03723v1](http://arxiv.org/abs/2405.03723v1)|null|
+|**2024-05-03**|**Report on the AAPM Grand Challenge on deep generative modeling for learning medical image statistics**|Rucha Deshpande et.al.|[2405.01822v1](http://arxiv.org/abs/2405.01822v1)|null|
+|**2024-05-02**|**Unifying and extending Precision Recall metrics for assessing generative models**|Benjamin Sykes et.al.|[2405.01611v1](http://arxiv.org/abs/2405.01611v1)|null|
