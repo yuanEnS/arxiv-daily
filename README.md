@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-09 07:26:05 Asia/Shanghai
+ Automated deployment @ 2024-06-09 19:19:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,17 +17,17 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336v1](http://arxiv.org/abs/2406.04336v1)|null|
-|**2024-03-01**|**Subhomogeneous Deep Equilibrium Models**|Pietro Sittoni et.al.|[2403.00720v2](http://arxiv.org/abs/2403.00720v2)|null|
+|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336v1](http://arxiv.org/abs/2406.04336v1)|[link](https://github.com/LingxiaoShawn/EPNN-Experiments)|
+|**2024-03-01**|**Subhomogeneous Deep Equilibrium Models**|Pietro Sittoni et.al.|[2403.00720v2](http://arxiv.org/abs/2403.00720v2)|[link](https://github.com/COMPiLELab/SubDEQ)|
 |**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299v1](http://arxiv.org/abs/2406.04299v1)|[link](https://github.com/eaglelab-zju/noisygl)|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267v1](http://arxiv.org/abs/2406.04267v1)|null|
 |**2024-06-05**|**E(n) Equivariant Message Passing Cellular Networks**|Veljko Kovač et.al.|[2406.03145v2](http://arxiv.org/abs/2406.03145v2)|null|
-|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052v1](http://arxiv.org/abs/2406.04052v1)|null|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052v1](http://arxiv.org/abs/2406.04052v1)|[link](https://github.com/congliuUvA/Multivector-Neurons)|
 |**2024-06-06**|**Energy-based Epistemic Uncertainty for Graph Neural Networks**|Dominik Fuchsgruber et.al.|[2406.04043v1](http://arxiv.org/abs/2406.04043v1)|null|
 |**2022-03-01**|**Motion-aware Dynamic Graph Neural Network for Video Compressive Sensing**|Ruiying Lu et.al.|[2203.00387v2](http://arxiv.org/abs/2203.00387v2)|null|
 |**2024-02-13**|**Homomorphism Counts for Graph Neural Networks: All About That Basis**|Emily Jin et.al.|[2402.08595v4](http://arxiv.org/abs/2402.08595v4)|[link](https://github.com/ejin700/hombasis-gnn)|
 |**2022-09-02**|**A Class-Aware Representation Refinement Framework for Graph Classification**|Jiaxing Xu et.al.|[2209.00936v2](http://arxiv.org/abs/2209.00936v2)|null|
-|**2024-06-04**|**PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming**|Bingheng Li et.al.|[2406.01908v2](http://arxiv.org/abs/2406.01908v2)|null|
+|**2024-06-04**|**PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming**|Bingheng Li et.al.|[2406.01908v2](http://arxiv.org/abs/2406.01908v2)|[link](https://github.com/netsysopt/pdhg-net)|
 |**2024-05-22**|**LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework**|Yiran Qiao et.al.|[2405.13902v2](http://arxiv.org/abs/2405.13902v2)|[link](https://github.com/qiaoyran/login)|
 |**2024-06-06**|**Exploiting Global Graph Homophily for Generalized Defense in Graph Neural Networks**|Duanyu Li et.al.|[2406.03833v1](http://arxiv.org/abs/2406.03833v1)|null|
 |**2024-02-07**|**Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective**|Soo Yong Lee et.al.|[2402.04621v2](http://arxiv.org/abs/2402.04621v2)|null|
@@ -61,8 +61,8 @@
 |**2024-06-05**|**Velichko's notions close to sequentially separability and their hereditary variants in $C_p$-theory**|Alexander V. Osipov et.al.|[2406.03014v1](http://arxiv.org/abs/2406.03014v1)|null|
 |**2024-06-04**|**Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion**|Colin Hansen et.al.|[2406.02477v1](http://arxiv.org/abs/2406.02477v1)|null|
 |**2024-02-08**|**Deformed Fréchet law for Wigner and sample covariance matrices with tail in crossover regime**|Yi Han et.al.|[2402.05590v2](http://arxiv.org/abs/2402.05590v2)|null|
-|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v1](http://arxiv.org/abs/2406.01388v1)|null|
-|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v3](http://arxiv.org/abs/2307.16865v3)|null|
+|**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v1](http://arxiv.org/abs/2406.01388v1)|[link](https://github.com/donahowe/AutoStudio)|
+|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v3](http://arxiv.org/abs/2307.16865v3)|[link](https://github.com/ericyu97/uad-rs)|
 |**2024-05-23**|**Generating camera failures as a class of physics-based adversarial examples**|Manav Prabhakar et.al.|[2405.15033v1](http://arxiv.org/abs/2405.15033v1)|null|
 |**2024-05-18**|**On the limit distribution of extremes of generalized Oppenheim random variables**|Milto Hadjikyriakou et.al.|[2405.11241v1](http://arxiv.org/abs/2405.11241v1)|null|
 |**2024-05-16**|**Detecting Domain Shift in Multiple Instance Learning for Digital Pathology Using Fréchet Domain Distance**|Milda Pocevičiūtė et.al.|[2405.09934v1](http://arxiv.org/abs/2405.09934v1)|null|
@@ -87,7 +87,7 @@
 |**2024-01-03**|**Evidence-based certification of quantum dimensions**|Y. S. Teo et.al.|[2401.01562v2](http://arxiv.org/abs/2401.01562v2)|null|
 |**2024-06-05**|**Posterior and variational inference for deep neural networks with heavy-tailed weights**|Ismaël Castillo et.al.|[2406.03369v1](http://arxiv.org/abs/2406.03369v1)|null|
 |**2024-06-05**|**Mesoscopic Bayesian Inference by Solvable Models**|Shun Katakami et.al.|[2406.02869v1](http://arxiv.org/abs/2406.02869v1)|null|
-|**2024-06-04**|**Hyperbolic Benchmarking Unveils Network Topology-Feature Relationship in GNN Performance**|Roya Aliakbarisani et.al.|[2406.02772v1](http://arxiv.org/abs/2406.02772v1)|null|
+|**2024-06-04**|**Hyperbolic Benchmarking Unveils Network Topology-Feature Relationship in GNN Performance**|Roya Aliakbarisani et.al.|[2406.02772v1](http://arxiv.org/abs/2406.02772v1)|[link](https://github.com/networkgeometry/hyperbolic-benchmark-gnn)|
 |**2024-06-04**|**Democratizing Propensity Score Matching Using Web Application**|Adam Gajtkowski et.al.|[2406.02743v1](http://arxiv.org/abs/2406.02743v1)|null|
 |**2022-09-08**|**Majority Vote for Distributed Differentially Private Sign Selection**|Weidong Liu et.al.|[2209.04419v2](http://arxiv.org/abs/2209.04419v2)|null|
 |**2024-02-13**|**Model Assessment and Selection under Temporal Distribution Shift**|Elise Han et.al.|[2402.08672v2](http://arxiv.org/abs/2402.08672v2)|[link](https://github.com/eliselyhan/arw)|
