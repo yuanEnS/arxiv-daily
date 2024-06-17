@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-17 07:26:22 Asia/Shanghai
+ Automated deployment @ 2024-06-17 19:21:07 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-03**|**Future Directions in the Theory of Graph Machine Learning**|Christopher Morris et.al.|[2402.02287v4](http://arxiv.org/abs/2402.02287v4)|null|
+|**2024-06-14**|**Compressed Sensor Caching and Collaborative Sparse Data Recovery with Anchor Alignment**|Yi-Jen Yang et.al.|[2406.10137v1](http://arxiv.org/abs/2406.10137v1)|null|
+|**2024-06-12**|**GraphFM: A Comprehensive Benchmark for Graph Foundation Model**|Yuhao Xu et.al.|[2406.08310v2](http://arxiv.org/abs/2406.08310v2)|[link](https://github.com/nyushcs/graphfm)|
+|**2024-06-14**|**Rule Based Learning with Dynamic (Graph) Neural Networks**|Florian Seiffarth et.al.|[2406.09954v1](http://arxiv.org/abs/2406.09954v1)|null|
+|**2024-06-12**|**Heuristic Learning with Graph Neural Networks: A Unified Framework for Link Prediction**|Juzheng Zhang et.al.|[2406.07979v2](http://arxiv.org/abs/2406.07979v2)|[link](https://github.com/LARS-research/HL-GNN)|
+|**2022-09-28**|**L2XGNN: Learning to Explain Graph Neural Networks**|Giuseppe Serra et.al.|[2209.14402v4](http://arxiv.org/abs/2209.14402v4)|[link](https://github.com/giuseppeserra93/l2xgnn)|
+|**2024-06-14**|**Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks**|Zhiwei Zhang et.al.|[2406.09836v1](http://arxiv.org/abs/2406.09836v1)|null|
+|**2024-06-12**|**Pre-Training Identification of Graph Winning Tickets in Adaptive Spatial-Temporal Graph Neural Networks**|Wenying Duan et.al.|[2406.08287v2](http://arxiv.org/abs/2406.08287v2)|null|
+|**2024-06-14**|**Benchmarking Spectral Graph Neural Networks: A Comprehensive Study on Effectiveness and Efficiency**|Ningyi Liao et.al.|[2406.09675v1](http://arxiv.org/abs/2406.09675v1)|[link](https://github.com/gdmnl/spectral-gnn-benchmark)|
+|**2024-05-18**|**Detecting Complex Multi-step Attacks with Explainable Graph Neural Network**|Wei Liu et.al.|[2405.11335v2](http://arxiv.org/abs/2405.11335v2)|null|
+|**2024-06-13**|**LGB: Language Model and Graph Neural Network-Driven Social Bot Detection**|Ming Zhou et.al.|[2406.08762v2](http://arxiv.org/abs/2406.08762v2)|null|
+|**2023-10-04**|**Neural Bayes Estimators for Irregular Spatial Data using Graph Neural Networks**|Matthew Sainsbury-Dale et.al.|[2310.02600v2](http://arxiv.org/abs/2310.02600v2)|[link](https://github.com/msainsburydale/neuralestimatorsgnn)|
+|**2024-06-13**|**Automated Molecular Concept Generation and Labeling with Large Language Models**|Shichang Zhang et.al.|[2406.09612v1](http://arxiv.org/abs/2406.09612v1)|null|
+|**2024-06-13**|**Differentiable Reasoning about Knowledge Graphs with Region-based Graph Neural Networks**|Aleksandar Pavlovic et.al.|[2406.09529v1](http://arxiv.org/abs/2406.09529v1)|null|
 |**2024-06-13**|**On the Expressibility of the Reconstructional Color Refinement**|V. Arvind et.al.|[2406.09351v1](http://arxiv.org/abs/2406.09351v1)|null|
-|**2024-06-13**|**Scoreformer: A Surrogate Model For Large-Scale Prediction of Docking Scores**|Álvaro Ciudad et.al.|[2406.09346v1](http://arxiv.org/abs/2406.09346v1)|null|
-|**2024-06-13**|**Transformers meet Neural Algorithmic Reasoners**|Wilfried Bounsi et.al.|[2406.09308v1](http://arxiv.org/abs/2406.09308v1)|null|
-|**2024-06-13**|**A Flexible, Equivariant Framework for Subgraph GNNs via Graph Products and Graph Coarsening**|Guy Bar-Shalom et.al.|[2406.09291v1](http://arxiv.org/abs/2406.09291v1)|null|
-|**2024-06-13**|**ALPHAGMUT: A Rationale-Guided Alpha Shape Graph Neural Network to Evaluate Mutation Effects**|Boshen Wang et.al.|[2406.09159v1](http://arxiv.org/abs/2406.09159v1)|null|
-|**2024-06-13**|**Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification**|Yuankai Luo et.al.|[2406.08993v1](http://arxiv.org/abs/2406.08993v1)|[link](https://github.com/LUOyk1999/tunedGNN)|
-|**2024-04-15**|**Solving the Tree Containment Problem Using Graph Neural Networks**|Arkadiy Dushatskiy et.al.|[2404.09812v2](http://arxiv.org/abs/2404.09812v2)|[link](https://github.com/arkadiyd/phylognn)|
-|**2024-06-13**|**Self-supervised Graph Neural Network for Mechanical CAD Retrieval**|Yuhan Quan et.al.|[2406.08863v1](http://arxiv.org/abs/2406.08863v1)|null|
-|**2023-03-19**|**An Efficient Subgraph GNN with Provable Substructure Counting Power**|Zuoyu Yan et.al.|[2303.10576v2](http://arxiv.org/abs/2303.10576v2)|[link](https://github.com/pkuyzy/esc-gnn)|
-|**2024-06-13**|**Trajectory Planning for Autonomous Driving in Unstructured Scenarios Based on Graph Neural Network and Numerical Optimization**|Sumin Zhang et.al.|[2406.08855v1](http://arxiv.org/abs/2406.08855v1)|null|
-|**2022-04-07**|**Explicit Feature Interaction-aware Graph Neural Networks**|Minkyu Kim et.al.|[2204.03225v2](http://arxiv.org/abs/2204.03225v2)|[link](https://github.com/gim4855744/efi-gnn)|
-|**2024-06-13**|**LGB: Language Model and Graph Neural Network-Driven Social Bot Detection**|Ming Zhou et.al.|[2406.08762v1](http://arxiv.org/abs/2406.08762v1)|null|
-|**2023-09-12**|**PCN: A Deep Learning Approach to Jet Tagging Utilizing Novel Graph Construction Methods and Chebyshev Graph Convolutions**|Yash Semlani et.al.|[2309.08630v5](http://arxiv.org/abs/2309.08630v5)|[link](https://github.com/yvsemlani/pcn-jet-tagging)|
-|**2024-06-13**|**Introducing Diminutive Causal Structure into Graph Representation Learning**|Hang Gao et.al.|[2406.08709v1](http://arxiv.org/abs/2406.08709v1)|null|
-|**2024-06-12**|**FIP-GNN: Graph neural networks for scalable prediction of grain-level fatigue indicator parameters**|Gyu-Jang Sim et.al.|[2406.08682v1](http://arxiv.org/abs/2406.08682v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,7 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-13**|**ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models**|David Anugraha et.al.|[2406.09334v1](http://arxiv.org/abs/2406.09334v1)|[link](https://github.com/davidanugraha/proxylm)|
+|**2024-06-13**|**ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models**|David Anugraha et.al.|[2406.09334v2](http://arxiv.org/abs/2406.09334v2)|[link](https://github.com/davidanugraha/proxylm)|
+|**2024-06-13**|**Time Series Forecasting with Many Predictors**|Shuo-Chieh Huang et.al.|[2406.09625v1](http://arxiv.org/abs/2406.09625v1)|null|
 |**2024-06-13**|**Measuring glitch recoveries and braking indices with Bayesian model selection**|Yang Liu et.al.|[2406.09219v1](http://arxiv.org/abs/2406.09219v1)|null|
 |**2024-06-13**|**ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**|Jing Liu et.al.|[2406.09041v1](http://arxiv.org/abs/2406.09041v1)|null|
 |**2024-06-13**|**A geometric approach to informed MCMC sampling**|Vivekananda Roy et.al.|[2406.09010v1](http://arxiv.org/abs/2406.09010v1)|null|
@@ -92,4 +93,3 @@
 |**2023-04-21**|**Auditing and Generating Synthetic Data with Controllable Trust Trade-offs**|Brian Belgodere et.al.|[2304.10819v4](http://arxiv.org/abs/2304.10819v4)|null|
 |**2023-10-11**|**Risk Aware Benchmarking of Large Language Models**|Apoorva Nitsure et.al.|[2310.07132v3](http://arxiv.org/abs/2310.07132v3)|null|
 |**2024-06-09**|**Which Backbone to Use: A Resource-efficient Domain Specific Comparison for Computer Vision**|Pranav Jeevan et.al.|[2406.05612v1](http://arxiv.org/abs/2406.05612v1)|[link](https://github.com/pranavphoenix/Backbones)|
-|**2023-09-30**|**The oracle property of the generalized outcome adaptive lasso**|Ismaila Baldé et.al.|[2310.00250v2](http://arxiv.org/abs/2310.00250v2)|null|
