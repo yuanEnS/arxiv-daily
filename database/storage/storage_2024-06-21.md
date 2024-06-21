@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-21 07:25:01 Asia/Shanghai
+ Automated deployment @ 2024-06-21 19:20:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-18**|**Demystifying Higher-Order Graph Neural Networks**|Maciej Besta et.al.|[2406.12841v1](http://arxiv.org/abs/2406.12841v1)|null|
-|**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v1](http://arxiv.org/abs/2406.12808v1)|null|
-|**2023-07-21**|**Structure-Aware Code Vulnerability Analysis With Graph Neural Networks**|Ravil Mussabayev et.al.|[2307.11454v2](http://arxiv.org/abs/2307.11454v2)|null|
-|**2023-07-02**|**STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction**|Xunlian Luo et.al.|[2307.00495v2](http://arxiv.org/abs/2307.00495v2)|[link](https://github.com/trainingl/stg4traffic)|
-|**2024-06-18**|**Research and Implementation of Data Enhancement Techniques for Graph Neural Networks**|Jingzhao Gu et.al.|[2406.12640v1](http://arxiv.org/abs/2406.12640v1)|null|
-|**2024-06-18**|**Bridging Local Details and Global Context in Text-Attributed Graphs**|Yaoke Wang et.al.|[2406.12608v1](http://arxiv.org/abs/2406.12608v1)|null|
-|**2024-05-28**|**Improving global awareness of linkset predictions using Cross-Attentive Modulation tokens**|Félix Marcoccia et.al.|[2405.19375v2](http://arxiv.org/abs/2405.19375v2)|null|
-|**2024-02-07**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**|Yuchen Zhang et.al.|[2402.05011v3](http://arxiv.org/abs/2402.05011v3)|[link](https://github.com/nus-hpc-ai-lab/geom)|
-|**2024-06-18**|**The Heterophilic Snowflake Hypothesis: Training and Empowering GNNs for Heterophilic Graphs**|Kun Wang et.al.|[2406.12539v1](http://arxiv.org/abs/2406.12539v1)|[link](https://github.com/bingreeky/heterosnoh)|
-|**2024-06-18**|**A data-centric approach for assessing progress of Graph Neural Networks**|Tianqi Zhao et.al.|[2406.12439v1](http://arxiv.org/abs/2406.12439v1)|[link](https://github.com/tianqi-py/mlgnc)|
-|**2024-06-18**|**Federated Learning with Limited Node Labels**|Bisheng Tang et.al.|[2406.12435v1](http://arxiv.org/abs/2406.12435v1)|null|
-|**2024-06-15**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600v2](http://arxiv.org/abs/2406.10600v2)|null|
-|**2023-10-08**|**How Graph Neural Networks Learn: Lessons from Training Dynamics**|Chenxiao Yang et.al.|[2310.05105v3](http://arxiv.org/abs/2310.05105v3)|[link](https://github.com/chr26195/residualpropagation)|
-|**2024-06-18**|**SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting**|Yue Jiang et.al.|[2406.12282v1](http://arxiv.org/abs/2406.12282v1)|null|
-|**2024-03-09**|**Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark**|Xiaowei Qian et.al.|[2403.06017v2](http://arxiv.org/abs/2403.06017v2)|[link](https://github.com/xweiq/benchmark-graphfairness)|
+|**2024-06-20**|**Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson's Disease**|Elisa Gómez de Lope et.al.|[2406.14442v1](http://arxiv.org/abs/2406.14442v1)|null|
+|**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808v2](http://arxiv.org/abs/2406.12808v2)|null|
+|**2023-12-08**|**Predicting and Interpreting Energy Barriers of Metallic Glasses with Graph Neural Networks**|Haoyu Li et.al.|[2401.08627v2](http://arxiv.org/abs/2401.08627v2)|null|
+|**2023-11-12**|**Contractive Systems Improve Graph Neural Networks Against Adversarial Attacks**|Moshe Eliasof et.al.|[2311.06942v2](http://arxiv.org/abs/2311.06942v2)|null|
+|**2024-06-20**|**Iterative Sizing Field Prediction for Adaptive Mesh Generation From Expert Demonstrations**|Niklas Freymuth et.al.|[2406.14161v1](http://arxiv.org/abs/2406.14161v1)|null|
+|**2024-06-20**|**Geometric Self-Supervised Pretraining on 3D Protein Structures using Subgraphs**|Michail Chatzianastasis et.al.|[2406.14142v1](http://arxiv.org/abs/2406.14142v1)|null|
+|**2024-06-20**|**Graph Neural Networks for Job Shop Scheduling Problems: A Survey**|Igor G. Smit et.al.|[2406.14096v1](http://arxiv.org/abs/2406.14096v1)|null|
+|**2024-06-20**|**HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**|Yongqiang Chen et.al.|[2406.14021v1](http://arxiv.org/abs/2406.14021v1)|null|
+|**2024-06-20**|**Reducing Memory Contention and I/O Congestion for Disk-based GNN Training**|Qisheng Jiang et.al.|[2406.13984v1](http://arxiv.org/abs/2406.13984v1)|null|
+|**2024-06-20**|**Explainable AI Security: Exploring Robustness of Graph Neural Networks to Adversarial Attacks**|Tao Wu et.al.|[2406.13920v1](http://arxiv.org/abs/2406.13920v1)|null|
+|**2024-06-19**|**A Pure Transformer Pretraining Framework on Text-attributed Graphs**|Yu Song et.al.|[2406.13873v1](http://arxiv.org/abs/2406.13873v1)|[link](https://github.com/songyyyy/gspt)|
+|**2024-06-19**|**Global Human-guided Counterfactual Explanations for Molecular Properties via Reinforcement Learning**|Danqing Wang et.al.|[2406.13869v1](http://arxiv.org/abs/2406.13869v1)|[link](https://github.com/dqwang122/rlhex)|
+|**2024-06-19**|**Evaluating representation learning on the protein structure universe**|Arian R. Jamasb et.al.|[2406.13864v1](http://arxiv.org/abs/2406.13864v1)|[link](https://github.com/a-r-j/proteinworkshop)|
+|**2024-06-19**|**Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference**|Xuehao Zhai et.al.|[2406.13724v1](http://arxiv.org/abs/2406.13724v1)|null|
+|**2024-06-19**|**Root Cause Localization for Microservice Systems in Cloud-edge Collaborative Environments**|Yuhan Zhu et.al.|[2406.13604v1](http://arxiv.org/abs/2406.13604v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,12 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-20**|**aeon: a Python toolkit for learning from time series**|Matthew Middlehurst et.al.|[2406.14231v1](http://arxiv.org/abs/2406.14231v1)|[link](https://github.com/aeon-toolkit/aeon)|
+|**2024-06-20**|**On integral priors for multiple comparison in Bayesian model selection**|Diego Salmerón et.al.|[2406.14184v1](http://arxiv.org/abs/2406.14184v1)|null|
+|**2024-06-20**|**Coverage of Credible Sets for Regression under Variable Selection**|Samhita Pal et.al.|[2406.13938v1](http://arxiv.org/abs/2406.13938v1)|null|
+|**2024-06-19**|**Encoder vs Decoder: Comparative Analysis of Encoder and Decoder Language Models on Multilingual NLU Tasks**|Dan Saattrup Nielsen et.al.|[2406.13469v1](http://arxiv.org/abs/2406.13469v1)|null|
+|**2024-06-19**|**Empirical Evaluation of Integrated Trust Mechanism to Improve Trust in E-commerce Services**|Siddiqui Muhammad Yasir et.al.|[2406.13299v1](http://arxiv.org/abs/2406.13299v1)|null|
+|**2024-02-07**|**A Bandit Approach with Evolutionary Operators for Model Selection**|Margaux Brégère et.al.|[2402.05144v2](http://arxiv.org/abs/2402.05144v2)|null|
 |**2024-06-18**|**A Comparative Study of Continuous Sign Language Recognition Techniques**|Sarah Alyami et.al.|[2406.12369v1](http://arxiv.org/abs/2406.12369v1)|null|
 |**2024-06-18**|**Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models**|Minseok Choi et.al.|[2406.12354v1](http://arxiv.org/abs/2406.12354v1)|null|
 |**2024-01-07**|**Uncertainty Quantification on Clinical Trial Outcome Prediction**|Tianyi Chen et.al.|[2401.03482v2](http://arxiv.org/abs/2401.03482v2)|[link](https://github.com/vincent-1125/uncertainty-quantification-on-clinical-trial-outcome-prediction)|
@@ -87,9 +93,3 @@
 |**2024-01-25**|**High-dimensional Outlier Detection via Stability**|Qiang Heng et.al.|[2401.14359v3](http://arxiv.org/abs/2401.14359v3)|null|
 |**2024-06-17**|**Efficient Sequential Decision Making with Large Language Models**|Dingyang Chen et.al.|[2406.12125v1](http://arxiv.org/abs/2406.12125v1)|null|
 |**2024-06-17**|**Prompt Design Matters for Computational Social Science Tasks but in Unpredictable Ways**|Shubham Atreja et.al.|[2406.11980v1](http://arxiv.org/abs/2406.11980v1)|null|
-|**2024-06-17**|**The analysis of paired comparison data in the presence of cyclicality and intransitivity**|Rahul Singh et.al.|[2406.11584v1](http://arxiv.org/abs/2406.11584v1)|null|
-|**2021-10-22**|**Additive Density-on-Scalar Regression in Bayes Hilbert Spaces with an Application to Gender Economics**|Eva-Maria Maier et.al.|[2110.11771v3](http://arxiv.org/abs/2110.11771v3)|null|
-|**2024-06-17**|**Bayesian Variable Selection via Hierarchical Gaussian Process Model in Computer Experiments**|Xiao Yao et.al.|[2406.11306v1](http://arxiv.org/abs/2406.11306v1)|null|
-|**2024-06-17**|**Bayesian Hierarchical Modelling of Noisy Gamma Processes: Model Formulation, Identifiability, Model Fitting, and Extensions to Unit-to-Unit Variability**|Ryan Leadbetter et.al.|[2406.11216v1](http://arxiv.org/abs/2406.11216v1)|[link](https://github.com/rleadbett/Bayesian_hierarchical_modelling_of_noisy_gamma_processes)|
-|**2024-06-17**|**Increasing certainty in systems biology models using Bayesian multimodel inference**|Nathaniel Linden-Santangeli et.al.|[2406.11178v1](http://arxiv.org/abs/2406.11178v1)|null|
-|**2024-06-15**|**Functional Clustering for Longitudinal Associations between County-Level Social Determinants of Health and Stroke Mortality in the US**|Fangzhi Luo et.al.|[2406.10499v1](http://arxiv.org/abs/2406.10499v1)|null|
