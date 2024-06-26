@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-26 07:23:00 Asia/Shanghai
+ Automated deployment @ 2024-06-26 19:21:36 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,42 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-25**|**Compositional Models for Estimating Causal Effects**|Purva Pruthi et.al.|[2406.17714v1](http://arxiv.org/abs/2406.17714v1)|null|
+|**2024-06-25**|**Distributed Training of Large Graph Neural Networks with Variable Communication Rates**|Juan Cervino et.al.|[2406.17611v1](http://arxiv.org/abs/2406.17611v1)|null|
+|**2023-11-26**|**Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs**|Xingtong Yu et.al.|[2311.15317v3](http://arxiv.org/abs/2311.15317v3)|[link](https://github.com/gmcmt/graph_prompt_extension)|
+|**2024-06-13**|**Scoreformer: A Surrogate Model For Large-Scale Prediction of Docking Scores**|Álvaro Ciudad et.al.|[2406.09346v2](http://arxiv.org/abs/2406.09346v2)|null|
+|**2024-06-25**|**Joint Admission Control and Resource Allocation of Virtual Network Embedding via Hierarchical Deep Reinforcement Learning**|Tianfu Wang et.al.|[2406.17334v1](http://arxiv.org/abs/2406.17334v1)|[link](https://github.com/geminilight/hrl-acra)|
+|**2024-06-25**|**Distance Recomputator and Topology Reconstructor for Graph Neural Networks**|Dong Liu et.al.|[2406.17281v1](http://arxiv.org/abs/2406.17281v1)|null|
+|**2024-06-25**|**TopoGCL: Topological Graph Contrastive Learning**|Yuzhou Chen et.al.|[2406.17251v1](http://arxiv.org/abs/2406.17251v1)|[link](https://github.com/topogclaaai24/topogcl)|
+|**2024-02-01**|**Attention-based Dynamic Multilayer Graph Neural Networks for Loan Default Prediction**|Sahab Zandi et.al.|[2402.00299v2](http://arxiv.org/abs/2402.00299v2)|null|
+|**2023-12-16**|**Enabling Accelerators for Graph Computing**|Kaustubh Shivdikar et.al.|[2312.10561v3](http://arxiv.org/abs/2312.10561v3)|null|
+|**2024-06-24**|**Meta-GCN: A Dynamically Weighted Loss Minimization Method for Dealing with the Data Imbalance in Graph Neural Networks**|Mahdi Mohammadizadeh et.al.|[2406.17073v1](http://arxiv.org/abs/2406.17073v1)|null|
 |**2024-06-21**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283v2](http://arxiv.org/abs/2406.15283v2)|null|
 |**2024-06-24**|**GC-Bench: A Benchmark Framework for Graph Condensation with New Insights**|Shengbo Gong et.al.|[2406.16715v1](http://arxiv.org/abs/2406.16715v1)|[link](https://github.com/emory-melody/graphslim)|
 |**2024-06-24**|**Link Prediction with Untrained Message Passing Layers**|Lisi Qarkaxhija et.al.|[2406.16687v1](http://arxiv.org/abs/2406.16687v1)|null|
 |**2024-06-24**|**Ensemble-Embedding Graph Neural Network for Direct Prediction of Optical Spectra from Crystal Structure**|Nguyen Tuan Hung et.al.|[2406.16654v1](http://arxiv.org/abs/2406.16654v1)|null|
 |**2022-11-02**|**DeepTrace: Learning to Optimize Contact Tracing in Epidemic Networks with Graph Neural Networks**|Chee Wei Tan et.al.|[2211.00880v3](http://arxiv.org/abs/2211.00880v3)|null|
-|**2024-06-24**|**Inference of Sequential Patterns for Neural Message Passing in Temporal Graphs**|Jan von Pichowski et.al.|[2406.16552v1](http://arxiv.org/abs/2406.16552v1)|null|
-|**2024-05-10**|**A Survey of Large Language Models for Graphs**|Xubin Ren et.al.|[2405.08011v2](http://arxiv.org/abs/2405.08011v2)|[link](https://github.com/hkuds/awesome-llm4graph-papers)|
-|**2024-06-24**|**Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification**|Beini Xie et.al.|[2406.16357v1](http://arxiv.org/abs/2406.16357v1)|null|
-|**2024-06-24**|**Multimodal Graph Benchmark**|Jing Zhu et.al.|[2406.16321v1](http://arxiv.org/abs/2406.16321v1)|[link](https://github.com/mm-graph-benchmark/mm-graph-benchmark)|
-|**2024-06-24**|**Relaxing Continuous Constraints of Equivariant Graph Neural Networks for Physical Dynamics Learning**|Zinan Zheng et.al.|[2406.16295v1](http://arxiv.org/abs/2406.16295v1)|[link](https://github.com/compasszzn/degnn)|
-|**2024-05-07**|**Multi-Margin Loss: Proposal and Application in Recommender Systems**|Makbule Gulcin Ozsoy et.al.|[2405.04614v2](http://arxiv.org/abs/2405.04614v2)|null|
-|**2024-06-23**|**F-FOMAML: GNN-Enhanced Meta-Learning for Peak Period Demand Forecasting with Proxy Data**|Zexing Xu et.al.|[2406.16221v1](http://arxiv.org/abs/2406.16221v1)|null|
-|**2024-01-05**|**Graph2Tac: Online Representation Learning of Formal Math Concepts**|Lasse Blaauwbroek et.al.|[2401.02949v3](http://arxiv.org/abs/2401.02949v3)|null|
-|**2023-11-09**|**Mixture of Weak & Strong Experts on Graphs**|Hanqing Zeng et.al.|[2311.05185v2](http://arxiv.org/abs/2311.05185v2)|[link](https://github.com/facebookresearch/mowst-gnn)|
-|**2024-06-22**|**Automatic AI Model Selection for Wireless Systems: Online Learning via Digital Twinning**|Qiushuo Hou et.al.|[2406.15819v1](http://arxiv.org/abs/2406.15819v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-22**|**An Experimental Study on the Rashomon Effect of Balancing Methods in Imbalanced Classification**|Mustafa Cavus et.al.|[2405.01557v2](http://arxiv.org/abs/2405.01557v2)|null|
-|**2023-10-11**|**Constraints on Bianchi-I type universe with SH0ES anchored Pantheon+ SNIa data**|Anshul Verma et.al.|[2310.07661v2](http://arxiv.org/abs/2310.07661v2)|null|
-|**2024-06-24**|**Spatially Structured Regression for Non-conformable Spaces: Integrating Pathology Imaging and Genomics Data in Cancer**|Nathaniel Osher et.al.|[2406.16721v1](http://arxiv.org/abs/2406.16721v1)|null|
-|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v4](http://arxiv.org/abs/2404.14965v4)|null|
-|**2024-06-24**|**Efficient Bayesian inference and model selection for continuous waves in pulsar timing array data**|Bence Bécsy et.al.|[2406.16331v1](http://arxiv.org/abs/2406.16331v1)|null|
-|**2024-06-23**|**VICatMix: variational Bayesian clustering and variable selection for discrete biomedical data**|Paul D. W. Kirk et.al.|[2406.16227v1](http://arxiv.org/abs/2406.16227v1)|[link](https://github.com/j-ackierao/vicatmix)|
-|**2024-06-22**|**Automatic AI Model Selection for Wireless Systems: Online Learning via Digital Twinning**|Qiushuo Hou et.al.|[2406.15819v1](http://arxiv.org/abs/2406.15819v1)|null|
-|**2024-06-21**|**Nonparametric FBST for Validating Linear Models**|Rodrigo F. L. Lassance et.al.|[2406.15608v1](http://arxiv.org/abs/2406.15608v1)|null|
-|**2024-06-21**|**Thermodynamic modeling of the LiCl-KCl-LaCl$_3$ system with Bayesian model selection and uncertainty quantification**|Rushi Gong et.al.|[2406.15223v1](http://arxiv.org/abs/2406.15223v1)|null|
-|**2023-01-31**|**Straight-Through meets Sparse Recovery: the Support Exploration Algorithm**|Mimoun Mohamed et.al.|[2301.13584v2](http://arxiv.org/abs/2301.13584v2)|null|
-|**2023-10-19**|**GestureGPT: Toward Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v4](http://arxiv.org/abs/2310.12821v4)|null|
-|**2023-01-07**|**ExcelFormer: Can a DNN be a Sure Bet for Tabular Prediction?**|Jintai Chen et.al.|[2301.02819v6](http://arxiv.org/abs/2301.02819v6)|[link](https://github.com/whatashot/excelformer)|
-|**2024-06-21**|**Retrieve-Plan-Generation: An Iterative Planning and Answering Framework for Knowledge-Intensive LLM Generation**|Yuanjie Lyu et.al.|[2406.14979v1](http://arxiv.org/abs/2406.14979v1)|null|
-|**2024-06-21**|**Accessible, At-Home Detection of Parkinson's Disease via Multi-task Video Analysis**|Md Saiful Islam et.al.|[2406.14856v1](http://arxiv.org/abs/2406.14856v1)|null|
-|**2024-06-15**|**Functional Clustering for Longitudinal Associations between Social Determinants of Health and Stroke Mortality in the US**|Fangzhi Luo et.al.|[2406.10499v2](http://arxiv.org/abs/2406.10499v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2024-05-18**|**On the limit distribution of extremes of generalized Oppenheim random variables**|Milto Hadjikyriakou et.al.|[2405.11241v1](http://arxiv.org/abs/2405.11241v1)|null|
 |**2024-05-16**|**Detecting Domain Shift in Multiple Instance Learning for Digital Pathology Using Fréchet Domain Distance**|Milda Pocevičiūtė et.al.|[2405.09934v1](http://arxiv.org/abs/2405.09934v1)|null|
 |**2023-05-04**|**Optimal boundary control for the Cahn-Hilliard-Navier-Stokes Equations**|Manika Bag et.al.|[2305.02501v3](http://arxiv.org/abs/2305.02501v3)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-25**|**A Thorough Performance Benchmarking on Lightweight Embedding-based Recommender Systems**|Hung Vinh Tran et.al.|[2406.17335v1](http://arxiv.org/abs/2406.17335v1)|[link](https://github.com/chenxing1999/recsys-benchmark)|
+|**2023-01-31**|**Straight-Through meets Sparse Recovery: the Support Exploration Algorithm**|Mimoun Mohamed et.al.|[2301.13584v3](http://arxiv.org/abs/2301.13584v3)|null|
+|**2024-06-25**|**Greedy equivalence search for nonparametric graphical models**|Bryon Aragam et.al.|[2406.17228v1](http://arxiv.org/abs/2406.17228v1)|null|
+|**2024-06-24**|**The hidden architecture of connections: How do multidimensional identities shape our social networks?**|Samuel Martin-Gutierrez et.al.|[2406.17043v1](http://arxiv.org/abs/2406.17043v1)|null|
+|**2024-03-22**|**An Experimental Study on the Rashomon Effect of Balancing Methods in Imbalanced Classification**|Mustafa Cavus et.al.|[2405.01557v2](http://arxiv.org/abs/2405.01557v2)|null|
+|**2023-10-11**|**Constraints on Bianchi-I type universe with SH0ES anchored Pantheon+ SNIa data**|Anshul Verma et.al.|[2310.07661v2](http://arxiv.org/abs/2310.07661v2)|null|
+|**2024-06-24**|**Spatially Structured Regression for Non-conformable Spaces: Integrating Pathology Imaging and Genomics Data in Cancer**|Nathaniel Osher et.al.|[2406.16721v1](http://arxiv.org/abs/2406.16721v1)|null|
+|**2021-08-29**|**Survival Analysis with Graph-Based Regularization for Predictors**|Liyan Xie et.al.|[2108.12827v2](http://arxiv.org/abs/2108.12827v2)|null|
+|**2024-04-23**|**Vision Beyond Boundaries: An Initial Design Space of Domain-specific Large Vision Models in Human-robot Interaction**|Yuchong Zhang et.al.|[2404.14965v4](http://arxiv.org/abs/2404.14965v4)|null|
+|**2024-06-24**|**Efficient Bayesian inference and model selection for continuous waves in pulsar timing array data**|Bence Bécsy et.al.|[2406.16331v1](http://arxiv.org/abs/2406.16331v1)|null|
+|**2024-06-23**|**VICatMix: variational Bayesian clustering and variable selection for discrete biomedical data**|Paul D. W. Kirk et.al.|[2406.16227v1](http://arxiv.org/abs/2406.16227v1)|[link](https://github.com/j-ackierao/vicatmix)|
+|**2024-06-22**|**Automatic AI Model Selection for Wireless Systems: Online Learning via Digital Twinning**|Qiushuo Hou et.al.|[2406.15819v1](http://arxiv.org/abs/2406.15819v1)|null|
+|**2024-06-22**|**MetaGreen: Meta-Learning Inspired Transformer Selection for Green Semantic Communication**|Shubhabrata Mukherjee et.al.|[2406.16962v1](http://arxiv.org/abs/2406.16962v1)|null|
+|**2024-06-21**|**Nonparametric FBST for Validating Linear Models**|Rodrigo F. L. Lassance et.al.|[2406.15608v1](http://arxiv.org/abs/2406.15608v1)|null|
+|**2024-06-21**|**Thermodynamic modeling of the LiCl-KCl-LaCl$_3$ system with Bayesian model selection and uncertainty quantification**|Rushi Gong et.al.|[2406.15223v1](http://arxiv.org/abs/2406.15223v1)|null|
