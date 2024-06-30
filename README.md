@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-06-30 07:23:57 Asia/Shanghai
+ Automated deployment @ 2024-06-30 19:19:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2023-11-11**|**PGODE: Towards High-quality System Dynamics Modeling**|Xiao Luo et.al.|[2311.06554v2](http://arxiv.org/abs/2311.06554v2)|null|
 |**2024-06-26**|**Conformalized Link Prediction on Graph Neural Networks**|Tianyi Zhao et.al.|[2406.18763v1](http://arxiv.org/abs/2406.18763v1)|null|
 |**2023-11-10**|**GRAM: An Interpretable Approach for Graph Anomaly Detection using Gradient Attention Maps**|Yifei Yang et.al.|[2311.06153v2](http://arxiv.org/abs/2311.06153v2)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v1](http://arxiv.org/abs/2406.19380v1)|[link](https://github.com/puhsu/tabred)|
-|**2024-04-19**|**Inflation, the Hubble Tension and Early Dark Energy: an alternative overview**|William Giarè et.al.|[2404.12779v2](http://arxiv.org/abs/2404.12779v2)|null|
-|**2024-06-27**|**Comparing Lasso and Adaptive Lasso in High-Dimensional Data: A Genetic Survival Analysis in Triple-Negative Breast Cancer**|Pilar González-Barquero et.al.|[2406.19213v1](http://arxiv.org/abs/2406.19213v1)|null|
-|**2024-06-26**|**Functional knockoffs selection with applications to functional data analysis in high dimensions**|Xinghao Qiao et.al.|[2406.18189v2](http://arxiv.org/abs/2406.18189v2)|null|
-|**2023-12-23**|**X-Vine Models for Multivariate Extremes**|Anna Kiriliouk et.al.|[2312.15205v2](http://arxiv.org/abs/2312.15205v2)|null|
-|**2023-08-07**|**A Branch-and-Cut-and-Price Algorithm for Cutting Stock and Related Problems**|Renan F. F. da Silva et.al.|[2308.03595v2](http://arxiv.org/abs/2308.03595v2)|[link](https://gitlab.com/renanfernandofranco/a-branch-and-cut-and-price-algorithm-for-cutting-stock-and-related-problems)|
-|**2024-02-20**|**On scalable ARMA models**|Yuchang Lin et.al.|[2402.12825v2](http://arxiv.org/abs/2402.12825v2)|null|
-|**2024-06-27**|**Nonlinear Multivariate Function-on-function Regression with Variable Selection**|Xu Haijie et.al.|[2406.19021v1](http://arxiv.org/abs/2406.19021v1)|null|
-|**2023-05-17**|**Functional Adaptive Double-Sparsity Estimator for Functional Linear Regression Model with Multiple Functional Covariates**|Cheng Cao et.al.|[2305.10054v4](http://arxiv.org/abs/2305.10054v4)|[link](https://github.com/cheng-0621/faddos)|
-|**2024-06-27**|**Credit Ratings: Heterogeneous Effect on Capital Structure**|Helmut Wasserbacher et.al.|[2406.18936v1](http://arxiv.org/abs/2406.18936v1)|null|
-|**2024-06-26**|**Data Sketching and Stacking: A Confluence of Two Strategies for Predictive Inference in Gaussian Process Regressions with High-Dimensional Features**|Samuel Gailliot et.al.|[2406.18681v1](http://arxiv.org/abs/2406.18681v1)|null|
-|**2024-06-26**|**Adversarial Search Engine Optimization for Large Language Models**|Fredrik Nestaas et.al.|[2406.18382v1](http://arxiv.org/abs/2406.18382v1)|null|
-|**2024-06-26**|**Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets**|Simon Münker et.al.|[2406.18239v1](http://arxiv.org/abs/2406.18239v1)|null|
-|**2024-06-26**|**Sparse deep neural networks for nonparametric estimation in high-dimensional sparse regression**|Dongya Wu et.al.|[2406.18137v1](http://arxiv.org/abs/2406.18137v1)|null|
-|**2024-06-26**|**Observational Evidence to Logistic Dark Energy Driving the Accelerating Universe**|Sarath Nelleri et.al.|[2406.18095v1](http://arxiv.org/abs/2406.18095v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v3](http://arxiv.org/abs/2307.16865v3)|[link](https://github.com/ericyu97/uad-rs)|
 |**2024-05-23**|**Generating camera failures as a class of physics-based adversarial examples**|Manav Prabhakar et.al.|[2405.15033v1](http://arxiv.org/abs/2405.15033v1)|null|
 |**2024-05-18**|**On the limit distribution of extremes of generalized Oppenheim random variables**|Milto Hadjikyriakou et.al.|[2405.11241v1](http://arxiv.org/abs/2405.11241v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v1](http://arxiv.org/abs/2406.19380v1)|[link](https://github.com/puhsu/tabred)|
+|**2024-04-19**|**Inflation, the Hubble Tension and Early Dark Energy: an alternative overview**|William Giarè et.al.|[2404.12779v2](http://arxiv.org/abs/2404.12779v2)|null|
+|**2024-06-27**|**Comparing Lasso and Adaptive Lasso in High-Dimensional Data: A Genetic Survival Analysis in Triple-Negative Breast Cancer**|Pilar González-Barquero et.al.|[2406.19213v1](http://arxiv.org/abs/2406.19213v1)|null|
+|**2024-06-26**|**Functional knockoffs selection with applications to functional data analysis in high dimensions**|Xinghao Qiao et.al.|[2406.18189v2](http://arxiv.org/abs/2406.18189v2)|null|
+|**2023-12-23**|**X-Vine Models for Multivariate Extremes**|Anna Kiriliouk et.al.|[2312.15205v2](http://arxiv.org/abs/2312.15205v2)|null|
+|**2023-08-07**|**A Branch-and-Cut-and-Price Algorithm for Cutting Stock and Related Problems**|Renan F. F. da Silva et.al.|[2308.03595v2](http://arxiv.org/abs/2308.03595v2)|[link](https://gitlab.com/renanfernandofranco/a-branch-and-cut-and-price-algorithm-for-cutting-stock-and-related-problems)|
+|**2024-02-20**|**On scalable ARMA models**|Yuchang Lin et.al.|[2402.12825v2](http://arxiv.org/abs/2402.12825v2)|null|
+|**2024-06-27**|**Nonlinear Multivariate Function-on-function Regression with Variable Selection**|Xu Haijie et.al.|[2406.19021v1](http://arxiv.org/abs/2406.19021v1)|null|
+|**2023-05-17**|**Functional Adaptive Double-Sparsity Estimator for Functional Linear Regression Model with Multiple Functional Covariates**|Cheng Cao et.al.|[2305.10054v4](http://arxiv.org/abs/2305.10054v4)|[link](https://github.com/cheng-0621/faddos)|
+|**2024-06-27**|**Credit Ratings: Heterogeneous Effect on Capital Structure**|Helmut Wasserbacher et.al.|[2406.18936v1](http://arxiv.org/abs/2406.18936v1)|null|
+|**2024-06-26**|**Data Sketching and Stacking: A Confluence of Two Strategies for Predictive Inference in Gaussian Process Regressions with High-Dimensional Features**|Samuel Gailliot et.al.|[2406.18681v1](http://arxiv.org/abs/2406.18681v1)|null|
+|**2024-06-26**|**Adversarial Search Engine Optimization for Large Language Models**|Fredrik Nestaas et.al.|[2406.18382v1](http://arxiv.org/abs/2406.18382v1)|null|
+|**2024-06-26**|**Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets**|Simon Münker et.al.|[2406.18239v1](http://arxiv.org/abs/2406.18239v1)|null|
+|**2024-06-26**|**Sparse deep neural networks for nonparametric estimation in high-dimensional sparse regression**|Dongya Wu et.al.|[2406.18137v1](http://arxiv.org/abs/2406.18137v1)|null|
+|**2024-06-26**|**Observational Evidence to Logistic Dark Energy Driving the Accelerating Universe**|Sarath Nelleri et.al.|[2406.18095v1](http://arxiv.org/abs/2406.18095v1)|null|
