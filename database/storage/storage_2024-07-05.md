@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-05 07:24:02 Asia/Shanghai
+ Automated deployment @ 2024-07-05 19:21:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,27 +32,6 @@
 |**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057v1](http://arxiv.org/abs/2407.02057v1)|[link](https://github.com/yali-f/hc-glad)|
 |**2024-07-02**|**DiGRAF: Diffeomorphic Graph-Adaptive Activation Function**|Krishna Sri Ipsit Mantri et.al.|[2407.02013v1](http://arxiv.org/abs/2407.02013v1)|null|
 |**2024-07-02**|**Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks**|Yuwen Wang et.al.|[2407.01979v1](http://arxiv.org/abs/2407.01979v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-06-03**|**New limits on warm inflation from pulsar timing arrays**|Rocco D'Agostino et.al.|[2406.01475v2](http://arxiv.org/abs/2406.01475v2)|null|
-|**2024-02-01**|**When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards**|Norah Alzahrani et.al.|[2402.01781v2](http://arxiv.org/abs/2402.01781v2)|[link](https://github.com/national-center-for-ai-saudi-arabia/lm-evaluation-harness)|
-|**2024-07-02**|**A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data**|Andrej Tschalzev et.al.|[2407.02112v1](http://arxiv.org/abs/2407.02112v1)|null|
-|**2024-06-26**|**Adversarial Search Engine Optimization for Large Language Models**|Fredrik Nestaas et.al.|[2406.18382v2](http://arxiv.org/abs/2406.18382v2)|null|
-|**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v2](http://arxiv.org/abs/2406.19380v2)|[link](https://github.com/puhsu/tabred)|
-|**2023-01-07**|**ExcelFormer: A neural network surpassing GBDTs on tabular data**|Jintai Chen et.al.|[2301.02819v7](http://arxiv.org/abs/2301.02819v7)|[link](https://github.com/whatashot/excelformer)|
-|**2024-07-01**|**QBIC of SEM for diffusion processes from discrete observations**|Shogo Kusano et.al.|[2407.01040v1](http://arxiv.org/abs/2407.01040v1)|null|
-|**2023-07-20**|**Fast Unsupervised Deep Outlier Model Selection with Hypernetworks**|Xueying Ding et.al.|[2307.10529v2](http://arxiv.org/abs/2307.10529v2)|[link](https://github.com/xyvivian/hyper)|
-|**2024-06-09**|**Which Backbone to Use: A Resource-efficient Domain Specific Comparison for Computer Vision**|Pranav Jeevan et.al.|[2406.05612v2](http://arxiv.org/abs/2406.05612v2)|[link](https://github.com/pranavphoenix/Backbones)|
-|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v5](http://arxiv.org/abs/2211.10776v5)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
-|**2020-08-25**|**Inference for parameters identified by conditional moment restrictions using a generalized Bierens maximum statistic**|Xiaohong Chen et.al.|[2008.11140v6](http://arxiv.org/abs/2008.11140v6)|null|
-|**2024-06-28**|**Comparative Analysis of LSTM Neural Networks and Traditional Machine Learning Models for Predicting Diabetes Patient Readmission**|Abolfazl Zarghani et.al.|[2406.19980v1](http://arxiv.org/abs/2406.19980v1)|null|
-|**2023-02-03**|**Trade-off between predictive performance and FDR control for high-dimensional Gaussian model selection**|Perrine Lacroix et.al.|[2302.01831v4](http://arxiv.org/abs/2302.01831v4)|[link](https://github.com/perrinelacroix/trade_off_fdr_pr)|
-|**2024-06-28**|**Approximate solutions of a general stochastic velocity-jump process subject to discrete-time noisy observations**|Arianna Ceccarelli et.al.|[2406.19787v1](http://arxiv.org/abs/2406.19787v1)|null|
-|**2024-04-19**|**Inflation, the Hubble Tension and Early Dark Energy: an alternative overview**|William Giarè et.al.|[2404.12779v2](http://arxiv.org/abs/2404.12779v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -93,3 +72,24 @@
 |**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v2](http://arxiv.org/abs/2207.03943v2)|null|
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
 |**2022-08-08**|**Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices with log-Euclidean Metric**|Saiteja Utpala et.al.|[2208.04245v2](http://arxiv.org/abs/2208.04245v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-03**|**New limits on warm inflation from pulsar timing arrays**|Rocco D'Agostino et.al.|[2406.01475v2](http://arxiv.org/abs/2406.01475v2)|null|
+|**2024-02-01**|**When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards**|Norah Alzahrani et.al.|[2402.01781v2](http://arxiv.org/abs/2402.01781v2)|[link](https://github.com/national-center-for-ai-saudi-arabia/lm-evaluation-harness)|
+|**2024-07-02**|**A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data**|Andrej Tschalzev et.al.|[2407.02112v1](http://arxiv.org/abs/2407.02112v1)|null|
+|**2024-06-26**|**Adversarial Search Engine Optimization for Large Language Models**|Fredrik Nestaas et.al.|[2406.18382v2](http://arxiv.org/abs/2406.18382v2)|null|
+|**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v2](http://arxiv.org/abs/2406.19380v2)|[link](https://github.com/puhsu/tabred)|
+|**2023-01-07**|**ExcelFormer: A neural network surpassing GBDTs on tabular data**|Jintai Chen et.al.|[2301.02819v7](http://arxiv.org/abs/2301.02819v7)|[link](https://github.com/whatashot/excelformer)|
+|**2024-07-01**|**QBIC of SEM for diffusion processes from discrete observations**|Shogo Kusano et.al.|[2407.01040v1](http://arxiv.org/abs/2407.01040v1)|null|
+|**2023-07-20**|**Fast Unsupervised Deep Outlier Model Selection with Hypernetworks**|Xueying Ding et.al.|[2307.10529v2](http://arxiv.org/abs/2307.10529v2)|[link](https://github.com/xyvivian/hyper)|
+|**2024-06-09**|**Which Backbone to Use: A Resource-efficient Domain Specific Comparison for Computer Vision**|Pranav Jeevan et.al.|[2406.05612v2](http://arxiv.org/abs/2406.05612v2)|[link](https://github.com/pranavphoenix/Backbones)|
+|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v5](http://arxiv.org/abs/2211.10776v5)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
+|**2020-08-25**|**Inference for parameters identified by conditional moment restrictions using a generalized Bierens maximum statistic**|Xiaohong Chen et.al.|[2008.11140v6](http://arxiv.org/abs/2008.11140v6)|null|
+|**2024-06-28**|**Comparative Analysis of LSTM Neural Networks and Traditional Machine Learning Models for Predicting Diabetes Patient Readmission**|Abolfazl Zarghani et.al.|[2406.19980v1](http://arxiv.org/abs/2406.19980v1)|null|
+|**2023-02-03**|**Trade-off between predictive performance and FDR control for high-dimensional Gaussian model selection**|Perrine Lacroix et.al.|[2302.01831v4](http://arxiv.org/abs/2302.01831v4)|[link](https://github.com/perrinelacroix/trade_off_fdr_pr)|
+|**2024-06-28**|**Approximate solutions of a general stochastic velocity-jump process subject to discrete-time noisy observations**|Arianna Ceccarelli et.al.|[2406.19787v1](http://arxiv.org/abs/2406.19787v1)|null|
+|**2024-04-19**|**Inflation, the Hubble Tension and Early Dark Energy: an alternative overview**|William Giarè et.al.|[2404.12779v2](http://arxiv.org/abs/2404.12779v2)|null|
