@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-09 07:23:38 Asia/Shanghai
+ Automated deployment @ 2024-07-09 19:22:06 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,32 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-03-01**|**Graph Theory and GNNs to Unravel the Topographical Organization of Brain Lesions in Variants of Alzheimer's Disease Progression**|Gabriel Jimenez et.al.|[2403.00636v2](http://arxiv.org/abs/2403.00636v2)|null|
-|**2024-07-05**|**Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials**|Klara Bonneau et.al.|[2407.04526v1](http://arxiv.org/abs/2407.04526v1)|null|
-|**2024-07-05**|**G-Adaptive mesh refinement -- leveraging graph neural networks and differentiable finite element solvers**|James Rowbottom et.al.|[2407.04516v1](http://arxiv.org/abs/2407.04516v1)|null|
-|**2023-04-23**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534v3](http://arxiv.org/abs/2304.11534v3)|null|
-|**2024-07-05**|**Wavelet-based Temporal Attention Improves Traffic Forecasting**|Yash Jakhmola et.al.|[2407.04440v1](http://arxiv.org/abs/2407.04440v1)|null|
-|**2024-07-05**|**Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing**|Tong Wang et.al.|[2407.04359v1](http://arxiv.org/abs/2407.04359v1)|null|
-|**2023-07-09**|**Graph Neural Networks as an Enabler of Terahertz-based Flow-guided Nanoscale Localization over Highly Erroneous Raw Data**|Gerard Calvo Bartra et.al.|[2307.05551v4](http://arxiv.org/abs/2307.05551v4)|null|
-|**2024-07-05**|**SSP-GNN: Learning to Track via Bilevel Optimization**|Griffin Golias et.al.|[2407.04308v1](http://arxiv.org/abs/2407.04308v1)|null|
-|**2024-07-05**|**Graph Pooling via Ricci Flow**|Amy Feng et.al.|[2407.04236v1](http://arxiv.org/abs/2407.04236v1)|null|
-|**2024-07-04**|**Benchmark on Drug Target Interaction Modeling from a Structure Perspective**|Xinnan Zhang et.al.|[2407.04055v1](http://arxiv.org/abs/2407.04055v1)|[link](https://github.com/justinwjl/gtb-dti)|
-|**2024-07-04**|**Reduced-Order Neural Operators: Learning Lagrangian Dynamics on Highly Sparse Graphs**|Hrishikesh Viswanath et.al.|[2407.03925v1](http://arxiv.org/abs/2407.03925v1)|null|
-|**2024-07-04**|**GraphCNNpred: A stock market indices prediction using a Graph based deep learning system**|Yuhui Jin et.al.|[2407.03760v1](http://arxiv.org/abs/2407.03760v1)|null|
-|**2023-07-17**|**Long-range Meta-path Search on Large-scale Heterogeneous Graphs**|Chao Li et.al.|[2307.08430v5](http://arxiv.org/abs/2307.08430v5)|[link](https://github.com/jhl-hust/lmsps)|
-|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217v1](http://arxiv.org/abs/2407.03217v1)|[link](https://github.com/wayfear/brainnetworktransformer)|
-|**2024-07-03**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125v1](http://arxiv.org/abs/2407.03125v1)|null|
+|**2023-11-24**|**VSViG: Real-time Video-based Seizure Detection via Skeleton-based Spatiotemporal ViG**|Yankun Xu et.al.|[2311.14775v2](http://arxiv.org/abs/2311.14775v2)|[link](https://github.com/xuyankun/vsvig)|
+|**2024-07-08**|**Enhancing the Prediction of Glass Dynamics by Incorporating the Direction of Deviation from Equilibrium Positions**|Xiao Jiang et.al.|[2407.06111v1](http://arxiv.org/abs/2407.06111v1)|null|
+|**2024-03-07**|**On the Topology Awareness and Generalization Performance of Graph Neural Networks**|Junwei Su et.al.|[2403.04482v2](http://arxiv.org/abs/2403.04482v2)|null|
+|**2024-01-22**|**Learning Dynamics from Multicellular Graphs with Deep Neural Networks**|Haiqian Yang et.al.|[2401.12196v2](http://arxiv.org/abs/2401.12196v2)|[link](https://github.com/guolab-cellmechanics/gnn-collective-cell-dynamics)|
+|**2024-07-02**|**Holistically-Nested Structure-Aware Graph Neural Network for Road Extraction**|Tinghuai Wang et.al.|[2407.02639v2](http://arxiv.org/abs/2407.02639v2)|null|
+|**2024-07-08**|**Graph Reasoning Networks**|Markus Zopf et.al.|[2407.05816v1](http://arxiv.org/abs/2407.05816v1)|null|
+|**2024-02-07**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836v2](http://arxiv.org/abs/2402.04836v2)|null|
+|**2023-12-11**|**Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum**|Fan Xu et.al.|[2312.06441v3](http://arxiv.org/abs/2312.06441v3)|null|
+|**2024-07-08**|**Graph Attention with Random Rewiring**|Tongzhou Liao et.al.|[2407.05649v1](http://arxiv.org/abs/2407.05649v1)|null|
+|**2024-07-05**|**SSP-GNN: Learning to Track via Bilevel Optimization**|Griffin Golias et.al.|[2407.04308v2](http://arxiv.org/abs/2407.04308v2)|null|
+|**2024-07-08**|**MEEG and AT-DGNN: Advancing EEG Emotion Recognition with Music and Graph Learning**|Minghao Xiao et.al.|[2407.05550v1](http://arxiv.org/abs/2407.05550v1)|null|
+|**2024-07-03**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125v2](http://arxiv.org/abs/2407.03125v2)|null|
+|**2024-02-09**|**Neural SPH: Improved Neural Modeling of Lagrangian Fluid Dynamics**|Artur P. Toshev et.al.|[2402.06275v2](http://arxiv.org/abs/2402.06275v2)|[link](https://github.com/tumaer/neuralsph)|
+|**2024-02-23**|**Open Ad Hoc Teamwork with Cooperative Game Theory**|Jianhong Wang et.al.|[2402.15259v5](http://arxiv.org/abs/2402.15259v5)|[link](https://github.com/hsvgbkhgbv/ciao)|
+|**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324v1](http://arxiv.org/abs/2407.05324v1)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095v1](http://arxiv.org/abs/2407.06095v1)|null|
+|**2024-04-05**|**A single shooting method with approximate Fréchet derivative for computing geodesics on the Stiefel manifold**|Marco Sutti et.al.|[2404.04089v2](http://arxiv.org/abs/2404.04089v2)|null|
+|**2024-07-07**|**Fréchet Distance in Subquadratic Time**|Siu-Wing Cheng et.al.|[2407.05231v1](http://arxiv.org/abs/2407.05231v1)|null|
+|**2023-12-19**|**Deviation of top eigenvalue for some tridiagonal matrices under various moment assumptions**|Yi Han et.al.|[2312.12146v2](http://arxiv.org/abs/2312.12146v2)|null|
+|**2024-07-06**|**Approximating the Fréchet distance when only one curve is $c$-packed**|Joachim Gudmundsson et.al.|[2407.05114v1](http://arxiv.org/abs/2407.05114v1)|null|
 |**2023-11-28**|**Detecting influential observations in single-index Fréchet regression**|Abdul-Nasah Soale et.al.|[2311.17246v3](http://arxiv.org/abs/2311.17246v3)|null|
 |**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v1](http://arxiv.org/abs/2407.03101v1)|null|
 |**2023-11-19**|**FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model**|Yunxiang Li et.al.|[2311.12070v2](http://arxiv.org/abs/2311.12070v2)|null|
@@ -48,11 +53,6 @@
 |**2023-12-23**|**Fréchet Wavelet Distance: A Domain-Agnostic Metric for Image Generation**|Lokesh Veeramacheneni et.al.|[2312.15289v2](http://arxiv.org/abs/2312.15289v2)|null|
 |**2024-06-10**|**Heterogeneous extremes in the presence of random covariates and censoring**|Martin Bladt et.al.|[2406.06113v1](http://arxiv.org/abs/2406.06113v1)|null|
 |**2023-06-05**|**Nonlinear Distributionally Robust Optimization**|Mohammed Rayyan Sheriff et.al.|[2306.03202v2](http://arxiv.org/abs/2306.03202v2)|null|
-|**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
-|**2024-06-05**|**Velichko's notions close to sequentially separability and their hereditary variants in $C_p$-theory**|Alexander V. Osipov et.al.|[2406.03014v1](http://arxiv.org/abs/2406.03014v1)|null|
-|**2024-06-04**|**Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion**|Colin Hansen et.al.|[2406.02477v1](http://arxiv.org/abs/2406.02477v1)|null|
-|**2024-02-08**|**Deformed Fréchet law for Wigner and sample covariance matrices with tail in crossover regime**|Yi Han et.al.|[2402.05590v2](http://arxiv.org/abs/2402.05590v2)|null|
-|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865v3](http://arxiv.org/abs/2307.16865v3)|[link](https://github.com/ericyu97/uad-rs)|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-24**|**Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy**|Zhaozhou An et.al.|[2404.16184v2](http://arxiv.org/abs/2404.16184v2)|null|
+|**2024-07-06**|**Bayesian network-guided sparse regression with flexible varying effects**|Yangfan Ren et.al.|[2407.05089v1](http://arxiv.org/abs/2407.05089v1)|null|
 |**2024-06-28**|**Approximate solutions of a general stochastic velocity-jump process subject to discrete-time noisy observations**|Arianna Ceccarelli et.al.|[2406.19787v2](http://arxiv.org/abs/2406.19787v2)|null|
 |**2024-01-29**|**MT-HCCAR: Multi-Task Deep Learning with Hierarchical Classification and Attention-based Regression for Cloud Property Retrieval**|Xingyan Li et.al.|[2401.16520v2](http://arxiv.org/abs/2401.16520v2)|[link](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
 |**2024-07-04**|**Aggregated Sure Independence Screening for Variable Selection with Interaction Structures**|Tonglin Zhang et.al.|[2407.03558v1](http://arxiv.org/abs/2407.03558v1)|null|
@@ -91,5 +93,3 @@
 |**2024-07-01**|**QBIC of SEM for diffusion processes from discrete observations**|Shogo Kusano et.al.|[2407.01040v1](http://arxiv.org/abs/2407.01040v1)|null|
 |**2023-07-20**|**Fast Unsupervised Deep Outlier Model Selection with Hypernetworks**|Xueying Ding et.al.|[2307.10529v2](http://arxiv.org/abs/2307.10529v2)|[link](https://github.com/xyvivian/hyper)|
 |**2024-06-09**|**Which Backbone to Use: A Resource-efficient Domain Specific Comparison for Computer Vision**|Pranav Jeevan et.al.|[2406.05612v2](http://arxiv.org/abs/2406.05612v2)|[link](https://github.com/pranavphoenix/Backbones)|
-|**2022-11-19**|**Bayesian Modal Regression based on Mixture Distributions**|Qingyang Liu et.al.|[2211.10776v5](http://arxiv.org/abs/2211.10776v5)|[link](https://github.com/rh8liuqy/bayesian_modal_regression)|
-|**2020-08-25**|**Inference for parameters identified by conditional moment restrictions using a generalized Bierens maximum statistic**|Xiaohong Chen et.al.|[2008.11140v6](http://arxiv.org/abs/2008.11140v6)|null|
