@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-10 07:26:07 Asia/Shanghai
+ Automated deployment @ 2024-07-10 19:22:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387v2](http://arxiv.org/abs/2405.04387v2)|[link](https://github.com/Parsa-Research-Laboratory/lmao)|
+|**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038v1](http://arxiv.org/abs/2407.07038v1)|null|
+|**2024-07-09**|**Changepoint Detection in Highly-Attributed Dynamic Graphs**|Emiliano Penaloza et.al.|[2407.06998v1](http://arxiv.org/abs/2407.06998v1)|null|
+|**2024-07-09**|**Limiting Over-Smoothing and Over-Squashing of Graph Message Passing by Deep Scattering Transforms**|Yuanhong Jiang et.al.|[2407.06988v1](http://arxiv.org/abs/2407.06988v1)|null|
+|**2024-07-09**|**Deep-Motion-Net: GNN-based volumetric organ shape reconstruction from single-view 2D projections**|Isuru Wijesinghe et.al.|[2407.06692v1](http://arxiv.org/abs/2407.06692v1)|null|
+|**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531v2](http://arxiv.org/abs/2405.11531v2)|null|
+|**2023-02-07**|**On the Limitation and Experience Replay for GNNs in Continual Learning**|Junwei Su et.al.|[2302.03534v2](http://arxiv.org/abs/2302.03534v2)|null|
+|**2024-07-09**|**Advanced Financial Fraud Detection Using GNN-CL Model**|Yu Cheng et.al.|[2407.06529v1](http://arxiv.org/abs/2407.06529v1)|null|
+|**2024-07-09**|**Graph Neural Networks and Deep Reinforcement Learning Based Resource Allocation for V2X Communications**|Maoxin Ji et.al.|[2407.06518v1](http://arxiv.org/abs/2407.06518v1)|[link](https://github.com/qiongwu86/gnn-and-drl-based-resource-allocation-for-v2x-communications)|
+|**2024-07-02**|**On the Robustness of Graph Reduction Against GNN Backdoor**|Yuxuan Zhu et.al.|[2407.02431v2](http://arxiv.org/abs/2407.02431v2)|null|
+|**2024-07-09**|**Using Graph Neural Networks and Frequency Domain Data for Automated Operational Modal Analysis of Populations of Structures**|Xudong Jian et.al.|[2407.06492v1](http://arxiv.org/abs/2407.06492v1)|null|
+|**2024-07-09**|**T2MAT (text-to-materials): A universal framework for generating material structures with goal properties from a single sentence**|Zhilong Song et.al.|[2407.06489v1](http://arxiv.org/abs/2407.06489v1)|null|
+|**2024-06-17**|**P3GNN: A Privacy-Preserving Provenance Graph-Based Model for APT Detection in Software Defined Networking**|Hedyeh Nazari et.al.|[2406.12003v2](http://arxiv.org/abs/2406.12003v2)|null|
+|**2023-12-16**|**Inductive Link Prediction in Knowledge Graphs using Path-based Neural Networks**|Canlin Zhang et.al.|[2312.10293v2](http://arxiv.org/abs/2312.10293v2)|[link](https://github.com/canlinzhang/siailp)|
 |**2023-11-24**|**VSViG: Real-time Video-based Seizure Detection via Skeleton-based Spatiotemporal ViG**|Yankun Xu et.al.|[2311.14775v2](http://arxiv.org/abs/2311.14775v2)|[link](https://github.com/xuyankun/vsvig)|
-|**2024-07-08**|**Enhancing the Prediction of Glass Dynamics by Incorporating the Direction of Deviation from Equilibrium Positions**|Xiao Jiang et.al.|[2407.06111v1](http://arxiv.org/abs/2407.06111v1)|null|
-|**2024-03-07**|**On the Topology Awareness and Generalization Performance of Graph Neural Networks**|Junwei Su et.al.|[2403.04482v2](http://arxiv.org/abs/2403.04482v2)|null|
-|**2024-01-22**|**Learning Dynamics from Multicellular Graphs with Deep Neural Networks**|Haiqian Yang et.al.|[2401.12196v2](http://arxiv.org/abs/2401.12196v2)|[link](https://github.com/guolab-cellmechanics/gnn-collective-cell-dynamics)|
-|**2024-07-02**|**Holistically-Nested Structure-Aware Graph Neural Network for Road Extraction**|Tinghuai Wang et.al.|[2407.02639v2](http://arxiv.org/abs/2407.02639v2)|null|
-|**2024-07-08**|**Graph Reasoning Networks**|Markus Zopf et.al.|[2407.05816v1](http://arxiv.org/abs/2407.05816v1)|null|
-|**2024-02-07**|**On the Completeness of Invariant Geometric Deep Learning Models**|Zian Li et.al.|[2402.04836v2](http://arxiv.org/abs/2402.04836v2)|null|
-|**2023-12-11**|**Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum**|Fan Xu et.al.|[2312.06441v3](http://arxiv.org/abs/2312.06441v3)|null|
-|**2024-07-08**|**Graph Attention with Random Rewiring**|Tongzhou Liao et.al.|[2407.05649v1](http://arxiv.org/abs/2407.05649v1)|null|
-|**2024-07-05**|**SSP-GNN: Learning to Track via Bilevel Optimization**|Griffin Golias et.al.|[2407.04308v2](http://arxiv.org/abs/2407.04308v2)|null|
-|**2024-07-08**|**MEEG and AT-DGNN: Advancing EEG Emotion Recognition with Music and Graph Learning**|Minghao Xiao et.al.|[2407.05550v1](http://arxiv.org/abs/2407.05550v1)|null|
-|**2024-07-03**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125v2](http://arxiv.org/abs/2407.03125v2)|null|
-|**2024-02-09**|**Neural SPH: Improved Neural Modeling of Lagrangian Fluid Dynamics**|Artur P. Toshev et.al.|[2402.06275v2](http://arxiv.org/abs/2402.06275v2)|[link](https://github.com/tumaer/neuralsph)|
-|**2024-02-23**|**Open Ad Hoc Teamwork with Cooperative Game Theory**|Jianhong Wang et.al.|[2402.15259v5](http://arxiv.org/abs/2402.15259v5)|[link](https://github.com/hsvgbkhgbv/ciao)|
-|**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324v1](http://arxiv.org/abs/2407.05324v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-09**|**When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs**|Alexandre Blain et.al.|[2407.06892v1](http://arxiv.org/abs/2407.06892v1)|null|
+|**2023-02-07**|**On the Limitation and Experience Replay for GNNs in Continual Learning**|Junwei Su et.al.|[2302.03534v2](http://arxiv.org/abs/2302.03534v2)|null|
+|**2024-02-10**|**DAVOS: Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds: Properties of Variability-Selected Active Galactic Nuclei in the COSMOS Field and Expectations for the Rubin Observatory**|Colin J. Burke et.al.|[2402.06882v2](http://arxiv.org/abs/2402.06882v2)|null|
+|**2024-07-08**|**Markov Walk Exploration of Model Spaces: Bayesian Selection of Dark Energy Models with Supernovae**|Benedikt Schosser et.al.|[2407.06259v1](http://arxiv.org/abs/2407.06259v1)|null|
 |**2024-04-24**|**Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy**|Zhaozhou An et.al.|[2404.16184v2](http://arxiv.org/abs/2404.16184v2)|null|
 |**2024-07-06**|**Bayesian network-guided sparse regression with flexible varying effects**|Yangfan Ren et.al.|[2407.05089v1](http://arxiv.org/abs/2407.05089v1)|null|
 |**2024-06-28**|**Approximate solutions of a general stochastic velocity-jump process subject to discrete-time noisy observations**|Arianna Ceccarelli et.al.|[2406.19787v2](http://arxiv.org/abs/2406.19787v2)|[link](https://github.com/a-ceccarelli/distributions_n-state_VJ_model)|
@@ -89,7 +93,3 @@
 |**2024-07-02**|**A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data**|Andrej Tschalzev et.al.|[2407.02112v1](http://arxiv.org/abs/2407.02112v1)|null|
 |**2024-06-26**|**Adversarial Search Engine Optimization for Large Language Models**|Fredrik Nestaas et.al.|[2406.18382v2](http://arxiv.org/abs/2406.18382v2)|null|
 |**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v2](http://arxiv.org/abs/2406.19380v2)|[link](https://github.com/puhsu/tabred)|
-|**2023-01-07**|**ExcelFormer: A neural network surpassing GBDTs on tabular data**|Jintai Chen et.al.|[2301.02819v7](http://arxiv.org/abs/2301.02819v7)|[link](https://github.com/whatashot/excelformer)|
-|**2024-07-01**|**QBIC of SEM for diffusion processes from discrete observations**|Shogo Kusano et.al.|[2407.01040v1](http://arxiv.org/abs/2407.01040v1)|null|
-|**2023-07-20**|**Fast Unsupervised Deep Outlier Model Selection with Hypernetworks**|Xueying Ding et.al.|[2307.10529v2](http://arxiv.org/abs/2307.10529v2)|[link](https://github.com/xyvivian/hyper)|
-|**2024-06-09**|**Which Backbone to Use: A Resource-efficient Domain Specific Comparison for Computer Vision**|Pranav Jeevan et.al.|[2406.05612v2](http://arxiv.org/abs/2406.05612v2)|[link](https://github.com/pranavphoenix/Backbones)|
