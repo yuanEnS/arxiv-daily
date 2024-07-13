@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-13 07:23:32 Asia/Shanghai
+ Automated deployment @ 2024-07-13 19:20:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -22,8 +22,8 @@
 |**2024-06-15**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600v3](http://arxiv.org/abs/2406.10600v3)|null|
 |**2024-07-11**|**HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar Target Recognition**|Lingfeng Chen et.al.|[2407.08236v1](http://arxiv.org/abs/2407.08236v1)|null|
 |**2024-07-10**|**GLBench: A Comprehensive Benchmark for Graph with Large Language Models**|Yuhan Li et.al.|[2407.07457v2](http://arxiv.org/abs/2407.07457v2)|[link](https://github.com/nineabyss/glbench)|
-|**2021-10-18**|**Graph convolutional network for predicting abnormal grain growth in Monte Carlo simulations of microstructural evolution**|Ryan Cohn et.al.|[2110.09326v2](http://arxiv.org/abs/2110.09326v2)|null|
-|**2024-07-10**|**TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks**|Yezi Liu et.al.|[2407.08064v1](http://arxiv.org/abs/2407.08064v1)|null|
+|**2021-10-18**|**Graph convolutional network for predicting abnormal grain growth in Monte Carlo simulations of microstructural evolution**|Ryan Cohn et.al.|[2110.09326v2](http://arxiv.org/abs/2110.09326v2)|[link](https://github.com/rccohn/deepspparks)|
+|**2024-07-10**|**TinyGraph: Joint Feature and Node Condensation for Graph Neural Networks**|Yezi Liu et.al.|[2407.08064v1](http://arxiv.org/abs/2407.08064v1)|[link](https://github.com/brandones/graphpca)|
 |**2023-09-10**|**Uncertainty-Aware Probabilistic Graph Neural Networks for Road-Level Traffic Accident Prediction**|Xiaowei Gao et.al.|[2309.05072v3](http://arxiv.org/abs/2309.05072v3)|[link](https://github.com/sttdanonymous/sttd)|
 |**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889v1](http://arxiv.org/abs/2407.07889v1)|null|
 |**2024-07-10**|**Prediction of Frequency-Dependent Optical Spectrum for Solid Materials: A Multi-Output & Multi-Fidelity Machine Learning Approach**|Akram Ibrahim et.al.|[2407.07736v1](http://arxiv.org/abs/2407.07736v1)|null|
@@ -79,8 +79,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-07-10**|**On Leakage of Code Generation Evaluation Datasets**|Alexandre Matton et.al.|[2407.07565v2](http://arxiv.org/abs/2407.07565v2)|null|
-|**2024-07-11**|**AutoBencher: Creating Salient, Novel, Difficult Datasets for Language Models**|Xiang Lisa Li et.al.|[2407.08351v1](http://arxiv.org/abs/2407.08351v1)|null|
-|**2024-07-11**|**Beyond Benchmarks: Evaluating Embedding Model Similarity for Retrieval Augmented Generation Systems**|Laura Caspari et.al.|[2407.08275v1](http://arxiv.org/abs/2407.08275v1)|null|
+|**2024-07-11**|**AutoBencher: Creating Salient, Novel, Difficult Datasets for Language Models**|Xiang Lisa Li et.al.|[2407.08351v1](http://arxiv.org/abs/2407.08351v1)|[link](https://github.com/XiangLi1999/AutoBencher)|
+|**2024-07-11**|**Beyond Benchmarks: Evaluating Embedding Model Similarity for Retrieval Augmented Generation Systems**|Laura Caspari et.al.|[2407.08275v1](http://arxiv.org/abs/2407.08275v1)|[link](https://github.com/casparil/embedding-model-similarity)|
 |**2024-07-11**|**Variational Bayes for Mixture of Gaussian Structural Equation Models**|Khue-Dung Dang et.al.|[2407.08140v1](http://arxiv.org/abs/2407.08140v1)|null|
 |**2023-11-15**|**To Translate or Not to Translate: A Systematic Investigation of Translation-Based Cross-Lingual Transfer to Low-Resource Languages**|Benedikt Ebing et.al.|[2311.09404v2](http://arxiv.org/abs/2311.09404v2)|null|
 |**2024-07-09**|**When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs**|Alexandre Blain et.al.|[2407.06892v1](http://arxiv.org/abs/2407.06892v1)|null|
