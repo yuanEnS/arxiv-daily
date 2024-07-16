@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-16 07:24:49 Asia/Shanghai
+ Automated deployment @ 2024-07-16 19:20:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v1](http://arxiv.org/abs/2407.09441v1)|null|
-|**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434v1](http://arxiv.org/abs/2407.09434v1)|null|
-|**2024-07-12**|**The Effectiveness of Curvature-Based Rewiring and the Role of Hyperparameters in GNNs Revisited**|Floriano Tori et.al.|[2407.09381v1](http://arxiv.org/abs/2407.09381v1)|null|
-|**2024-07-12**|**Graph Neural Network Causal Explanation via Neural Causal Models**|Arman Behnam et.al.|[2407.09378v1](http://arxiv.org/abs/2407.09378v1)|[link](https://github.com/armanbehnam/cxgnn)|
-|**2024-05-23**|**Logical Characterizations of Recurrent Graph Neural Networks with Reals and Floats**|Veeti Ahvonen et.al.|[2405.14606v2](http://arxiv.org/abs/2405.14606v2)|null|
-|**2024-07-12**|**GNN with Model-based RL for Multi-agent Systems**|Hanxiao Chen et.al.|[2407.09249v1](http://arxiv.org/abs/2407.09249v1)|null|
-|**2024-07-12**|**Conformal Inductive Graph Neural Networks**|Soroush H. Zargarbashi et.al.|[2407.09173v1](http://arxiv.org/abs/2407.09173v1)|null|
-|**2024-07-12**|**SlideGCD: Slide-based Graph Collaborative Training with Knowledge Distillation for Whole Slide Image Classification**|Tong Shu et.al.|[2407.08968v1](http://arxiv.org/abs/2407.08968v1)|null|
-|**2024-07-12**|**Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification**|Ke Ji et.al.|[2407.08959v1](http://arxiv.org/abs/2407.08959v1)|null|
-|**2024-05-17**|**Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective**|Zhiwei Zhang et.al.|[2405.10757v3](http://arxiv.org/abs/2405.10757v3)|[link](https://github.com/zzwjames/dpgba)|
-|**2024-07-11**|**Deep Inverse Design for High-Level Synthesis**|Ping Chang et.al.|[2407.08797v1](http://arxiv.org/abs/2407.08797v1)|null|
-|**2020-05-22**|**Neural Bipartite Matching**|Dobrik Georgiev et.al.|[2005.11304v4](http://arxiv.org/abs/2005.11304v4)|null|
-|**2024-07-11**|**Robust Generalization of Graph Neural Networks for Carrier Scheduling**|Daniel F. Perez-Ramirez et.al.|[2407.08479v1](http://arxiv.org/abs/2407.08479v1)|null|
-|**2024-07-11**|**Improving Molecular Modeling with Geometric GNNs: an Empirical Study**|Ali Ramlaoui et.al.|[2407.08313v1](http://arxiv.org/abs/2407.08313v1)|null|
-|**2024-06-15**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600v3](http://arxiv.org/abs/2406.10600v3)|null|
+|**2024-07-15**|**Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks**|Lukas Gosch et.al.|[2407.10867v1](http://arxiv.org/abs/2407.10867v1)|null|
+|**2024-07-15**|**Rotationally Invariant Latent Distances for Uncertainty Estimation of Relaxed Energy Predictions by Graph Neural Network Potentials**|Joseph Musielewicz et.al.|[2407.10844v1](http://arxiv.org/abs/2407.10844v1)|null|
+|**2024-04-24**|**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**|Zhaoyang Chu et.al.|[2404.15687v2](http://arxiv.org/abs/2404.15687v2)|[link](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection)|
+|**2024-07-15**|**Probability Passing for Graph Neural Networks: Graph Structure and Representations Joint Learning**|Ziyan Wang et.al.|[2407.10688v1](http://arxiv.org/abs/2407.10688v1)|null|
+|**2024-07-15**|**Automated Label Unification for Multi-Dataset Semantic Segmentation with GNNs**|Rong Ma et.al.|[2407.10534v1](http://arxiv.org/abs/2407.10534v1)|null|
+|**2024-07-15**|**Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks**|Zirui Zhao et.al.|[2407.10458v1](http://arxiv.org/abs/2407.10458v1)|null|
+|**2024-07-15**|**Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation**|Zhoutian Shao et.al.|[2407.10430v1](http://arxiv.org/abs/2407.10430v1)|[link](https://github.com/nju-websoft/mstar)|
+|**2023-04-26**|**Long-Short-Range Message-Passing: A Physics-Informed Framework to Capture Non-Local Interaction for Scalable Molecular Dynamics Simulation**|Yunyang Li et.al.|[2304.13542v3](http://arxiv.org/abs/2304.13542v3)|null|
+|**2024-06-11**|**Logical Distillation of Graph Neural Networks**|Alexander Pluska et.al.|[2406.07126v2](http://arxiv.org/abs/2406.07126v2)|[link](https://github.com/lexpk/logicaldistillationofgnns)|
+|**2024-07-14**|**Toward Explainable Reasoning in 6G: A Proof of Concept Study on Radio Resource Allocation**|Farhad Rezazadeh et.al.|[2407.10186v1](http://arxiv.org/abs/2407.10186v1)|null|
+|**2024-07-14**|**Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions**|Yaqing Wang et.al.|[2407.10112v1](http://arxiv.org/abs/2407.10112v1)|null|
+|**2023-10-10**|**Learning Multiplex Representations on Text-Attributed Graphs with One Language Model Encoder**|Bowen Jin et.al.|[2310.06684v2](http://arxiv.org/abs/2310.06684v2)|[link](https://github.com/petergriffinjin/metag)|
+|**2024-05-28**|**Injecting Hierarchical Biological Priors into Graph Neural Networks for Flow Cytometry Prediction**|Fatemeh Nassajian Mojarrad et.al.|[2405.18507v2](http://arxiv.org/abs/2405.18507v2)|[link](https://github.com/viper-geneva/fchc-gnn-hierarchical)|
+|**2024-07-13**|**Biased Backpressure Routing Using Link Features and Graph Neural Networks**|Zhongyuan Zhao et.al.|[2407.09753v1](http://arxiv.org/abs/2407.09753v1)|null|
+|**2024-07-12**|**The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges**|Sitao Luan et.al.|[2407.09618v1](http://arxiv.org/abs/2407.09618v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,18 +78,18 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-15**|**Quantifying predictive uncertainty of aphasia severity in stroke patients with sparse heteroscedastic Bayesian high-dimensional regression**|Anja Zgodic et.al.|[2309.08783v4](http://arxiv.org/abs/2309.08783v4)|null|
+|**2024-07-13**|**Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs**|Jiahuan Yan et.al.|[2407.09790v1](http://arxiv.org/abs/2407.09790v1)|[link](https://github.com/jyansir/tmlp)|
 |**2024-07-12**|**Robust and improved constraints on higher-curvature gravitational effective-field-theory with the GW170608 event**|Haoyang Liu et.al.|[2407.08929v1](http://arxiv.org/abs/2407.08929v1)|null|
 |**2024-07-10**|**On Leakage of Code Generation Evaluation Datasets**|Alexandre Matton et.al.|[2407.07565v2](http://arxiv.org/abs/2407.07565v2)|null|
 |**2024-07-11**|**AutoBencher: Creating Salient, Novel, Difficult Datasets for Language Models**|Xiang Lisa Li et.al.|[2407.08351v1](http://arxiv.org/abs/2407.08351v1)|[link](https://github.com/XiangLi1999/AutoBencher)|
 |**2024-07-11**|**Beyond Benchmarks: Evaluating Embedding Model Similarity for Retrieval Augmented Generation Systems**|Laura Caspari et.al.|[2407.08275v1](http://arxiv.org/abs/2407.08275v1)|[link](https://github.com/casparil/embedding-model-similarity)|
 |**2024-07-11**|**Variational Bayes for Mixture of Gaussian Structural Equation Models**|Khue-Dung Dang et.al.|[2407.08140v1](http://arxiv.org/abs/2407.08140v1)|null|
 |**2023-11-15**|**To Translate or Not to Translate: A Systematic Investigation of Translation-Based Cross-Lingual Transfer to Low-Resource Languages**|Benedikt Ebing et.al.|[2311.09404v2](http://arxiv.org/abs/2311.09404v2)|null|
-|**2024-07-09**|**When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs**|Alexandre Blain et.al.|[2407.06892v1](http://arxiv.org/abs/2407.06892v1)|null|
+|**2024-07-09**|**When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs**|Alexandre Blain et.al.|[2407.06892v1](http://arxiv.org/abs/2407.06892v1)|[link](https://github.com/alexblnn/KnockoffsDiagnostics)|
 |**2023-02-07**|**On the Limitation and Experience Replay for GNNs in Continual Learning**|Junwei Su et.al.|[2302.03534v2](http://arxiv.org/abs/2302.03534v2)|null|
 |**2024-02-10**|**DAVOS: Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds: Properties of Variability-Selected Active Galactic Nuclei in the COSMOS Field and Expectations for the Rubin Observatory**|Colin J. Burke et.al.|[2402.06882v2](http://arxiv.org/abs/2402.06882v2)|null|
-|**2024-07-08**|**Markov Walk Exploration of Model Spaces: Bayesian Selection of Dark Energy Models with Supernovae**|Benedikt Schosser et.al.|[2407.06259v1](http://arxiv.org/abs/2407.06259v1)|null|
+|**2024-07-08**|**Markov Walk Exploration of Model Spaces: Bayesian Selection of Dark Energy Models with Supernovae**|Benedikt Schosser et.al.|[2407.06259v1](http://arxiv.org/abs/2407.06259v1)|[link](https://github.com/cosmostatistics/ebms_mcmc)|
 |**2020-08-20**|**Minimum discrepancy principle strategy for choosing $k$ in $k$-NN regression**|Yaroslav Averyanov et.al.|[2008.08718v7](http://arxiv.org/abs/2008.08718v7)|[link](https://github.com/YaroslavAveryanov/Minimum-discrepancy-principle-for-choosing-k)|
 |**2024-04-24**|**Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy**|Zhaozhou An et.al.|[2404.16184v2](http://arxiv.org/abs/2404.16184v2)|null|
 |**2024-07-06**|**Bayesian network-guided sparse regression with flexible varying effects**|Yangfan Ren et.al.|[2407.05089v1](http://arxiv.org/abs/2407.05089v1)|null|
-|**2024-06-28**|**Approximate solutions of a general stochastic velocity-jump process subject to discrete-time noisy observations**|Arianna Ceccarelli et.al.|[2406.19787v2](http://arxiv.org/abs/2406.19787v2)|[link](https://github.com/a-ceccarelli/distributions_n-state_VJ_model)|
-|**2024-01-29**|**MT-HCCAR: Multi-Task Deep Learning with Hierarchical Classification and Attention-based Regression for Cloud Property Retrieval**|Xingyan Li et.al.|[2401.16520v2](http://arxiv.org/abs/2401.16520v2)|[link](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
