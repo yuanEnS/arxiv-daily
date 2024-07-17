@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-07-17 07:27:50 Asia/Shanghai
+ Automated deployment @ 2024-07-17 19:21:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,28 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-15**|**Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks**|Lukas Gosch et.al.|[2407.10867v1](http://arxiv.org/abs/2407.10867v1)|null|
-|**2024-07-15**|**Rotationally Invariant Latent Distances for Uncertainty Estimation of Relaxed Energy Predictions by Graph Neural Network Potentials**|Joseph Musielewicz et.al.|[2407.10844v1](http://arxiv.org/abs/2407.10844v1)|null|
-|**2024-04-24**|**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**|Zhaoyang Chu et.al.|[2404.15687v2](http://arxiv.org/abs/2404.15687v2)|[link](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection)|
-|**2024-07-15**|**Probability Passing for Graph Neural Networks: Graph Structure and Representations Joint Learning**|Ziyan Wang et.al.|[2407.10688v1](http://arxiv.org/abs/2407.10688v1)|null|
-|**2024-07-15**|**Automated Label Unification for Multi-Dataset Semantic Segmentation with GNNs**|Rong Ma et.al.|[2407.10534v1](http://arxiv.org/abs/2407.10534v1)|null|
-|**2024-07-15**|**Predicting doping strategies for ternary nickel-cobalt-manganese cathode materials to enhance battery performance using graph neural networks**|Zirui Zhao et.al.|[2407.10458v1](http://arxiv.org/abs/2407.10458v1)|null|
-|**2024-07-15**|**Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation**|Zhoutian Shao et.al.|[2407.10430v1](http://arxiv.org/abs/2407.10430v1)|[link](https://github.com/nju-websoft/mstar)|
-|**2023-04-26**|**Long-Short-Range Message-Passing: A Physics-Informed Framework to Capture Non-Local Interaction for Scalable Molecular Dynamics Simulation**|Yunyang Li et.al.|[2304.13542v3](http://arxiv.org/abs/2304.13542v3)|null|
-|**2024-06-11**|**Logical Distillation of Graph Neural Networks**|Alexander Pluska et.al.|[2406.07126v2](http://arxiv.org/abs/2406.07126v2)|[link](https://github.com/lexpk/logicaldistillationofgnns)|
-|**2024-07-14**|**Toward Explainable Reasoning in 6G: A Proof of Concept Study on Radio Resource Allocation**|Farhad Rezazadeh et.al.|[2407.10186v1](http://arxiv.org/abs/2407.10186v1)|null|
-|**2024-07-14**|**Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions**|Yaqing Wang et.al.|[2407.10112v1](http://arxiv.org/abs/2407.10112v1)|null|
-|**2023-10-10**|**Learning Multiplex Representations on Text-Attributed Graphs with One Language Model Encoder**|Bowen Jin et.al.|[2310.06684v2](http://arxiv.org/abs/2310.06684v2)|[link](https://github.com/petergriffinjin/metag)|
-|**2024-05-28**|**Injecting Hierarchical Biological Priors into Graph Neural Networks for Flow Cytometry Prediction**|Fatemeh Nassajian Mojarrad et.al.|[2405.18507v2](http://arxiv.org/abs/2405.18507v2)|[link](https://github.com/viper-geneva/fchc-gnn-hierarchical)|
-|**2024-07-13**|**Biased Backpressure Routing Using Link Features and Graph Neural Networks**|Zhongyuan Zhao et.al.|[2407.09753v1](http://arxiv.org/abs/2407.09753v1)|null|
-|**2024-07-12**|**The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges**|Sitao Luan et.al.|[2407.09618v1](http://arxiv.org/abs/2407.09618v1)|null|
+|**2024-07-16**|**Tackling Oversmoothing in GNN via Graph Sparsification: A Truss-based Approach**|Tanvir Hossain et.al.|[2407.11928v1](http://arxiv.org/abs/2407.11928v1)|null|
+|**2024-07-16**|**GraphFM: A Scalable Framework for Multi-Graph Pretraining**|Divyansha Lachi et.al.|[2407.11907v1](http://arxiv.org/abs/2407.11907v1)|null|
+|**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790v1](http://arxiv.org/abs/2407.11790v1)|null|
+|**2024-07-16**|**Relaxing Graph Transformers for Adversarial Attacks**|Philipp Foth et.al.|[2407.11764v1](http://arxiv.org/abs/2407.11764v1)|null|
+|**2024-07-16**|**$α$-SGHN: A Robust Model for Learning Particle Interactions in Lattice Systems**|Yixian Gao et.al.|[2407.11684v1](http://arxiv.org/abs/2407.11684v1)|null|
+|**2024-07-16**|**Rethinking Fair Graph Neural Networks from Re-balancing**|Zhixun Li et.al.|[2407.11624v1](http://arxiv.org/abs/2407.11624v1)|[link](https://github.com/zhixunlee/fairgb)|
+|**2024-07-16**|**Graph Dimension Attention Networks for Enterprise Credit Assessment**|Shaopeng Wei et.al.|[2407.11615v1](http://arxiv.org/abs/2407.11615v1)|null|
+|**2024-07-16**|**HyperAggregation: Aggregating over Graph Edges with Hypernetworks**|Nicolas Lell et.al.|[2407.11596v1](http://arxiv.org/abs/2407.11596v1)|[link](https://github.com/foisunt/hyperaggregation)|
+|**2024-06-15**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600v4](http://arxiv.org/abs/2406.10600v4)|null|
+|**2024-07-16**|**AU-vMAE: Knowledge-Guide Action Units Detection via Video Masked Autoencoder**|Qiaoqiao Jin et.al.|[2407.11468v1](http://arxiv.org/abs/2407.11468v1)|null|
+|**2023-09-13**|**Improved particle-flow event reconstruction with scalable neural networks for current and future particle detectors**|Joosep Pata et.al.|[2309.06782v6](http://arxiv.org/abs/2309.06782v6)|null|
+|**2024-02-28**|**Universal neural network potentials as descriptors: Towards scalable chemical property prediction using quantum and classical computers**|Tomoya Shiota et.al.|[2402.18433v2](http://arxiv.org/abs/2402.18433v2)|null|
+|**2024-07-16**|**Accounting for Work Zone Disruptions in Traffic Flow Forecasting**|Yuanjie Lu et.al.|[2407.11407v1](http://arxiv.org/abs/2407.11407v1)|null|
+|**2024-07-16**|**Graph Structure Prompt Learning: A Novel Methodology to Improve Performance of Graph Neural Networks**|Zhenhua Huang et.al.|[2407.11361v1](http://arxiv.org/abs/2407.11361v1)|null|
+|**2024-07-16**|**SES: Bridging the Gap Between Explainability and Prediction of Graph Neural Networks**|Zhenhua Huang et.al.|[2407.11358v1](http://arxiv.org/abs/2407.11358v1)|null|
 
 ## Non-Euclidean Staistics
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-06-05**|**Velichko's notions close to sequentially separability and their hereditary variants in $C_p$-theory**|Alexander V. Osipov et.al.|[2406.03014v2](http://arxiv.org/abs/2406.03014v2)|null|
 |**2024-07-12**|**Fast and Accurate Multi-Agent Trajectory Prediction For Crowded Unknown Scenes**|Xiuye Tao et.al.|[2407.09068v1](http://arxiv.org/abs/2407.09068v1)|null|
 |**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v1](http://arxiv.org/abs/2407.08659v1)|null|
 |**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v2](http://arxiv.org/abs/2407.03101v2)|null|
@@ -52,7 +53,6 @@
 |**2024-06-13**|**Can Synthetic Audio From Generative Foundation Models Assist Audio Recognition and Speech Modeling?**|Tiantian Feng et.al.|[2406.08800v1](http://arxiv.org/abs/2406.08800v1)|null|
 |**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388v2](http://arxiv.org/abs/2406.01388v2)|[link](https://github.com/donahowe/AutoStudio)|
 |**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905v2](http://arxiv.org/abs/2404.02905v2)|[link](https://github.com/FoundationVision/VAR)|
-|**2023-12-23**|**Fréchet Wavelet Distance: A Domain-Agnostic Metric for Image Generation**|Lokesh Veeramacheneni et.al.|[2312.15289v2](http://arxiv.org/abs/2312.15289v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-12-24**|**Variable Selection in High Dimensional Linear Regressions with Parameter Instability**|Alexander Chudik et.al.|[2312.15494v2](http://arxiv.org/abs/2312.15494v2)|[link](https://github.com/mahradsv/OCMT_parameter_instability)|
+|**2024-07-16**|**SKADA-Bench: Benchmarking Unsupervised Domain Adaptation Methods with Realistic Validation**|Yanis Lalou et.al.|[2407.11676v1](http://arxiv.org/abs/2407.11676v1)|[link](https://github.com/scikit-adaptation/skada-bench)|
+|**2024-07-08**|**Markov Walk Exploration of Model Spaces: Bayesian Selection of Dark Energy Models with Supernovae**|Benedikt Schosser et.al.|[2407.06259v2](http://arxiv.org/abs/2407.06259v2)|[link](https://github.com/cosmostatistics/ebms_mcmc)|
+|**2024-07-15**|**CLAMS: A System for Zero-Shot Model Selection for Clustering**|Prabhant Singh et.al.|[2407.11286v1](http://arxiv.org/abs/2407.11286v1)|null|
 |**2023-09-15**|**Quantifying predictive uncertainty of aphasia severity in stroke patients with sparse heteroscedastic Bayesian high-dimensional regression**|Anja Zgodic et.al.|[2309.08783v4](http://arxiv.org/abs/2309.08783v4)|null|
 |**2024-07-13**|**Team up GBDTs and DNNs: Advancing Efficient and Effective Tabular Prediction with Tree-hybrid MLPs**|Jiahuan Yan et.al.|[2407.09790v1](http://arxiv.org/abs/2407.09790v1)|[link](https://github.com/jyansir/tmlp)|
 |**2024-07-12**|**Robust and improved constraints on higher-curvature gravitational effective-field-theory with the GW170608 event**|Haoyang Liu et.al.|[2407.08929v1](http://arxiv.org/abs/2407.08929v1)|null|
@@ -89,7 +93,3 @@
 |**2024-07-09**|**When Knockoffs fail: diagnosing and fixing non-exchangeability of Knockoffs**|Alexandre Blain et.al.|[2407.06892v1](http://arxiv.org/abs/2407.06892v1)|[link](https://github.com/alexblnn/KnockoffsDiagnostics)|
 |**2023-02-07**|**On the Limitation and Experience Replay for GNNs in Continual Learning**|Junwei Su et.al.|[2302.03534v2](http://arxiv.org/abs/2302.03534v2)|null|
 |**2024-02-10**|**DAVOS: Dwarf Active Galactic Nuclei from Variability for the Origins of Seeds: Properties of Variability-Selected Active Galactic Nuclei in the COSMOS Field and Expectations for the Rubin Observatory**|Colin J. Burke et.al.|[2402.06882v2](http://arxiv.org/abs/2402.06882v2)|null|
-|**2024-07-08**|**Markov Walk Exploration of Model Spaces: Bayesian Selection of Dark Energy Models with Supernovae**|Benedikt Schosser et.al.|[2407.06259v1](http://arxiv.org/abs/2407.06259v1)|[link](https://github.com/cosmostatistics/ebms_mcmc)|
-|**2020-08-20**|**Minimum discrepancy principle strategy for choosing $k$ in $k$-NN regression**|Yaroslav Averyanov et.al.|[2008.08718v7](http://arxiv.org/abs/2008.08718v7)|[link](https://github.com/YaroslavAveryanov/Minimum-discrepancy-principle-for-choosing-k)|
-|**2024-04-24**|**Offset of M54 from the Sagittarius Dwarf Spheroidal Galaxy**|Zhaozhou An et.al.|[2404.16184v2](http://arxiv.org/abs/2404.16184v2)|null|
-|**2024-07-06**|**Bayesian network-guided sparse regression with flexible varying effects**|Yangfan Ren et.al.|[2407.05089v1](http://arxiv.org/abs/2407.05089v1)|null|
