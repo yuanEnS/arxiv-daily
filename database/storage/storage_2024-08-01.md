@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-01 07:23:50 Asia/Shanghai
+ Automated deployment @ 2024-08-01 19:22:58 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,12 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease Prediction Based on Intestinal Flora**|Dingkun Liu et.al.|[2407.21714v1](http://arxiv.org/abs/2407.21714v1)|null|
+|**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635v1](http://arxiv.org/abs/2407.21635v1)|null|
+|**2024-07-31**|**MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient Diagnosis Using Microscopy Images**|JongWoo Kim et.al.|[2407.21604v1](http://arxiv.org/abs/2407.21604v1)|null|
+|**2024-07-31**|**GEGA: Graph Convolutional Networks and Evidence Retrieval Guided Attention for Enhanced Document-level Relation Extraction**|Yanxu Mao et.al.|[2407.21384v1](http://arxiv.org/abs/2407.21384v1)|null|
+|**2024-01-18**|**Disentangled Condensation for Large-scale Graphs**|Zhenbang Xiao et.al.|[2401.12231v2](http://arxiv.org/abs/2401.12231v2)|[link](https://github.com/banghonor/disco)|
+|**2024-07-30**|**GNUMAP: A Parameter-Free Approach to Unsupervised Dimensionality Reduction via Graph Neural Networks**|Jihee You et.al.|[2407.21236v1](http://arxiv.org/abs/2407.21236v1)|null|
 |**2024-07-30**|**What Are Good Positional Encodings for Directed Graphs?**|Yinan Huang et.al.|[2407.20912v1](http://arxiv.org/abs/2407.20912v1)|[link](https://github.com/graph-com/multi-q-maglap)|
 |**2023-12-15**|**Dynamic Spiking Framework for Graph Neural Networks**|Nan Yin et.al.|[2401.05373v3](http://arxiv.org/abs/2401.05373v3)|null|
 |**2024-07-30**|**Leveraging Multi-facet Paths for Heterogeneous Graph Representation Learning**|JongWoo Kim et.al.|[2407.20648v1](http://arxiv.org/abs/2407.20648v1)|null|
@@ -26,18 +32,14 @@
 |**2024-07-30**|**Optimizing Long-tailed Link Prediction in Graph Neural Networks through Structure Representation Enhancement**|Yakun Wang et.al.|[2407.20499v1](http://arxiv.org/abs/2407.20499v1)|null|
 |**2024-07-30**|**Relaxed Equivariant Graph Neural Networks**|Elyssa Hofgard et.al.|[2407.20471v1](http://arxiv.org/abs/2407.20471v1)|null|
 |**2024-07-29**|**Unified Deep Learning Framework for Many-Body Quantum Chemistry via Green's Functions**|Christian Venturella et.al.|[2407.20384v1](http://arxiv.org/abs/2407.20384v1)|null|
-|**2024-07-29**|**rLLM: Relational Table Learning with LLMs**|Weichen Li et.al.|[2407.20157v1](http://arxiv.org/abs/2407.20157v1)|[link](https://github.com/rllm-project/rllm)|
-|**2024-07-29**|**xAI-Drop: Don't Use What You Cannot Explain**|Vincenzo Marco De Luca et.al.|[2407.20067v1](http://arxiv.org/abs/2407.20067v1)|null|
-|**2023-06-08**|**CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification**|Nan Yin et.al.|[2306.04979v3](http://arxiv.org/abs/2306.04979v3)|null|
-|**2024-07-29**|**RelBench: A Benchmark for Deep Learning on Relational Databases**|Joshua Robinson et.al.|[2407.20060v1](http://arxiv.org/abs/2407.20060v1)|[link](https://github.com/snap-stanford/relbench)|
-|**2023-07-20**|**A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System Fault Detection**|Tianfu Li et.al.|[2307.10676v2](http://arxiv.org/abs/2307.10676v2)|null|
-|**2022-01-11**|**Quasi-Framelets: Robust Graph Neural Networks via Adaptive Framelet Convolution**|Mengxi Yang et.al.|[2201.04728v2](http://arxiv.org/abs/2201.04728v2)|[link](https://github.com/mengxang/quasi-framelet)|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-07-19**|**Is $F_1$ Score Suboptimal for Cybersecurity Models? Introducing $C_{score}$, a Cost-Aware Alternative for Model Assessment**|Manish Marwah et.al.|[2407.14664v2](http://arxiv.org/abs/2407.14664v2)|null|
+|**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach et.al.|[2407.21476v1](http://arxiv.org/abs/2407.21476v1)|null|
 |**2023-03-24**|**Sequential Knockoffs for Variable Selection in Reinforcement Learning**|Tao Ma et.al.|[2303.14281v2](http://arxiv.org/abs/2303.14281v2)|null|
 |**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124v2](http://arxiv.org/abs/2407.20124v2)|[link](https://github.com/zeyuzhangzyz/axiomvision)|
 |**2024-07-30**|**Laplace approximation for Bayesian variable selection via Le Cam's one-step procedure**|Tianrui Hou et.al.|[2407.20580v1](http://arxiv.org/abs/2407.20580v1)|null|
@@ -51,29 +53,8 @@
 |**2023-09-28**|**Regularization and Model Selection for Ordinal-on-Ordinal Regression with Applications to Food Products' Testing and Survey Data**|Aisouda Hoshiyar et.al.|[2309.16373v2](http://arxiv.org/abs/2309.16373v2)|[link](https://github.com/ahoshiyar/ordPens)|
 |**2024-05-01**|**Optimal Bias-Correction and Valid Inference in High-Dimensional Ridge Regression: A Closed-Form Solution**|Zhaoxing Gao et.al.|[2405.00424v2](http://arxiv.org/abs/2405.00424v2)|null|
 |**2023-06-29**|**Footprints of the QCD Crossover on Cosmological Gravitational Waves at Pulsar Timing Arrays**|Gabriele Franciolini et.al.|[2306.17136v3](http://arxiv.org/abs/2306.17136v3)|null|
-|**2024-03-22**|**An Experimental Study on the Rashomon Effect of Balancing Methods in Imbalanced Classification**|Mustafa Cavus et.al.|[2405.01557v4](http://arxiv.org/abs/2405.01557v4)|[link](https://github.com/mcavs/ECML2024_Imbalanced_Rashomon_Paper)|
-|**2024-07-23**|**Robust and consistent model evaluation criteria in high-dimensional regression**|Sumito Kurata et.al.|[2407.16116v2](http://arxiv.org/abs/2407.16116v2)|null|
 
 ## Non-Euclidean Staistics
-
-### Non Eculidean
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|null|
-|**2024-07-27**|**Map-Matching Queries under Fréchet Distance on Low-Density Spanners**|Kevin Buchin et.al.|[2407.19304v1](http://arxiv.org/abs/2407.19304v1)|null|
-|**2024-07-25**|**Starting Small: Prioritizing Safety over Efficacy in Randomized Experiments Using the Exact Finite Sample Likelihood**|Neil Christy et.al.|[2407.18206v1](http://arxiv.org/abs/2407.18206v1)|null|
-|**2024-07-23**|**Birkhoff sum convergence of Fréchet observables to stable laws for Gibbs-Markov systems and applications**|An Chen et.al.|[2407.16632v1](http://arxiv.org/abs/2407.16632v1)|null|
-|**2024-07-23**|**Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos**|Jiahe Liu et.al.|[2407.16124v1](http://arxiv.org/abs/2407.16124v1)|[link](https://github.com/ljh0v0/fmd-frechet-motion-distance)|
-|**2024-07-22**|**Huber means on Riemannian manifolds**|Jongmin Lee et.al.|[2407.15764v1](http://arxiv.org/abs/2407.15764v1)|null|
-|**2024-07-21**|**MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI**|Malek Ben Alaya et.al.|[2407.15270v1](http://arxiv.org/abs/2407.15270v1)|null|
-|**2021-11-06**|**Parametric and nonparametric probability distribution estimators of sample maximum**|Taku Moriyama et.al.|[2111.03765v5](http://arxiv.org/abs/2111.03765v5)|null|
-|**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v1](http://arxiv.org/abs/2407.12261v1)|null|
-|**2024-06-05**|**Velichko's notions close to sequentially separability and their hereditary variants in $C_p$-theory**|Alexander V. Osipov et.al.|[2406.03014v2](http://arxiv.org/abs/2406.03014v2)|null|
-|**2024-07-12**|**Fast and Accurate Multi-Agent Trajectory Prediction For Crowded Unknown Scenes**|Xiuye Tao et.al.|[2407.09068v1](http://arxiv.org/abs/2407.09068v1)|null|
-|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v1](http://arxiv.org/abs/2407.08659v1)|null|
-|**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v2](http://arxiv.org/abs/2407.03101v2)|[link](https://github.com/sarielhp/frechetdist.jl)|
-|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095v1](http://arxiv.org/abs/2407.06095v1)|null|
-|**2024-04-05**|**A single shooting method with approximate Fréchet derivative for computing geodesics on the Stiefel manifold**|Marco Sutti et.al.|[2404.04089v2](http://arxiv.org/abs/2404.04089v2)|null|
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
@@ -93,3 +74,22 @@
 |**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
 |**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v2](http://arxiv.org/abs/2207.03943v2)|null|
 |**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
+
+### Non Eculidean
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v1](http://arxiv.org/abs/2407.21407v1)|null|
+|**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|null|
+|**2024-07-27**|**Map-Matching Queries under Fréchet Distance on Low-Density Spanners**|Kevin Buchin et.al.|[2407.19304v1](http://arxiv.org/abs/2407.19304v1)|null|
+|**2024-07-25**|**Starting Small: Prioritizing Safety over Efficacy in Randomized Experiments Using the Exact Finite Sample Likelihood**|Neil Christy et.al.|[2407.18206v1](http://arxiv.org/abs/2407.18206v1)|null|
+|**2024-07-23**|**Birkhoff sum convergence of Fréchet observables to stable laws for Gibbs-Markov systems and applications**|An Chen et.al.|[2407.16632v1](http://arxiv.org/abs/2407.16632v1)|null|
+|**2024-07-23**|**Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos**|Jiahe Liu et.al.|[2407.16124v1](http://arxiv.org/abs/2407.16124v1)|[link](https://github.com/ljh0v0/fmd-frechet-motion-distance)|
+|**2024-07-22**|**Huber means on Riemannian manifolds**|Jongmin Lee et.al.|[2407.15764v1](http://arxiv.org/abs/2407.15764v1)|null|
+|**2024-07-21**|**MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI**|Malek Ben Alaya et.al.|[2407.15270v1](http://arxiv.org/abs/2407.15270v1)|null|
+|**2021-11-06**|**Parametric and nonparametric probability distribution estimators of sample maximum**|Taku Moriyama et.al.|[2111.03765v5](http://arxiv.org/abs/2111.03765v5)|null|
+|**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v1](http://arxiv.org/abs/2407.12261v1)|null|
+|**2024-06-05**|**Velichko's notions close to sequentially separability and their hereditary variants in $C_p$-theory**|Alexander V. Osipov et.al.|[2406.03014v2](http://arxiv.org/abs/2406.03014v2)|null|
+|**2024-07-12**|**Fast and Accurate Multi-Agent Trajectory Prediction For Crowded Unknown Scenes**|Xiuye Tao et.al.|[2407.09068v1](http://arxiv.org/abs/2407.09068v1)|null|
+|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v1](http://arxiv.org/abs/2407.08659v1)|null|
+|**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v2](http://arxiv.org/abs/2407.03101v2)|[link](https://github.com/sarielhp/frechetdist.jl)|
+|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095v1](http://arxiv.org/abs/2407.06095v1)|null|
