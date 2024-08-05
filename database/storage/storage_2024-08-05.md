@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-05 07:25:02 Asia/Shanghai
+ Automated deployment @ 2024-08-05 19:21:50 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-22**|**Bond Graphs for multi-physics informed Neural Networks for multi-variate time series**|Alexis-Raja Brachet et.al.|[2405.13586v2](http://arxiv.org/abs/2405.13586v2)|null|
+|**2024-08-02**|**Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities**|Pablo Galván et.al.|[2408.01239v1](http://arxiv.org/abs/2408.01239v1)|null|
+|**2024-08-02**|**HeteroMorpheus: Universal Control Based on Morphological Heterogeneity Modeling**|YiFan Hao et.al.|[2408.01230v1](http://arxiv.org/abs/2408.01230v1)|null|
+|**2023-12-13**|**Unsupervised Graph-based Learning Method for Sub-band Allocation in 6G Subnetworks**|Daniel Abode et.al.|[2401.00950v2](http://arxiv.org/abs/2401.00950v2)|null|
+|**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v3](http://arxiv.org/abs/2312.08372v3)|null|
+|**2024-08-02**|**GNN-MolKAN: Harnessing the Power of KAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018v1](http://arxiv.org/abs/2408.01018v1)|null|
+|**2024-08-02**|**GraphAge: Unleashing the power of Graph Neural Network to Decode Epigenetic Aging**|Saleh Sakib Ahmed et.al.|[2408.00984v1](http://arxiv.org/abs/2408.00984v1)|null|
+|**2024-08-01**|**Parkinson's Disease Detection from Resting State EEG using Multi-Head Graph Structure Learning with Gradient Weighted Graph Attention Explanations**|Christopher Neves et.al.|[2408.00906v1](http://arxiv.org/abs/2408.00906v1)|null|
 |**2024-08-01**|**You Can't Ignore Either: Unifying Structure and Feature Denoising for Robust Graph Learning**|Tianmeng Yang et.al.|[2408.00700v1](http://arxiv.org/abs/2408.00700v1)|null|
 |**2023-10-22**|**Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems**|Abhay Sobhanan et.al.|[2310.14157v3](http://arxiv.org/abs/2310.14157v3)|null|
 |**2024-04-16**|**Graph neural network-based surrogate modelling for real-time hydraulic prediction of urban drainage networks**|Zhiyu Zhang et.al.|[2404.10324v2](http://arxiv.org/abs/2404.10324v2)|[link](https://github.com/Zhiyu014/GNN-UDS)|
@@ -24,14 +32,6 @@
 |**2024-08-01**|**Contrastive Graph Representation Learning with Adversarial Cross-view Reconstruction and Information Bottleneck**|Yuntao Shou et.al.|[2408.00295v1](http://arxiv.org/abs/2408.00295v1)|null|
 |**2024-08-01**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290v1](http://arxiv.org/abs/2408.00290v1)|null|
 |**2024-08-01**|**CDFGNN: a Systematic Design of Cache-based Distributed Full-Batch Graph Neural Network Training with Communication Reduction**|Shuai Zhang et.al.|[2408.00232v1](http://arxiv.org/abs/2408.00232v1)|null|
-|**2022-02-11**|**From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach**|Yu Zheng et.al.|[2202.05525v2](http://arxiv.org/abs/2202.05525v2)|null|
-|**2023-11-11**|**Asymmetric Contrastive Multimodal Learning for Advancing Chemical Understanding**|Hao Xu et.al.|[2311.06456v3](http://arxiv.org/abs/2311.06456v3)|null|
-|**2024-07-31**|**Non-convolutional Graph Neural Networks**|Yuanqing Wang et.al.|[2408.00165v1](http://arxiv.org/abs/2408.00165v1)|null|
-|**2024-07-31**|**UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease Prediction Based on Intestinal Flora**|Dingkun Liu et.al.|[2407.21714v1](http://arxiv.org/abs/2407.21714v1)|null|
-|**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635v1](http://arxiv.org/abs/2407.21635v1)|null|
-|**2024-07-31**|**MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient Diagnosis Using Microscopy Images**|JongWoo Kim et.al.|[2407.21604v1](http://arxiv.org/abs/2407.21604v1)|null|
-|**2024-07-31**|**GEGA: Graph Convolutional Networks and Evidence Retrieval Guided Attention for Enhanced Document-level Relation Extraction**|Yanxu Mao et.al.|[2407.21384v1](http://arxiv.org/abs/2407.21384v1)|null|
-|**2024-01-18**|**Disentangled Condensation for Large-scale Graphs**|Zhenbang Xiao et.al.|[2401.12231v2](http://arxiv.org/abs/2401.12231v2)|[link](https://github.com/banghonor/disco)|
 
 ## Non-Euclidean Staistics
 
@@ -57,6 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-04-29**|**A faster algorithm for the Fréchet distance in 1D for the imbalanced case**|Lotte Blank et.al.|[2404.18738v2](http://arxiv.org/abs/2404.18738v2)|null|
 |**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v1](http://arxiv.org/abs/2407.21407v1)|null|
 |**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|null|
 |**2024-07-27**|**Map-Matching Queries under Fréchet Distance on Low-Density Spanners**|Kevin Buchin et.al.|[2407.19304v1](http://arxiv.org/abs/2407.19304v1)|null|
@@ -71,13 +72,15 @@
 |**2024-07-12**|**Fast and Accurate Multi-Agent Trajectory Prediction For Crowded Unknown Scenes**|Xiuye Tao et.al.|[2407.09068v1](http://arxiv.org/abs/2407.09068v1)|null|
 |**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v1](http://arxiv.org/abs/2407.08659v1)|null|
 |**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v2](http://arxiv.org/abs/2407.03101v2)|[link](https://github.com/sarielhp/frechetdist.jl)|
-|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095v1](http://arxiv.org/abs/2407.06095v1)|null|
 
 ## Variable Selection
 
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-05-06**|**Don't Waste Your Time: Early Stopping Cross-Validation**|Edward Bergman et.al.|[2405.03389v2](http://arxiv.org/abs/2405.03389v2)|[link](https://github.com/automl/dontwasteyourtime-early-stopping)|
+|**2024-08-02**|**The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models**|Hannah Chen et.al.|[2408.01285v1](http://arxiv.org/abs/2408.01285v1)|null|
+|**2024-08-02**|**GAMBAS -- Fast Beam Arrangement Selection for Proton Therapy using a Nearest Neighbour Model**|Renato Bellotti et.al.|[2408.01206v1](http://arxiv.org/abs/2408.01206v1)|null|
 |**2024-08-01**|**A Dirichlet stochastic block model for composition-weighted networks**|Iuliia Promskaia et.al.|[2408.00651v1](http://arxiv.org/abs/2408.00651v1)|null|
 |**2024-03-07**|**Differentiable master equation solver for quantum device characterisation**|David L. Craig et.al.|[2403.04678v2](http://arxiv.org/abs/2403.04678v2)|null|
 |**2022-01-13**|**Space-time extremes of severe US thunderstorm environments**|Jonathan Koh et.al.|[2201.05102v3](http://arxiv.org/abs/2201.05102v3)|null|
@@ -90,6 +93,3 @@
 |**2024-07-29**|**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**|Xiangxiang Dai et.al.|[2407.20124v2](http://arxiv.org/abs/2407.20124v2)|[link](https://github.com/zeyuzhangzyz/axiomvision)|
 |**2024-07-30**|**Laplace approximation for Bayesian variable selection via Le Cam's one-step procedure**|Tianrui Hou et.al.|[2407.20580v1](http://arxiv.org/abs/2407.20580v1)|null|
 |**2024-07-29**|**FiCo-ITR: bridging fine-grained and coarse-grained image-text retrieval for comparative performance analysis**|Mikel Williams-Lekuona et.al.|[2407.20114v1](http://arxiv.org/abs/2407.20114v1)|null|
-|**2023-12-21**|**A Bayesian approach to functional regression: theory and computation**|José R. Berrendero et.al.|[2312.14086v2](http://arxiv.org/abs/2312.14086v2)|[link](https://github.com/antcc/rk-bfr-jump)|
-|**2023-12-29**|**Doublethink: simultaneous Bayesian-frequentist model-averaged hypothesis testing**|Helen R. Fryer et.al.|[2312.17566v2](http://arxiv.org/abs/2312.17566v2)|null|
-|**2024-07-26**|**Binary Bleed: Fast Distributed and Parallel Method for Automatic Model Selection**|Ryan Barron et.al.|[2407.19125v1](http://arxiv.org/abs/2407.19125v1)|null|
