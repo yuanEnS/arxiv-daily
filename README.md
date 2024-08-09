@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-09 07:24:39 Asia/Shanghai
+ Automated deployment @ 2024-08-09 19:22:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,6 +17,14 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-08**|**Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs**|Daniil A. Boiko et.al.|[2408.04520v1](http://arxiv.org/abs/2408.04520v1)|[link](https://github.com/gomesgroup/simg)|
+|**2024-08-08**|**Understanding and Modeling Job Marketplace with Pretrained Language Models**|Yaochen Zhu et.al.|[2408.04381v1](http://arxiv.org/abs/2408.04381v1)|null|
+|**2024-01-15**|**Multimodal Language and Graph Learning of Adsorption Configuration in Catalysis**|Janghoon Ock et.al.|[2401.07408v3](http://arxiv.org/abs/2401.07408v3)|[link](https://github.com/hoon-ock/multi-view)|
+|**2024-08-08**|**Uncertainty-Aware Crime Prediction With Spatial Temporal Multivariate Graph Neural Networks**|Zepu Wang et.al.|[2408.04193v1](http://arxiv.org/abs/2408.04193v1)|null|
+|**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174v1](http://arxiv.org/abs/2408.04174v1)|null|
+|**2024-04-08**|**Rapid and Precise Topological Comparison with Merge Tree Neural Networks**|Yu Qin et.al.|[2404.05879v2](http://arxiv.org/abs/2404.05879v2)|null|
+|**2024-08-07**|**Heterogeneous Graph Sequence Neural Networks for Dynamic Traffic Assignment**|Tong Liu et.al.|[2408.04131v1](http://arxiv.org/abs/2408.04131v1)|null|
+|**2024-08-07**|**Deep Generative Models for Subgraph Prediction**|Erfaneh Mahmoudzadeh et.al.|[2408.04053v1](http://arxiv.org/abs/2408.04053v1)|null|
 |**2024-08-07**|**Knowledge Probing for Graph Representation Learning**|Mingyu Zhao et.al.|[2408.03877v1](http://arxiv.org/abs/2408.03877v1)|null|
 |**2024-06-03**|**AIFS -- ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465v2](http://arxiv.org/abs/2406.01465v2)|null|
 |**2024-08-07**|**Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks**|Jie Peng et.al.|[2408.03669v1](http://arxiv.org/abs/2408.03669v1)|null|
@@ -24,14 +32,27 @@
 |**2024-08-06**|**MLC-GCN: Multi-Level Generated Connectome Based GCN for AD Analysis**|Wenqi Zhu et.al.|[2408.03358v1](http://arxiv.org/abs/2408.03358v1)|null|
 |**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195v1](http://arxiv.org/abs/2408.03195v1)|null|
 |**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166v1](http://arxiv.org/abs/2408.03166v1)|null|
-|**2023-05-17**|**SIGMA: Similarity-based Efficient Global Aggregation for Heterophilous Graph Neural Networks**|Haoyu Liu et.al.|[2305.09958v3](http://arxiv.org/abs/2305.09958v3)|[link](https://github.com/conferencescode/sigma)|
-|**2024-08-06**|**SETN: Stock Embedding Enhanced with Textual and Network Information**|Takehiro Takayanagi et.al.|[2408.02899v1](http://arxiv.org/abs/2408.02899v1)|null|
-|**2023-09-15**|**Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach**|Karuna Bhaila et.al.|[2309.08569v2](http://arxiv.org/abs/2309.08569v2)|[link](https://github.com/karuna-bhaila/rgnn)|
-|**2022-11-08**|**Review of coreference resolution in English and Persian**|Hassan Haji Mohammadi et.al.|[2211.04428v2](http://arxiv.org/abs/2211.04428v2)|null|
-|**2024-08-05**|**Algorithm-Informed Graph Neural Networks for Leakage Detection and Localization in Water Distribution Networks**|Zepeng Zhang et.al.|[2408.02797v1](http://arxiv.org/abs/2408.02797v1)|null|
-|**2024-06-17**|**Scalable Expressiveness through Preprocessed Graph Perturbations**|Danial Saber et.al.|[2406.11714v2](http://arxiv.org/abs/2406.11714v2)|[link](https://github.com/Danial-sb/SE2P)|
-|**2024-07-01**|**Bridging Smoothness and Approximation: Theoretical Insights into Over-Smoothing in Graph Neural Networks**|Guangrui Yang et.al.|[2407.01281v2](http://arxiv.org/abs/2407.01281v2)|null|
-|**2024-08-04**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111v1](http://arxiv.org/abs/2408.02111v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
+|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v1](http://arxiv.org/abs/2408.04359v1)|null|
+|**2024-08-08**|**A robust approach for generalized linear models based on maximum Lq-likelihood procedure**|Felipe Osorio et.al.|[2408.04176v1](http://arxiv.org/abs/2408.04176v1)|null|
+|**2024-08-07**|**Learning Rate-Free Reinforcement Learning: A Case for Model Selection with Non-Stationary Objectives**|Aida Afshar et.al.|[2408.04046v1](http://arxiv.org/abs/2408.04046v1)|null|
+|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v3](http://arxiv.org/abs/2309.03742v3)|[link](https://github.com/yannmclatchie/model-selection-uncertainty)|
+|**2023-06-27**|**Advances in projection predictive inference**|Yann McLatchie et.al.|[2306.15581v2](http://arxiv.org/abs/2306.15581v2)|[link](https://github.com/yannmclatchie/projpred-workflow)|
+|**2019-12-07**|**Deep Variable-Block Chain with Adaptive Variable Selection**|Lixiang Zhang et.al.|[1912.03573v2](http://arxiv.org/abs/1912.03573v2)|null|
+|**2024-08-05**|**Cosmological constraints from calibrated $E_p-E_{iso}$ gamma-ray burst correlation by using DESI 2024 data release**|Anna Chiara Alfano et.al.|[2408.02536v1](http://arxiv.org/abs/2408.02536v1)|null|
+|**2024-01-24**|**Fast Partition-Based Cross-Validation With Centering and Scaling for $\mathbf{X}^\mathbf{T}\mathbf{X}$ and $\mathbf{X}^\mathbf{T}\mathbf{Y}$**|Ole-Christian Galbo Engstrøm et.al.|[2401.13185v2](http://arxiv.org/abs/2401.13185v2)|null|
+|**2024-08-05**|**Hardware Aware Ensemble Selection for Balancing Predictive Accuracy and Cost**|Jannis Maier et.al.|[2408.02280v1](http://arxiv.org/abs/2408.02280v1)|[link](https://github.com/atraxus/ha-es)|
+|**2024-04-07**|**Clinical Trials Protocol Authoring using LLMs**|Morteza Maleki et.al.|[2404.05044v2](http://arxiv.org/abs/2404.05044v2)|null|
+|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v1](http://arxiv.org/abs/2408.02060v1)|null|
+|**2024-08-01**|**Within-vector viral dynamics challenges how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya**|Léa Loisel et.al.|[2408.00409v2](http://arxiv.org/abs/2408.00409v2)|null|
+|**2024-05-06**|**Don't Waste Your Time: Early Stopping Cross-Validation**|Edward Bergman et.al.|[2405.03389v2](http://arxiv.org/abs/2405.03389v2)|[link](https://github.com/automl/dontwasteyourtime-early-stopping)|
+|**2024-08-02**|**The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models**|Hannah Chen et.al.|[2408.01285v1](http://arxiv.org/abs/2408.01285v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2024-07-12**|**Fast and Accurate Multi-Agent Trajectory Prediction For Crowded Unknown Scenes**|Xiuye Tao et.al.|[2407.09068v1](http://arxiv.org/abs/2407.09068v1)|null|
 |**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v1](http://arxiv.org/abs/2407.08659v1)|null|
 |**2024-07-03**|**The Fréchet Distance Unleashed: Approximating a Dog with a Frog**|Sariel Har-Peled et.al.|[2407.03101v2](http://arxiv.org/abs/2407.03101v2)|[link](https://github.com/sarielhp/frechetdist.jl)|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v3](http://arxiv.org/abs/2309.03742v3)|[link](https://github.com/yannmclatchie/model-selection-uncertainty)|
-|**2023-06-27**|**Advances in projection predictive inference**|Yann McLatchie et.al.|[2306.15581v2](http://arxiv.org/abs/2306.15581v2)|[link](https://github.com/yannmclatchie/projpred-workflow)|
-|**2019-12-07**|**Deep Variable-Block Chain with Adaptive Variable Selection**|Lixiang Zhang et.al.|[1912.03573v2](http://arxiv.org/abs/1912.03573v2)|null|
-|**2024-08-05**|**Cosmological constraints from calibrated $E_p-E_{iso}$ gamma-ray burst correlation by using DESI 2024 data release**|Anna Chiara Alfano et.al.|[2408.02536v1](http://arxiv.org/abs/2408.02536v1)|null|
-|**2024-01-24**|**Fast Partition-Based Cross-Validation With Centering and Scaling for $\mathbf{X}^\mathbf{T}\mathbf{X}$ and $\mathbf{X}^\mathbf{T}\mathbf{Y}$**|Ole-Christian Galbo Engstrøm et.al.|[2401.13185v2](http://arxiv.org/abs/2401.13185v2)|null|
-|**2024-08-05**|**Hardware Aware Ensemble Selection for Balancing Predictive Accuracy and Cost**|Jannis Maier et.al.|[2408.02280v1](http://arxiv.org/abs/2408.02280v1)|[link](https://github.com/atraxus/ha-es)|
-|**2024-04-07**|**Clinical Trials Protocol Authoring using LLMs**|Morteza Maleki et.al.|[2404.05044v2](http://arxiv.org/abs/2404.05044v2)|null|
-|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060v1](http://arxiv.org/abs/2408.02060v1)|null|
-|**2024-08-01**|**Within-vector viral dynamics challenges how to model the extrinsic incubation period for major arboviruses: dengue, Zika, and chikungunya**|Léa Loisel et.al.|[2408.00409v2](http://arxiv.org/abs/2408.00409v2)|null|
-|**2024-05-06**|**Don't Waste Your Time: Early Stopping Cross-Validation**|Edward Bergman et.al.|[2405.03389v2](http://arxiv.org/abs/2405.03389v2)|[link](https://github.com/automl/dontwasteyourtime-early-stopping)|
-|**2024-08-02**|**The Mismeasure of Man and Models: Evaluating Allocational Harms in Large Language Models**|Hannah Chen et.al.|[2408.01285v1](http://arxiv.org/abs/2408.01285v1)|null|
-|**2024-08-02**|**GAMBAS -- Fast Beam Arrangement Selection for Proton Therapy using a Nearest Neighbour Model**|Renato Bellotti et.al.|[2408.01206v1](http://arxiv.org/abs/2408.01206v1)|null|
-|**2024-08-01**|**A Dirichlet stochastic block model for composition-weighted networks**|Iuliia Promskaia et.al.|[2408.00651v1](http://arxiv.org/abs/2408.00651v1)|null|
-|**2024-03-07**|**Differentiable master equation solver for quantum device characterisation**|David L. Craig et.al.|[2403.04678v2](http://arxiv.org/abs/2403.04678v2)|null|
-|**2022-01-13**|**Space-time extremes of severe US thunderstorm environments**|Jonathan Koh et.al.|[2201.05102v3](http://arxiv.org/abs/2201.05102v3)|null|
