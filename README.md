@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-15 07:40:44 Asia/Shanghai
+ Automated deployment @ 2024-08-15 19:21:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,27 +17,49 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661v1](http://arxiv.org/abs/2408.07661v1)|null|
+|**2024-07-08**|**MEEG and AT-DGNN: Improving EEG Emotion Recognition with Music Introducing and Graph-based Learning**|Minghao Xiao et.al.|[2407.05550v3](http://arxiv.org/abs/2407.05550v3)|null|
+|**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569v1](http://arxiv.org/abs/2408.07569v1)|null|
+|**2024-02-15**|**Reconstructing short-lived particles using hypergraph representation learning**|Callum Birch-Sykes et.al.|[2402.10149v2](http://arxiv.org/abs/2402.10149v2)|null|
+|**2024-03-14**|**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**|Zhaoliang Chen et.al.|[2403.09171v2](http://arxiv.org/abs/2403.09171v2)|null|
+|**2022-09-27**|**A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective**|Chaoqi Chen et.al.|[2209.13232v4](http://arxiv.org/abs/2209.13232v4)|null|
+|**2024-02-02**|**Graph Neural Networks in EEG-based Emotion Recognition: A Survey**|Chenyu Liu et.al.|[2402.01138v2](http://arxiv.org/abs/2402.01138v2)|null|
+|**2024-08-14**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340v1](http://arxiv.org/abs/2408.07340v1)|[link](https://github.com/jypeng28/mse-gnn)|
+|**2024-08-14**|**RSEA-MVGNN: Multi-View Graph Neural Network with Reliable Structural Enhancement and Aggregation**|Junyu Chen et.al.|[2408.07331v1](http://arxiv.org/abs/2408.07331v1)|null|
+|**2023-06-12**|**Graph Agent Network: Empowering Nodes with Inference Capabilities for Adversarial Resilience**|Ao Liu et.al.|[2306.06909v3](http://arxiv.org/abs/2306.06909v3)|null|
+|**2024-08-13**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233v1](http://arxiv.org/abs/2408.07233v1)|null|
+|**2024-08-13**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191v1](http://arxiv.org/abs/2408.07191v1)|null|
 |**2023-10-19**|**The logic of rational graph neural networks**|Sammy Khalife et.al.|[2310.13139v8](http://arxiv.org/abs/2310.13139v8)|null|
 |**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038v1](http://arxiv.org/abs/2408.07038v1)|null|
 |**2024-03-24**|**SSHPool: The Separated Subgraph-based Hierarchical Pooling**|Zhuo Xu et.al.|[2403.16133v2](http://arxiv.org/abs/2403.16133v2)|null|
-|**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993v1](http://arxiv.org/abs/2408.06993v1)|[link](https://github.com/starjob42/datasetjsp)|
-|**2024-05-27**|**FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks**|Renqiang Luo et.al.|[2405.17034v2](http://arxiv.org/abs/2405.17034v2)|null|
-|**2024-05-01**|**How Graph Neural Network Interatomic Potentials Extrapolate: Role of the Message-Passing Algorithm**|Sungwoo Kang et.al.|[2405.00290v2](http://arxiv.org/abs/2405.00290v2)|null|
-|**2023-08-17**|**Interpretable Graph Neural Networks for Tabular Data**|Amr Alkhatib et.al.|[2308.08945v3](http://arxiv.org/abs/2308.08945v3)|[link](https://github.com/amrmalkhatib/ignnet)|
-|**2023-04-21**|**Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs**|Matthieu Cordonnier et.al.|[2304.11140v3](http://arxiv.org/abs/2304.11140v3)|null|
-|**2024-08-13**|**Graph Neural Network Approach to Predict the Effects of Road Capacity Reduction Policies: A Case Study for Paris, France**|Elena Natterer et.al.|[2408.06762v1](http://arxiv.org/abs/2408.06762v1)|null|
-|**2024-08-13**|**Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models**|Jialiang Wang et.al.|[2408.06717v1](http://arxiv.org/abs/2408.06717v1)|null|
-|**2024-08-13**|**RW-NSGCN: A Robust Approach to Structural Attacks via Negative Sampling**|Shuqi He et.al.|[2408.06665v1](http://arxiv.org/abs/2408.06665v1)|null|
-|**2024-08-10**|**A Laplacian-based Quantum Graph Neural Network for Semi-Supervised Learning**|Hamed Gholipour et.al.|[2408.05498v2](http://arxiv.org/abs/2408.05498v2)|null|
-|**2023-11-12**|**GraNNDis: Efficient Unified Distributed Training Framework for Deep GNNs on Large Clusters**|Jaeyong Song et.al.|[2311.06837v2](http://arxiv.org/abs/2311.06837v2)|null|
-|**2024-02-20**|**Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation**|Xiangyu Zhao et.al.|[2402.13033v2](http://arxiv.org/abs/2402.13033v2)|[link](https://github.com/victorzxy/topoaug)|
-|**2024-08-12**|**From Graphs to Qubits: A Critical Review of Quantum Graph Neural Networks**|Andrea Ceschini et.al.|[2408.06524v1](http://arxiv.org/abs/2408.06524v1)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14**|**Fast Bayesian inference in a class of sparse linear mixed effects models**|M-Z. Spyropoulou et.al.|[2408.07365v1](http://arxiv.org/abs/2408.07365v1)|null|
+|**2024-08-13**|**Estimating the FDR of variable selection**|Yixiang Luo et.al.|[2408.07231v1](http://arxiv.org/abs/2408.07231v1)|null|
+|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v1](http://arxiv.org/abs/2408.07066v1)|null|
+|**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v2](http://arxiv.org/abs/2402.18450v2)|null|
+|**2024-07-20**|**Improving Bias Correction Standards by Quantifying its Effects on Treatment Outcomes**|Alexandre Abraham et.al.|[2407.14861v2](http://arxiv.org/abs/2407.14861v2)|null|
+|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v4](http://arxiv.org/abs/2303.03649v4)|[link](https://github.com/hiendn/panic)|
+|**2024-04-15**|**A Realistic Protocol for Evaluation of Weakly Supervised Object Localization**|Shakeeb Murtaza et.al.|[2404.10034v2](http://arxiv.org/abs/2404.10034v2)|[link](https://github.com/shakeebmurtaza/wsol_model_selection)|
+|**2023-10-22**|**Variable Selection and Minimax Prediction in High-dimensional Functional Linear Model**|Xingche Guo et.al.|[2310.14419v3](http://arxiv.org/abs/2310.14419v3)|null|
+|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v6](http://arxiv.org/abs/2401.03776v6)|null|
+|**2023-04-18**|**The Adaptive $τ$-Lasso: Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v3](http://arxiv.org/abs/2304.09310v3)|null|
+|**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
+|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v1](http://arxiv.org/abs/2408.04359v1)|null|
+|**2024-08-08**|**A robust approach for generalized linear models based on maximum Lq-likelihood procedure**|Felipe Osorio et.al.|[2408.04176v1](http://arxiv.org/abs/2408.04176v1)|null|
+|**2024-08-07**|**Learning Rate-Free Reinforcement Learning: A Case for Model Selection with Non-Stationary Objectives**|Aida Afshar et.al.|[2408.04046v1](http://arxiv.org/abs/2408.04046v1)|[link](https://github.com/aidaafshar/learning-rate-free-reinforcement-learning)|
+|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v3](http://arxiv.org/abs/2309.03742v3)|[link](https://github.com/yannmclatchie/model-selection-uncertainty)|
 
 ## Non-Euclidean Staistics
 
 ### Frechet Mean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14**|**Uniform Consistency of Generalized Fréchet Means**|Andrea Aveni et.al.|[2408.07534v1](http://arxiv.org/abs/2408.07534v1)|null|
 |**2024-01-06**|**Quotient geometry of bounded or fixed rank correlation matrices**|Hengchao Chen et.al.|[2401.03126v3](http://arxiv.org/abs/2401.03126v3)|null|
 |**2024-07-22**|**Huber means on Riemannian manifolds**|Jongmin Lee et.al.|[2407.15764v1](http://arxiv.org/abs/2407.15764v1)|null|
 |**2024-05-10**|**Random matrix theory improved Fréchet mean of symmetric positive definite matrices**|Florent Bouchard et.al.|[2405.06558v2](http://arxiv.org/abs/2405.06558v2)|[link](https://github.com/ammarmian/icml-rmt-2024)|
@@ -52,11 +74,11 @@
 |**2020-12-23**|**Limit Theorems for Fréchet Mean Sets**|Steven N. Evans et.al.|[2012.12859v2](http://arxiv.org/abs/2012.12859v2)|null|
 |**2018-12-19**|**Convergence Rates for the Generalized Fréchet Mean via the Quadruple Inequality**|Christof Schötz et.al.|[1812.08037v5](http://arxiv.org/abs/1812.08037v5)|[link](https://github.com/chroetz/paperquadrate19)|
 |**2022-07-08**|**A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams**|Yueqi Cao et.al.|[2207.03943v2](http://arxiv.org/abs/2207.03943v2)|null|
-|**2022-10-11**|**Finding the global semantic representation in GAN through Frechet Mean**|Jaewoong Choi et.al.|[2210.05509v2](http://arxiv.org/abs/2210.05509v2)|null|
 
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-14**|**Uniform Consistency of Generalized Fréchet Means**|Andrea Aveni et.al.|[2408.07534v1](http://arxiv.org/abs/2408.07534v1)|null|
 |**2024-06-10**|**Heterogeneous extremes in the presence of random covariates and censoring**|Martin Bladt et.al.|[2406.06113v2](http://arxiv.org/abs/2406.06113v2)|null|
 |**2024-04-29**|**A faster algorithm for the Fréchet distance in 1D for the imbalanced case**|Lotte Blank et.al.|[2404.18738v2](http://arxiv.org/abs/2404.18738v2)|null|
 |**2024-07-31**|**Deep Fréchet Regression**|Su I Iao et.al.|[2407.21407v1](http://arxiv.org/abs/2407.21407v1)|null|
@@ -71,25 +93,3 @@
 |**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v1](http://arxiv.org/abs/2407.12261v1)|null|
 |**2024-06-05**|**Velichko's notions close to sequentially separability and their hereditary variants in $C_p$-theory**|Alexander V. Osipov et.al.|[2406.03014v2](http://arxiv.org/abs/2406.03014v2)|null|
 |**2024-07-12**|**Fast and Accurate Multi-Agent Trajectory Prediction For Crowded Unknown Scenes**|Xiuye Tao et.al.|[2407.09068v1](http://arxiv.org/abs/2407.09068v1)|null|
-|**2024-07-11**|**Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density**|Shuangqi Li et.al.|[2407.08659v1](http://arxiv.org/abs/2407.08659v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v1](http://arxiv.org/abs/2408.07066v1)|null|
-|**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v2](http://arxiv.org/abs/2402.18450v2)|null|
-|**2024-07-20**|**Improving Bias Correction Standards by Quantifying its Effects on Treatment Outcomes**|Alexandre Abraham et.al.|[2407.14861v2](http://arxiv.org/abs/2407.14861v2)|null|
-|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v4](http://arxiv.org/abs/2303.03649v4)|[link](https://github.com/hiendn/panic)|
-|**2024-04-15**|**A Realistic Protocol for Evaluation of Weakly Supervised Object Localization**|Shakeeb Murtaza et.al.|[2404.10034v2](http://arxiv.org/abs/2404.10034v2)|[link](https://github.com/shakeebmurtaza/wsol_model_selection)|
-|**2023-10-22**|**Variable Selection and Minimax Prediction in High-dimensional Functional Linear Model**|Xingche Guo et.al.|[2310.14419v3](http://arxiv.org/abs/2310.14419v3)|null|
-|**2024-01-08**|**Approximating Smiles: A Time Change Approach**|Liexin Cheng et.al.|[2401.03776v6](http://arxiv.org/abs/2401.03776v6)|null|
-|**2023-04-18**|**The Adaptive $τ$-Lasso: Robustness and Oracle Properties**|Emadaldin Mozafari-Majd et.al.|[2304.09310v3](http://arxiv.org/abs/2304.09310v3)|null|
-|**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400v1](http://arxiv.org/abs/2408.04400v1)|null|
-|**2024-08-08**|**Advances in Bayesian model selection consistency for high-dimensional generalized linear models**|Jeyong Lee et.al.|[2408.04359v1](http://arxiv.org/abs/2408.04359v1)|null|
-|**2024-08-08**|**A robust approach for generalized linear models based on maximum Lq-likelihood procedure**|Felipe Osorio et.al.|[2408.04176v1](http://arxiv.org/abs/2408.04176v1)|null|
-|**2024-08-07**|**Learning Rate-Free Reinforcement Learning: A Case for Model Selection with Non-Stationary Objectives**|Aida Afshar et.al.|[2408.04046v1](http://arxiv.org/abs/2408.04046v1)|[link](https://github.com/aidaafshar/learning-rate-free-reinforcement-learning)|
-|**2023-09-07**|**Efficient estimation and correction of selection-induced bias with order statistics**|Yann McLatchie et.al.|[2309.03742v3](http://arxiv.org/abs/2309.03742v3)|[link](https://github.com/yannmclatchie/model-selection-uncertainty)|
-|**2023-06-27**|**Advances in projection predictive inference**|Yann McLatchie et.al.|[2306.15581v2](http://arxiv.org/abs/2306.15581v2)|[link](https://github.com/yannmclatchie/projpred-workflow)|
-|**2019-12-07**|**Deep Variable-Block Chain with Adaptive Variable Selection**|Lixiang Zhang et.al.|[1912.03573v2](http://arxiv.org/abs/1912.03573v2)|null|
