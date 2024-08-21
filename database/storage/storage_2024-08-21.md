@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-21 07:25:29 Asia/Shanghai
+ Automated deployment @ 2024-08-21 19:19:53 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-20**|**GAIM: Attacking Graph Neural Networks via Adversarial Influence Maximization**|Xiaodong Yang et.al.|[2408.10948v1](http://arxiv.org/abs/2408.10948v1)|null|
+|**2024-08-02**|**Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities**|Pablo Galván et.al.|[2408.01239v2](http://arxiv.org/abs/2408.01239v2)|null|
+|**2024-08-09**|**Learning Rule-Induced Subgraph Representations for Inductive Relation Prediction**|Tianyu Liu et.al.|[2408.07088v2](http://arxiv.org/abs/2408.07088v2)|[link](https://github.com/smart-lty/rest)|
+|**2024-08-19**|**Heta: Distributed Training of Heterogeneous Graph Neural Networks**|Yuchen Zhong et.al.|[2408.09697v2](http://arxiv.org/abs/2408.09697v2)|null|
+|**2024-08-19**|**Learning Regularization for Graph Inverse Problems**|Moshe Eliasof et.al.|[2408.10436v1](http://arxiv.org/abs/2408.10436v1)|null|
+|**2024-02-19**|**Equivariant, Safe and Sensitive -- Graph Networks for New Physics**|Akanksha Bhardwaj et.al.|[2402.12449v3](http://arxiv.org/abs/2402.12449v3)|null|
 |**2024-08-19**|**Expressive Power of Temporal Message Passing**|Przemysław Andrzej Wałęga et.al.|[2408.09918v1](http://arxiv.org/abs/2408.09918v1)|null|
 |**2024-08-08**|**Dynamic Hypergraph-Enhanced Prediction of Sequential Medical Visits**|Wangying Yang et.al.|[2408.07084v2](http://arxiv.org/abs/2408.07084v2)|null|
 |**2024-08-19**|**Community-Centric Graph Unlearning**|Yi Li et.al.|[2408.09705v1](http://arxiv.org/abs/2408.09705v1)|null|
-|**2024-08-19**|**Heta: Distributed Training of Heterogeneous Graph Neural Networks**|Yuchen Zhong et.al.|[2408.09697v1](http://arxiv.org/abs/2408.09697v1)|null|
 |**2024-08-18**|**Leveraging Invariant Principle for Heterophilic Graph Structure Distribution Shifts**|Jinluan Yang et.al.|[2408.09490v1](http://arxiv.org/abs/2408.09490v1)|null|
 |**2024-08-18**|**Advances in Multiple Instance Learning for Whole Slide Image Analysis: Techniques, Challenges, and Future Directions**|Jun Wang et.al.|[2408.09476v1](http://arxiv.org/abs/2408.09476v1)|null|
 |**2024-02-05**|**PowerGraph: A power grid benchmark dataset for graph neural networks**|Anna Varbella et.al.|[2402.02827v3](http://arxiv.org/abs/2402.02827v3)|null|
 |**2024-08-18**|**$\mathbb{BEHR}$NOULLI: A Binary EHR Data-Oriented Medication Recommendation System**|Xihao Piao et.al.|[2408.09410v1](http://arxiv.org/abs/2408.09410v1)|[link](https://github.com/chenzrg/behrmecom)|
 |**2024-08-18**|**Federated Graph Learning with Structure Proxy Alignment**|Xingbo Fu et.al.|[2408.09393v1](http://arxiv.org/abs/2408.09393v1)|[link](https://github.com/xbfu/fedspray)|
 |**2024-07-24**|**Global Confidence Degree Based Graph Neural Network for Financial Fraud Detection**|Jiaxun Liu et.al.|[2407.17333v2](http://arxiv.org/abs/2407.17333v2)|null|
-|**2022-11-11**|**GCondNet: A Novel Method for Improving Neural Networks on Small High-Dimensional Tabular Data**|Andrei Margeloiu et.al.|[2211.06302v4](http://arxiv.org/abs/2211.06302v4)|null|
-|**2024-08-17**|**Scalable and Certifiable Graph Unlearning via Lazy Local Propagation**|Lu Yi et.al.|[2408.09212v1](http://arxiv.org/abs/2408.09212v1)|null|
-|**2024-08-17**|**SA-GDA: Spectral Augmentation for Graph Domain Adaptation**|Jinhui Pang et.al.|[2408.09189v1](http://arxiv.org/abs/2408.09189v1)|null|
-|**2024-08-17**|**Dynamic Neural Dowker Network: Approximating Persistent Homology in Dynamic Directed Graphs**|Hao Li et.al.|[2408.09123v1](http://arxiv.org/abs/2408.09123v1)|null|
-|**2024-08-16**|**Neighbor Overlay-Induced Graph Attention Network**|Tiqiao Wei et.al.|[2408.08788v1](http://arxiv.org/abs/2408.08788v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-20**|**Kernel-Based Differentiable Learning of Non-Parametric Directed Acyclic Graphical Models**|Yurou Liang et.al.|[2408.10976v1](http://arxiv.org/abs/2408.10976v1)|null|
+|**2022-10-05**|**Modelling tree survival for investigating climate change effects**|Nicole N. Augustin et.al.|[2210.02247v2](http://arxiv.org/abs/2210.02247v2)|null|
+|**2024-08-20**|**Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams**|Litian Huang et.al.|[2408.10592v1](http://arxiv.org/abs/2408.10592v1)|[link](https://github.com/ferretdoll/hgr)|
+|**2024-08-19**|**Spatial Knockoff Bayesian Variable Selection in Genome-Wide Association Studies**|Justin J. Van Ee et.al.|[2408.10401v1](http://arxiv.org/abs/2408.10401v1)|null|
 |**2024-08-19**|**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**|Jing Li et.al.|[2408.10193v1](http://arxiv.org/abs/2408.10193v1)|null|
 |**2021-10-13**|**Singer separation for karaoke content generation**|Hsuan-Yu Lin et.al.|[2110.06707v4](http://arxiv.org/abs/2110.06707v4)|null|
 |**2024-08-17**|**Identifying Technical Debt and Its Types Across Diverse Software Projects Issues**|Karthik Shivashankar et.al.|[2408.09128v1](http://arxiv.org/abs/2408.09128v1)|null|
@@ -89,7 +93,3 @@
 |**2024-08-15**|**Adaptation of uncertainty-penalized Bayesian information criterion for parametric partial differential equation discovery**|Pongpisit Thanasutives et.al.|[2408.08106v1](http://arxiv.org/abs/2408.08106v1)|[link](https://github.com/pongpisit-thanasutives/parametric-discovery)|
 |**2024-08-14**|**Fast Bayesian inference in a class of sparse linear mixed effects models**|M-Z. Spyropoulou et.al.|[2408.07365v1](http://arxiv.org/abs/2408.07365v1)|null|
 |**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v1](http://arxiv.org/abs/2408.07066v1)|null|
-|**2024-02-28**|**Copula Approximate Bayesian Computation Using Distribution Random Forests**|George Karabatsos et.al.|[2402.18450v2](http://arxiv.org/abs/2402.18450v2)|null|
-|**2024-07-20**|**Improving Bias Correction Standards by Quantifying its Effects on Treatment Outcomes**|Alexandre Abraham et.al.|[2407.14861v2](http://arxiv.org/abs/2407.14861v2)|null|
-|**2023-03-07**|**PanIC: consistent information criteria for general model selection problems**|Hien Duy Nguyen et.al.|[2303.03649v4](http://arxiv.org/abs/2303.03649v4)|[link](https://github.com/hiendn/panic)|
-|**2024-04-15**|**A Realistic Protocol for Evaluation of Weakly Supervised Object Localization**|Shakeeb Murtaza et.al.|[2404.10034v2](http://arxiv.org/abs/2404.10034v2)|[link](https://github.com/shakeebmurtaza/wsol_model_selection)|
