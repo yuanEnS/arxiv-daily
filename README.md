@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-22 07:24:06 Asia/Shanghai
+ Automated deployment @ 2024-08-22 19:21:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-20**|**GAIM: Attacking Graph Neural Networks via Adversarial Influence Maximization**|Xiaodong Yang et.al.|[2408.10948v1](http://arxiv.org/abs/2408.10948v1)|null|
-|**2024-08-02**|**Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities**|Pablo Galván et.al.|[2408.01239v2](http://arxiv.org/abs/2408.01239v2)|null|
-|**2024-08-09**|**Learning Rule-Induced Subgraph Representations for Inductive Relation Prediction**|Tianyu Liu et.al.|[2408.07088v2](http://arxiv.org/abs/2408.07088v2)|[link](https://github.com/smart-lty/rest)|
-|**2024-08-19**|**Heta: Distributed Training of Heterogeneous Graph Neural Networks**|Yuchen Zhong et.al.|[2408.09697v2](http://arxiv.org/abs/2408.09697v2)|null|
-|**2024-08-19**|**Learning Regularization for Graph Inverse Problems**|Moshe Eliasof et.al.|[2408.10436v1](http://arxiv.org/abs/2408.10436v1)|null|
-|**2024-02-19**|**Equivariant, Safe and Sensitive -- Graph Networks for New Physics**|Akanksha Bhardwaj et.al.|[2402.12449v3](http://arxiv.org/abs/2402.12449v3)|null|
-|**2024-08-19**|**Expressive Power of Temporal Message Passing**|Przemysław Andrzej Wałęga et.al.|[2408.09918v1](http://arxiv.org/abs/2408.09918v1)|null|
-|**2024-08-08**|**Dynamic Hypergraph-Enhanced Prediction of Sequential Medical Visits**|Wangying Yang et.al.|[2408.07084v2](http://arxiv.org/abs/2408.07084v2)|null|
-|**2024-08-19**|**Community-Centric Graph Unlearning**|Yi Li et.al.|[2408.09705v1](http://arxiv.org/abs/2408.09705v1)|null|
-|**2024-08-18**|**Leveraging Invariant Principle for Heterophilic Graph Structure Distribution Shifts**|Jinluan Yang et.al.|[2408.09490v1](http://arxiv.org/abs/2408.09490v1)|null|
-|**2024-08-18**|**Advances in Multiple Instance Learning for Whole Slide Image Analysis: Techniques, Challenges, and Future Directions**|Jun Wang et.al.|[2408.09476v1](http://arxiv.org/abs/2408.09476v1)|null|
-|**2024-02-05**|**PowerGraph: A power grid benchmark dataset for graph neural networks**|Anna Varbella et.al.|[2402.02827v3](http://arxiv.org/abs/2402.02827v3)|null|
-|**2024-08-18**|**$\mathbb{BEHR}$NOULLI: A Binary EHR Data-Oriented Medication Recommendation System**|Xihao Piao et.al.|[2408.09410v1](http://arxiv.org/abs/2408.09410v1)|[link](https://github.com/chenzrg/behrmecom)|
-|**2024-08-18**|**Federated Graph Learning with Structure Proxy Alignment**|Xingbo Fu et.al.|[2408.09393v1](http://arxiv.org/abs/2408.09393v1)|[link](https://github.com/xbfu/fedspray)|
-|**2024-07-24**|**Global Confidence Degree Based Graph Neural Network for Financial Fraud Detection**|Jiaxun Liu et.al.|[2407.17333v2](http://arxiv.org/abs/2407.17333v2)|null|
+|**2023-06-23**|**PathMLP: Smooth Path Towards High-order Homophily**|Jiajun Zhou et.al.|[2306.13532v2](http://arxiv.org/abs/2306.13532v2)|null|
+|**2024-08-21**|**A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**|Daniele Malitesta et.al.|[2408.11762v1](http://arxiv.org/abs/2408.11762v1)|[link](https://github.com/sisinflab/topology-graph-collaborative-filtering)|
+|**2024-05-28**|**Improving global awareness of linkset predictions using Cross-Attentive Modulation tokens**|Félix Marcoccia et.al.|[2405.19375v3](http://arxiv.org/abs/2405.19375v3)|null|
+|**2024-08-21**|**Optimizing Federated Graph Learning with Inherent Structural Knowledge and Dual-Densely Connected GNNs**|Longwen Wang et.al.|[2408.11662v1](http://arxiv.org/abs/2408.11662v1)|null|
+|**2024-08-02**|**GNN-SKAN: Harnessing the Power of SwallowKAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018v2](http://arxiv.org/abs/2408.01018v2)|null|
+|**2022-12-23**|**Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow**|Ángela López-Cardona et.al.|[2212.12470v2](http://arxiv.org/abs/2212.12470v2)|null|
+|**2024-08-21**|**Slicing Input Features to Accelerate Deep Learning: A Case Study with Graph Neural Networks**|Zhengjia Xu et.al.|[2408.11500v1](http://arxiv.org/abs/2408.11500v1)|null|
+|**2024-08-21**|**Estimating Peer Direct and Indirect Effects in Observational Network Data**|Xiaojing Du et.al.|[2408.11492v1](http://arxiv.org/abs/2408.11492v1)|null|
+|**2024-06-11**|**Logical Distillation of Graph Neural Networks**|Alexander Pluska et.al.|[2406.07126v3](http://arxiv.org/abs/2406.07126v3)|[link](https://github.com/lexpk/logicaldistillationofgnns)|
+|**2024-08-21**|**Graph Classification via Reference Distribution Learning: Theory and Practice**|Zixiao Wang et.al.|[2408.11370v1](http://arxiv.org/abs/2408.11370v1)|null|
+|**2024-08-21**|**Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation**|Fieke Hillerstrom et.al.|[2408.11367v1](http://arxiv.org/abs/2408.11367v1)|null|
+|**2024-08-09**|**Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**|Wenbin Hu et.al.|[2408.07091v2](http://arxiv.org/abs/2408.07091v2)|null|
+|**2024-03-04**|**Mitigating Label Noise on Graph via Topological Sample Selection**|Yuhao Wu et.al.|[2403.01942v3](http://arxiv.org/abs/2403.01942v3)|null|
+|**2024-08-21**|**Modeling Reference-dependent Choices with Graph Neural Networks**|Liang Zhang et.al.|[2408.11302v1](http://arxiv.org/abs/2408.11302v1)|null|
+|**2023-03-17**|**Provably Convergent Subgraph-wise Sampling for Fast GNN Training**|Jie Wang et.al.|[2303.11081v2](http://arxiv.org/abs/2303.11081v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -57,7 +57,7 @@
 ### Non Eculidean
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-08-19**|**The local Fréchet regression for random objects with circular predictors**|Chang Jun Im et.al.|[2408.10118v1](http://arxiv.org/abs/2408.10118v1)|null|
+|**2024-08-19**|**Local Fréchet regression with circular predictors**|Chang Jun Im et.al.|[2408.10118v2](http://arxiv.org/abs/2408.10118v2)|null|
 |**2024-08-14**|**Uniform Consistency of Generalized Fréchet Means**|Andrea Aveni et.al.|[2408.07534v1](http://arxiv.org/abs/2408.07534v1)|null|
 |**2024-06-10**|**Heterogeneous extremes in the presence of random covariates and censoring**|Martin Bladt et.al.|[2406.06113v2](http://arxiv.org/abs/2406.06113v2)|null|
 |**2024-04-29**|**A faster algorithm for the Fréchet distance in 1D for the imbalanced case**|Lotte Blank et.al.|[2404.18738v2](http://arxiv.org/abs/2404.18738v2)|null|
@@ -78,6 +78,8 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2023-09-05**|**Ab initio uncertainty quantification in scattering analysis of microscopy**|Mengyang Gu et.al.|[2309.02468v3](http://arxiv.org/abs/2309.02468v3)|[link](https://github.com/uncertaintyquantification/aiuq-matlab)|
+|**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v3](http://arxiv.org/abs/2406.19380v3)|[link](https://github.com/yandex-research/tabred)|
 |**2024-08-20**|**Kernel-Based Differentiable Learning of Non-Parametric Directed Acyclic Graphical Models**|Yurou Liang et.al.|[2408.10976v1](http://arxiv.org/abs/2408.10976v1)|null|
 |**2022-10-05**|**Modelling tree survival for investigating climate change effects**|Nicole N. Augustin et.al.|[2210.02247v2](http://arxiv.org/abs/2210.02247v2)|null|
 |**2024-08-20**|**Hologram Reasoning for Solving Algebra Problems with Geometry Diagrams**|Litian Huang et.al.|[2408.10592v1](http://arxiv.org/abs/2408.10592v1)|[link](https://github.com/ferretdoll/hgr)|
@@ -91,5 +93,3 @@
 |**2022-01-30**|**Two-Step Mixed-Type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v6](http://arxiv.org/abs/2201.12839v6)|[link](https://github.com/raybai07/mtmbsp)|
 |**2024-08-15**|**Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off**|Mark K. Transtrum et.al.|[2408.08294v1](http://arxiv.org/abs/2408.08294v1)|null|
 |**2024-08-15**|**Adaptation of uncertainty-penalized Bayesian information criterion for parametric partial differential equation discovery**|Pongpisit Thanasutives et.al.|[2408.08106v1](http://arxiv.org/abs/2408.08106v1)|[link](https://github.com/pongpisit-thanasutives/parametric-discovery)|
-|**2024-08-14**|**Fast Bayesian inference in a class of sparse linear mixed effects models**|M-Z. Spyropoulou et.al.|[2408.07365v1](http://arxiv.org/abs/2408.07365v1)|null|
-|**2024-08-13**|**Conformal prediction after efficiency-oriented model selection**|Ruiting Liang et.al.|[2408.07066v1](http://arxiv.org/abs/2408.07066v1)|null|
