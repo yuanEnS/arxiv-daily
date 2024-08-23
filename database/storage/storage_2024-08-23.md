@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-08-23 07:24:42 Asia/Shanghai
+ Automated deployment @ 2024-08-23 19:22:40 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594v1](http://arxiv.org/abs/2408.12594v1)|null|
+|**2023-01-06**|**Topics as Entity Clusters: Entity-based Topics from Large Language Models and Graph Neural Networks**|Manuel V. Loureiro et.al.|[2301.02458v2](http://arxiv.org/abs/2301.02458v2)|[link](https://github.com/manuelvloureiro/topics-as-entity-clusters)|
+|**2024-08-22**|**Advanced atom-level representations for protein flexibility prediction utilizing graph neural networks**|Sina Sarparast et.al.|[2408.12519v1](http://arxiv.org/abs/2408.12519v1)|null|
+|**2024-08-22**|**Enhanced Expressivity in Graph Neural Networks with Lanczos-Based Linear Constraints**|Niloofar Azizi et.al.|[2408.12334v1](http://arxiv.org/abs/2408.12334v1)|null|
+|**2024-06-06**|**Talos: A More Effective and Efficient Adversarial Defense for GNN Models Based on the Global Homophily of Graphs**|Duanyu Li et.al.|[2406.03833v2](http://arxiv.org/abs/2406.03833v2)|null|
+|**2024-06-13**|**A Flexible, Equivariant Framework for Subgraph GNNs via Graph Products and Graph Coarsening**|Guy Bar-Shalom et.al.|[2406.09291v3](http://arxiv.org/abs/2406.09291v3)|null|
+|**2024-08-02**|**GNN-SKAN: Harnessing the Power of SwallowKAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018v3](http://arxiv.org/abs/2408.01018v3)|null|
+|**2024-08-22**|**Fair Augmentation for Graph Collaborative Filtering**|Ludovico Boratto et.al.|[2408.12208v1](http://arxiv.org/abs/2408.12208v1)|[link](https://github.com/jackmedda/fa4gcf)|
+|**2024-08-22**|**Rank and Align: Towards Effective Source-free Graph Domain Adaptation**|Junyu Luo et.al.|[2408.12185v1](http://arxiv.org/abs/2408.12185v1)|null|
+|**2024-08-22**|**Behavior Pattern Mining-based Multi-Behavior Recommendation**|Haojie Li et.al.|[2408.12152v1](http://arxiv.org/abs/2408.12152v1)|[link](https://github.com/rookitkitlee/bpmr)|
+|**2023-10-16**|**Node classification in networks via simplicial interactions**|Eunho Koo et.al.|[2310.10114v2](http://arxiv.org/abs/2310.10114v2)|null|
+|**2024-03-18**|**Graph Partial Label Learning with Potential Cause Discovering**|Hang Gao et.al.|[2403.11449v3](http://arxiv.org/abs/2403.11449v3)|null|
+|**2024-08-21**|**Time Series Foundation Models and Deep Learning Architectures for Earthquake Temporal and Spatial Nowcasting**|Alireza Jafari et.al.|[2408.11990v1](http://arxiv.org/abs/2408.11990v1)|null|
 |**2023-06-23**|**PathMLP: Smooth Path Towards High-order Homophily**|Jiajun Zhou et.al.|[2306.13532v2](http://arxiv.org/abs/2306.13532v2)|null|
 |**2024-08-21**|**A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**|Daniele Malitesta et.al.|[2408.11762v1](http://arxiv.org/abs/2408.11762v1)|[link](https://github.com/sisinflab/topology-graph-collaborative-filtering)|
-|**2024-05-28**|**Improving global awareness of linkset predictions using Cross-Attentive Modulation tokens**|Félix Marcoccia et.al.|[2405.19375v3](http://arxiv.org/abs/2405.19375v3)|null|
-|**2024-08-21**|**Optimizing Federated Graph Learning with Inherent Structural Knowledge and Dual-Densely Connected GNNs**|Longwen Wang et.al.|[2408.11662v1](http://arxiv.org/abs/2408.11662v1)|null|
-|**2024-08-02**|**GNN-SKAN: Harnessing the Power of SwallowKAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018v2](http://arxiv.org/abs/2408.01018v2)|null|
-|**2022-12-23**|**Proximal Policy Optimization with Graph Neural Networks for Optimal Power Flow**|Ángela López-Cardona et.al.|[2212.12470v2](http://arxiv.org/abs/2212.12470v2)|null|
-|**2024-08-21**|**Slicing Input Features to Accelerate Deep Learning: A Case Study with Graph Neural Networks**|Zhengjia Xu et.al.|[2408.11500v1](http://arxiv.org/abs/2408.11500v1)|null|
-|**2024-08-21**|**Estimating Peer Direct and Indirect Effects in Observational Network Data**|Xiaojing Du et.al.|[2408.11492v1](http://arxiv.org/abs/2408.11492v1)|null|
-|**2024-06-11**|**Logical Distillation of Graph Neural Networks**|Alexander Pluska et.al.|[2406.07126v3](http://arxiv.org/abs/2406.07126v3)|[link](https://github.com/lexpk/logicaldistillationofgnns)|
-|**2024-08-21**|**Graph Classification via Reference Distribution Learning: Theory and Practice**|Zixiao Wang et.al.|[2408.11370v1](http://arxiv.org/abs/2408.11370v1)|null|
-|**2024-08-21**|**Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation**|Fieke Hillerstrom et.al.|[2408.11367v1](http://arxiv.org/abs/2408.11367v1)|null|
-|**2024-08-09**|**Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**|Wenbin Hu et.al.|[2408.07091v2](http://arxiv.org/abs/2408.07091v2)|null|
-|**2024-03-04**|**Mitigating Label Noise on Graph via Topological Sample Selection**|Yuhao Wu et.al.|[2403.01942v3](http://arxiv.org/abs/2403.01942v3)|null|
-|**2024-08-21**|**Modeling Reference-dependent Choices with Graph Neural Networks**|Liang Zhang et.al.|[2408.11302v1](http://arxiv.org/abs/2408.11302v1)|null|
-|**2023-03-17**|**Provably Convergent Subgraph-wise Sampling for Fast GNN Training**|Jie Wang et.al.|[2303.11081v2](http://arxiv.org/abs/2303.11081v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,12 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2022-06-14**|**Neural interval-censored survival regression with feature selection**|Carlos García Meixide et.al.|[2206.06885v3](http://arxiv.org/abs/2206.06885v3)|[link](https://github.com/meixide/spinet)|
+|**2024-08-22**|**Disclosure risk assessment with Bayesian non-parametric hierarchical modelling**|Marco Battiston et.al.|[2408.12521v1](http://arxiv.org/abs/2408.12521v1)|null|
+|**2024-08-22**|**Do we need wavelets in the late Universe?**|Luis A. Escamilla et.al.|[2408.12516v1](http://arxiv.org/abs/2408.12516v1)|null|
+|**2024-08-22**|**Multiple testing for signal-agnostic searches of new physics with machine learning**|Gaia Grosso et.al.|[2408.12296v1](http://arxiv.org/abs/2408.12296v1)|[link](https://github.com/mletizia/multiple-testing-nplm)|
+|**2024-08-22**|**Decorrelated forward regression for high dimensional data analysis**|Xuejun Jiang et.al.|[2408.12272v1](http://arxiv.org/abs/2408.12272v1)|null|
+|**2024-03-30**|**Covariate-Elaborated Robust Partial Information Transfer with Conditional Spike-and-Slab Prior**|Ruqian Zhang et.al.|[2404.03764v2](http://arxiv.org/abs/2404.03764v2)|null|
 |**2023-09-05**|**Ab initio uncertainty quantification in scattering analysis of microscopy**|Mengyang Gu et.al.|[2309.02468v3](http://arxiv.org/abs/2309.02468v3)|[link](https://github.com/uncertaintyquantification/aiuq-matlab)|
 |**2024-06-27**|**TabReD: A Benchmark of Tabular Machine Learning in-the-Wild**|Ivan Rubachev et.al.|[2406.19380v3](http://arxiv.org/abs/2406.19380v3)|[link](https://github.com/yandex-research/tabred)|
 |**2024-08-20**|**Kernel-Based Differentiable Learning of Non-Parametric Directed Acyclic Graphical Models**|Yurou Liang et.al.|[2408.10976v1](http://arxiv.org/abs/2408.10976v1)|null|
@@ -87,9 +93,3 @@
 |**2024-08-19**|**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification**|Jing Li et.al.|[2408.10193v1](http://arxiv.org/abs/2408.10193v1)|null|
 |**2021-10-13**|**Singer separation for karaoke content generation**|Hsuan-Yu Lin et.al.|[2110.06707v4](http://arxiv.org/abs/2110.06707v4)|null|
 |**2024-08-17**|**Identifying Technical Debt and Its Types Across Diverse Software Projects Issues**|Karthik Shivashankar et.al.|[2408.09128v1](http://arxiv.org/abs/2408.09128v1)|null|
-|**2024-08-13**|**Estimating the FDR of variable selection**|Yixiang Luo et.al.|[2408.07231v2](http://arxiv.org/abs/2408.07231v2)|null|
-|**2024-06-10**|**Cross Validation in Stochastic Analytic Continuation**|Gabe Schumm et.al.|[2406.06763v2](http://arxiv.org/abs/2406.06763v2)|null|
-|**2024-08-16**|**LEVIS: Large Exact Verifiable Input Spaces for Neural Networks**|Mohamad Fares El Hajj Chehade et.al.|[2408.08824v1](http://arxiv.org/abs/2408.08824v1)|null|
-|**2022-01-30**|**Two-Step Mixed-Type Multivariate Bayesian Sparse Variable Selection with Shrinkage Priors**|Shao-Hsuan Wang et.al.|[2201.12839v6](http://arxiv.org/abs/2201.12839v6)|[link](https://github.com/raybai07/mtmbsp)|
-|**2024-08-15**|**Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off**|Mark K. Transtrum et.al.|[2408.08294v1](http://arxiv.org/abs/2408.08294v1)|null|
-|**2024-08-15**|**Adaptation of uncertainty-penalized Bayesian information criterion for parametric partial differential equation discovery**|Pongpisit Thanasutives et.al.|[2408.08106v1](http://arxiv.org/abs/2408.08106v1)|[link](https://github.com/pongpisit-thanasutives/parametric-discovery)|
