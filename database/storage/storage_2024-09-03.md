@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-03 07:26:40 Asia/Shanghai
+ Automated deployment @ 2024-09-03 19:22:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -32,6 +32,27 @@
 |**2024-08-29**|**TempoKGAT: A Novel Graph Attention Network Approach for Temporal Graph Analysis**|Lena Sasal et.al.|[2408.16391v1](http://arxiv.org/abs/2408.16391v1)|null|
 |**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441v2](http://arxiv.org/abs/2407.09441v2)|null|
 |**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294v2](http://arxiv.org/abs/2408.15294v2)|null|
+
+## Variable Selection
+
+### Variable selection
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-03-30**|**Beyond One-Size-Fits-All: Multi-Domain, Multi-Task Framework for Embedding Model Selection**|Vivek Khetan et.al.|[2404.00458v2](http://arxiv.org/abs/2404.00458v2)|null|
+|**2023-01-25**|**Model selection-based estimation for generalized additive models using mixtures of g-priors: Towards systematization**|Gyeonghun Kang et.al.|[2301.10468v4](http://arxiv.org/abs/2301.10468v4)|null|
+|**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311v1](http://arxiv.org/abs/2408.17311v1)|null|
+|**2024-08-30**|**Estimating Conditional Average Treatment Effects via Sufficient Representation Learning**|Pengfei Shi et.al.|[2408.17053v1](http://arxiv.org/abs/2408.17053v1)|null|
+|**2024-08-26**|**Smart Multi-Modal Search: Contextual Sparse and Dense Embedding Integration in Adobe Express**|Cherag Aroraa et.al.|[2408.14698v2](http://arxiv.org/abs/2408.14698v2)|null|
+|**2024-08-29**|**Replica Analysis for Ensemble Techniques in Variable Selection**|Takashi Takahashi et.al.|[2408.16799v1](http://arxiv.org/abs/2408.16799v1)|null|
+|**2024-08-24**|**Epistemically robust selection of fitted models**|Alexandre René et.al.|[2408.13414v2](http://arxiv.org/abs/2408.13414v2)|null|
+|**2024-08-27**|**GINN-KAN: Interpretability pipelining with applications in Physics Informed Neural Networks**|Nisal Ranasinghe et.al.|[2408.14780v2](http://arxiv.org/abs/2408.14780v2)|null|
+|**2024-08-26**|**On the Effects of Modeling on the Sim-to-Real Transfer Gap in Twinning the POWDER Platform**|Maxwell McManus et.al.|[2408.14465v2](http://arxiv.org/abs/2408.14465v2)|null|
+|**2024-08-28**|**Sampling parameters of ordinary differential equations with Langevin dynamics that satisfy constraints**|Chris Chi et.al.|[2408.15505v1](http://arxiv.org/abs/2408.15505v1)|null|
+|**2024-08-27**|**On the effectiveness of smartphone IMU sensors and Deep Learning in the detection of cardiorespiratory conditions**|Lorenzo Simone et.al.|[2408.15357v1](http://arxiv.org/abs/2408.15357v1)|null|
+|**2020-08-02**|**Bayesian Inference of Minimally Complex Models with Interactions of Arbitrary Order**|Clélia de Mulatier et.al.|[2008.00520v3](http://arxiv.org/abs/2008.00520v3)|[link](https://github.com/clelidm/MinCompSpin)|
+|**2024-05-29**|**Exploring Human-in-the-Loop Test-Time Adaptation by Synergizing Active Learning and Model Selection**|Yushu Li et.al.|[2405.18911v2](http://arxiv.org/abs/2405.18911v2)|null|
+|**2024-06-05**|**Mesoscopic Bayesian Inference by Solvable Models**|Shun Katakami et.al.|[2406.02869v2](http://arxiv.org/abs/2406.02869v2)|null|
+|**2024-08-26**|**A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level data**|Raphael Morsomme et.al.|[2408.14625v1](http://arxiv.org/abs/2408.14625v1)|null|
 
 ## Non-Euclidean Staistics
 
@@ -72,24 +93,3 @@
 |**2024-07-27**|**Map-Matching Queries under Fréchet Distance on Low-Density Spanners**|Kevin Buchin et.al.|[2407.19304v1](http://arxiv.org/abs/2407.19304v1)|null|
 |**2024-07-25**|**Starting Small: Prioritizing Safety over Efficacy in Randomized Experiments Using the Exact Finite Sample Likelihood**|Neil Christy et.al.|[2407.18206v1](http://arxiv.org/abs/2407.18206v1)|null|
 |**2024-07-23**|**Birkhoff sum convergence of Fréchet observables to stable laws for Gibbs-Markov systems and applications**|An Chen et.al.|[2407.16632v1](http://arxiv.org/abs/2407.16632v1)|null|
-
-## Variable Selection
-
-### Variable selection
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-03-30**|**Beyond One-Size-Fits-All: Multi-Domain, Multi-Task Framework for Embedding Model Selection**|Vivek Khetan et.al.|[2404.00458v2](http://arxiv.org/abs/2404.00458v2)|null|
-|**2023-01-25**|**Model selection-based estimation for generalized additive models using mixtures of g-priors: Towards systematization**|Gyeonghun Kang et.al.|[2301.10468v4](http://arxiv.org/abs/2301.10468v4)|null|
-|**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311v1](http://arxiv.org/abs/2408.17311v1)|null|
-|**2024-08-30**|**Estimating Conditional Average Treatment Effects via Sufficient Representation Learning**|Pengfei Shi et.al.|[2408.17053v1](http://arxiv.org/abs/2408.17053v1)|null|
-|**2024-08-26**|**Smart Multi-Modal Search: Contextual Sparse and Dense Embedding Integration in Adobe Express**|Cherag Aroraa et.al.|[2408.14698v2](http://arxiv.org/abs/2408.14698v2)|null|
-|**2024-08-29**|**Replica Analysis for Ensemble Techniques in Variable Selection**|Takashi Takahashi et.al.|[2408.16799v1](http://arxiv.org/abs/2408.16799v1)|null|
-|**2024-08-24**|**Epistemically robust selection of fitted models**|Alexandre René et.al.|[2408.13414v2](http://arxiv.org/abs/2408.13414v2)|null|
-|**2024-08-27**|**GINN-KAN: Interpretability pipelining with applications in Physics Informed Neural Networks**|Nisal Ranasinghe et.al.|[2408.14780v2](http://arxiv.org/abs/2408.14780v2)|null|
-|**2024-08-26**|**On the Effects of Modeling on the Sim-to-Real Transfer Gap in Twinning the POWDER Platform**|Maxwell McManus et.al.|[2408.14465v2](http://arxiv.org/abs/2408.14465v2)|null|
-|**2024-08-28**|**Sampling parameters of ordinary differential equations with Langevin dynamics that satisfy constraints**|Chris Chi et.al.|[2408.15505v1](http://arxiv.org/abs/2408.15505v1)|null|
-|**2024-08-27**|**On the effectiveness of smartphone IMU sensors and Deep Learning in the detection of cardiorespiratory conditions**|Lorenzo Simone et.al.|[2408.15357v1](http://arxiv.org/abs/2408.15357v1)|null|
-|**2020-08-02**|**Bayesian Inference of Minimally Complex Models with Interactions of Arbitrary Order**|Clélia de Mulatier et.al.|[2008.00520v3](http://arxiv.org/abs/2008.00520v3)|[link](https://github.com/clelidm/MinCompSpin)|
-|**2024-05-29**|**Exploring Human-in-the-Loop Test-Time Adaptation by Synergizing Active Learning and Model Selection**|Yushu Li et.al.|[2405.18911v2](http://arxiv.org/abs/2405.18911v2)|null|
-|**2024-06-05**|**Mesoscopic Bayesian Inference by Solvable Models**|Shun Katakami et.al.|[2406.02869v2](http://arxiv.org/abs/2406.02869v2)|null|
-|**2024-08-26**|**A Bayesian approach for fitting semi-Markov mixture models of cancer latency to individual-level data**|Raphael Morsomme et.al.|[2408.14625v1](http://arxiv.org/abs/2408.14625v1)|null|
