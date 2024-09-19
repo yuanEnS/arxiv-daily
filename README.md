@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-09-19 07:25:26 Asia/Shanghai
+ Automated deployment @ 2024-09-19 19:23:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -17,21 +17,21 @@
 ### Graph Neural Network
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-14**|**Operational Wind Speed Forecasts for Chile's Electric Power Sector Using a Hybrid ML Model**|Dhruv Suri et.al.|[2409.09263v3](http://arxiv.org/abs/2409.09263v3)|null|
+|**2024-09-18**|**Topological Deep Learning with State-Space Models: A Mamba Approach for Simplicial Complexes**|Marco Montagna et.al.|[2409.12033v1](http://arxiv.org/abs/2409.12033v1)|null|
+|**2024-09-18**|**Metric-Semantic Factor Graph Generation based on Graph Neural Networks**|Jose Andres Millan-Romera et.al.|[2409.11972v1](http://arxiv.org/abs/2409.11972v1)|null|
+|**2024-09-18**|**Multi-Grid Graph Neural Networks with Self-Attention for Computational Mechanics**|Paul Garnier et.al.|[2409.11899v1](http://arxiv.org/abs/2409.11899v1)|[link](https://github.com/donsetpg/multigrid-gnn)|
+|**2024-09-18**|**Edge-Based Graph Component Pooling**|T. Snelleman et.al.|[2409.11856v1](http://arxiv.org/abs/2409.11856v1)|null|
+|**2024-09-17**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206v2](http://arxiv.org/abs/2409.11206v2)|null|
+|**2024-09-18**|**Graph Neural Network-State Predictive Information Bottleneck (GNN-SPIB) approach for learning molecular thermodynamics and kinetics**|Ziyue Zou et.al.|[2409.11843v1](http://arxiv.org/abs/2409.11843v1)|null|
+|**2024-09-18**|**World of Forms: Deformable Geometric Templates for One-Shot Surface Meshing in Coronary CT Angiography**|Rudolf L. M. van Herten et.al.|[2409.11837v1](http://arxiv.org/abs/2409.11837v1)|null|
+|**2024-09-09**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477v3](http://arxiv.org/abs/2409.05477v3)|[link](https://github.com/qianghuangwhu/tf-tgn)|
+|**2024-07-15**|**Probability Passing for Graph Neural Networks: Graph Structure and Representations Joint Learning**|Ziyan Wang et.al.|[2407.10688v2](http://arxiv.org/abs/2407.10688v2)|null|
+|**2024-09-17**|**A Property Encoder for Graph Neural Networks**|Anwar Said et.al.|[2409.11554v1](http://arxiv.org/abs/2409.11554v1)|null|
+|**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800v3](http://arxiv.org/abs/2308.16800v3)|[link](https://github.com/roth-andreas/rank_collapse)|
+|**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769v2](http://arxiv.org/abs/2409.07769v2)|null|
 |**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373v1](http://arxiv.org/abs/2409.11373v1)|null|
 |**2024-06-17**|**Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains**|Evan M. Williams et.al.|[2406.11423v2](http://arxiv.org/abs/2406.11423v2)|null|
-|**2024-09-17**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206v1](http://arxiv.org/abs/2409.11206v1)|null|
-|**2024-09-17**|**MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception**|Daniel Butterfield et.al.|[2409.11146v1](http://arxiv.org/abs/2409.11146v1)|null|
-|**2024-09-17**|**Can Graph Reordering Speed Up Graph Neural Network Training? An Experimental Study**|Nikolai Merkel et.al.|[2409.11129v1](http://arxiv.org/abs/2409.11129v1)|[link](https://github.com/nikolaimerkel/reordering)|
-|**2024-09-17**|**GINTRIP: Interpretable Temporal Graph Regression using Information bottleneck and Prototype-based method**|Ali Royat et.al.|[2409.10996v1](http://arxiv.org/abs/2409.10996v1)|null|
-|**2024-09-17**|**Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification**|Jiaxing Xu et.al.|[2409.10944v1](http://arxiv.org/abs/2409.10944v1)|[link](https://github.com/angusmonroe/contrasformer)|
-|**2022-05-27**|**ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting**|Jingwei Guo et.al.|[2205.13700v5](http://arxiv.org/abs/2205.13700v5)|[link](https://github.com/jingweio/es-gnn)|
-|**2024-09-17**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks**|Zheng Dong et.al.|[2409.10882v1](http://arxiv.org/abs/2409.10882v1)|null|
-|**2024-09-16**|**Mobility-GNN: a human mobility-based graph neural network for tracking and analyzing the spatial dynamics of the synthetic opioid crisis in the USA, 2013-2020**|Zhiyue Xia et.al.|[2409.09945v2](http://arxiv.org/abs/2409.09945v2)|null|
-|**2024-09-14**|**Operational Wind Speed Forecasts for Chile's Electric Power Sector Using a Hybrid ML Model**|Dhruv Suri et.al.|[2409.09263v2](http://arxiv.org/abs/2409.09263v2)|null|
-|**2024-09-16**|**Recurrent Graph Transformer Network for Multiple Fault Localization in Naval Shipboard Systems**|Quang-Ha Ngo et.al.|[2409.10792v1](http://arxiv.org/abs/2409.10792v1)|null|
-|**2024-04-09**|**Foundation Models to the Rescue: Deadlock Resolution in Connected Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413v2](http://arxiv.org/abs/2404.06413v2)|null|
-|**2024-09-16**|**Signed Graph Autoencoder for Explainable and Polarization-Aware Network Embeddings**|Nikolaos Nakis et.al.|[2409.10452v1](http://arxiv.org/abs/2409.10452v1)|null|
-|**2024-09-01**|**RTop-K: Ultra-Fast Row-Wise Top-K Algorithm and GPU Implementation for Neural Networks**|Xi Xie et.al.|[2409.00822v2](http://arxiv.org/abs/2409.00822v2)|null|
 
 ## Non-Euclidean Staistics
 
@@ -78,6 +78,10 @@
 ### Variable selection
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-09-18**|**PARAPHRASUS : A Comprehensive Benchmark for Evaluating Paraphrase Detection Models**|Andrianos Michail et.al.|[2409.12060v1](http://arxiv.org/abs/2409.12060v1)|null|
+|**2024-09-15**|**Language Models and Retrieval Augmented Generation for Automated Structured Data Extraction from Diagnostic Reports**|Mohamed Sobhi Jabal et.al.|[2409.10576v2](http://arxiv.org/abs/2409.10576v2)|null|
+|**2024-04-01**|**Two step estimations via the Dantzig selector for models of stochastic processes with high-dimensional parameters**|Kou Fujimori et.al.|[2404.00888v2](http://arxiv.org/abs/2404.00888v2)|null|
+|**2024-09-17**|**Decomposing Gaussians with Unknown Covariance**|Ameer Dharamshi et.al.|[2409.11497v1](http://arxiv.org/abs/2409.11497v1)|[link](https://github.com/ameerd/gaussians)|
 |**2024-09-17**|**Fractional Naive Bayes (FNB): non-convex optimization for a parsimonious weighted selective naive Bayes classifier**|Carine Hue et.al.|[2409.11100v1](http://arxiv.org/abs/2409.11100v1)|null|
 |**2024-09-17**|**BMRMM: An R Package for Bayesian Markov (Renewal) Mixed Models**|Yutong Wu et.al.|[2409.10835v1](http://arxiv.org/abs/2409.10835v1)|null|
 |**2024-09-16**|**Flexible survival regression with variable selection for heterogeneous population**|Abhishek Mandal et.al.|[2409.10771v1](http://arxiv.org/abs/2409.10771v1)|null|
@@ -87,9 +91,5 @@
 |**2024-09-16**|**AALF: Almost Always Linear Forecasting**|Matthias Jakobs et.al.|[2409.10142v1](http://arxiv.org/abs/2409.10142v1)|null|
 |**2024-09-16**|**Comorbid anxiety symptoms predict lower odds of improvement in depression symptoms during smartphone-delivered psychotherapy**|Morgan B. Talbot et.al.|[2409.11183v1](http://arxiv.org/abs/2409.11183v1)|null|
 |**2024-09-16**|**Generalized Matrix Factor Model**|Xinbing Kong et.al.|[2409.10001v1](http://arxiv.org/abs/2409.10001v1)|null|
-|**2024-09-15**|**Language Models and Retrieval Augmented Generation for Automated Structured Data Extraction from Diagnostic Reports**|Mohamed Sobhi Jabal et.al.|[2409.10576v1](http://arxiv.org/abs/2409.10576v1)|null|
 |**2024-09-12**|**LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems**|Hakan T. Otal et.al.|[2409.08234v2](http://arxiv.org/abs/2409.08234v2)|[link](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
 |**2024-09-15**|**Model Selection Through Model Sorting**|Mohammad Ali Hajiani et.al.|[2409.09674v1](http://arxiv.org/abs/2409.09674v1)|null|
-|**2024-09-14**|**Doubly robust and computationally efficient high-dimensional variable selection**|Abhinav Chakraborty et.al.|[2409.09512v1](http://arxiv.org/abs/2409.09512v1)|null|
-|**2024-09-14**|**Multi-Scale Grouped Prototypes for Interpretable Semantic Segmentation**|Hugo Porta et.al.|[2409.09497v1](http://arxiv.org/abs/2409.09497v1)|null|
-|**2021-12-20**|**Mathematical modelling, selection and hierarchical inference to determine the minimal dose in IFN$α$ therapy against Myeloproliferative Neoplasms**|Gurvan Hermange et.al.|[2112.10688v2](http://arxiv.org/abs/2112.10688v2)|null|
