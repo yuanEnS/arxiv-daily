@@ -1,10 +1,7 @@
-"Non-Euclidean Staistics":
-  "Frechet Mean": '"frechet mean"ANDcat:"stat.*"'
-  "Non Eculidean": '"frechet"ANDcat:"stat.*"'
+"Causal Inference":
+  "Causal inference": '"causal inference"ANDcat:"stat.*"'
+  "Causality": '"causality"ANDcat:"stat.*"'
   
-"Variable Selection":
-  "Variable selection": '("model selection"OR"variable selection")ANDcat:"stat.*"'
+"Survival Analysis":
+  "Survival": '"survival"ANDcat:"stat.*"'
   
-"Network Statistics":
-  "Network Bootstrap": '"network bootstrap"ANDcat:"stat.*"'
-  "Graph Neural Network": '"graph neural network"ANDcat:"stat.*"'
