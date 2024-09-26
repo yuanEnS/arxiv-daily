@@ -1,9 +1,28 @@
 # arxiv-daily
- Automated deployment @ 2024-09-26 09:33:35 Asia/Shanghai
+ Automated deployment @ 2024-09-26 09:50:18 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Causal Inference
+
+### Causality
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-24**|**MonoFormer: One Transformer for Both Diffusion and Autoregression**|Chuyang Zhao et.al.|[2409.16280v1](http://arxiv.org/abs/2409.16280v1)|null|
+|**2023-09-22**|**Relating Wigner's Friend Scenarios to Nonclassical Causal Compatibility, Monogamy Relations, and Fine Tuning**|Yìlè Yīng et.al.|[2309.12987v4](http://arxiv.org/abs/2309.12987v4)|null|
+|**2024-09-01**|**From Predictive Importance to Causality: Which Machine Learning Model Reflects Reality?**|Muhammad Arbab Arshad et.al.|[2409.02130v2](http://arxiv.org/abs/2409.02130v2)|null|
+|**2024-09-24**|**Condensate decay in a radiation dominated cosmology**|Shuyang Cao et.al.|[2409.16076v1](http://arxiv.org/abs/2409.16076v1)|null|
+|**2024-09-24**|**Facing Asymmetry -- Uncovering the Causal Link between Facial Symmetry and Expression Classifiers using Synthetic Interventions**|Tim Büchner et.al.|[2409.15927v1](http://arxiv.org/abs/2409.15927v1)|null|
+|**2024-09-24**|**Potential Field as Scene Affordance for Behavior Change-Based Visual Risk Object Identification**|Pang-Yuan Pao et.al.|[2409.15846v1](http://arxiv.org/abs/2409.15846v1)|null|
+|**2024-08-20**|**CHECKWHY: Causal Fact Verification via Argument Structure**|Jiasheng Si et.al.|[2408.10918v2](http://arxiv.org/abs/2408.10918v2)|[link](https://github.com/jasenchn/checkwhy)|
+|**2024-09-24**|**Unveiling Language Competence Neurons: A Psycholinguistic Approach to Model Interpretability**|Xufeng Duan et.al.|[2409.15827v1](http://arxiv.org/abs/2409.15827v1)|null|
+|**2024-09-24**|**Absence of percolation for infinite Poissonian systems of stopped paths**|David Coupier et.al.|[2409.15824v1](http://arxiv.org/abs/2409.15824v1)|null|
+|**2023-10-01**|**A Bayesian joint model for mediation analysis with matrix-valued mediators**|Zijin Liu et.al.|[2310.00803v3](http://arxiv.org/abs/2310.00803v3)|null|
+|**2024-09-24**|**Linear Contextual Bandits with Interference**|Yang Xu et.al.|[2409.15682v1](http://arxiv.org/abs/2409.15682v1)|null|
+|**2022-08-01**|**Model-Twin Randomization (MoTR) for Estimating One's Own Recurring Individual Treatment Effect**|Eric J. Daza et.al.|[2208.00739v6](http://arxiv.org/abs/2208.00739v6)|null|
+|**2024-02-16**|**APCodec: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding**|Yang Ai et.al.|[2402.10533v2](http://arxiv.org/abs/2402.10533v2)|null|
+|**2024-07-21**|**Poisson bundles over unordered configurations**|Alessandra Frabetti et.al.|[2407.15287v2](http://arxiv.org/abs/2407.15287v2)|null|
+|**2024-09-23**|**FACET: Fast and Accurate Event-Based Eye Tracking Using Ellipse Modeling for Extended Reality**|Junyuan Ding et.al.|[2409.15584v1](http://arxiv.org/abs/2409.15584v1)|[link](https://github.com/deanjy/facet)|
 
 ### Truncation by death
 |Publish Date|Title|Authors|PDF|Code|
@@ -24,25 +43,6 @@
 |**2019-05-27**|**Quantifying and Detecting Individual Level `Always Survivor' Causal Effects Under `Truncation by Death' and Censoring Through Time**|Jaffer M. Zaidi et.al.|[1905.11300v3](http://arxiv.org/abs/1905.11300v3)|null|
 |**2019-10-27**|**A novel high-power test for continuous outcomes truncated by death**|Andreas Kryger Jensen et.al.|[1910.12267v1](http://arxiv.org/abs/1910.12267v1)|null|
 
-### Missing Data
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-18**|**Quantifying the role of supernatural entities and the effect of missing data in Irish sagas**|P. MacCarron et.al.|[2409.12071v2](http://arxiv.org/abs/2409.12071v2)|null|
-|**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931v1](http://arxiv.org/abs/2409.15931v1)|null|
-|**2024-07-19**|**Indoor Air Quality Dataset with Activities of Daily Living in Low to Middle-income Communities**|Prasenjit Karmakar et.al.|[2407.14501v3](http://arxiv.org/abs/2407.14501v3)|[link](https://github.com/prasenjit52282/dalton-dataset)|
-|**2024-09-22**|**Domain knowledge-guided machine learning framework for state of health estimation in Lithium-ion batteries**|Andrea Lanubile et.al.|[2409.14575v1](http://arxiv.org/abs/2409.14575v1)|null|
-|**2024-09-20**|**Jointly modeling time-to-event and longitudinal data with individual-specific change points: a case study in modeling tumor burden**|Ethan M. Alt et.al.|[2409.13873v1](http://arxiv.org/abs/2409.13873v1)|null|
-|**2024-07-29**|**Graphical tools for detection and control of selection bias with multiple exposures and samples**|Patrick M. Schnell et.al.|[2407.20027v2](http://arxiv.org/abs/2407.20027v2)|null|
-|**2024-09-20**|**Efficiency gain in association studies based on population surveys by augmenting outcome data from the target population**|Tommi Härkänen et.al.|[2409.13479v1](http://arxiv.org/abs/2409.13479v1)|null|
-|**2023-06-06**|**Empir3D : A Framework for Multi-Dimensional Point Cloud Assessment**|Yash Turkar et.al.|[2306.03660v2](http://arxiv.org/abs/2306.03660v2)|null|
-|**2024-03-18**|**SeisFusion: Constrained Diffusion Model with Input Guidance for 3D Seismic Data Interpolation and Reconstruction**|Shuang Wang et.al.|[2403.11482v2](http://arxiv.org/abs/2403.11482v2)|[link](https://github.com/WAL-l/SeisFusion)|
-|**2024-09-18**|**Bayesian estimation of the number of significant principal components for cultural data**|Joshua C. Macdonald et.al.|[2409.12129v1](http://arxiv.org/abs/2409.12129v1)|null|
-|**2024-02-12**|**Computationally efficient reductions between some statistical models**|Mengqi Lou et.al.|[2402.07717v2](http://arxiv.org/abs/2402.07717v2)|null|
-|**2024-09-18**|**RMP-YOLO: A Robust Motion Predictor for Partially Observable Scenarios even if You Only Look Once**|Jiawei Sun et.al.|[2409.11696v1](http://arxiv.org/abs/2409.11696v1)|null|
-|**2024-09-17**|**A Property Encoder for Graph Neural Networks**|Anwar Said et.al.|[2409.11554v1](http://arxiv.org/abs/2409.11554v1)|null|
-|**2024-09-17**|**Estimation and imputation of missing data in longitudinal models with Zero-Inflated Poisson response variable**|D. S. Martinez-Lobo et.al.|[2409.11040v1](http://arxiv.org/abs/2409.11040v1)|null|
-|**2024-09-02**|**Statistical Jump Model for Mixed-Type Data with Missing Data Imputation**|Federico P. Cortese et.al.|[2409.01208v2](http://arxiv.org/abs/2409.01208v2)|null|
-
 ### Instrumental Variable
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -62,6 +62,25 @@
 |**2024-07-21**|**Weak-instrument-robust subvector inference in instrumental variables regression: A subvector Lagrange multiplier test and properties of subvector Anderson-Rubin confidence sets**|Malte Londschien et.al.|[2407.15256v2](http://arxiv.org/abs/2407.15256v2)|null|
 |**2024-09-06**|**Extreme Quantile Treatment Effects under Endogeneity: Evaluating Policy Effects for the Most Vulnerable Individuals**|Yuya Sasaki et.al.|[2409.03979v1](http://arxiv.org/abs/2409.03979v1)|null|
 
+### Missing Data
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-18**|**Quantifying the role of supernatural entities and the effect of missing data in Irish sagas**|P. MacCarron et.al.|[2409.12071v2](http://arxiv.org/abs/2409.12071v2)|null|
+|**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931v1](http://arxiv.org/abs/2409.15931v1)|null|
+|**2024-07-19**|**Indoor Air Quality Dataset with Activities of Daily Living in Low to Middle-income Communities**|Prasenjit Karmakar et.al.|[2407.14501v3](http://arxiv.org/abs/2407.14501v3)|[link](https://github.com/prasenjit52282/dalton-dataset)|
+|**2024-09-22**|**Domain knowledge-guided machine learning framework for state of health estimation in Lithium-ion batteries**|Andrea Lanubile et.al.|[2409.14575v1](http://arxiv.org/abs/2409.14575v1)|null|
+|**2024-09-20**|**Jointly modeling time-to-event and longitudinal data with individual-specific change points: a case study in modeling tumor burden**|Ethan M. Alt et.al.|[2409.13873v1](http://arxiv.org/abs/2409.13873v1)|null|
+|**2024-07-29**|**Graphical tools for detection and control of selection bias with multiple exposures and samples**|Patrick M. Schnell et.al.|[2407.20027v2](http://arxiv.org/abs/2407.20027v2)|null|
+|**2024-09-20**|**Efficiency gain in association studies based on population surveys by augmenting outcome data from the target population**|Tommi Härkänen et.al.|[2409.13479v1](http://arxiv.org/abs/2409.13479v1)|null|
+|**2023-06-06**|**Empir3D : A Framework for Multi-Dimensional Point Cloud Assessment**|Yash Turkar et.al.|[2306.03660v2](http://arxiv.org/abs/2306.03660v2)|null|
+|**2024-03-18**|**SeisFusion: Constrained Diffusion Model with Input Guidance for 3D Seismic Data Interpolation and Reconstruction**|Shuang Wang et.al.|[2403.11482v2](http://arxiv.org/abs/2403.11482v2)|[link](https://github.com/WAL-l/SeisFusion)|
+|**2024-09-18**|**Bayesian estimation of the number of significant principal components for cultural data**|Joshua C. Macdonald et.al.|[2409.12129v1](http://arxiv.org/abs/2409.12129v1)|null|
+|**2024-02-12**|**Computationally efficient reductions between some statistical models**|Mengqi Lou et.al.|[2402.07717v2](http://arxiv.org/abs/2402.07717v2)|null|
+|**2024-09-18**|**RMP-YOLO: A Robust Motion Predictor for Partially Observable Scenarios even if You Only Look Once**|Jiawei Sun et.al.|[2409.11696v1](http://arxiv.org/abs/2409.11696v1)|null|
+|**2024-09-17**|**A Property Encoder for Graph Neural Networks**|Anwar Said et.al.|[2409.11554v1](http://arxiv.org/abs/2409.11554v1)|null|
+|**2024-09-17**|**Estimation and imputation of missing data in longitudinal models with Zero-Inflated Poisson response variable**|D. S. Martinez-Lobo et.al.|[2409.11040v1](http://arxiv.org/abs/2409.11040v1)|null|
+|**2024-09-02**|**Statistical Jump Model for Mixed-Type Data with Missing Data Imputation**|Federico P. Cortese et.al.|[2409.01208v2](http://arxiv.org/abs/2409.01208v2)|null|
+
 ### Mediation Analysis
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -80,25 +99,6 @@
 |**2023-06-28**|**Nonparametric Causal Decomposition of Group Disparities**|Ang Yu et.al.|[2306.16591v3](http://arxiv.org/abs/2306.16591v3)|[link](https://github.com/ang-yu/causal_decomposition_case_study)|
 |**2024-02-21**|**Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning**|Debjit Paul et.al.|[2402.13950v3](http://arxiv.org/abs/2402.13950v3)|null|
 |**2024-07-04**|**Bayesian Structured Mediation Analysis With Unobserved Confounders**|Yuliang Xu et.al.|[2407.04142v1](http://arxiv.org/abs/2407.04142v1)|null|
-
-### Causality
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-24**|**MonoFormer: One Transformer for Both Diffusion and Autoregression**|Chuyang Zhao et.al.|[2409.16280v1](http://arxiv.org/abs/2409.16280v1)|null|
-|**2023-09-22**|**Relating Wigner's Friend Scenarios to Nonclassical Causal Compatibility, Monogamy Relations, and Fine Tuning**|Yìlè Yīng et.al.|[2309.12987v4](http://arxiv.org/abs/2309.12987v4)|null|
-|**2024-09-01**|**From Predictive Importance to Causality: Which Machine Learning Model Reflects Reality?**|Muhammad Arbab Arshad et.al.|[2409.02130v2](http://arxiv.org/abs/2409.02130v2)|null|
-|**2024-09-24**|**Condensate decay in a radiation dominated cosmology**|Shuyang Cao et.al.|[2409.16076v1](http://arxiv.org/abs/2409.16076v1)|null|
-|**2024-09-24**|**Facing Asymmetry -- Uncovering the Causal Link between Facial Symmetry and Expression Classifiers using Synthetic Interventions**|Tim Büchner et.al.|[2409.15927v1](http://arxiv.org/abs/2409.15927v1)|null|
-|**2024-09-24**|**Potential Field as Scene Affordance for Behavior Change-Based Visual Risk Object Identification**|Pang-Yuan Pao et.al.|[2409.15846v1](http://arxiv.org/abs/2409.15846v1)|null|
-|**2024-08-20**|**CHECKWHY: Causal Fact Verification via Argument Structure**|Jiasheng Si et.al.|[2408.10918v2](http://arxiv.org/abs/2408.10918v2)|[link](https://github.com/jasenchn/checkwhy)|
-|**2024-09-24**|**Unveiling Language Competence Neurons: A Psycholinguistic Approach to Model Interpretability**|Xufeng Duan et.al.|[2409.15827v1](http://arxiv.org/abs/2409.15827v1)|null|
-|**2024-09-24**|**Absence of percolation for infinite Poissonian systems of stopped paths**|David Coupier et.al.|[2409.15824v1](http://arxiv.org/abs/2409.15824v1)|null|
-|**2023-10-01**|**A Bayesian joint model for mediation analysis with matrix-valued mediators**|Zijin Liu et.al.|[2310.00803v3](http://arxiv.org/abs/2310.00803v3)|null|
-|**2024-09-24**|**Linear Contextual Bandits with Interference**|Yang Xu et.al.|[2409.15682v1](http://arxiv.org/abs/2409.15682v1)|null|
-|**2022-08-01**|**Model-Twin Randomization (MoTR) for Estimating One's Own Recurring Individual Treatment Effect**|Eric J. Daza et.al.|[2208.00739v6](http://arxiv.org/abs/2208.00739v6)|null|
-|**2024-02-16**|**APCodec: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding**|Yang Ai et.al.|[2402.10533v2](http://arxiv.org/abs/2402.10533v2)|null|
-|**2024-07-21**|**Poisson bundles over unordered configurations**|Alessandra Frabetti et.al.|[2407.15287v2](http://arxiv.org/abs/2407.15287v2)|null|
-|**2024-09-23**|**FACET: Fast and Accurate Event-Based Eye Tracking Using Ellipse Modeling for Extended Reality**|Junyuan Ding et.al.|[2409.15584v1](http://arxiv.org/abs/2409.15584v1)|[link](https://github.com/deanjy/facet)|
 
 ### Causal inference
 |Publish Date|Title|Authors|PDF|Code|

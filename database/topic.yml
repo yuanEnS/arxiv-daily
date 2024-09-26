@@ -1,5 +1,5 @@
 "Causal Inference":
-  "Causal inference": '"causal inference"ANDcat:"stat.*"'
+  "Causal inference": '"causal inference"ANDcat:("stat.*"OR"cs.*")'
   "Causality": '"causality"ANDcat:"stat.*"'
   "Instrumental Variable": '"instrumental variable"ANDcat:"stat.*"'
   "Mediation Analysis": '"mediation analysis"ANDcat:"stat.*"'
