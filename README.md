@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2024-10-04 09:12:41 Asia/Shanghai
+ Automated deployment @ 2024-10-04 20:30:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -27,21 +27,40 @@
 ### Causality
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**Regression Discontinuity Designs Under Interference**|Elena Dal Torrione et.al.|[2410.02727v1](http://arxiv.org/abs/2410.02727v1)|null|
+|**2024-10-03**|**Grounded Answers for Multi-agent Decision-making Problem through Generative World Model**|Zeyang Liu et.al.|[2410.02664v1](http://arxiv.org/abs/2410.02664v1)|null|
+|**2024-02-12**|**Local Projections Inference with High-Dimensional Covariates without Sparsity**|Jooyoung Cha et.al.|[2402.07743v2](http://arxiv.org/abs/2402.07743v2)|null|
+|**2024-02-27**|**Latte: Latent Attention for Linear Time Transformers**|Rares Dolga et.al.|[2402.17512v3](http://arxiv.org/abs/2402.17512v3)|null|
+|**2024-03-21**|**A Causal Bayesian Network and Probabilistic Programming Based Reasoning Framework for Robot Manipulation Under Uncertainty**|Ricardo Cannizzaro et.al.|[2403.14488v2](http://arxiv.org/abs/2403.14488v2)|null|
+|**2024-10-03**|**Populist Constitutional Backsliding and Judicial Independence: Evidence from Turkiye**|Nuno Garoupa et.al.|[2410.02439v1](http://arxiv.org/abs/2410.02439v1)|null|
+|**2024-08-02**|**Transformers are Universal In-context Learners**|Takashi Furuya et.al.|[2408.01367v2](http://arxiv.org/abs/2408.01367v2)|null|
+|**2024-10-03**|**A Formal Framework for Understanding Length Generalization in Transformers**|Xinting Huang et.al.|[2410.02140v1](http://arxiv.org/abs/2410.02140v1)|null|
+|**2024-10-02**|**Racing Thoughts: Explaining Large Language Model Contextualization Errors**|Michael A. Lepori et.al.|[2410.02102v1](http://arxiv.org/abs/2410.02102v1)|null|
+|**2024-10-02**|**Inspection and Control of Self-Generated-Text Recognition Ability in Llama3-8b-Instruct**|Christopher Ackerman et.al.|[2410.02064v1](http://arxiv.org/abs/2410.02064v1)|null|
+|**2024-10-02**|**Exploring the equivalence of causality-based and quantum mechanics-based sum rules for harmonic generation in nonlinear optical materials**|Theodoros T. Koutserimpas et.al.|[2410.02002v1](http://arxiv.org/abs/2410.02002v1)|null|
+|**2024-01-30**|**Recovery and inference of causal effects with sequential adjustment for confounding and attrition**|Johan de Aguas et.al.|[2401.16990v3](http://arxiv.org/abs/2401.16990v3)|null|
 |**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805v1](http://arxiv.org/abs/2410.01805v1)|[link](https://github.com/huangyuxiang03/Locret)|
 |**2024-07-01**|**Eliminating Position Bias of Language Models: A Mechanistic Approach**|Ziqi Wang et.al.|[2407.01100v2](http://arxiv.org/abs/2407.01100v2)|[link](https://github.com/wzq016/pine)|
 |**2024-10-02**|**Conditional entropy and information of quantum processes**|Siddhartha Das et.al.|[2410.01740v1](http://arxiv.org/abs/2410.01740v1)|null|
-|**2024-10-02**|**CreDes: Causal Reasoning Enhancement and Dual-End Searching for Solving Long-Range Reasoning Problems using LLMs**|Kangsheng Wang et.al.|[2410.01696v1](http://arxiv.org/abs/2410.01696v1)|null|
-|**2024-10-02**|**Smaller Confidence Intervals From IPW Estimators via Data-Dependent Coarsening**|Alkis Kalavasis et.al.|[2410.01658v1](http://arxiv.org/abs/2410.01658v1)|null|
-|**2024-10-02**|**Efficient Long-range Language Modeling with Self-supervised Causal Retrieval**|Xiang Hu et.al.|[2410.01651v1](http://arxiv.org/abs/2410.01651v1)|null|
-|**2024-10-02**|**ENTP: Encoder-only Next Token Prediction**|Ethan Ewer et.al.|[2410.01600v1](http://arxiv.org/abs/2410.01600v1)|null|
-|**2024-10-01**|**Optimal Causal Representations and the Causal Information Bottleneck**|Francisco N. F. Q. Simoes et.al.|[2410.00535v2](http://arxiv.org/abs/2410.00535v2)|[link](https://github.com/francisco-simoes/cib-optimization-psagd)|
-|**2024-10-02**|**The Impact of the COVID-19 Pandemic on Women's Contribution to Public Code**|Annalí Casanueva et.al.|[2410.01454v1](http://arxiv.org/abs/2410.01454v1)|null|
-|**2024-10-02**|**Causal Inference Tools for a Better Evaluation of Machine Learning**|Michaël Soumm et.al.|[2410.01392v1](http://arxiv.org/abs/2410.01392v1)|null|
-|**2024-04-26**|**A Conditional Independence Test in the Presence of Discretization**|Boyang Sun et.al.|[2404.17644v3](http://arxiv.org/abs/2404.17644v3)|[link](https://github.com/boyangaaaaa/dct)|
-|**2024-10-02**|**Unveiling Language Skills under Circuits**|Hang Chen et.al.|[2410.01334v1](http://arxiv.org/abs/2410.01334v1)|null|
-|**2024-10-02**|**Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models**|Can Demircan et.al.|[2410.01280v1](http://arxiv.org/abs/2410.01280v1)|null|
-|**2024-07-30**|**Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations**|Yupei Yang et.al.|[2407.20651v3](http://arxiv.org/abs/2407.20651v3)|null|
-|**2024-09-20**|**Advancing Event Causality Identification via Heuristic Semantic Dependency Inquiry Network**|Haoran Li et.al.|[2409.13621v2](http://arxiv.org/abs/2409.13621v2)|null|
+
+### Instrumental Variable
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-02**|**Instrumental variables: A non-asymptotic viewpoint**|Eric Xia et.al.|[2410.02015v1](http://arxiv.org/abs/2410.02015v1)|null|
+|**2024-10-02**|**Transformers Handle Endogeneity in In-Context Linear Regression**|Haodong Liang et.al.|[2410.01265v1](http://arxiv.org/abs/2410.01265v1)|null|
+|**2024-05-11**|**Nested Instrumental Variables Design: Switcher Average Treatment Effect, Identification, Efficient Estimation and Generalizability**|Rui Wang et.al.|[2405.07102v2](http://arxiv.org/abs/2405.07102v2)|null|
+|**2024-10-01**|**Uncovering the Viral Nature of Toxicity in Competitive Online Video Games**|Jacob Morrier et.al.|[2410.00978v1](http://arxiv.org/abs/2410.00978v1)|null|
+|**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903v1](http://arxiv.org/abs/2410.00903v1)|null|
+|**2022-04-22**|**Identification enhanced generalised linear model estimation with nonignorable missing outcomes**|Kenji Beppu et.al.|[2204.10508v3](http://arxiv.org/abs/2204.10508v3)|null|
+|**2023-12-05**|**Nonparametric Bayesian Adjustment of Unmeasured Confounders in Cox Proportional Hazards Models**|Shunichiro Orihara et.al.|[2312.02404v4](http://arxiv.org/abs/2312.02404v4)|null|
+|**2023-05-07**|**Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity**|Lin Liu et.al.|[2305.04174v4](http://arxiv.org/abs/2305.04174v4)|null|
+|**2024-04-27**|**Manipulating a Continuous Instrumental Variable in an Observational Study of Premature Babies: Algorithm, Partial Identification Bounds, and Inference under Randomization and Biased Randomization Assumptions**|Zhe Chen et.al.|[2404.17734v2](http://arxiv.org/abs/2404.17734v2)|null|
+|**2024-08-20**|**Inference with Many Weak Instruments and Heterogeneity**|Luther Yap et.al.|[2408.11193v2](http://arxiv.org/abs/2408.11193v2)|null|
+|**2024-06-05**|**When does IV identification not restrict outcomes?**|Leonard Goff et.al.|[2406.02835v3](http://arxiv.org/abs/2406.02835v3)|null|
+|**2024-09-23**|**Identifying Elasticities in Autocorrelated Time Series Using Causal Graphs**|Silvana Tiedemann et.al.|[2409.15530v1](http://arxiv.org/abs/2409.15530v1)|null|
+|**2022-03-17**|**Fighting Noise with Noise: Causal Inference with Many Candidate Instruments**|Xinyi Zhang et.al.|[2203.09330v3](http://arxiv.org/abs/2203.09330v3)|null|
+|**2024-09-22**|**Friends, Key Players and the Adoption and Use of Experience Goods**|Rhys Murrian et.al.|[2409.14351v1](http://arxiv.org/abs/2409.14351v1)|null|
+|**2024-09-21**|**Mining Causality: AI-Assisted Search for Instrumental Variables**|Sukjin Han et.al.|[2409.14202v1](http://arxiv.org/abs/2409.14202v1)|null|
 
 ### Missing Data
 |Publish Date|Title|Authors|PDF|Code|
@@ -65,6 +84,8 @@
 ### Causal inference
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-02-12**|**Local Projections Inference with High-Dimensional Covariates without Sparsity**|Jooyoung Cha et.al.|[2402.07743v2](http://arxiv.org/abs/2402.07743v2)|null|
+|**2024-01-30**|**Recovery and inference of causal effects with sequential adjustment for confounding and attrition**|Johan de Aguas et.al.|[2401.16990v3](http://arxiv.org/abs/2401.16990v3)|null|
 |**2024-10-02**|**Smaller Confidence Intervals From IPW Estimators via Data-Dependent Coarsening**|Alkis Kalavasis et.al.|[2410.01658v1](http://arxiv.org/abs/2410.01658v1)|null|
 |**2024-10-02**|**Causal Inference Tools for a Better Evaluation of Machine Learning**|Michaël Soumm et.al.|[2410.01392v1](http://arxiv.org/abs/2410.01392v1)|null|
 |**2024-10-02**|**Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample**|Zhiwen Shao et.al.|[2410.01251v1](http://arxiv.org/abs/2410.01251v1)|null|
@@ -74,31 +95,10 @@
 |**2024-05-28**|**Nonparametric causal inference for optogenetics: sequential excursion effects for dynamic regimes**|Gabriel Loewinger et.al.|[2405.18597v2](http://arxiv.org/abs/2405.18597v2)|[link](https://github.com/gloewing/causal_opto)|
 |**2023-10-26**|**Causality-Inspired Fair Representation Learning for Multimodal Recommendation**|Weixin Chen et.al.|[2310.17373v2](http://arxiv.org/abs/2310.17373v2)|[link](https://github.com/weixinchen98/fmmrec)|
 |**2024-10-01**|**The generalized Nelson--Aalen estimator by inverse probability of treatment weighting**|Yuhao Deng et.al.|[2410.00338v1](http://arxiv.org/abs/2410.00338v1)|null|
-|**2024-01-30**|**Recovery and inference of causal effects with sequential adjustment for confounding and attrition**|Johan de Aguas et.al.|[2401.16990v3](http://arxiv.org/abs/2401.16990v3)|null|
 |**2024-09-30**|**Does Positive Reinforcement Work?: A Quasi-Experimental Study of the Effects of Positive Feedback on Reddit**|Charlotte Lambert et.al.|[2409.20410v1](http://arxiv.org/abs/2409.20410v1)|null|
 |**2024-04-15**|**General Bayesian inference for causal effects using covariate balancing procedure**|Shunichiro Orihara et.al.|[2404.09414v2](http://arxiv.org/abs/2404.09414v2)|[link](https://github.com/t-momozaki/brcal)|
 |**2022-10-11**|**Causal and counterfactual views of missing data models**|Razieh Nabi et.al.|[2210.05558v2](http://arxiv.org/abs/2210.05558v2)|null|
 |**2023-05-07**|**Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity**|Lin Liu et.al.|[2305.04174v4](http://arxiv.org/abs/2305.04174v4)|null|
-|**2022-09-09**|**On the number and size of Markov equivalence classes of random directed acyclic graphs**|Dominik Schmid et.al.|[2209.04395v2](http://arxiv.org/abs/2209.04395v2)|null|
-
-### Instrumental Variable
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-02**|**Transformers Handle Endogeneity in In-Context Linear Regression**|Haodong Liang et.al.|[2410.01265v1](http://arxiv.org/abs/2410.01265v1)|null|
-|**2024-05-11**|**Nested Instrumental Variables Design: Switcher Average Treatment Effect, Identification, Efficient Estimation and Generalizability**|Rui Wang et.al.|[2405.07102v2](http://arxiv.org/abs/2405.07102v2)|null|
-|**2024-10-01**|**Uncovering the Viral Nature of Toxicity in Competitive Online Video Games**|Jacob Morrier et.al.|[2410.00978v1](http://arxiv.org/abs/2410.00978v1)|null|
-|**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903v1](http://arxiv.org/abs/2410.00903v1)|null|
-|**2022-04-22**|**Identification enhanced generalised linear model estimation with nonignorable missing outcomes**|Kenji Beppu et.al.|[2204.10508v3](http://arxiv.org/abs/2204.10508v3)|null|
-|**2023-12-05**|**Nonparametric Bayesian Adjustment of Unmeasured Confounders in Cox Proportional Hazards Models**|Shunichiro Orihara et.al.|[2312.02404v4](http://arxiv.org/abs/2312.02404v4)|null|
-|**2023-05-07**|**Root-n consistent semiparametric learning with high-dimensional nuisance functions under minimal sparsity**|Lin Liu et.al.|[2305.04174v4](http://arxiv.org/abs/2305.04174v4)|null|
-|**2024-04-27**|**Manipulating a Continuous Instrumental Variable in an Observational Study of Premature Babies: Algorithm, Partial Identification Bounds, and Inference under Randomization and Biased Randomization Assumptions**|Zhe Chen et.al.|[2404.17734v2](http://arxiv.org/abs/2404.17734v2)|null|
-|**2024-08-20**|**Inference with Many Weak Instruments and Heterogeneity**|Luther Yap et.al.|[2408.11193v2](http://arxiv.org/abs/2408.11193v2)|null|
-|**2024-06-05**|**When does IV identification not restrict outcomes?**|Leonard Goff et.al.|[2406.02835v3](http://arxiv.org/abs/2406.02835v3)|null|
-|**2024-09-23**|**Identifying Elasticities in Autocorrelated Time Series Using Causal Graphs**|Silvana Tiedemann et.al.|[2409.15530v1](http://arxiv.org/abs/2409.15530v1)|null|
-|**2022-03-17**|**Fighting Noise with Noise: Causal Inference with Many Candidate Instruments**|Xinyi Zhang et.al.|[2203.09330v3](http://arxiv.org/abs/2203.09330v3)|null|
-|**2024-09-22**|**Friends, Key Players and the Adoption and Use of Experience Goods**|Rhys Murrian et.al.|[2409.14351v1](http://arxiv.org/abs/2409.14351v1)|null|
-|**2024-09-21**|**Mining Causality: AI-Assisted Search for Instrumental Variables**|Sukjin Han et.al.|[2409.14202v1](http://arxiv.org/abs/2409.14202v1)|null|
-|**2024-01-11**|**Prediction of causal genes at GWAS loci with pleiotropic gene regulatory effects using sets of correlated instrumental variables**|Mariyam Khan et.al.|[2401.06261v3](http://arxiv.org/abs/2401.06261v3)|[link](https://github.com/mariyam-khan/causal_genes_gwas_loci_cad)|
 
 ### Mediation Analysis
 |Publish Date|Title|Authors|PDF|Code|
@@ -124,6 +124,12 @@
 ### Survival
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-10-03**|**On the origin of anomalous hysteresis in graphite/boron nitride transistors**|Dacen Waters et.al.|[2410.02699v1](http://arxiv.org/abs/2410.02699v1)|null|
+|**2024-10-03**|**DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life**|Yu Ying Chiu et.al.|[2410.02683v1](http://arxiv.org/abs/2410.02683v1)|null|
+|**2024-10-03**|**On the First Passage Times of Branching Random Walks in $\mathbb{R}^d$**|Jose Blanchet et.al.|[2410.02635v1](http://arxiv.org/abs/2410.02635v1)|null|
+|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v2](http://arxiv.org/abs/2409.20195v2)|[link](https://github.com/arunava555/Forecast_parallel_hyperplanes)|
+|**2024-04-15**|**Spatial resolution of dijet photoproduction in near-encounter ultraperipheral nuclear collisions**|Kari J. Eskola et.al.|[2404.09731v2](http://arxiv.org/abs/2404.09731v2)|null|
+|**2024-10-02**|**On the early thermal processing of planetesimals during and after the giant planet instability**|A. Gkotsinas et.al.|[2410.01923v1](http://arxiv.org/abs/2410.01923v1)|null|
 |**2024-10-02**|**Integrating Protein Sequence and Expression Level to Analysis Molecular Characterization of Breast Cancer Subtypes**|Hossein Sholehrasa et.al.|[2410.01755v1](http://arxiv.org/abs/2410.01755v1)|null|
 |**2024-04-25**|**$R_{D^{(*)}}$ and survival of the fittest scalar leptoquark**|Damir Bečirević et.al.|[2404.16772v2](http://arxiv.org/abs/2404.16772v2)|null|
 |**2024-10-02**|**Detecting Viral Social Events through Censored Observation with Deep Survival Analysis**|Maryam Ramezani et.al.|[2410.01320v1](http://arxiv.org/abs/2410.01320v1)|null|
@@ -133,9 +139,3 @@
 |**2024-10-01**|**First-passage times to a fractal boundary: local persistence exponent and its log-periodic oscillations**|Yilin Ye et.al.|[2410.00808v1](http://arxiv.org/abs/2410.00808v1)|null|
 |**2024-09-25**|**DRIM: Learning Disentangled Representations from Incomplete Multimodal Healthcare Data**|Lucas Robinet et.al.|[2409.17055v2](http://arxiv.org/abs/2409.17055v2)|[link](https://github.com/lucas-rbnt/drim)|
 |**2024-09-28**|**Promise and Peril: Stellar Contamination and Strict Limits on the Atmosphere Composition of TRAPPIST-1c from JWST NIRISS Transmission Spectra**|Michael Radica et.al.|[2409.19333v2](http://arxiv.org/abs/2409.19333v2)|null|
-|**2023-10-12**|**DsubCox: A Fast Subsampling Algorithm for Cox Model with Distributed and Massive Survival Data**|Haixiang Zhang et.al.|[2310.08208v2](http://arxiv.org/abs/2310.08208v2)|null|
-|**2024-09-13**|**Model-independent variable selection via the rule-based variable priority**|Min Lu et.al.|[2409.09003v3](http://arxiv.org/abs/2409.09003v3)|null|
-|**2024-10-01**|**Galactic center G objects as dust-enshrouded stars near the supermassive black hole**|Michal Zajaček et.al.|[2410.00304v1](http://arxiv.org/abs/2410.00304v1)|null|
-|**2024-09-30**|**Relative Cumulative Residual Information Measure**|Mary Andrews et.al.|[2410.00125v1](http://arxiv.org/abs/2410.00125v1)|null|
-|**2020-11-17**|**Sampling with censored data: a practical guide**|Pedro L. Ramos et.al.|[2011.08417v3](http://arxiv.org/abs/2011.08417v3)|null|
-|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v2](http://arxiv.org/abs/2409.20195v2)|[link](https://github.com/arunava555/Forecast_parallel_hyperplanes)|
