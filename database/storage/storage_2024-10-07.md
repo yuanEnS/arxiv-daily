@@ -1,28 +1,30 @@
 # arxiv-daily
- Automated deployment @ 2024-10-07 21:06:29 Asia/Shanghai
+ Automated deployment @ 2024-10-07 21:45:55 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
-## Causal Inference
+## Survival Analysis
 
-### Truncation by death
+### Survival
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
-|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
-|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
-|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
-|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
-|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
-|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
-|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
-|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
-|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
-|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
-|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
-|**2022-06-16**|**Identification and estimation of causal effects in the presence of confounded principal strata**|Shanshan Luo et.al.|[2206.08228v2](http://arxiv.org/abs/2206.08228v2)|null|
-|**2022-02-24**|**A sensitivity analysis approach for the causal hazard ratio in randomized and observational studies**|Rachel Axelrod et.al.|[2202.12420v2](http://arxiv.org/abs/2202.12420v2)|null|
-|**2020-06-28**|**Conditional separable effects**|Mats J. Stensrud et.al.|[2006.15681v3](http://arxiv.org/abs/2006.15681v3)|null|
+|**2023-12-14**|**Vacancy-induced tunable Kondo effect in twisted bilayer graphene**|Yueqing Chang et.al.|[2312.09286v2](http://arxiv.org/abs/2312.09286v2)|null|
+|**2024-10-04**|**Novel Constraints on Companions to the Helix Nebula Central Star**|Leyla Iskandarli et.al.|[2410.03288v1](http://arxiv.org/abs/2410.03288v1)|null|
+|**2024-10-04**|**Spontaneously formed phonon frequency combs in van der Waals solid CrXTe$_3$ (X=Ge,Si)**|Lebing Chen et.al.|[2410.03128v1](http://arxiv.org/abs/2410.03128v1)|null|
+|**2024-10-04**|**Time-In-Range Analyses of Functional Data Subject to Missing with Applications to Inpatient Continuous Glucose Monitoring**|Qi Yu et.al.|[2410.03091v1](http://arxiv.org/abs/2410.03091v1)|null|
+|**2024-09-28**|**Estimating Interpretable Heterogeneous Treatment Effect with Causal Subgroup Discovery in Survival Outcomes**|Na Bo et.al.|[2409.19241v2](http://arxiv.org/abs/2409.19241v2)|null|
+|**2024-10-03**|**Room temperature buffer gas beam of metastable state titanium atoms**|Jack Schrott et.al.|[2410.02876v1](http://arxiv.org/abs/2410.02876v1)|null|
+|**2024-10-03**|**SIMP dark matter during reheating**|Debtosh Chowdhury and et.al.|[2410.02871v1](http://arxiv.org/abs/2410.02871v1)|null|
+|**2024-10-03**|**On the origin of anomalous hysteresis in graphite/boron nitride transistors**|Dacen Waters et.al.|[2410.02699v1](http://arxiv.org/abs/2410.02699v1)|null|
+|**2024-10-03**|**DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life**|Yu Ying Chiu et.al.|[2410.02683v1](http://arxiv.org/abs/2410.02683v1)|null|
+|**2024-10-03**|**On the First Passage Times of Branching Random Walks in $\mathbb{R}^d$**|Jose Blanchet et.al.|[2410.02635v1](http://arxiv.org/abs/2410.02635v1)|null|
+|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v2](http://arxiv.org/abs/2409.20195v2)|[link](https://github.com/arunava555/Forecast_parallel_hyperplanes)|
+|**2024-04-15**|**Spatial resolution of dijet photoproduction in near-encounter ultraperipheral nuclear collisions**|Kari J. Eskola et.al.|[2404.09731v2](http://arxiv.org/abs/2404.09731v2)|null|
+|**2024-10-02**|**On the early thermal processing of planetesimals during and after the giant planet instability**|A. Gkotsinas et.al.|[2410.01923v1](http://arxiv.org/abs/2410.01923v1)|null|
+|**2024-10-02**|**Integrating Protein Sequence and Expression Level to Analysis Molecular Characterization of Breast Cancer Subtypes**|Hossein Sholehrasa et.al.|[2410.01755v1](http://arxiv.org/abs/2410.01755v1)|null|
+|**2024-04-25**|**$R_{D^{(*)}}$ and survival of the fittest scalar leptoquark**|Damir Bečirević et.al.|[2404.16772v2](http://arxiv.org/abs/2404.16772v2)|null|
+
+## Causal Inference
 
 ### Causality
 |Publish Date|Title|Authors|PDF|Code|
@@ -100,6 +102,25 @@
 |**2023-01-11**|**Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability**|Atticus Geiger et.al.|[2301.04709v3](http://arxiv.org/abs/2301.04709v3)|null|
 |**2024-08-02**|**The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability**|Aaron Mueller et.al.|[2408.01416v1](http://arxiv.org/abs/2408.01416v1)|null|
 
+### Truncation by death
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
+|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
+|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
+|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
+|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
+|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
+|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
+|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
+|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
+|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
+|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
+|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
+|**2022-06-16**|**Identification and estimation of causal effects in the presence of confounded principal strata**|Shanshan Luo et.al.|[2206.08228v2](http://arxiv.org/abs/2206.08228v2)|null|
+|**2022-02-24**|**A sensitivity analysis approach for the causal hazard ratio in randomized and observational studies**|Rachel Axelrod et.al.|[2202.12420v2](http://arxiv.org/abs/2202.12420v2)|null|
+|**2020-06-28**|**Conditional separable effects**|Mats J. Stensrud et.al.|[2006.15681v3](http://arxiv.org/abs/2006.15681v3)|null|
+
 ### Instrumental Variable
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -118,24 +139,3 @@
 |**2024-09-23**|**Identifying Elasticities in Autocorrelated Time Series Using Causal Graphs**|Silvana Tiedemann et.al.|[2409.15530v1](http://arxiv.org/abs/2409.15530v1)|null|
 |**2022-03-17**|**Fighting Noise with Noise: Causal Inference with Many Candidate Instruments**|Xinyi Zhang et.al.|[2203.09330v3](http://arxiv.org/abs/2203.09330v3)|null|
 |**2024-09-22**|**Friends, Key Players and the Adoption and Use of Experience Goods**|Rhys Murrian et.al.|[2409.14351v1](http://arxiv.org/abs/2409.14351v1)|null|
-
-## Survival Analysis
-
-### Survival
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-12-14**|**Vacancy-induced tunable Kondo effect in twisted bilayer graphene**|Yueqing Chang et.al.|[2312.09286v2](http://arxiv.org/abs/2312.09286v2)|null|
-|**2024-10-04**|**Novel Constraints on Companions to the Helix Nebula Central Star**|Leyla Iskandarli et.al.|[2410.03288v1](http://arxiv.org/abs/2410.03288v1)|null|
-|**2024-10-04**|**Spontaneously formed phonon frequency combs in van der Waals solid CrXTe$_3$ (X=Ge,Si)**|Lebing Chen et.al.|[2410.03128v1](http://arxiv.org/abs/2410.03128v1)|null|
-|**2024-10-04**|**Time-In-Range Analyses of Functional Data Subject to Missing with Applications to Inpatient Continuous Glucose Monitoring**|Qi Yu et.al.|[2410.03091v1](http://arxiv.org/abs/2410.03091v1)|null|
-|**2024-09-28**|**Estimating Interpretable Heterogeneous Treatment Effect with Causal Subgroup Discovery in Survival Outcomes**|Na Bo et.al.|[2409.19241v2](http://arxiv.org/abs/2409.19241v2)|null|
-|**2024-10-03**|**Room temperature buffer gas beam of metastable state titanium atoms**|Jack Schrott et.al.|[2410.02876v1](http://arxiv.org/abs/2410.02876v1)|null|
-|**2024-10-03**|**SIMP dark matter during reheating**|Debtosh Chowdhury and et.al.|[2410.02871v1](http://arxiv.org/abs/2410.02871v1)|null|
-|**2024-10-03**|**On the origin of anomalous hysteresis in graphite/boron nitride transistors**|Dacen Waters et.al.|[2410.02699v1](http://arxiv.org/abs/2410.02699v1)|null|
-|**2024-10-03**|**DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life**|Yu Ying Chiu et.al.|[2410.02683v1](http://arxiv.org/abs/2410.02683v1)|null|
-|**2024-10-03**|**On the First Passage Times of Branching Random Walks in $\mathbb{R}^d$**|Jose Blanchet et.al.|[2410.02635v1](http://arxiv.org/abs/2410.02635v1)|null|
-|**2024-09-30**|**Forecasting Disease Progression with Parallel Hyperplanes in Longitudinal Retinal OCT**|Arunava Chakravarty et.al.|[2409.20195v2](http://arxiv.org/abs/2409.20195v2)|[link](https://github.com/arunava555/Forecast_parallel_hyperplanes)|
-|**2024-04-15**|**Spatial resolution of dijet photoproduction in near-encounter ultraperipheral nuclear collisions**|Kari J. Eskola et.al.|[2404.09731v2](http://arxiv.org/abs/2404.09731v2)|null|
-|**2024-10-02**|**On the early thermal processing of planetesimals during and after the giant planet instability**|A. Gkotsinas et.al.|[2410.01923v1](http://arxiv.org/abs/2410.01923v1)|null|
-|**2024-10-02**|**Integrating Protein Sequence and Expression Level to Analysis Molecular Characterization of Breast Cancer Subtypes**|Hossein Sholehrasa et.al.|[2410.01755v1](http://arxiv.org/abs/2410.01755v1)|null|
-|**2024-04-25**|**$R_{D^{(*)}}$ and survival of the fittest scalar leptoquark**|Damir Bečirević et.al.|[2404.16772v2](http://arxiv.org/abs/2404.16772v2)|null|
