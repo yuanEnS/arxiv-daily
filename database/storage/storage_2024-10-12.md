@@ -1,28 +1,28 @@
 # arxiv-daily
- Automated deployment @ 2024-10-12 08:40:56 Asia/Shanghai
+ Automated deployment @ 2024-10-12 21:16:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Causal Inference
 
-### Missing Data
+### Truncation by death
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-10**|**Conditional Lagrangian Wasserstein Flow for Time Series Imputation**|Weizhu Qian et.al.|[2410.07550v1](http://arxiv.org/abs/2410.07550v1)|null|
-|**2024-06-30**|**Directly Handling Missing Data in Linear Discriminant Analysis for Enhancing Classification Accuracy and Interpretability**|Tuan L. Vo et.al.|[2407.00710v3](http://arxiv.org/abs/2407.00710v3)|[link](https://github.com/DangLeUyen/WLDA)|
-|**2024-10-09**|**Direct Estimation for Commonly Used Pattern-Mixture Models in Clinical Trials**|Jitong Lou et.al.|[2410.06939v1](http://arxiv.org/abs/2410.06939v1)|null|
-|**2024-10-09**|**Decentralized Clinical Trials in the Era of Real-World Evidence: A Statistical Perspective**|Jie Chen et.al.|[2410.06591v1](http://arxiv.org/abs/2410.06591v1)|null|
-|**2024-10-08**|**Dynamic graphical models: Theory, structure and counterfactual forecasting**|Mike West et.al.|[2410.06125v1](http://arxiv.org/abs/2410.06125v1)|null|
-|**2024-10-08**|**Model Uncertainty and Missing Data: An Objective Bayesian Perspective**|Gonzalo García-Donato et.al.|[2410.05893v1](http://arxiv.org/abs/2410.05893v1)|null|
-|**2024-03-25**|**A Marginal Maximum Likelihood Approach for Hierarchical Simultaneous Autoregressive Models with Missing Data**|Anjana Wijayawardhana et.al.|[2403.17257v2](http://arxiv.org/abs/2403.17257v2)|null|
-|**2024-10-07**|**Automatic Identification and Visualization of Group Training Activities Using Wearable Data**|Barak Gahtan et.al.|[2410.05452v1](http://arxiv.org/abs/2410.05452v1)|null|
-|**2024-10-04**|**SDA-GRIN for Adaptive Spatial-Temporal Multivariate Time Series Imputation**|Amir Eskandari et.al.|[2410.03954v1](http://arxiv.org/abs/2410.03954v1)|null|
-|**2024-10-04**|**Towards Cost Sensitive Decision Making**|Yang Li et.al.|[2410.03892v1](http://arxiv.org/abs/2410.03892v1)|null|
-|**2024-10-04**|**Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions**|Rajenki Das et.al.|[2410.03346v1](http://arxiv.org/abs/2410.03346v1)|null|
-|**2024-02-12**|**Foundational Inference Models for Dynamical Systems**|Patrick Seifner et.al.|[2402.07594v2](http://arxiv.org/abs/2402.07594v2)|null|
-|**2024-10-04**|**FedMAC: Tackling Partial-Modality Missing in Federated Learning with Cross-Modal Aggregation and Contrastive Regularization**|Manh Duong Nguyen et.al.|[2410.03070v1](http://arxiv.org/abs/2410.03070v1)|null|
-|**2024-10-03**|**Imputing Missing Values with External Data**|Robert Thiesmeier et.al.|[2410.02982v1](http://arxiv.org/abs/2410.02982v1)|null|
-|**2024-05-24**|**NuwaTS: a Foundation Model Mending Every Incomplete Time Series**|Jinguo Cheng et.al.|[2405.15317v3](http://arxiv.org/abs/2405.15317v3)|[link](https://github.com/chengyui/nuwats)|
+|**2024-10-09**|**Doubly robust estimation and sensitivity analysis with outcomes truncated by death in multi-arm clinical trials**|Jiaqi Tong et.al.|[2410.07483v1](http://arxiv.org/abs/2410.07483v1)|null|
+|**2024-10-06**|**A Bayesian Method for Adverse Effects Estimation in Observational Studies with Truncation by Death**|Anthony Sisti et.al.|[2410.04561v1](http://arxiv.org/abs/2410.04561v1)|[link](https://github.com/anthonysisti/adverse-effects-estimation-in-observational-studies-with-truncation-by-death)|
+|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
+|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
+|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
+|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
+|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
+|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
+|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
+|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
+|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
+|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
+|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
+|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
+|**2022-06-16**|**Identification and estimation of causal effects in the presence of confounded principal strata**|Shanshan Luo et.al.|[2206.08228v2](http://arxiv.org/abs/2206.08228v2)|null|
 
 ### Causal inference
 |Publish Date|Title|Authors|PDF|Code|
@@ -81,24 +81,24 @@
 |**2024-10-07**|**Over-the-Air Federated Learning in Cell-Free MIMO with Long-term Power Constraint**|Yifan Wang et.al.|[2410.05354v2](http://arxiv.org/abs/2410.05354v2)|null|
 |**2024-03-15**|**Device-independent quantum secret sharing with noise preprocessing and postselection**|Qi Zhang et.al.|[2403.10137v2](http://arxiv.org/abs/2403.10137v2)|null|
 
-### Truncation by death
+### Missing Data
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-09**|**Doubly robust estimation and sensitivity analysis with outcomes truncated by death in multi-arm clinical trials**|Jiaqi Tong et.al.|[2410.07483v1](http://arxiv.org/abs/2410.07483v1)|null|
-|**2024-10-06**|**A Bayesian Method for Adverse Effects Estimation in Observational Studies with Truncation by Death**|Anthony Sisti et.al.|[2410.04561v1](http://arxiv.org/abs/2410.04561v1)|[link](https://github.com/anthonysisti/adverse-effects-estimation-in-observational-studies-with-truncation-by-death)|
-|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
-|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
-|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
-|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
-|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
-|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
-|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
-|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
-|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
-|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
-|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
-|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
-|**2022-06-16**|**Identification and estimation of causal effects in the presence of confounded principal strata**|Shanshan Luo et.al.|[2206.08228v2](http://arxiv.org/abs/2206.08228v2)|null|
+|**2024-10-10**|**Conditional Lagrangian Wasserstein Flow for Time Series Imputation**|Weizhu Qian et.al.|[2410.07550v1](http://arxiv.org/abs/2410.07550v1)|null|
+|**2024-06-30**|**Directly Handling Missing Data in Linear Discriminant Analysis for Enhancing Classification Accuracy and Interpretability**|Tuan L. Vo et.al.|[2407.00710v3](http://arxiv.org/abs/2407.00710v3)|[link](https://github.com/DangLeUyen/WLDA)|
+|**2024-10-09**|**Direct Estimation for Commonly Used Pattern-Mixture Models in Clinical Trials**|Jitong Lou et.al.|[2410.06939v1](http://arxiv.org/abs/2410.06939v1)|null|
+|**2024-10-09**|**Decentralized Clinical Trials in the Era of Real-World Evidence: A Statistical Perspective**|Jie Chen et.al.|[2410.06591v1](http://arxiv.org/abs/2410.06591v1)|null|
+|**2024-10-08**|**Dynamic graphical models: Theory, structure and counterfactual forecasting**|Mike West et.al.|[2410.06125v1](http://arxiv.org/abs/2410.06125v1)|null|
+|**2024-10-08**|**Model Uncertainty and Missing Data: An Objective Bayesian Perspective**|Gonzalo García-Donato et.al.|[2410.05893v1](http://arxiv.org/abs/2410.05893v1)|null|
+|**2024-03-25**|**A Marginal Maximum Likelihood Approach for Hierarchical Simultaneous Autoregressive Models with Missing Data**|Anjana Wijayawardhana et.al.|[2403.17257v2](http://arxiv.org/abs/2403.17257v2)|null|
+|**2024-10-07**|**Automatic Identification and Visualization of Group Training Activities Using Wearable Data**|Barak Gahtan et.al.|[2410.05452v1](http://arxiv.org/abs/2410.05452v1)|null|
+|**2024-10-04**|**SDA-GRIN for Adaptive Spatial-Temporal Multivariate Time Series Imputation**|Amir Eskandari et.al.|[2410.03954v1](http://arxiv.org/abs/2410.03954v1)|null|
+|**2024-10-04**|**Towards Cost Sensitive Decision Making**|Yang Li et.al.|[2410.03892v1](http://arxiv.org/abs/2410.03892v1)|null|
+|**2024-10-04**|**Implementing Response-Adaptive Randomisation in Stratified Rare-disease Trials: Design Challenges and Practical Solutions**|Rajenki Das et.al.|[2410.03346v1](http://arxiv.org/abs/2410.03346v1)|null|
+|**2024-02-12**|**Foundational Inference Models for Dynamical Systems**|Patrick Seifner et.al.|[2402.07594v2](http://arxiv.org/abs/2402.07594v2)|null|
+|**2024-10-04**|**FedMAC: Tackling Partial-Modality Missing in Federated Learning with Cross-Modal Aggregation and Contrastive Regularization**|Manh Duong Nguyen et.al.|[2410.03070v1](http://arxiv.org/abs/2410.03070v1)|null|
+|**2024-10-03**|**Imputing Missing Values with External Data**|Robert Thiesmeier et.al.|[2410.02982v1](http://arxiv.org/abs/2410.02982v1)|null|
+|**2024-05-24**|**NuwaTS: a Foundation Model Mending Every Incomplete Time Series**|Jinguo Cheng et.al.|[2405.15317v3](http://arxiv.org/abs/2405.15317v3)|[link](https://github.com/chengyui/nuwats)|
 
 ### Mediation Analysis
 |Publish Date|Title|Authors|PDF|Code|
