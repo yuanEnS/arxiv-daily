@@ -1,9 +1,47 @@
 # arxiv-daily
- Automated deployment @ 2024-10-19 12:48:35 Asia/Shanghai
+ Automated deployment @ 2024-10-19 21:07:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Causal Inference
+
+### Truncation by death
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-09**|**Doubly robust estimation and sensitivity analysis with outcomes truncated by death in multi-arm clinical trials**|Jiaqi Tong et.al.|[2410.07483v1](http://arxiv.org/abs/2410.07483v1)|null|
+|**2024-10-06**|**A Bayesian Method for Adverse Effects Estimation in Observational Studies with Truncation by Death**|Anthony Sisti et.al.|[2410.04561v1](http://arxiv.org/abs/2410.04561v1)|[link](https://github.com/anthonysisti/adverse-effects-estimation-in-observational-studies-with-truncation-by-death)|
+|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
+|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
+|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
+|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
+|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
+|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
+|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
+|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
+|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
+|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
+|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
+|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
+|**2022-06-16**|**Identification and estimation of causal effects in the presence of confounded principal strata**|Shanshan Luo et.al.|[2206.08228v2](http://arxiv.org/abs/2206.08228v2)|null|
+
+### Causal inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-03**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097v3](http://arxiv.org/abs/2409.02097v3)|[link](https://github.com/huage001/linfusion)|
+|**2024-05-28**|**Multi-CATE: Multi-Accurate Conditional Average Treatment Effect Estimation Robust to Unknown Covariate Shifts**|Christoph Kern et.al.|[2405.18206v2](http://arxiv.org/abs/2405.18206v2)|null|
+|**2024-06-12**|**Orthogonalized Estimation of Difference of $Q$-functions**|Defu Cao et.al.|[2406.08697v2](http://arxiv.org/abs/2406.08697v2)|null|
+|**2024-10-16**|**Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference**|Qianyi Chen et.al.|[2410.12740v1](http://arxiv.org/abs/2410.12740v1)|null|
+|**2024-10-16**|**Counterfactual Generative Modeling with Variational Causal Inference**|Yulun Wu et.al.|[2410.12730v1](http://arxiv.org/abs/2410.12730v1)|null|
+|**2024-10-16**|**Flexible and Efficient Estimation of Causal Effects with Error-Prone Exposures: A Control Variates Approach for Measurement Error**|Keith Barnatchez et.al.|[2410.12590v1](http://arxiv.org/abs/2410.12590v1)|null|
+|**2024-09-15**|**Causal Inference with Large Language Model: A Survey**|Jing Ma et.al.|[2409.09822v2](http://arxiv.org/abs/2409.09822v2)|null|
+|**2024-10-16**|**Quantifying Treatment Effects: Estimating Risk Ratios in Causal Inference**|Ahmed Boughdiri et.al.|[2410.12333v1](http://arxiv.org/abs/2410.12333v1)|null|
+|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300v1](http://arxiv.org/abs/2410.12300v1)|null|
+|**2024-10-15**|**Unraveling Heterogeneous Treatment Effects in Networks: A Non-Parametric Approach Based on Node Connectivity**|Heejong Bong et.al.|[2410.11797v1](http://arxiv.org/abs/2410.11797v1)|null|
+|**2024-10-15**|**Addressing the Null Paradox in Epidemic Models: Correcting for Collider Bias in Causal Inference**|Heejong Bong et.al.|[2410.11743v1](http://arxiv.org/abs/2410.11743v1)|null|
+|**2024-10-15**|**Enhancing Statistical Validity and Power in Hybrid Controlled Trials: A Randomization Inference Approach with Conformal Selective Borrowing**|Ke Zhu et.al.|[2410.11713v1](http://arxiv.org/abs/2410.11713v1)|null|
+|**2023-11-09**|**An Experimental Design for Anytime-Valid Causal Inference on Multi-Armed Bandits**|Biyonka Liang et.al.|[2311.05794v4](http://arxiv.org/abs/2311.05794v4)|[link](https://github.com/biyonka/mixture_adaptive_design)|
+|**2024-10-15**|**Do LLMs Have the Generalization Ability in Conducting Causal Inference?**|Chen Wang et.al.|[2410.11385v1](http://arxiv.org/abs/2410.11385v1)|[link](https://github.com/prayingsociety/ci_bench)|
+|**2024-05-15**|**C-Learner: Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493v3](http://arxiv.org/abs/2405.09493v3)|null|
 
 ### Causality
 |Publish Date|Title|Authors|PDF|Code|
@@ -24,24 +62,24 @@
 |**2024-10-16**|**Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference**|Qianyi Chen et.al.|[2410.12740v1](http://arxiv.org/abs/2410.12740v1)|null|
 |**2024-10-16**|**Counterfactual Generative Modeling with Variational Causal Inference**|Yulun Wu et.al.|[2410.12730v1](http://arxiv.org/abs/2410.12730v1)|null|
 
-### Truncation by death
+### Missing Data
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-09**|**Doubly robust estimation and sensitivity analysis with outcomes truncated by death in multi-arm clinical trials**|Jiaqi Tong et.al.|[2410.07483v1](http://arxiv.org/abs/2410.07483v1)|null|
-|**2024-10-06**|**A Bayesian Method for Adverse Effects Estimation in Observational Studies with Truncation by Death**|Anthony Sisti et.al.|[2410.04561v1](http://arxiv.org/abs/2410.04561v1)|[link](https://github.com/anthonysisti/adverse-effects-estimation-in-observational-studies-with-truncation-by-death)|
-|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
-|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
-|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
-|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
-|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
-|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
-|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
-|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
-|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
-|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
-|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
-|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
-|**2022-06-16**|**Identification and estimation of causal effects in the presence of confounded principal strata**|Shanshan Luo et.al.|[2206.08228v2](http://arxiv.org/abs/2206.08228v2)|null|
+|**2023-09-05**|**Generalized Simplicial Attention Neural Networks**|Claudio Battiloro et.al.|[2309.02138v2](http://arxiv.org/abs/2309.02138v2)|[link](https://github.com/luciatesta97/generalized-simplicial-attention-neural-networks)|
+|**2024-10-15**|**Scalable likelihood-based estimation and variable selection for the Cox model with incomplete covariates**|Ngok Sang Kwok et.al.|[2410.11482v1](http://arxiv.org/abs/2410.11482v1)|null|
+|**2024-10-14**|**Estimation beyond Missing (Completely) at Random**|Tianyi Ma et.al.|[2410.10704v1](http://arxiv.org/abs/2410.10704v1)|null|
+|**2024-10-14**|**Missing data imputation using a truncated infinite factor model with application to metabolomics data**|Kate Finucane et.al.|[2410.10633v1](http://arxiv.org/abs/2410.10633v1)|[link](https://github.com/kfinucane/tifa)|
+|**2024-10-11**|**Contrastive Knowledge Distillation for Robust Multimodal Sentiment Analysis**|Zhongyi Sang et.al.|[2410.08692v1](http://arxiv.org/abs/2410.08692v1)|null|
+|**2024-05-15**|**A primer on linear classification with missing data**|Angel D Reyero Lobo et.al.|[2405.09196v2](http://arxiv.org/abs/2405.09196v2)|null|
+|**2024-10-10**|**Flex-MoE: Modeling Arbitrary Modality Combination via the Flexible Mixture-of-Experts**|Sukwon Yun et.al.|[2410.08245v1](http://arxiv.org/abs/2410.08245v1)|[link](https://github.com/unites-lab/flex-moe)|
+|**2024-10-10**|**Conditional Lagrangian Wasserstein Flow for Time Series Imputation**|Weizhu Qian et.al.|[2410.07550v1](http://arxiv.org/abs/2410.07550v1)|null|
+|**2024-06-30**|**Directly Handling Missing Data in Linear Discriminant Analysis for Enhancing Classification Accuracy and Interpretability**|Tuan L. Vo et.al.|[2407.00710v3](http://arxiv.org/abs/2407.00710v3)|[link](https://github.com/DangLeUyen/WLDA)|
+|**2024-10-09**|**Direct Estimation for Commonly Used Pattern-Mixture Models in Clinical Trials**|Jitong Lou et.al.|[2410.06939v1](http://arxiv.org/abs/2410.06939v1)|[link](https://github.com/jitong-lilly/MIDIR)|
+|**2024-10-09**|**Decentralized Clinical Trials in the Era of Real-World Evidence: A Statistical Perspective**|Jie Chen et.al.|[2410.06591v1](http://arxiv.org/abs/2410.06591v1)|null|
+|**2024-10-08**|**Dynamic graphical models: Theory, structure and counterfactual forecasting**|Mike West et.al.|[2410.06125v1](http://arxiv.org/abs/2410.06125v1)|null|
+|**2024-10-08**|**Model Uncertainty and Missing Data: An Objective Bayesian Perspective**|Gonzalo García-Donato et.al.|[2410.05893v1](http://arxiv.org/abs/2410.05893v1)|null|
+|**2024-03-25**|**A Marginal Maximum Likelihood Approach for Hierarchical Simultaneous Autoregressive Models with Missing Data**|Anjana Wijayawardhana et.al.|[2403.17257v2](http://arxiv.org/abs/2403.17257v2)|null|
+|**2024-10-07**|**Automatic Identification and Visualization of Group Training Activities Using Wearable Data**|Barak Gahtan et.al.|[2410.05452v1](http://arxiv.org/abs/2410.05452v1)|null|
 
 ### Mediation Analysis
 |Publish Date|Title|Authors|PDF|Code|
@@ -80,44 +118,6 @@
 |**2024-06-20**|**Nonparametric Jackknife Instrumental Variable Estimation and Confounding Robust Surrogate Indices**|Aurélien Bibaut et.al.|[2406.14140v2](http://arxiv.org/abs/2406.14140v2)|null|
 |**2020-11-13**|**When Should We (Not) Interpret Linear IV Estimands as LATE?**|Tymon Słoczyński et.al.|[2011.06695v7](http://arxiv.org/abs/2011.06695v7)|null|
 |**2022-07-18**|**Functional varying-coefficient model under heteroskedasticity with application to DTI data**|Pratim Guha Niyogi et.al.|[2207.08373v2](http://arxiv.org/abs/2207.08373v2)|null|
-
-### Causal inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-03**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097v3](http://arxiv.org/abs/2409.02097v3)|[link](https://github.com/huage001/linfusion)|
-|**2024-05-28**|**Multi-CATE: Multi-Accurate Conditional Average Treatment Effect Estimation Robust to Unknown Covariate Shifts**|Christoph Kern et.al.|[2405.18206v2](http://arxiv.org/abs/2405.18206v2)|null|
-|**2024-06-12**|**Orthogonalized Estimation of Difference of $Q$-functions**|Defu Cao et.al.|[2406.08697v2](http://arxiv.org/abs/2406.08697v2)|null|
-|**2024-10-16**|**Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference**|Qianyi Chen et.al.|[2410.12740v1](http://arxiv.org/abs/2410.12740v1)|null|
-|**2024-10-16**|**Counterfactual Generative Modeling with Variational Causal Inference**|Yulun Wu et.al.|[2410.12730v1](http://arxiv.org/abs/2410.12730v1)|null|
-|**2024-10-16**|**Flexible and Efficient Estimation of Causal Effects with Error-Prone Exposures: A Control Variates Approach for Measurement Error**|Keith Barnatchez et.al.|[2410.12590v1](http://arxiv.org/abs/2410.12590v1)|null|
-|**2024-09-15**|**Causal Inference with Large Language Model: A Survey**|Jing Ma et.al.|[2409.09822v2](http://arxiv.org/abs/2409.09822v2)|null|
-|**2024-10-16**|**Quantifying Treatment Effects: Estimating Risk Ratios in Causal Inference**|Ahmed Boughdiri et.al.|[2410.12333v1](http://arxiv.org/abs/2410.12333v1)|null|
-|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300v1](http://arxiv.org/abs/2410.12300v1)|null|
-|**2024-10-15**|**Unraveling Heterogeneous Treatment Effects in Networks: A Non-Parametric Approach Based on Node Connectivity**|Heejong Bong et.al.|[2410.11797v1](http://arxiv.org/abs/2410.11797v1)|null|
-|**2024-10-15**|**Addressing the Null Paradox in Epidemic Models: Correcting for Collider Bias in Causal Inference**|Heejong Bong et.al.|[2410.11743v1](http://arxiv.org/abs/2410.11743v1)|null|
-|**2024-10-15**|**Enhancing Statistical Validity and Power in Hybrid Controlled Trials: A Randomization Inference Approach with Conformal Selective Borrowing**|Ke Zhu et.al.|[2410.11713v1](http://arxiv.org/abs/2410.11713v1)|null|
-|**2023-11-09**|**An Experimental Design for Anytime-Valid Causal Inference on Multi-Armed Bandits**|Biyonka Liang et.al.|[2311.05794v4](http://arxiv.org/abs/2311.05794v4)|[link](https://github.com/biyonka/mixture_adaptive_design)|
-|**2024-10-15**|**Do LLMs Have the Generalization Ability in Conducting Causal Inference?**|Chen Wang et.al.|[2410.11385v1](http://arxiv.org/abs/2410.11385v1)|[link](https://github.com/prayingsociety/ci_bench)|
-|**2024-05-15**|**C-Learner: Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493v3](http://arxiv.org/abs/2405.09493v3)|null|
-
-### Missing Data
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-09-05**|**Generalized Simplicial Attention Neural Networks**|Claudio Battiloro et.al.|[2309.02138v2](http://arxiv.org/abs/2309.02138v2)|[link](https://github.com/luciatesta97/generalized-simplicial-attention-neural-networks)|
-|**2024-10-15**|**Scalable likelihood-based estimation and variable selection for the Cox model with incomplete covariates**|Ngok Sang Kwok et.al.|[2410.11482v1](http://arxiv.org/abs/2410.11482v1)|null|
-|**2024-10-14**|**Estimation beyond Missing (Completely) at Random**|Tianyi Ma et.al.|[2410.10704v1](http://arxiv.org/abs/2410.10704v1)|null|
-|**2024-10-14**|**Missing data imputation using a truncated infinite factor model with application to metabolomics data**|Kate Finucane et.al.|[2410.10633v1](http://arxiv.org/abs/2410.10633v1)|null|
-|**2024-10-11**|**Contrastive Knowledge Distillation for Robust Multimodal Sentiment Analysis**|Zhongyi Sang et.al.|[2410.08692v1](http://arxiv.org/abs/2410.08692v1)|null|
-|**2024-05-15**|**A primer on linear classification with missing data**|Angel D Reyero Lobo et.al.|[2405.09196v2](http://arxiv.org/abs/2405.09196v2)|null|
-|**2024-10-10**|**Flex-MoE: Modeling Arbitrary Modality Combination via the Flexible Mixture-of-Experts**|Sukwon Yun et.al.|[2410.08245v1](http://arxiv.org/abs/2410.08245v1)|[link](https://github.com/unites-lab/flex-moe)|
-|**2024-10-10**|**Conditional Lagrangian Wasserstein Flow for Time Series Imputation**|Weizhu Qian et.al.|[2410.07550v1](http://arxiv.org/abs/2410.07550v1)|null|
-|**2024-06-30**|**Directly Handling Missing Data in Linear Discriminant Analysis for Enhancing Classification Accuracy and Interpretability**|Tuan L. Vo et.al.|[2407.00710v3](http://arxiv.org/abs/2407.00710v3)|[link](https://github.com/DangLeUyen/WLDA)|
-|**2024-10-09**|**Direct Estimation for Commonly Used Pattern-Mixture Models in Clinical Trials**|Jitong Lou et.al.|[2410.06939v1](http://arxiv.org/abs/2410.06939v1)|[link](https://github.com/jitong-lilly/MIDIR)|
-|**2024-10-09**|**Decentralized Clinical Trials in the Era of Real-World Evidence: A Statistical Perspective**|Jie Chen et.al.|[2410.06591v1](http://arxiv.org/abs/2410.06591v1)|null|
-|**2024-10-08**|**Dynamic graphical models: Theory, structure and counterfactual forecasting**|Mike West et.al.|[2410.06125v1](http://arxiv.org/abs/2410.06125v1)|null|
-|**2024-10-08**|**Model Uncertainty and Missing Data: An Objective Bayesian Perspective**|Gonzalo García-Donato et.al.|[2410.05893v1](http://arxiv.org/abs/2410.05893v1)|null|
-|**2024-03-25**|**A Marginal Maximum Likelihood Approach for Hierarchical Simultaneous Autoregressive Models with Missing Data**|Anjana Wijayawardhana et.al.|[2403.17257v2](http://arxiv.org/abs/2403.17257v2)|null|
-|**2024-10-07**|**Automatic Identification and Visualization of Group Training Activities Using Wearable Data**|Barak Gahtan et.al.|[2410.05452v1](http://arxiv.org/abs/2410.05452v1)|null|
 
 ## Survival Analysis
 
