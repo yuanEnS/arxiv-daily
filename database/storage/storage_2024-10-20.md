@@ -1,28 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-10-20 15:14:41 Asia/Shanghai
+ Automated deployment @ 2024-10-20 21:58:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Causal Inference
-
-### Causality
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2023-01-16**|**Data-Driven Estimation of Heterogeneous Treatment Effects**|Christopher Tran et.al.|[2301.06615v2](http://arxiv.org/abs/2301.06615v2)|null|
-|**2024-10-17**|**Fair comparisons of causal parameters with many treatments and positivity violations**|Alec McClean et.al.|[2410.13522v1](http://arxiv.org/abs/2410.13522v1)|null|
-|**2024-10-17**|**State Estimation Transformers for Agile Legged Locomotion**|Chen Yu et.al.|[2410.13496v1](http://arxiv.org/abs/2410.13496v1)|null|
-|**2024-10-17**|**Seeing Through VisualBERT: A Causal Adventure on Memetic Landscapes**|Dibyanayan Bandyopadhyay et.al.|[2410.13488v1](http://arxiv.org/abs/2410.13488v1)|null|
-|**2024-10-17**|**Precipitation Nowcasting Using Diffusion Transformer with Causal Attention**|ChaoRong Li et.al.|[2410.13314v1](http://arxiv.org/abs/2410.13314v1)|null|
-|**2024-09-03**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097v3](http://arxiv.org/abs/2409.02097v3)|[link](https://github.com/huage001/linfusion)|
-|**2024-05-28**|**Multi-CATE: Multi-Accurate Conditional Average Treatment Effect Estimation Robust to Unknown Covariate Shifts**|Christoph Kern et.al.|[2405.18206v2](http://arxiv.org/abs/2405.18206v2)|null|
-|**2024-10-17**|**The Geometry of Numerical Reasoning: Language Models Compare Numeric Properties in Linear Subspaces**|Ahmed Oumar El-Shangiti et.al.|[2410.13194v1](http://arxiv.org/abs/2410.13194v1)|null|
-|**2024-06-12**|**Orthogonalized Estimation of Difference of $Q$-functions**|Defu Cao et.al.|[2406.08697v2](http://arxiv.org/abs/2406.08697v2)|null|
-|**2023-10-10**|**Evaluating causal effects on time-to-event outcomes in an RCT in Oncology with treatment discontinuation**|Veronica Ballerini et.al.|[2310.06653v2](http://arxiv.org/abs/2310.06653v2)|null|
-|**2024-10-16**|**Systems with Switching Causal Relations: A Meta-Causal Perspective**|Moritz Willig et.al.|[2410.13054v1](http://arxiv.org/abs/2410.13054v1)|null|
-|**2024-07-29**|**Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications**|Praveen Ravirathinam et.al.|[2407.19660v2](http://arxiv.org/abs/2407.19660v2)|null|
-|**2024-10-16**|**SoK: On Finding Common Ground in Loss Landscapes Using Deep Model Merging Techniques**|Arham Khan et.al.|[2410.12927v1](http://arxiv.org/abs/2410.12927v1)|null|
-|**2024-10-16**|**Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference**|Qianyi Chen et.al.|[2410.12740v1](http://arxiv.org/abs/2410.12740v1)|null|
-|**2024-10-16**|**Counterfactual Generative Modeling with Variational Causal Inference**|Yulun Wu et.al.|[2410.12730v1](http://arxiv.org/abs/2410.12730v1)|null|
 
 ### Truncation by death
 |Publish Date|Title|Authors|PDF|Code|
@@ -61,6 +42,25 @@
 |**2023-11-09**|**An Experimental Design for Anytime-Valid Causal Inference on Multi-Armed Bandits**|Biyonka Liang et.al.|[2311.05794v4](http://arxiv.org/abs/2311.05794v4)|[link](https://github.com/biyonka/mixture_adaptive_design)|
 |**2024-10-15**|**Do LLMs Have the Generalization Ability in Conducting Causal Inference?**|Chen Wang et.al.|[2410.11385v1](http://arxiv.org/abs/2410.11385v1)|[link](https://github.com/prayingsociety/ci_bench)|
 |**2024-05-15**|**C-Learner: Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493v3](http://arxiv.org/abs/2405.09493v3)|null|
+
+### Causality
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2023-01-16**|**Data-Driven Estimation of Heterogeneous Treatment Effects**|Christopher Tran et.al.|[2301.06615v2](http://arxiv.org/abs/2301.06615v2)|null|
+|**2024-10-17**|**Fair comparisons of causal parameters with many treatments and positivity violations**|Alec McClean et.al.|[2410.13522v1](http://arxiv.org/abs/2410.13522v1)|null|
+|**2024-10-17**|**State Estimation Transformers for Agile Legged Locomotion**|Chen Yu et.al.|[2410.13496v1](http://arxiv.org/abs/2410.13496v1)|null|
+|**2024-10-17**|**Seeing Through VisualBERT: A Causal Adventure on Memetic Landscapes**|Dibyanayan Bandyopadhyay et.al.|[2410.13488v1](http://arxiv.org/abs/2410.13488v1)|null|
+|**2024-10-17**|**Precipitation Nowcasting Using Diffusion Transformer with Causal Attention**|ChaoRong Li et.al.|[2410.13314v1](http://arxiv.org/abs/2410.13314v1)|null|
+|**2024-09-03**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097v3](http://arxiv.org/abs/2409.02097v3)|[link](https://github.com/huage001/linfusion)|
+|**2024-05-28**|**Multi-CATE: Multi-Accurate Conditional Average Treatment Effect Estimation Robust to Unknown Covariate Shifts**|Christoph Kern et.al.|[2405.18206v2](http://arxiv.org/abs/2405.18206v2)|null|
+|**2024-10-17**|**The Geometry of Numerical Reasoning: Language Models Compare Numeric Properties in Linear Subspaces**|Ahmed Oumar El-Shangiti et.al.|[2410.13194v1](http://arxiv.org/abs/2410.13194v1)|null|
+|**2024-06-12**|**Orthogonalized Estimation of Difference of $Q$-functions**|Defu Cao et.al.|[2406.08697v2](http://arxiv.org/abs/2406.08697v2)|null|
+|**2023-10-10**|**Evaluating causal effects on time-to-event outcomes in an RCT in Oncology with treatment discontinuation**|Veronica Ballerini et.al.|[2310.06653v2](http://arxiv.org/abs/2310.06653v2)|null|
+|**2024-10-16**|**Systems with Switching Causal Relations: A Meta-Causal Perspective**|Moritz Willig et.al.|[2410.13054v1](http://arxiv.org/abs/2410.13054v1)|null|
+|**2024-07-29**|**Towards a Knowledge guided Multimodal Foundation Model for Spatio-Temporal Remote Sensing Applications**|Praveen Ravirathinam et.al.|[2407.19660v2](http://arxiv.org/abs/2407.19660v2)|null|
+|**2024-10-16**|**SoK: On Finding Common Ground in Loss Landscapes Using Deep Model Merging Techniques**|Arham Khan et.al.|[2410.12927v1](http://arxiv.org/abs/2410.12927v1)|null|
+|**2024-10-16**|**Just Ramp-up: Unleash the Potential of Regression-based Estimator for A/B Tests under Network Interference**|Qianyi Chen et.al.|[2410.12740v1](http://arxiv.org/abs/2410.12740v1)|null|
+|**2024-10-16**|**Counterfactual Generative Modeling with Variational Causal Inference**|Yulun Wu et.al.|[2410.12730v1](http://arxiv.org/abs/2410.12730v1)|null|
 
 ### Instrumental Variable
 |Publish Date|Title|Authors|PDF|Code|
