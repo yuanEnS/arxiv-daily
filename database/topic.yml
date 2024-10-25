@@ -7,4 +7,7 @@
   "Missing Data": '"missing data"ANDcat:"stat.*"'
 "Survival Analysis":
   "Survival": '"survival"ANDcat:"stat.*"'
+"Causal Representation":
+  "Uplift": '"uplift"ANDcat:("stat.*"OR"cs.*")'
+  "DNN": '"causal representation learning"ANDcat:("stat.*"OR"cs.*")'
   
