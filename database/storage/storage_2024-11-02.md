@@ -1,9 +1,47 @@
 # arxiv-daily
- Automated deployment @ 2024-11-02 12:34:19 Asia/Shanghai
+ Automated deployment @ 2024-11-02 18:59:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Causal Inference
+
+### Causal inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-29**|**Debiasing Alternative Data for Credit Underwriting Using Causal Inference**|Chris Lam et.al.|[2410.22382v2](http://arxiv.org/abs/2410.22382v2)|null|
+|**2024-10-31**|**Average Controlled and Average Natural Micro Direct Effects in Summary Causal Graphs**|Simon Ferreira et.al.|[2410.23975v1](http://arxiv.org/abs/2410.23975v1)|null|
+|**2024-10-30**|**Tangent Space Causal Inference: Leveraging Vector Fields for Causal Discovery in Dynamical Systems**|Kurt Butler et.al.|[2410.23499v1](http://arxiv.org/abs/2410.23499v1)|[link](https://github.com/KurtButler/tangentspaces)|
+|**2024-10-30**|**Causality-Driven Audits of Model Robustness**|Nathan Drenkow et.al.|[2410.23494v1](http://arxiv.org/abs/2410.23494v1)|null|
+|**2024-05-27**|**Smoke and Mirrors in Causal Downstream Tasks**|Riccardo Cadei et.al.|[2405.17151v2](http://arxiv.org/abs/2405.17151v2)|[link](https://github.com/causallearningai/istant)|
+|**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836v2](http://arxiv.org/abs/2409.04836v2)|null|
+|**2024-10-30**|**An Overview of Causal Inference using Kernel Embeddings**|Dino Sejdinovic et.al.|[2410.22754v1](http://arxiv.org/abs/2410.22754v1)|null|
+|**2024-10-29**|**Identifiability Analysis of Linear ODE Systems with Hidden Confounders**|Yuanyuan Wang et.al.|[2410.21917v2](http://arxiv.org/abs/2410.21917v2)|null|
+|**2024-03-01**|**CIDGMed: Causal Inference-Driven Medication Recommendation with Enhanced Dual-Granularity Learning**|Shunpan Liang et.al.|[2403.00880v2](http://arxiv.org/abs/2403.00880v2)|[link](https://github.com/lixiang-222/CIDGMed)|
+|**2024-05-02**|**Designing Algorithmic Recommendations to Achieve Human-AI Complementarity**|Bryce McLaughlin et.al.|[2405.01484v2](http://arxiv.org/abs/2405.01484v2)|null|
+|**2024-10-29**|**Bayesian Counterfactual Prediction Models for HIV Care Retention with Incomplete Outcome and Covariate Information**|Arman Oganisian et.al.|[2410.22481v1](http://arxiv.org/abs/2410.22481v1)|null|
+|**2024-01-12**|**Proximal Causal Inference With Text Data**|Jacob M. Chen et.al.|[2401.06687v3](http://arxiv.org/abs/2401.06687v3)|[link](https://github.com/jacobmchen/proximal_w_text)|
+|**2024-04-02**|**Propensity Score Alignment of Unpaired Multimodal Data**|Johnny Xi et.al.|[2404.01595v2](http://arxiv.org/abs/2404.01595v2)|null|
+|**2024-06-01**|**Causal Contrastive Learning for Counterfactual Regression Over Time**|Mouad El Bouchattaoui et.al.|[2406.00535v3](http://arxiv.org/abs/2406.00535v3)|null|
+|**2024-10-28**|**Deep Learning Methods for the Noniterative Conditional Expectation G-Formula for Causal Inference from Complex Observational Data**|Sophia M Rein et.al.|[2410.21531v1](http://arxiv.org/abs/2410.21531v1)|null|
+
+### Causality
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-31**|**GPT or BERT: why not both?**|Lucas Georges Gabriel Charpentier et.al.|[2410.24159v1](http://arxiv.org/abs/2410.24159v1)|[link](https://github.com/ltgoslo/gpt-bert)|
+|**2024-10-29**|**Debiasing Alternative Data for Credit Underwriting Using Causal Inference**|Chris Lam et.al.|[2410.22382v2](http://arxiv.org/abs/2410.22382v2)|null|
+|**2024-02-07**|**Separation-based distance measures for causal graphs**|Jonas Wahl et.al.|[2402.04952v3](http://arxiv.org/abs/2402.04952v3)|null|
+|**2024-10-31**|**Multi-environment Topic Models**|Dominic Sobhani et.al.|[2410.24126v1](http://arxiv.org/abs/2410.24126v1)|null|
+|**2024-06-07**|**BERTs are Generative In-Context Learners**|David Samuel et.al.|[2406.04823v2](http://arxiv.org/abs/2406.04823v2)|[link](https://github.com/ltgoslo/bert-in-context)|
+|**2024-05-29**|**An engine not a camera: Measuring performative power of online search**|Celestine Mendler-Dünner et.al.|[2405.19073v2](http://arxiv.org/abs/2405.19073v2)|null|
+|**2024-10-31**|**Identifying General Mechanism Shifts in Linear Causal Representations**|Tianyu Chen et.al.|[2410.24059v1](http://arxiv.org/abs/2410.24059v1)|null|
+|**2024-10-31**|**Are CMB derived cosmological parameters affected by foregrounds associated to nearby galaxies?**|Facundo Toscano et.al.|[2410.24026v1](http://arxiv.org/abs/2410.24026v1)|null|
+|**2024-09-26**|**MIO: A Foundation Model on Multimodal Tokens**|Zekun Wang et.al.|[2409.17692v2](http://arxiv.org/abs/2409.17692v2)|[link](https://github.com/mio-team/mio)|
+|**2024-10-31**|**Average Controlled and Average Natural Micro Direct Effects in Summary Causal Graphs**|Simon Ferreira et.al.|[2410.23975v1](http://arxiv.org/abs/2410.23975v1)|null|
+|**2024-05-23**|**Implicit Personalization in Language Models: A Systematic Study**|Zhijing Jin et.al.|[2405.14808v2](http://arxiv.org/abs/2405.14808v2)|[link](https://github.com/jiarui-liu/ip)|
+|**2024-07-23**|**Enhancing LLM's Cognition via Structurization**|Kai Liu et.al.|[2407.16434v2](http://arxiv.org/abs/2407.16434v2)|[link](https://github.com/alibaba/struxgpt)|
+|**2024-10-31**|**Failure Modes of LLMs for Causal Reasoning on Narratives**|Khurram Yamin et.al.|[2410.23884v1](http://arxiv.org/abs/2410.23884v1)|[link](https://github.com/shantanu95/llm_causal_reasoning)|
+|**2024-02-06**|**Discovery of the Hidden World with Large Language Models**|Chenxi Liu et.al.|[2402.03941v2](http://arxiv.org/abs/2402.03941v2)|null|
+|**2024-10-31**|**Mode analysis of Nambu-Goldstone modes in U(1) charged first-order relativistic viscous hydrodynamics**|Atsuhisa Ota et.al.|[2410.23837v1](http://arxiv.org/abs/2410.23837v1)|null|
 
 ### Truncation by death
 |Publish Date|Title|Authors|PDF|Code|
@@ -43,25 +81,6 @@
 |**2023-10-01**|**A Bayesian joint model for mediation analysis with matrix-valued mediators**|Zijin Liu et.al.|[2310.00803v3](http://arxiv.org/abs/2310.00803v3)|null|
 |**2024-09-14**|**Bounding the probability of causality under ordinal outcomes**|Hanmei Sun et.al.|[2409.09297v1](http://arxiv.org/abs/2409.09297v1)|null|
 
-### Causality
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-31**|**GPT or BERT: why not both?**|Lucas Georges Gabriel Charpentier et.al.|[2410.24159v1](http://arxiv.org/abs/2410.24159v1)|[link](https://github.com/ltgoslo/gpt-bert)|
-|**2024-10-29**|**Debiasing Alternative Data for Credit Underwriting Using Causal Inference**|Chris Lam et.al.|[2410.22382v2](http://arxiv.org/abs/2410.22382v2)|null|
-|**2024-02-07**|**Separation-based distance measures for causal graphs**|Jonas Wahl et.al.|[2402.04952v3](http://arxiv.org/abs/2402.04952v3)|null|
-|**2024-10-31**|**Multi-environment Topic Models**|Dominic Sobhani et.al.|[2410.24126v1](http://arxiv.org/abs/2410.24126v1)|null|
-|**2024-06-07**|**BERTs are Generative In-Context Learners**|David Samuel et.al.|[2406.04823v2](http://arxiv.org/abs/2406.04823v2)|[link](https://github.com/ltgoslo/bert-in-context)|
-|**2024-05-29**|**An engine not a camera: Measuring performative power of online search**|Celestine Mendler-Dünner et.al.|[2405.19073v2](http://arxiv.org/abs/2405.19073v2)|null|
-|**2024-10-31**|**Identifying General Mechanism Shifts in Linear Causal Representations**|Tianyu Chen et.al.|[2410.24059v1](http://arxiv.org/abs/2410.24059v1)|null|
-|**2024-10-31**|**Are CMB derived cosmological parameters affected by foregrounds associated to nearby galaxies?**|Facundo Toscano et.al.|[2410.24026v1](http://arxiv.org/abs/2410.24026v1)|null|
-|**2024-09-26**|**MIO: A Foundation Model on Multimodal Tokens**|Zekun Wang et.al.|[2409.17692v2](http://arxiv.org/abs/2409.17692v2)|[link](https://github.com/mio-team/mio)|
-|**2024-10-31**|**Average Controlled and Average Natural Micro Direct Effects in Summary Causal Graphs**|Simon Ferreira et.al.|[2410.23975v1](http://arxiv.org/abs/2410.23975v1)|null|
-|**2024-05-23**|**Implicit Personalization in Language Models: A Systematic Study**|Zhijing Jin et.al.|[2405.14808v2](http://arxiv.org/abs/2405.14808v2)|[link](https://github.com/jiarui-liu/ip)|
-|**2024-07-23**|**Enhancing LLM's Cognition via Structurization**|Kai Liu et.al.|[2407.16434v2](http://arxiv.org/abs/2407.16434v2)|[link](https://github.com/alibaba/struxgpt)|
-|**2024-10-31**|**Failure Modes of LLMs for Causal Reasoning on Narratives**|Khurram Yamin et.al.|[2410.23884v1](http://arxiv.org/abs/2410.23884v1)|[link](https://github.com/shantanu95/llm_causal_reasoning)|
-|**2024-02-06**|**Discovery of the Hidden World with Large Language Models**|Chenxi Liu et.al.|[2402.03941v2](http://arxiv.org/abs/2402.03941v2)|null|
-|**2024-10-31**|**Mode analysis of Nambu-Goldstone modes in U(1) charged first-order relativistic viscous hydrodynamics**|Atsuhisa Ota et.al.|[2410.23837v1](http://arxiv.org/abs/2410.23837v1)|null|
-
 ### Missing Data
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -100,24 +119,45 @@
 |**2022-09-06**|**Do Unions Shape Political Ideologies at Work?**|Johannes Matzat et.al.|[2209.02637v3](http://arxiv.org/abs/2209.02637v3)|null|
 |**2023-11-29**|**Identifying Causal Effects of Discrete, Ordered and ContinuousTreatments using Multiple Instrumental Variables**|Nadja van 't Hoff et.al.|[2311.17575v3](http://arxiv.org/abs/2311.17575v3)|null|
 
-### Causal inference
+## Causal Representation
+
+### Uplift
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-29**|**Debiasing Alternative Data for Credit Underwriting Using Causal Inference**|Chris Lam et.al.|[2410.22382v2](http://arxiv.org/abs/2410.22382v2)|null|
-|**2024-10-31**|**Average Controlled and Average Natural Micro Direct Effects in Summary Causal Graphs**|Simon Ferreira et.al.|[2410.23975v1](http://arxiv.org/abs/2410.23975v1)|null|
-|**2024-10-30**|**Tangent Space Causal Inference: Leveraging Vector Fields for Causal Discovery in Dynamical Systems**|Kurt Butler et.al.|[2410.23499v1](http://arxiv.org/abs/2410.23499v1)|[link](https://github.com/KurtButler/tangentspaces)|
-|**2024-10-30**|**Causality-Driven Audits of Model Robustness**|Nathan Drenkow et.al.|[2410.23494v1](http://arxiv.org/abs/2410.23494v1)|null|
-|**2024-05-27**|**Smoke and Mirrors in Causal Downstream Tasks**|Riccardo Cadei et.al.|[2405.17151v2](http://arxiv.org/abs/2405.17151v2)|[link](https://github.com/causallearningai/istant)|
-|**2024-09-07**|**Spatial Interference Detection in Treatment Effect Model**|Wei Zhang et.al.|[2409.04836v2](http://arxiv.org/abs/2409.04836v2)|null|
-|**2024-10-30**|**An Overview of Causal Inference using Kernel Embeddings**|Dino Sejdinovic et.al.|[2410.22754v1](http://arxiv.org/abs/2410.22754v1)|null|
-|**2024-10-29**|**Identifiability Analysis of Linear ODE Systems with Hidden Confounders**|Yuanyuan Wang et.al.|[2410.21917v2](http://arxiv.org/abs/2410.21917v2)|null|
-|**2024-03-01**|**CIDGMed: Causal Inference-Driven Medication Recommendation with Enhanced Dual-Granularity Learning**|Shunpan Liang et.al.|[2403.00880v2](http://arxiv.org/abs/2403.00880v2)|[link](https://github.com/lixiang-222/CIDGMed)|
-|**2024-05-02**|**Designing Algorithmic Recommendations to Achieve Human-AI Complementarity**|Bryce McLaughlin et.al.|[2405.01484v2](http://arxiv.org/abs/2405.01484v2)|null|
-|**2024-10-29**|**Bayesian Counterfactual Prediction Models for HIV Care Retention with Incomplete Outcome and Covariate Information**|Arman Oganisian et.al.|[2410.22481v1](http://arxiv.org/abs/2410.22481v1)|null|
-|**2024-01-12**|**Proximal Causal Inference With Text Data**|Jacob M. Chen et.al.|[2401.06687v3](http://arxiv.org/abs/2401.06687v3)|[link](https://github.com/jacobmchen/proximal_w_text)|
-|**2024-04-02**|**Propensity Score Alignment of Unpaired Multimodal Data**|Johnny Xi et.al.|[2404.01595v2](http://arxiv.org/abs/2404.01595v2)|null|
-|**2024-06-01**|**Causal Contrastive Learning for Counterfactual Regression Over Time**|Mouad El Bouchattaoui et.al.|[2406.00535v3](http://arxiv.org/abs/2406.00535v3)|null|
-|**2024-10-28**|**Deep Learning Methods for the Noniterative Conditional Expectation G-Formula for Causal Inference from Complex Observational Data**|Sophia M Rein et.al.|[2410.21531v1](http://arxiv.org/abs/2410.21531v1)|null|
+|**2024-08-06**|**Rotating AdS$_3 \times$S$^3$ and Dyonic Strings from 3-Dimensions**|Nihat Sadik Deger et.al.|[2408.03197v2](http://arxiv.org/abs/2408.03197v2)|null|
+|**2024-10-30**|**Consistent $\mathcal{N}=4$, $D=4$ truncation of type IIB supergravity on $\textrm{S}^{1} \times \textrm{S}^{5}$**|Adolfo Guarino et.al.|[2410.23149v1](http://arxiv.org/abs/2410.23149v1)|null|
+|**2024-10-28**|**zGAN: An Outlier-focused Generative Adversarial Network For Realistic Synthetic Data Generation**|Azizjon Azimi et.al.|[2410.20808v2](http://arxiv.org/abs/2410.20808v2)|null|
+|**2024-10-04**|**Matrix Theory Reloaded: A BPS Road to Holography**|Chris D. A. Blair et.al.|[2410.03591v2](http://arxiv.org/abs/2410.03591v2)|null|
+|**2024-03-24**|**Covariant Lagrangian Cubic Interaction Vertices For Irreducible Higher Spin Fields in Minkowski Backgrounds**|Alexander A. Reshetnyak et.al.|[2403.16164v2](http://arxiv.org/abs/2403.16164v2)|null|
+|**2024-10-10**|**Supersymmetric AdS$_6$ black holes from ISO(3)xU(1) F(4) gauged supergravity**|Parinya Karndumri et.al.|[2410.07837v2](http://arxiv.org/abs/2410.07837v2)|null|
+|**2024-10-06**|**Twisted compactifications and conformal defects from ISO(3)xU(1) F(4) gauged supergravity**|Parinya Karndumri et.al.|[2410.04403v2](http://arxiv.org/abs/2410.04403v2)|null|
+|**2024-10-23**|**Holographic Generalised Gukov-Witten Defects**|Pieter Bomans et.al.|[2410.18172v1](http://arxiv.org/abs/2410.18172v1)|null|
+|**2024-10-22**|**Coarse-to-fine Dynamic Uplift Modeling for Real-time Video Recommendation**|Chang Meng et.al.|[2410.16755v1](http://arxiv.org/abs/2410.16755v1)|null|
+|**2024-10-18**|**How to uplift D=3 maximal supergravities**|Gianluca Inverso et.al.|[2410.14520v1](http://arxiv.org/abs/2410.14520v1)|null|
+|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v1](http://arxiv.org/abs/2410.14462v1)|null|
+|**2024-03-02**|**Bulk-local dS$_3$ holography: the Matter with $T\bar T+Λ_2$**|Gauri Batra et.al.|[2403.01040v3](http://arxiv.org/abs/2403.01040v3)|null|
+|**2024-07-18**|**Supersymmetric Black Hole Hair and AdS_3 x S^3**|Subhodip Bandyopadhyay et.al.|[2407.13398v2](http://arxiv.org/abs/2407.13398v2)|null|
+|**2024-01-15**|**Novel knotted non-abelian gauge fields**|Horatiu Nastase et.al.|[2401.07707v4](http://arxiv.org/abs/2401.07707v4)|null|
+|**2024-10-15**|**Landau-based Schubert analysis**|Song He et.al.|[2410.11423v1](http://arxiv.org/abs/2410.11423v1)|[link](https://github.com/windfolgen/LandauMT)|
+
+### DNN
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-31**|**Identifying General Mechanism Shifts in Linear Causal Representations**|Tianyu Chen et.al.|[2410.24059v1](http://arxiv.org/abs/2410.24059v1)|null|
+|**2024-02-01**|**Score-based Causal Representation Learning: Linear and General Transformations**|Burak Varıcı et.al.|[2402.00849v3](http://arxiv.org/abs/2402.00849v3)|[link](https://github.com/acarturk-e/score-based-crl)|
+|**2024-10-25**|**Language Agents Meet Causality -- Bridging LLMs and Causal World Models**|John Gkountouras et.al.|[2410.19923v1](http://arxiv.org/abs/2410.19923v1)|[link](https://github.com/j0hngou/LLMCWM)|
+|**2024-10-24**|**Causal Order Discovery based on Monotonic SCMs**|Ali Izadi et.al.|[2410.19870v1](http://arxiv.org/abs/2410.19870v1)|null|
+|**2024-09-23**|**From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding**|Henri Arno et.al.|[2409.15503v2](http://arxiv.org/abs/2409.15503v2)|null|
+|**2024-10-18**|**Beyond Causal Discovery for Astronomy: Learning Meaningful Representations with Independent Component Analysis**|Zehao Jin et.al.|[2410.14775v1](http://arxiv.org/abs/2410.14775v1)|null|
+|**2024-10-18**|**Fine-Tuning Pre-trained Language Models for Robust Causal Representation Learning**|Jialin Yu et.al.|[2410.14375v1](http://arxiv.org/abs/2410.14375v1)|null|
+|**2023-10-24**|**Identifiable Latent Polynomial Causal Models Through the Lens of Change**|Yuhang Liu et.al.|[2310.15580v2](http://arxiv.org/abs/2310.15580v2)|null|
+|**2024-10-11**|**Uncertainty-Aware Optimal Treatment Selection for Clinical Time Series**|Thomas Schwarz et.al.|[2410.08816v1](http://arxiv.org/abs/2410.08816v1)|null|
+|**2024-10-09**|**Causal Representation Learning in Temporal Data via Single-Parent Decoding**|Philippe Brouillard et.al.|[2410.07013v1](http://arxiv.org/abs/2410.07013v1)|[link](https://github.com/kurowasan/cdsd)|
+|**2024-07-30**|**Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations**|Yupei Yang et.al.|[2407.20651v3](http://arxiv.org/abs/2407.20651v3)|null|
+|**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903v1](http://arxiv.org/abs/2410.00903v1)|null|
+|**2024-09-30**|**Possible principles for aligned structure learning agents**|Lancelot Da Costa et.al.|[2410.00258v1](http://arxiv.org/abs/2410.00258v1)|null|
+|**2024-09-23**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564v2](http://arxiv.org/abs/2409.15564v2)|null|
+|**2024-06-20**|**Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning**|Patrik Reizinger et.al.|[2406.14302v2](http://arxiv.org/abs/2406.14302v2)|null|
 
 ## Survival Analysis
 
@@ -139,43 +179,3 @@
 |**2024-01-30**|**Unlocking the Power of Multi-institutional Data: Integrating and Harmonizing Genomic Data Across Institutions**|Yuan Chen et.al.|[2402.00077v2](http://arxiv.org/abs/2402.00077v2)|[link](https://github.com/ychen178/Bridge_model)|
 |**2024-10-29**|**The 10 pc Neighborhood of Habitable Zone Exoplanetary Systems: Threat Assessment from Stellar Encounters & Supernovae**|Tisyagupta Pyne et.al.|[2410.22396v1](http://arxiv.org/abs/2410.22396v1)|null|
 |**2024-10-29**|**Discrete element simulations of self-gravitating rubble pile collisions: the effects of non-uniform particle size and rotation**|Job Guidos et.al.|[2410.22189v1](http://arxiv.org/abs/2410.22189v1)|null|
-
-## Causal Representation
-
-### DNN
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-31**|**Identifying General Mechanism Shifts in Linear Causal Representations**|Tianyu Chen et.al.|[2410.24059v1](http://arxiv.org/abs/2410.24059v1)|null|
-|**2024-02-01**|**Score-based Causal Representation Learning: Linear and General Transformations**|Burak Varıcı et.al.|[2402.00849v3](http://arxiv.org/abs/2402.00849v3)|[link](https://github.com/acarturk-e/score-based-crl)|
-|**2024-10-25**|**Language Agents Meet Causality -- Bridging LLMs and Causal World Models**|John Gkountouras et.al.|[2410.19923v1](http://arxiv.org/abs/2410.19923v1)|[link](https://github.com/j0hngou/LLMCWM)|
-|**2024-10-24**|**Causal Order Discovery based on Monotonic SCMs**|Ali Izadi et.al.|[2410.19870v1](http://arxiv.org/abs/2410.19870v1)|null|
-|**2024-09-23**|**From Text to Treatment Effects: A Meta-Learning Approach to Handling Text-Based Confounding**|Henri Arno et.al.|[2409.15503v2](http://arxiv.org/abs/2409.15503v2)|null|
-|**2024-10-18**|**Beyond Causal Discovery for Astronomy: Learning Meaningful Representations with Independent Component Analysis**|Zehao Jin et.al.|[2410.14775v1](http://arxiv.org/abs/2410.14775v1)|null|
-|**2024-10-18**|**Fine-Tuning Pre-trained Language Models for Robust Causal Representation Learning**|Jialin Yu et.al.|[2410.14375v1](http://arxiv.org/abs/2410.14375v1)|null|
-|**2023-10-24**|**Identifiable Latent Polynomial Causal Models Through the Lens of Change**|Yuhang Liu et.al.|[2310.15580v2](http://arxiv.org/abs/2310.15580v2)|null|
-|**2024-10-11**|**Uncertainty-Aware Optimal Treatment Selection for Clinical Time Series**|Thomas Schwarz et.al.|[2410.08816v1](http://arxiv.org/abs/2410.08816v1)|null|
-|**2024-10-09**|**Causal Representation Learning in Temporal Data via Single-Parent Decoding**|Philippe Brouillard et.al.|[2410.07013v1](http://arxiv.org/abs/2410.07013v1)|[link](https://github.com/kurowasan/cdsd)|
-|**2024-07-30**|**Towards Generalizable Reinforcement Learning via Causality-Guided Self-Adaptive Representations**|Yupei Yang et.al.|[2407.20651v3](http://arxiv.org/abs/2407.20651v3)|null|
-|**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903v1](http://arxiv.org/abs/2410.00903v1)|null|
-|**2024-09-30**|**Possible principles for aligned structure learning agents**|Lancelot Da Costa et.al.|[2410.00258v1](http://arxiv.org/abs/2410.00258v1)|null|
-|**2024-09-23**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564v2](http://arxiv.org/abs/2409.15564v2)|null|
-|**2024-06-20**|**Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning**|Patrik Reizinger et.al.|[2406.14302v2](http://arxiv.org/abs/2406.14302v2)|null|
-
-### Uplift
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-06**|**Rotating AdS$_3 \times$S$^3$ and Dyonic Strings from 3-Dimensions**|Nihat Sadik Deger et.al.|[2408.03197v2](http://arxiv.org/abs/2408.03197v2)|null|
-|**2024-10-30**|**Consistent $\mathcal{N}=4$, $D=4$ truncation of type IIB supergravity on $\textrm{S}^{1} \times \textrm{S}^{5}$**|Adolfo Guarino et.al.|[2410.23149v1](http://arxiv.org/abs/2410.23149v1)|null|
-|**2024-10-28**|**zGAN: An Outlier-focused Generative Adversarial Network For Realistic Synthetic Data Generation**|Azizjon Azimi et.al.|[2410.20808v2](http://arxiv.org/abs/2410.20808v2)|null|
-|**2024-10-04**|**Matrix Theory Reloaded: A BPS Road to Holography**|Chris D. A. Blair et.al.|[2410.03591v2](http://arxiv.org/abs/2410.03591v2)|null|
-|**2024-03-24**|**Covariant Lagrangian Cubic Interaction Vertices For Irreducible Higher Spin Fields in Minkowski Backgrounds**|Alexander A. Reshetnyak et.al.|[2403.16164v2](http://arxiv.org/abs/2403.16164v2)|null|
-|**2024-10-10**|**Supersymmetric AdS$_6$ black holes from ISO(3)xU(1) F(4) gauged supergravity**|Parinya Karndumri et.al.|[2410.07837v2](http://arxiv.org/abs/2410.07837v2)|null|
-|**2024-10-06**|**Twisted compactifications and conformal defects from ISO(3)xU(1) F(4) gauged supergravity**|Parinya Karndumri et.al.|[2410.04403v2](http://arxiv.org/abs/2410.04403v2)|null|
-|**2024-10-23**|**Holographic Generalised Gukov-Witten Defects**|Pieter Bomans et.al.|[2410.18172v1](http://arxiv.org/abs/2410.18172v1)|null|
-|**2024-10-22**|**Coarse-to-fine Dynamic Uplift Modeling for Real-time Video Recommendation**|Chang Meng et.al.|[2410.16755v1](http://arxiv.org/abs/2410.16755v1)|null|
-|**2024-10-18**|**How to uplift D=3 maximal supergravities**|Gianluca Inverso et.al.|[2410.14520v1](http://arxiv.org/abs/2410.14520v1)|null|
-|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v1](http://arxiv.org/abs/2410.14462v1)|null|
-|**2024-03-02**|**Bulk-local dS$_3$ holography: the Matter with $T\bar T+Λ_2$**|Gauri Batra et.al.|[2403.01040v3](http://arxiv.org/abs/2403.01040v3)|null|
-|**2024-07-18**|**Supersymmetric Black Hole Hair and AdS_3 x S^3**|Subhodip Bandyopadhyay et.al.|[2407.13398v2](http://arxiv.org/abs/2407.13398v2)|null|
-|**2024-01-15**|**Novel knotted non-abelian gauge fields**|Horatiu Nastase et.al.|[2401.07707v4](http://arxiv.org/abs/2401.07707v4)|null|
-|**2024-10-15**|**Landau-based Schubert analysis**|Song He et.al.|[2410.11423v1](http://arxiv.org/abs/2410.11423v1)|[link](https://github.com/windfolgen/LandauMT)|
