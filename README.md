@@ -1,28 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-11-04 08:51:19 Asia/Shanghai
+ Automated deployment @ 2024-11-04 09:03:48 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Causal Inference
-
-### Truncation by death
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-23**|**Longitudinal Causal Inference with Selective Eligibility**|Zhichao Jiang et.al.|[2410.17864v1](http://arxiv.org/abs/2410.17864v1)|null|
-|**2024-10-09**|**Doubly robust estimation and sensitivity analysis with outcomes truncated by death in multi-arm clinical trials**|Jiaqi Tong et.al.|[2410.07483v1](http://arxiv.org/abs/2410.07483v1)|[link](https://github.com/deckardt98/multiarmsace)|
-|**2024-10-06**|**A Bayesian Method for Adverse Effects Estimation in Observational Studies with Truncation by Death**|Anthony Sisti et.al.|[2410.04561v1](http://arxiv.org/abs/2410.04561v1)|[link](https://github.com/anthonysisti/adverse-effects-estimation-in-observational-studies-with-truncation-by-death)|
-|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
-|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
-|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
-|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
-|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
-|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
-|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
-|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
-|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
-|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
-|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
-|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
 
 ### Causal inference
 |Publish Date|Title|Authors|PDF|Code|
@@ -42,6 +23,25 @@
 |**2024-04-02**|**Propensity Score Alignment of Unpaired Multimodal Data**|Johnny Xi et.al.|[2404.01595v2](http://arxiv.org/abs/2404.01595v2)|null|
 |**2024-06-01**|**Causal Contrastive Learning for Counterfactual Regression Over Time**|Mouad El Bouchattaoui et.al.|[2406.00535v3](http://arxiv.org/abs/2406.00535v3)|null|
 |**2024-10-28**|**Deep Learning Methods for the Noniterative Conditional Expectation G-Formula for Causal Inference from Complex Observational Data**|Sophia M Rein et.al.|[2410.21531v1](http://arxiv.org/abs/2410.21531v1)|null|
+
+### Truncation by death
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-23**|**Longitudinal Causal Inference with Selective Eligibility**|Zhichao Jiang et.al.|[2410.17864v1](http://arxiv.org/abs/2410.17864v1)|null|
+|**2024-10-09**|**Doubly robust estimation and sensitivity analysis with outcomes truncated by death in multi-arm clinical trials**|Jiaqi Tong et.al.|[2410.07483v1](http://arxiv.org/abs/2410.07483v1)|[link](https://github.com/deckardt98/multiarmsace)|
+|**2024-10-06**|**A Bayesian Method for Adverse Effects Estimation in Observational Studies with Truncation by Death**|Anthony Sisti et.al.|[2410.04561v1](http://arxiv.org/abs/2410.04561v1)|[link](https://github.com/anthonysisti/adverse-effects-estimation-in-observational-studies-with-truncation-by-death)|
+|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
+|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
+|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
+|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
+|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
+|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
+|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
+|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
+|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
+|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
+|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
+|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
 
 ### Causality
 |Publish Date|Title|Authors|PDF|Code|
@@ -121,25 +121,6 @@
 
 ## Causal Representation
 
-### Uplift
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-08-06**|**Rotating AdS$_3 \times$S$^3$ and Dyonic Strings from 3-Dimensions**|Nihat Sadik Deger et.al.|[2408.03197v2](http://arxiv.org/abs/2408.03197v2)|null|
-|**2024-10-30**|**Consistent $\mathcal{N}=4$, $D=4$ truncation of type IIB supergravity on $\textrm{S}^{1} \times \textrm{S}^{5}$**|Adolfo Guarino et.al.|[2410.23149v1](http://arxiv.org/abs/2410.23149v1)|null|
-|**2024-10-28**|**zGAN: An Outlier-focused Generative Adversarial Network For Realistic Synthetic Data Generation**|Azizjon Azimi et.al.|[2410.20808v2](http://arxiv.org/abs/2410.20808v2)|null|
-|**2024-10-04**|**Matrix Theory Reloaded: A BPS Road to Holography**|Chris D. A. Blair et.al.|[2410.03591v2](http://arxiv.org/abs/2410.03591v2)|null|
-|**2024-03-24**|**Covariant Lagrangian Cubic Interaction Vertices For Irreducible Higher Spin Fields in Minkowski Backgrounds**|Alexander A. Reshetnyak et.al.|[2403.16164v2](http://arxiv.org/abs/2403.16164v2)|null|
-|**2024-10-10**|**Supersymmetric AdS$_6$ black holes from ISO(3)xU(1) F(4) gauged supergravity**|Parinya Karndumri et.al.|[2410.07837v2](http://arxiv.org/abs/2410.07837v2)|null|
-|**2024-10-06**|**Twisted compactifications and conformal defects from ISO(3)xU(1) F(4) gauged supergravity**|Parinya Karndumri et.al.|[2410.04403v2](http://arxiv.org/abs/2410.04403v2)|null|
-|**2024-10-23**|**Holographic Generalised Gukov-Witten Defects**|Pieter Bomans et.al.|[2410.18172v1](http://arxiv.org/abs/2410.18172v1)|null|
-|**2024-10-22**|**Coarse-to-fine Dynamic Uplift Modeling for Real-time Video Recommendation**|Chang Meng et.al.|[2410.16755v1](http://arxiv.org/abs/2410.16755v1)|null|
-|**2024-10-18**|**How to uplift D=3 maximal supergravities**|Gianluca Inverso et.al.|[2410.14520v1](http://arxiv.org/abs/2410.14520v1)|null|
-|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v1](http://arxiv.org/abs/2410.14462v1)|null|
-|**2024-03-02**|**Bulk-local dS$_3$ holography: the Matter with $T\bar T+Λ_2$**|Gauri Batra et.al.|[2403.01040v3](http://arxiv.org/abs/2403.01040v3)|null|
-|**2024-07-18**|**Supersymmetric Black Hole Hair and AdS_3 x S^3**|Subhodip Bandyopadhyay et.al.|[2407.13398v2](http://arxiv.org/abs/2407.13398v2)|null|
-|**2024-01-15**|**Novel knotted non-abelian gauge fields**|Horatiu Nastase et.al.|[2401.07707v4](http://arxiv.org/abs/2401.07707v4)|null|
-|**2024-10-15**|**Landau-based Schubert analysis**|Song He et.al.|[2410.11423v1](http://arxiv.org/abs/2410.11423v1)|[link](https://github.com/windfolgen/LandauMT)|
-
 ### DNN
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -158,6 +139,25 @@
 |**2024-09-30**|**Possible principles for aligned structure learning agents**|Lancelot Da Costa et.al.|[2410.00258v1](http://arxiv.org/abs/2410.00258v1)|null|
 |**2024-09-23**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564v2](http://arxiv.org/abs/2409.15564v2)|null|
 |**2024-06-20**|**Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning**|Patrik Reizinger et.al.|[2406.14302v2](http://arxiv.org/abs/2406.14302v2)|null|
+
+### Uplift
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-08-06**|**Rotating AdS$_3 \times$S$^3$ and Dyonic Strings from 3-Dimensions**|Nihat Sadik Deger et.al.|[2408.03197v2](http://arxiv.org/abs/2408.03197v2)|null|
+|**2024-10-30**|**Consistent $\mathcal{N}=4$, $D=4$ truncation of type IIB supergravity on $\textrm{S}^{1} \times \textrm{S}^{5}$**|Adolfo Guarino et.al.|[2410.23149v1](http://arxiv.org/abs/2410.23149v1)|null|
+|**2024-10-28**|**zGAN: An Outlier-focused Generative Adversarial Network For Realistic Synthetic Data Generation**|Azizjon Azimi et.al.|[2410.20808v2](http://arxiv.org/abs/2410.20808v2)|null|
+|**2024-10-04**|**Matrix Theory Reloaded: A BPS Road to Holography**|Chris D. A. Blair et.al.|[2410.03591v2](http://arxiv.org/abs/2410.03591v2)|null|
+|**2024-03-24**|**Covariant Lagrangian Cubic Interaction Vertices For Irreducible Higher Spin Fields in Minkowski Backgrounds**|Alexander A. Reshetnyak et.al.|[2403.16164v2](http://arxiv.org/abs/2403.16164v2)|null|
+|**2024-10-10**|**Supersymmetric AdS$_6$ black holes from ISO(3)xU(1) F(4) gauged supergravity**|Parinya Karndumri et.al.|[2410.07837v2](http://arxiv.org/abs/2410.07837v2)|null|
+|**2024-10-06**|**Twisted compactifications and conformal defects from ISO(3)xU(1) F(4) gauged supergravity**|Parinya Karndumri et.al.|[2410.04403v2](http://arxiv.org/abs/2410.04403v2)|null|
+|**2024-10-23**|**Holographic Generalised Gukov-Witten Defects**|Pieter Bomans et.al.|[2410.18172v1](http://arxiv.org/abs/2410.18172v1)|null|
+|**2024-10-22**|**Coarse-to-fine Dynamic Uplift Modeling for Real-time Video Recommendation**|Chang Meng et.al.|[2410.16755v1](http://arxiv.org/abs/2410.16755v1)|null|
+|**2024-10-18**|**How to uplift D=3 maximal supergravities**|Gianluca Inverso et.al.|[2410.14520v1](http://arxiv.org/abs/2410.14520v1)|null|
+|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v1](http://arxiv.org/abs/2410.14462v1)|null|
+|**2024-03-02**|**Bulk-local dS$_3$ holography: the Matter with $T\bar T+Λ_2$**|Gauri Batra et.al.|[2403.01040v3](http://arxiv.org/abs/2403.01040v3)|null|
+|**2024-07-18**|**Supersymmetric Black Hole Hair and AdS_3 x S^3**|Subhodip Bandyopadhyay et.al.|[2407.13398v2](http://arxiv.org/abs/2407.13398v2)|null|
+|**2024-01-15**|**Novel knotted non-abelian gauge fields**|Horatiu Nastase et.al.|[2401.07707v4](http://arxiv.org/abs/2401.07707v4)|null|
+|**2024-10-15**|**Landau-based Schubert analysis**|Song He et.al.|[2410.11423v1](http://arxiv.org/abs/2410.11423v1)|[link](https://github.com/windfolgen/LandauMT)|
 
 ## Survival Analysis
 
