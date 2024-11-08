@@ -1,9 +1,28 @@
 # arxiv-daily
- Automated deployment @ 2024-11-08 08:28:27 Asia/Shanghai
+ Automated deployment @ 2024-11-08 20:28:43 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Causal Inference
+
+### Instrumental Variable
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-02-07**|**Inference for Two-Stage Extremum Estimators**|Aristide Houndetoungan et.al.|[2402.05030v2](http://arxiv.org/abs/2402.05030v2)|[link](https://github.com/ahoundetoungan/inferencetse)|
+|**2024-11-07**|**Political Hegemony, Imitation Isomorphism, and Project Familiarity: Instrumental Variables to Understand Funding Impact on Scholar Performance**|Yang Ding et.al.|[2411.04426v1](http://arxiv.org/abs/2411.04426v1)|null|
+|**2022-04-08**|**Using negative controls to identify causal effects with invalid instrumental variables**|Oliver Dukes et.al.|[2204.04119v4](http://arxiv.org/abs/2204.04119v4)|null|
+|**2024-07-21**|**Weak-instrument-robust subvector inference in instrumental variables regression: A subvector Lagrange multiplier test and properties of subvector Anderson-Rubin confidence sets**|Malte Londschien et.al.|[2407.15256v3](http://arxiv.org/abs/2407.15256v3)|null|
+|**2024-10-21**|**A Causal Transformation Model for Time-to-Event Data Affected by Unobserved Confounding**|Giampiero Marra et.al.|[2410.15968v3](http://arxiv.org/abs/2410.15968v3)|null|
+|**2024-06-10**|**Estimating Heterogeneous Treatment Effects by Combining Weak Instruments and Observational Data**|Miruna Oprescu et.al.|[2406.06452v2](http://arxiv.org/abs/2406.06452v2)|[link](https://github.com/CausalML/Weak-Instruments-Obs-Data-CATE)|
+|**2024-10-31**|**The ET Interview: Professor Joel L. Horowitz**|Sokbae Lee et.al.|[2411.00886v1](http://arxiv.org/abs/2411.00886v1)|null|
+|**2024-10-31**|**The Nudge Average Treatment Effect**|Eric J Tchetgen Tchetgen et.al.|[2410.23590v1](http://arxiv.org/abs/2410.23590v1)|null|
+|**2023-11-28**|**The Adoption and Efficacy of Large Language Models: Evidence From Consumer Complaints in the Financial Industry**|Minkyu Shin et.al.|[2311.16466v3](http://arxiv.org/abs/2311.16466v3)|null|
+|**2024-10-29**|**Inference in Partially Linear Models under Dependent Data with Deep Neural Networks**|Chad Brown et.al.|[2410.22574v1](http://arxiv.org/abs/2410.22574v1)|null|
+|**2024-10-29**|**Robust Estimation and Model Selection for the Controlled Directed Effect with Unmeasured Mediator-Outcome Confounders**|Shunichiro Orihara et.al.|[2410.21832v1](http://arxiv.org/abs/2410.21832v1)|null|
+|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300v3](http://arxiv.org/abs/2410.12300v3)|[link](https://github.com/shimenghuang/spacetsiv)|
+|**2024-04-18**|**A Mean-Field Analysis of Neural Stochastic Gradient Descent-Ascent for Functional Minimax Optimization**|Yuchen Zhu et.al.|[2404.12312v3](http://arxiv.org/abs/2404.12312v3)|null|
+|**2024-03-06**|**MR.RGM: An R Package for Fitting Bayesian Multivariate Bidirectional Mendelian Randomization Networks**|Bitan Sarkar et.al.|[2403.03944v2](http://arxiv.org/abs/2403.03944v2)|null|
+|**2024-10-22**|**General Seemingly Unrelated Local Projections**|Florian Huber et.al.|[2410.17105v1](http://arxiv.org/abs/2410.17105v1)|null|
 
 ### Truncation by death
 |Publish Date|Title|Authors|PDF|Code|
@@ -23,44 +42,6 @@
 |**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
 |**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
 |**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
-
-### Mediation Analysis
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-05**|**An Online Updating Approach for Estimating and Testing Mediation Effects with Big Data Streams**|Xueyan Bai et.al.|[2411.03063v1](http://arxiv.org/abs/2411.03063v1)|null|
-|**2024-10-21**|**Assessing mediation in cross-sectional stepped wedge cluster randomized trials**|Zhiqiang Cao et.al.|[2410.15596v2](http://arxiv.org/abs/2410.15596v2)|[link](https://github.com/zhiqiangcao/mediateswcrt)|
-|**2024-03-07**|**Extracting Mechanisms from Heterogeneous Effects: An Identification Strategy for Mediation Analysis**|Jiawei Fu et.al.|[2403.04131v5](http://arxiv.org/abs/2403.04131v5)|null|
-|**2024-10-29**|**Gender disparities in rehospitalisations after coronary artery bypass grafting: evidence from a functional causal mediation analysis of the MIMIC-IV data**|Henan Xu et.al.|[2410.22502v1](http://arxiv.org/abs/2410.22502v1)|null|
-|**2024-04-28**|**Semiparametric causal mediation analysis in cluster-randomized experiments**|Chao Cheng et.al.|[2404.18256v2](http://arxiv.org/abs/2404.18256v2)|null|
-|**2024-10-28**|**Statistical Inference in High-dimensional Poisson Regression with Applications to Mediation Analysis**|Prabrisha Rakshit et.al.|[2410.20671v1](http://arxiv.org/abs/2410.20671v1)|null|
-|**2024-06-24**|**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation**|Michal Golovanevsky et.al.|[2406.16320v2](http://arxiv.org/abs/2406.16320v2)|[link](https://github.com/wrudman/NOTICE)|
-|**2024-07-03**|**Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Model from a Causal Mediation Perspective**|Zhaotian Weng et.al.|[2407.02814v2](http://arxiv.org/abs/2407.02814v2)|null|
-|**2024-10-07**|**Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models**|Mehrdad Farahani et.al.|[2410.05162v1](http://arxiv.org/abs/2410.05162v1)|[link](https://github.com/m3hrdadfi/rag-memory-interplay)|
-|**2024-02-21**|**Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning**|Debjit Paul et.al.|[2402.13950v4](http://arxiv.org/abs/2402.13950v4)|null|
-|**2021-05-19**|**Multiply Robust Causal Mediation Analysis with Continuous Treatments**|Yizhen Xu et.al.|[2105.09254v3](http://arxiv.org/abs/2105.09254v3)|null|
-|**2024-10-01**|**Quantifying reliance on external information over parametric knowledge during Retrieval Augmented Generation (RAG) using mechanistic analysis**|Reshmi Ghosh et.al.|[2410.00857v1](http://arxiv.org/abs/2410.00857v1)|null|
-|**2024-09-30**|**Group lasso based selection for high-dimensional mediation analysis**|Allan Jérolon et.al.|[2409.20036v1](http://arxiv.org/abs/2409.20036v1)|[link](https://github.com/AllanJe/mahi)|
-|**2021-07-15**|**Optimal tests of the composite null hypothesis arising in mediation analysis**|Caleb H. Miles et.al.|[2107.07575v2](http://arxiv.org/abs/2107.07575v2)|null|
-|**2023-10-01**|**A Bayesian joint model for mediation analysis with matrix-valued mediators**|Zijin Liu et.al.|[2310.00803v3](http://arxiv.org/abs/2310.00803v3)|null|
-
-### Causality
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-25**|**Counterfactual Token Generation in Large Language Models**|Ivi Chatzi et.al.|[2409.17027v2](http://arxiv.org/abs/2409.17027v2)|[link](https://github.com/networks-learning/counterfactual-llms)|
-|**2024-11-06**|**Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits**|Muhammad Qasim Elahi et.al.|[2411.04054v1](http://arxiv.org/abs/2411.04054v1)|null|
-|**2024-11-06**|**Massless Conformal Fields in Ten Dimensions, Minimal Unitary Representation of $E_{7(-25)}$ and Exceptional Supergravity**|Murat Gunaydin et.al.|[2411.04049v1](http://arxiv.org/abs/2411.04049v1)|null|
-|**2024-10-22**|**Improving Causal Reasoning in Large Language Models: A Survey**|Longxuan Yu et.al.|[2410.16676v3](http://arxiv.org/abs/2410.16676v3)|[link](https://github.com/chendl02/awesome-llm-causal-reasoning)|
-|**2024-06-07**|**Root Cause Analysis of Outliers with Missing Structural Knowledge**|Nastaran Okati et.al.|[2406.05014v2](http://arxiv.org/abs/2406.05014v2)|null|
-|**2024-11-06**|**Corporate Fundamentals and Stock Price Co-Movement**|Lyuhong Wang et.al.|[2411.03922v1](http://arxiv.org/abs/2411.03922v1)|null|
-|**2024-11-06**|**A Causal Framework for Precision Rehabilitation**|R. James Cotton et.al.|[2411.03919v1](http://arxiv.org/abs/2411.03919v1)|null|
-|**2024-11-06**|**Causality and Duality in Multipartite Generalized Probabilistic Theories**|Yiying Chen et.al.|[2411.03903v1](http://arxiv.org/abs/2411.03903v1)|null|
-|**2024-10-07**|**Timer-XL: Long-Context Transformers for Unified Time Series Forecasting**|Yong Liu et.al.|[2410.04803v2](http://arxiv.org/abs/2410.04803v2)|null|
-|**2024-11-05**|**Dissecting the Failure of Invariant Learning on Graphs**|Qixun Wang et.al.|[2411.02847v2](http://arxiv.org/abs/2411.02847v2)|[link](https://github.com/novaglow646/neurips24-invariant-learning-on-graphs)|
-|**2024-11-05**|**Improving precision of A/B experiments using trigger intensity**|Tanmoy Das et.al.|[2411.03530v1](http://arxiv.org/abs/2411.03530v1)|null|
-|**2024-11-05**|**A Bayesian nonparametric approach to mediation and spillover effects with multiple mediators in cluster-randomized trials**|Yuki Ohnishi et.al.|[2411.03489v1](http://arxiv.org/abs/2411.03489v1)|null|
-|**2024-11-05**|**Investigation of the Bell-CHSH inequality in diamond regions**|M. S. Guimaraes et.al.|[2411.03485v1](http://arxiv.org/abs/2411.03485v1)|null|
-|**2024-02-29**|**Globally hyperbolic evaporating black hole and the information loss issue**|Juan V. O. Pêgas et.al.|[2402.19140v3](http://arxiv.org/abs/2402.19140v3)|null|
-|**2024-11-05**|**Helium as an Indicator of the Neutron-Star Merger Remnant Lifetime and its Potential for Equation of State Constraints**|Albert Sneppen et.al.|[2411.03427v1](http://arxiv.org/abs/2411.03427v1)|null|
 
 ### Causal inference
 |Publish Date|Title|Authors|PDF|Code|
@@ -84,6 +65,9 @@
 ### Missing Data
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2024-11-07**|**Enhancing Missing Data Imputation through Combined Bipartite Graph and Complete Directed Graph**|Zhaoyang Zhang et.al.|[2411.04907v1](http://arxiv.org/abs/2411.04907v1)|null|
+|**2024-11-07**|**Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothing for Scalable Longitudinal Data Imputation**|Zhaoyang Zhang et.al.|[2411.04899v1](http://arxiv.org/abs/2411.04899v1)|null|
+|**2024-10-18**|**ChartifyText: Automated Chart Generation from Data-Involved Texts via LLM**|Songheng Zhang et.al.|[2410.14331v2](http://arxiv.org/abs/2410.14331v2)|null|
 |**2024-11-06**|**Towards Resource-Efficient Federated Learning in Industrial IoT for Multivariate Time Series Analysis**|Alexandros Gkillas et.al.|[2411.03996v1](http://arxiv.org/abs/2411.03996v1)|null|
 |**2024-11-06**|**Fine-tuning -- a Transfer Learning approach**|Joseph Arul Raj et.al.|[2411.03941v1](http://arxiv.org/abs/2411.03941v1)|null|
 |**2024-11-06**|**Monotone Missing Data: A Blessing and a Curse**|Santtu Tikka et.al.|[2411.03848v1](http://arxiv.org/abs/2411.03848v1)|null|
@@ -96,49 +80,44 @@
 |**2022-05-14**|**Evaluating Forecasts with scoringutils in R**|Nikos I. Bosse et.al.|[2205.07090v2](http://arxiv.org/abs/2205.07090v2)|null|
 |**2024-03-08**|**Unity by Diversity: Improved Representation Learning in Multimodal VAEs**|Thomas M. Sutter et.al.|[2403.05300v4](http://arxiv.org/abs/2403.05300v4)|[link](https://github.com/thomassutter/mmvmvae)|
 |**2024-08-04**|**Table Transformers for Imputing Textual Attributes**|Ting-Ruen Wei et.al.|[2408.02128v2](http://arxiv.org/abs/2408.02128v2)|null|
-|**2024-10-31**|**Pedestrian Trajectory Prediction with Missing Data: Datasets, Imputation, and Benchmarking**|Pranav Singh Chib et.al.|[2411.00174v1](http://arxiv.org/abs/2411.00174v1)|[link](https://github.com/pranav-chib/trajimpute)|
-|**2024-10-30**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938v2](http://arxiv.org/abs/2410.22938v2)|[link](https://github.com/lokol5579/DiffLight-release)|
-|**2024-10-31**|**Database of Candidate Targets for the LIFE Mission**|Franziska Menti et.al.|[2410.23892v1](http://arxiv.org/abs/2410.23892v1)|null|
 
-### Instrumental Variable
+### Causality
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-07-21**|**Weak-instrument-robust subvector inference in instrumental variables regression: A subvector Lagrange multiplier test and properties of subvector Anderson-Rubin confidence sets**|Malte Londschien et.al.|[2407.15256v3](http://arxiv.org/abs/2407.15256v3)|null|
-|**2024-10-21**|**A Causal Transformation Model for Time-to-Event Data Affected by Unobserved Confounding**|Giampiero Marra et.al.|[2410.15968v3](http://arxiv.org/abs/2410.15968v3)|null|
-|**2024-06-10**|**Estimating Heterogeneous Treatment Effects by Combining Weak Instruments and Observational Data**|Miruna Oprescu et.al.|[2406.06452v2](http://arxiv.org/abs/2406.06452v2)|[link](https://github.com/CausalML/Weak-Instruments-Obs-Data-CATE)|
-|**2024-10-31**|**The ET Interview: Professor Joel L. Horowitz**|Sokbae Lee et.al.|[2411.00886v1](http://arxiv.org/abs/2411.00886v1)|null|
-|**2024-10-31**|**The Nudge Average Treatment Effect**|Eric J Tchetgen Tchetgen et.al.|[2410.23590v1](http://arxiv.org/abs/2410.23590v1)|null|
-|**2023-11-28**|**The Adoption and Efficacy of Large Language Models: Evidence From Consumer Complaints in the Financial Industry**|Minkyu Shin et.al.|[2311.16466v3](http://arxiv.org/abs/2311.16466v3)|null|
-|**2024-10-29**|**Inference in Partially Linear Models under Dependent Data with Deep Neural Networks**|Chad Brown et.al.|[2410.22574v1](http://arxiv.org/abs/2410.22574v1)|null|
-|**2024-10-29**|**Robust Estimation and Model Selection for the Controlled Directed Effect with Unmeasured Mediator-Outcome Confounders**|Shunichiro Orihara et.al.|[2410.21832v1](http://arxiv.org/abs/2410.21832v1)|null|
-|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300v3](http://arxiv.org/abs/2410.12300v3)|[link](https://github.com/shimenghuang/spacetsiv)|
-|**2024-04-18**|**A Mean-Field Analysis of Neural Stochastic Gradient Descent-Ascent for Functional Minimax Optimization**|Yuchen Zhu et.al.|[2404.12312v3](http://arxiv.org/abs/2404.12312v3)|null|
-|**2024-03-06**|**MR.RGM: An R Package for Fitting Bayesian Multivariate Bidirectional Mendelian Randomization Networks**|Bitan Sarkar et.al.|[2403.03944v2](http://arxiv.org/abs/2403.03944v2)|null|
-|**2024-10-22**|**General Seemingly Unrelated Local Projections**|Florian Huber et.al.|[2410.17105v1](http://arxiv.org/abs/2410.17105v1)|null|
-|**2024-07-25**|**Enhanced power enhancements for testing many moment equalities: Beyond the $2$- and $\infty$-norm**|Anders Bredahl Kock et.al.|[2407.17888v2](http://arxiv.org/abs/2407.17888v2)|null|
-|**2024-01-08**|**Identification with possibly invalid IVs**|Christophe Bruneel-Zupanc et.al.|[2401.03990v4](http://arxiv.org/abs/2401.03990v4)|null|
-|**2024-10-21**|**Tilt-To-Length Coupling in LISA -- Uncertainty and Biases**|Marie-Sophie Hartig et.al.|[2410.16475v1](http://arxiv.org/abs/2410.16475v1)|null|
+|**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998v1](http://arxiv.org/abs/2411.04998v1)|null|
+|**2024-11-07**|**Which bits went where? Past and future transfer entropy decomposition with the information bottleneck**|Kieran A. Murphy et.al.|[2411.04992v1](http://arxiv.org/abs/2411.04992v1)|null|
+|**2024-11-07**|**Clustering in Causal Attention Masking**|Nikita Karagodin et.al.|[2411.04990v1](http://arxiv.org/abs/2411.04990v1)|null|
+|**2024-11-07**|**Causality in dissipative relativistic magnetohydrodynamics**|Raphael E. Hoult et.al.|[2411.04966v1](http://arxiv.org/abs/2411.04966v1)|null|
+|**2023-02-09**|**Strategies as Resource Terms, and their Categorical Semantics**|Lison Blondeau-Patissier et.al.|[2302.04685v4](http://arxiv.org/abs/2302.04685v4)|null|
+|**2024-11-07**|**The Multiple Dimensions of Spuriousness in Machine Learning**|Samuel J. Bell et.al.|[2411.04696v1](http://arxiv.org/abs/2411.04696v1)|null|
+|**2024-11-07**|**DISCO: DISCovering Overfittings as Causal Rules for Text Classification Models**|Zijian Zhang et.al.|[2411.04649v1](http://arxiv.org/abs/2411.04649v1)|null|
+|**2024-11-07**|**Finite linear Alexander quandle's inability to detect causality and properties of their coloring on links and knots**|Hongxu Chen et.al.|[2411.04477v1](http://arxiv.org/abs/2411.04477v1)|null|
+|**2024-11-07**|**Can CDT rationalise the ex ante optimal policy via modified anthropics?**|Emery Cooper et.al.|[2411.04462v1](http://arxiv.org/abs/2411.04462v1)|null|
+|**2024-08-28**|**Understanding long-range opposite charge repulsion in multivalent salt solutions**|Nikhil R. Agrawal et.al.|[2408.15520v2](http://arxiv.org/abs/2408.15520v2)|null|
+|**2024-05-28**|**Linguistic Collapse: Neural Collapse in (Large) Language Models**|Robert Wu et.al.|[2405.17767v2](http://arxiv.org/abs/2405.17767v2)|[link](https://github.com/rhubarbwu/neural-collapse)|
+|**2024-11-01**|**Birdie: Advancing State Space Models with Reward-Driven Objectives and Curricula**|Sam Blouir et.al.|[2411.01030v3](http://arxiv.org/abs/2411.01030v3)|[link](https://github.com/samblouir/birdie)|
+|**2024-11-06**|**Lee Bounds with a Continuous Treatment in Sample Selection**|Ying-Ying Lee et.al.|[2411.04312v1](http://arxiv.org/abs/2411.04312v1)|null|
+|**2024-11-06**|**Split Cherenkov radiation in isotropic chiral matter**|Eduardo Barredo-Alamilla et.al.|[2411.04294v1](http://arxiv.org/abs/2411.04294v1)|null|
+|**2024-11-06**|**ION-C: Integration of Overlapping Networks via Constraints**|Praveen Nair et.al.|[2411.04243v1](http://arxiv.org/abs/2411.04243v1)|null|
 
-## Survival Analysis
-
-### Survival
+### Mediation Analysis
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-10-29**|**Supernova Shocks in Molecular Clouds: Shocks Driven into Dense Cores in IC 443 and 3C 391**|William T. Reach et.al.|[2410.22580v2](http://arxiv.org/abs/2410.22580v2)|null|
-|**2024-02-11**|**The Pairwise Matching Design is Optimal under Extreme Noise and Assignments**|David Azriel et.al.|[2402.07247v2](http://arxiv.org/abs/2402.07247v2)|null|
-|**2024-11-06**|**Dynamic Virtual Inertia and Damping Control for Zero-Inertia Grids**|Oleg O. Khamisov et.al.|[2411.03998v1](http://arxiv.org/abs/2411.03998v1)|null|
-|**2022-12-04**|**The Optimality of Blocking Designs in Equally and Unequally Allocated Randomized Experiments with General Response**|David Azriel et.al.|[2212.01887v3](http://arxiv.org/abs/2212.01887v3)|[link](https://github.com/kapelner/blocking_optimal_general_response)|
-|**2024-06-28**|**Unconventional p-wave magnets as sources of nonlinear photocurrents**|Javier Sivianes et.al.|[2406.19842v2](http://arxiv.org/abs/2406.19842v2)|null|
-|**2024-11-06**|**Flexible task abstractions emerge in linear networks with fast and bounded units**|Kai Sandbrink et.al.|[2411.03840v1](http://arxiv.org/abs/2411.03840v1)|null|
-|**2024-11-06**|**Fundamental Limits of Routing Attack on Network Overload**|Xinyu Wu et.al.|[2411.03749v1](http://arxiv.org/abs/2411.03749v1)|null|
-|**2024-10-29**|**Advancing Efficient Brain Tumor Multi-Class Classification -- New Insights from the Vision Mamba Model in Transfer Learning**|Yinyi Lai et.al.|[2410.21872v2](http://arxiv.org/abs/2410.21872v2)|null|
-|**2024-07-31**|**Back to the Continuous Attractor**|Ábel Ságodi et.al.|[2408.00109v2](http://arxiv.org/abs/2408.00109v2)|null|
-|**2024-11-05**|**Utilizing a machine-learned potential to explore enhanced radiation tolerance in the MoNbTaVW high-entropy alloy**|Jiahui Liu et.al.|[2411.02834v1](http://arxiv.org/abs/2411.02834v1)|null|
-|**2024-11-05**|**Artificial Intelligence-Enhanced Couinaud Segmentation for Precision Liver Cancer Therapy**|Liang Qiu et.al.|[2411.02815v1](http://arxiv.org/abs/2411.02815v1)|null|
-|**2023-07-03**|**Thermodynamic Formalism and Perturbation Formulae for Quenched Random Open Dynamical Systems**|Jason Atnip et.al.|[2307.00774v2](http://arxiv.org/abs/2307.00774v2)|null|
-|**2024-11-05**|**Ensemble inequivalence and phase transitions in unlabeled networks**|Oleg Evnin et.al.|[2411.02739v1](http://arxiv.org/abs/2411.02739v1)|null|
-|**2024-04-01**|**Survival of Gas in Subhalos and Its Impact on the 21 cm Forest Signals: Insights from Hydrodynamic Simulations**|Genki Naruse et.al.|[2404.01034v2](http://arxiv.org/abs/2404.01034v2)|null|
-|**2024-10-21**|**Survival Multiarmed Bandits with Bootstrapping Methods**|Peter Veroutis et.al.|[2410.16486v3](http://arxiv.org/abs/2410.16486v3)|null|
+|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v1](http://arxiv.org/abs/2411.04310v1)|null|
+|**2024-11-05**|**An Online Updating Approach for Estimating and Testing Mediation Effects with Big Data Streams**|Xueyan Bai et.al.|[2411.03063v1](http://arxiv.org/abs/2411.03063v1)|null|
+|**2024-10-21**|**Assessing mediation in cross-sectional stepped wedge cluster randomized trials**|Zhiqiang Cao et.al.|[2410.15596v2](http://arxiv.org/abs/2410.15596v2)|[link](https://github.com/zhiqiangcao/mediateswcrt)|
+|**2024-03-07**|**Extracting Mechanisms from Heterogeneous Effects: An Identification Strategy for Mediation Analysis**|Jiawei Fu et.al.|[2403.04131v5](http://arxiv.org/abs/2403.04131v5)|null|
+|**2024-10-29**|**Gender disparities in rehospitalisations after coronary artery bypass grafting: evidence from a functional causal mediation analysis of the MIMIC-IV data**|Henan Xu et.al.|[2410.22502v1](http://arxiv.org/abs/2410.22502v1)|null|
+|**2024-04-28**|**Semiparametric causal mediation analysis in cluster-randomized experiments**|Chao Cheng et.al.|[2404.18256v2](http://arxiv.org/abs/2404.18256v2)|null|
+|**2024-10-28**|**Statistical Inference in High-dimensional Poisson Regression with Applications to Mediation Analysis**|Prabrisha Rakshit et.al.|[2410.20671v1](http://arxiv.org/abs/2410.20671v1)|null|
+|**2024-06-24**|**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation**|Michal Golovanevsky et.al.|[2406.16320v2](http://arxiv.org/abs/2406.16320v2)|[link](https://github.com/wrudman/NOTICE)|
+|**2024-07-03**|**Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Model from a Causal Mediation Perspective**|Zhaotian Weng et.al.|[2407.02814v2](http://arxiv.org/abs/2407.02814v2)|null|
+|**2024-10-07**|**Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models**|Mehrdad Farahani et.al.|[2410.05162v1](http://arxiv.org/abs/2410.05162v1)|[link](https://github.com/m3hrdadfi/rag-memory-interplay)|
+|**2024-02-21**|**Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning**|Debjit Paul et.al.|[2402.13950v4](http://arxiv.org/abs/2402.13950v4)|null|
+|**2021-05-19**|**Multiply Robust Causal Mediation Analysis with Continuous Treatments**|Yizhen Xu et.al.|[2105.09254v3](http://arxiv.org/abs/2105.09254v3)|null|
+|**2024-10-01**|**Quantifying reliance on external information over parametric knowledge during Retrieval Augmented Generation (RAG) using mechanistic analysis**|Reshmi Ghosh et.al.|[2410.00857v1](http://arxiv.org/abs/2410.00857v1)|null|
+|**2024-09-30**|**Group lasso based selection for high-dimensional mediation analysis**|Allan Jérolon et.al.|[2409.20036v1](http://arxiv.org/abs/2409.20036v1)|[link](https://github.com/AllanJe/mahi)|
+|**2021-07-15**|**Optimal tests of the composite null hypothesis arising in mediation analysis**|Caleb H. Miles et.al.|[2107.07575v2](http://arxiv.org/abs/2107.07575v2)|null|
 
 ## Causal Representation
 
@@ -179,3 +158,24 @@
 |**2024-09-30**|**Possible principles for aligned structure learning agents**|Lancelot Da Costa et.al.|[2410.00258v1](http://arxiv.org/abs/2410.00258v1)|null|
 |**2024-09-23**|**CauSkelNet: Causal Representation Learning for Human Behaviour Analysis**|Xingrui Gu et.al.|[2409.15564v2](http://arxiv.org/abs/2409.15564v2)|null|
 |**2024-06-20**|**Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning**|Patrik Reizinger et.al.|[2406.14302v2](http://arxiv.org/abs/2406.14302v2)|null|
+
+## Survival Analysis
+
+### Survival
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-07**|**Doubly robust inference with censoring unbiased transformations**|Oliver Lunding Sandqvist et.al.|[2411.04909v1](http://arxiv.org/abs/2411.04909v1)|null|
+|**2024-11-07**|**Fate of the spatial-temporal order under quantum fluctuation**|Xiaotian Nie et.al.|[2411.04687v1](http://arxiv.org/abs/2411.04687v1)|null|
+|**2024-04-25**|**The TruEnd-procedure: Treating trailing zero-valued balances in credit data**|Arno Botha et.al.|[2404.17008v2](http://arxiv.org/abs/2404.17008v2)|null|
+|**2024-10-07**|**Strange metals and planckian transport in a gapless phase from spatially random interactions**|Aavishkar A. Patel et.al.|[2410.05365v2](http://arxiv.org/abs/2410.05365v2)|null|
+|**2024-11-07**|**Survival of the Notable: Gender Asymmetry in Wikipedia Collective Deliberations**|Khandaker Tasnim Huq et.al.|[2411.04340v1](http://arxiv.org/abs/2411.04340v1)|null|
+|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v1](http://arxiv.org/abs/2411.04310v1)|null|
+|**2024-10-29**|**Supernova Shocks in Molecular Clouds: Shocks Driven into Dense Cores in IC 443 and 3C 391**|William T. Reach et.al.|[2410.22580v2](http://arxiv.org/abs/2410.22580v2)|null|
+|**2024-02-11**|**The Pairwise Matching Design is Optimal under Extreme Noise and Assignments**|David Azriel et.al.|[2402.07247v2](http://arxiv.org/abs/2402.07247v2)|null|
+|**2024-11-06**|**Dynamic Virtual Inertia and Damping Control for Zero-Inertia Grids**|Oleg O. Khamisov et.al.|[2411.03998v1](http://arxiv.org/abs/2411.03998v1)|null|
+|**2022-12-04**|**The Optimality of Blocking Designs in Equally and Unequally Allocated Randomized Experiments with General Response**|David Azriel et.al.|[2212.01887v3](http://arxiv.org/abs/2212.01887v3)|[link](https://github.com/kapelner/blocking_optimal_general_response)|
+|**2024-06-28**|**Unconventional p-wave magnets as sources of nonlinear photocurrents**|Javier Sivianes et.al.|[2406.19842v2](http://arxiv.org/abs/2406.19842v2)|null|
+|**2024-11-06**|**Flexible task abstractions emerge in linear networks with fast and bounded units**|Kai Sandbrink et.al.|[2411.03840v1](http://arxiv.org/abs/2411.03840v1)|[link](https://github.com/aproca/neural_task_abstraction)|
+|**2024-11-06**|**Fundamental Limits of Routing Attack on Network Overload**|Xinyu Wu et.al.|[2411.03749v1](http://arxiv.org/abs/2411.03749v1)|null|
+|**2024-10-29**|**Advancing Efficient Brain Tumor Multi-Class Classification -- New Insights from the Vision Mamba Model in Transfer Learning**|Yinyi Lai et.al.|[2410.21872v2](http://arxiv.org/abs/2410.21872v2)|null|
+|**2024-07-31**|**Back to the Continuous Attractor**|Ábel Ságodi et.al.|[2408.00109v2](http://arxiv.org/abs/2408.00109v2)|null|
