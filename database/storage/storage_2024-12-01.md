@@ -1,28 +1,47 @@
 # arxiv-daily
- Automated deployment @ 2024-12-01 16:58:24 Asia/Shanghai
+ Automated deployment @ 2024-12-01 17:04:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Causal Inference
 
-### Mediation Analysis
+### Instrumental Variable
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-26**|**Bayesian Variable Selection for High-Dimensional Mediation Analysis: Application to Metabolomics Data in Epidemiological Studies**|Youngho Bae et.al.|[2411.17910v1](http://arxiv.org/abs/2411.17910v1)|null|
-|**2024-11-26**|**Simplifying Causal Mediation Analysis for Time-to-Event Outcomes using Pseudo-Values**|Alex Ocampo et.al.|[2411.17533v1](http://arxiv.org/abs/2411.17533v1)|null|
-|**2024-11-16**|**Subsampling-based Tests in Mediation Analysis**|Asmita Roy et.al.|[2411.10648v2](http://arxiv.org/abs/2411.10648v2)|[link](https://github.com/asmita112358/CSMT)|
-|**2024-11-13**|**Interaction Testing in Variation Analysis**|Drago Plecko et.al.|[2411.08861v1](http://arxiv.org/abs/2411.08861v1)|[link](https://github.com/dplecko/ia-testing)|
-|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
-|**2024-11-11**|**Self-separated and self-connected models for mediator and outcome missingness in mediation analysis**|Trang Quynh Nguyen et.al.|[2411.07221v1](http://arxiv.org/abs/2411.07221v1)|null|
-|**2024-11-05**|**An Online Updating Approach for Estimating and Testing Mediation Effects with Big Data Streams**|Xueyan Bai et.al.|[2411.03063v1](http://arxiv.org/abs/2411.03063v1)|null|
-|**2024-10-21**|**Assessing mediation in cross-sectional stepped wedge cluster randomized trials**|Zhiqiang Cao et.al.|[2410.15596v2](http://arxiv.org/abs/2410.15596v2)|[link](https://github.com/zhiqiangcao/mediateswcrt)|
-|**2024-03-07**|**Extracting Mechanisms from Heterogeneous Effects: An Identification Strategy for Mediation Analysis**|Jiawei Fu et.al.|[2403.04131v5](http://arxiv.org/abs/2403.04131v5)|null|
-|**2024-10-29**|**Gender disparities in rehospitalisations after coronary artery bypass grafting: evidence from a functional causal mediation analysis of the MIMIC-IV data**|Henan Xu et.al.|[2410.22502v1](http://arxiv.org/abs/2410.22502v1)|null|
-|**2024-04-28**|**Semiparametric causal mediation analysis in cluster-randomized experiments**|Chao Cheng et.al.|[2404.18256v2](http://arxiv.org/abs/2404.18256v2)|null|
-|**2024-10-28**|**Statistical Inference in High-dimensional Poisson Regression with Applications to Mediation Analysis**|Prabrisha Rakshit et.al.|[2410.20671v1](http://arxiv.org/abs/2410.20671v1)|null|
-|**2024-06-24**|**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation**|Michal Golovanevsky et.al.|[2406.16320v2](http://arxiv.org/abs/2406.16320v2)|[link](https://github.com/wrudman/NOTICE)|
-|**2024-07-03**|**Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Model from a Causal Mediation Perspective**|Zhaotian Weng et.al.|[2407.02814v2](http://arxiv.org/abs/2407.02814v2)|null|
-|**2024-10-07**|**Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models**|Mehrdad Farahani et.al.|[2410.05162v1](http://arxiv.org/abs/2410.05162v1)|[link](https://github.com/m3hrdadfi/rag-memory-interplay)|
+|**2024-11-26**|**Causal Inference in Finance: An Expertise-Driven Model for Instrument Variables Identification and Interpretation**|Ying Chen et.al.|[2411.17542v1](http://arxiv.org/abs/2411.17542v1)|null|
+|**2024-11-26**|**Leaning Time-Varying Instruments for Identifying Causal Effects in Time-Series Data**|Debo Cheng et.al.|[2411.17774v1](http://arxiv.org/abs/2411.17774v1)|null|
+|**2024-11-25**|**A Binary IV Model for Persuasion: Profiling Persuasion Types among Compliers**|Zeyang Yu et.al.|[2411.16906v1](http://arxiv.org/abs/2411.16906v1)|null|
+|**2020-11-05**|**Bias correction for quantile regression estimators**|Grigory Franguridi et.al.|[2011.03073v7](http://arxiv.org/abs/2011.03073v7)|null|
+|**2023-07-20**|**Choosing the Right Approach at the Right Time: A Comparative Analysis of Causal Effect Estimation using Confounder Adjustment and Instrumental Variables**|Roy S. Zawadzki et.al.|[2307.11201v3](http://arxiv.org/abs/2307.11201v3)|null|
+|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300v4](http://arxiv.org/abs/2410.12300v4)|[link](https://github.com/shimenghuang/spacetsiv)|
+|**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903v2](http://arxiv.org/abs/2410.00903v2)|null|
+|**2024-05-15**|**The Instrumental Variable Model with Categorical Instrument, Treatment and Outcome: Characterization, Partial Identification, and Statistical Inference**|Yilin Song et.al.|[2405.09510v4](http://arxiv.org/abs/2405.09510v4)|null|
+|**2021-10-03**|**Identification and Estimation in a Time-Varying Endogenous Random Coefficient Panel Data Model**|Ming Li et.al.|[2110.00982v2](http://arxiv.org/abs/2110.00982v2)|null|
+|**2024-11-19**|**Testability of Instrumental Variables in Additive Nonlinear, Non-Constant Effects Models**|Xichen Guo et.al.|[2411.12184v1](http://arxiv.org/abs/2411.12184v1)|null|
+|**2024-11-15**|**An Instrumental Variables Framework to Unite Spatial Confounding Methods**|Sophie M. Woodward et.al.|[2411.10381v1](http://arxiv.org/abs/2411.10381v1)|[link](https://github.com/NSAPH-Projects/spatial-scale-confounding)|
+|**2023-12-04**|**Weighted Q-learning for optimal dynamic treatment regimes with nonignorable missing covariates**|Jian Sun et.al.|[2312.01735v4](http://arxiv.org/abs/2312.01735v4)|null|
+|**2024-11-12**|**Robust estimation of carbon dioxide airborne fraction under measurement errors**|J. Eduardo Vera-Valdés et.al.|[2411.07836v1](http://arxiv.org/abs/2411.07836v1)|[link](https://github.com/everval/robust-co2-estimation-supplementary)|
+|**2024-08-08**|**Scarce Workers, High Wages?**|Erik-Benjamin Börschlein et.al.|[2408.04508v2](http://arxiv.org/abs/2408.04508v2)|null|
+|**2022-09-06**|**Do Unions Shape Political Ideologies at Work?**|Johannes Matzat et.al.|[2209.02637v4](http://arxiv.org/abs/2209.02637v4)|null|
+
+### Causal inference
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-11-21**|**Heterophilic Graph Neural Networks Optimization with Causal Message-passing**|Botao Wang et.al.|[2411.13821v2](http://arxiv.org/abs/2411.13821v2)|null|
+|**2024-11-24**|**Data integration using covariate summaries from external sources**|Facheng Yu et.al.|[2411.15691v2](http://arxiv.org/abs/2411.15691v2)|null|
+|**2024-11-26**|**Causal Inference in Finance: An Expertise-Driven Model for Instrument Variables Identification and Interpretation**|Ying Chen et.al.|[2411.17542v1](http://arxiv.org/abs/2411.17542v1)|null|
+|**2024-05-13**|**A Unification of Exchangeability and Continuous Exposure and Confounder Measurement Errors: Probabilistic Exchangeability**|Honghyok Kim et.al.|[2405.07910v7](http://arxiv.org/abs/2405.07910v7)|null|
+|**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Qing Cheng et.al.|[2411.10371v2](http://arxiv.org/abs/2411.10371v2)|null|
+|**2023-08-25**|**Causally Sound Priors for Binary Experiments**|Nicholas J. Irons et.al.|[2308.13713v3](http://arxiv.org/abs/2308.13713v3)|[link](https://github.com/njirons/causally-sound)|
+|**2024-03-13**|**Principal stratification with U-statistics under principal ignorability**|Xinyuan Chen et.al.|[2403.08927v3](http://arxiv.org/abs/2403.08927v3)|null|
+|**2023-07-20**|**Choosing the Right Approach at the Right Time: A Comparative Analysis of Causal Effect Estimation using Confounder Adjustment and Instrumental Variables**|Roy S. Zawadzki et.al.|[2307.11201v3](http://arxiv.org/abs/2307.11201v3)|null|
+|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300v4](http://arxiv.org/abs/2410.12300v4)|[link](https://github.com/shimenghuang/spacetsiv)|
+|**2024-11-22**|**The Effects of Major League Baseball's Ban on Infield Shifts: A Quasi-Experimental Analysis**|Lee Kennedy-Shaffer et.al.|[2411.15075v1](http://arxiv.org/abs/2411.15075v1)|null|
+|**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903v2](http://arxiv.org/abs/2410.00903v2)|null|
+|**2024-10-19**|**Joint Probability Estimation of Many Binary Outcomes via Localized Adversarial Lasso**|Alexandre Belloni et.al.|[2410.15166v2](http://arxiv.org/abs/2410.15166v2)|null|
+|**2024-05-16**|**Ideal trials, target trials and actual randomized trials**|Margarita Moreno-Betancur et.al.|[2405.10026v3](http://arxiv.org/abs/2405.10026v3)|null|
+|**2024-11-22**|**Double Machine Learning for Adaptive Causal Representation in High-Dimensional Data**|Lynda Aouar et.al.|[2411.14665v1](http://arxiv.org/abs/2411.14665v1)|null|
+|**2024-11-21**|**Logarithmic Neyman Regret for Adaptive Estimation of the Average Treatment Effect**|Ojash Neopane et.al.|[2411.14341v1](http://arxiv.org/abs/2411.14341v1)|null|
 
 ### Truncation by death
 |Publish Date|Title|Authors|PDF|Code|
@@ -43,24 +62,24 @@
 |**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
 |**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
 
-### Causal inference
+### Mediation Analysis
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-11-21**|**Heterophilic Graph Neural Networks Optimization with Causal Message-passing**|Botao Wang et.al.|[2411.13821v2](http://arxiv.org/abs/2411.13821v2)|null|
-|**2024-11-24**|**Data integration using covariate summaries from external sources**|Facheng Yu et.al.|[2411.15691v2](http://arxiv.org/abs/2411.15691v2)|null|
-|**2024-11-26**|**Causal Inference in Finance: An Expertise-Driven Model for Instrument Variables Identification and Interpretation**|Ying Chen et.al.|[2411.17542v1](http://arxiv.org/abs/2411.17542v1)|null|
-|**2024-05-13**|**A Unification of Exchangeability and Continuous Exposure and Confounder Measurement Errors: Probabilistic Exchangeability**|Honghyok Kim et.al.|[2405.07910v7](http://arxiv.org/abs/2405.07910v7)|null|
-|**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Qing Cheng et.al.|[2411.10371v2](http://arxiv.org/abs/2411.10371v2)|null|
-|**2023-08-25**|**Causally Sound Priors for Binary Experiments**|Nicholas J. Irons et.al.|[2308.13713v3](http://arxiv.org/abs/2308.13713v3)|[link](https://github.com/njirons/causally-sound)|
-|**2024-03-13**|**Principal stratification with U-statistics under principal ignorability**|Xinyuan Chen et.al.|[2403.08927v3](http://arxiv.org/abs/2403.08927v3)|null|
-|**2023-07-20**|**Choosing the Right Approach at the Right Time: A Comparative Analysis of Causal Effect Estimation using Confounder Adjustment and Instrumental Variables**|Roy S. Zawadzki et.al.|[2307.11201v3](http://arxiv.org/abs/2307.11201v3)|null|
-|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300v4](http://arxiv.org/abs/2410.12300v4)|[link](https://github.com/shimenghuang/spacetsiv)|
-|**2024-11-22**|**The Effects of Major League Baseball's Ban on Infield Shifts: A Quasi-Experimental Analysis**|Lee Kennedy-Shaffer et.al.|[2411.15075v1](http://arxiv.org/abs/2411.15075v1)|null|
-|**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903v2](http://arxiv.org/abs/2410.00903v2)|null|
-|**2024-10-19**|**Joint Probability Estimation of Many Binary Outcomes via Localized Adversarial Lasso**|Alexandre Belloni et.al.|[2410.15166v2](http://arxiv.org/abs/2410.15166v2)|null|
-|**2024-05-16**|**Ideal trials, target trials and actual randomized trials**|Margarita Moreno-Betancur et.al.|[2405.10026v3](http://arxiv.org/abs/2405.10026v3)|null|
-|**2024-11-22**|**Double Machine Learning for Adaptive Causal Representation in High-Dimensional Data**|Lynda Aouar et.al.|[2411.14665v1](http://arxiv.org/abs/2411.14665v1)|null|
-|**2024-11-21**|**Logarithmic Neyman Regret for Adaptive Estimation of the Average Treatment Effect**|Ojash Neopane et.al.|[2411.14341v1](http://arxiv.org/abs/2411.14341v1)|null|
+|**2024-11-26**|**Bayesian Variable Selection for High-Dimensional Mediation Analysis: Application to Metabolomics Data in Epidemiological Studies**|Youngho Bae et.al.|[2411.17910v1](http://arxiv.org/abs/2411.17910v1)|null|
+|**2024-11-26**|**Simplifying Causal Mediation Analysis for Time-to-Event Outcomes using Pseudo-Values**|Alex Ocampo et.al.|[2411.17533v1](http://arxiv.org/abs/2411.17533v1)|null|
+|**2024-11-16**|**Subsampling-based Tests in Mediation Analysis**|Asmita Roy et.al.|[2411.10648v2](http://arxiv.org/abs/2411.10648v2)|[link](https://github.com/asmita112358/CSMT)|
+|**2024-11-13**|**Interaction Testing in Variation Analysis**|Drago Plecko et.al.|[2411.08861v1](http://arxiv.org/abs/2411.08861v1)|[link](https://github.com/dplecko/ia-testing)|
+|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
+|**2024-11-11**|**Self-separated and self-connected models for mediator and outcome missingness in mediation analysis**|Trang Quynh Nguyen et.al.|[2411.07221v1](http://arxiv.org/abs/2411.07221v1)|null|
+|**2024-11-05**|**An Online Updating Approach for Estimating and Testing Mediation Effects with Big Data Streams**|Xueyan Bai et.al.|[2411.03063v1](http://arxiv.org/abs/2411.03063v1)|null|
+|**2024-10-21**|**Assessing mediation in cross-sectional stepped wedge cluster randomized trials**|Zhiqiang Cao et.al.|[2410.15596v2](http://arxiv.org/abs/2410.15596v2)|[link](https://github.com/zhiqiangcao/mediateswcrt)|
+|**2024-03-07**|**Extracting Mechanisms from Heterogeneous Effects: An Identification Strategy for Mediation Analysis**|Jiawei Fu et.al.|[2403.04131v5](http://arxiv.org/abs/2403.04131v5)|null|
+|**2024-10-29**|**Gender disparities in rehospitalisations after coronary artery bypass grafting: evidence from a functional causal mediation analysis of the MIMIC-IV data**|Henan Xu et.al.|[2410.22502v1](http://arxiv.org/abs/2410.22502v1)|null|
+|**2024-04-28**|**Semiparametric causal mediation analysis in cluster-randomized experiments**|Chao Cheng et.al.|[2404.18256v2](http://arxiv.org/abs/2404.18256v2)|null|
+|**2024-10-28**|**Statistical Inference in High-dimensional Poisson Regression with Applications to Mediation Analysis**|Prabrisha Rakshit et.al.|[2410.20671v1](http://arxiv.org/abs/2410.20671v1)|null|
+|**2024-06-24**|**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation**|Michal Golovanevsky et.al.|[2406.16320v2](http://arxiv.org/abs/2406.16320v2)|[link](https://github.com/wrudman/NOTICE)|
+|**2024-07-03**|**Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Model from a Causal Mediation Perspective**|Zhaotian Weng et.al.|[2407.02814v2](http://arxiv.org/abs/2407.02814v2)|null|
+|**2024-10-07**|**Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models**|Mehrdad Farahani et.al.|[2410.05162v1](http://arxiv.org/abs/2410.05162v1)|[link](https://github.com/m3hrdadfi/rag-memory-interplay)|
 
 ### Missing Data
 |Publish Date|Title|Authors|PDF|Code|
@@ -99,25 +118,6 @@
 |**2024-11-22**|**Emulating Recombination with Neural Networks using Universal Differential Equations**|Ben Pennell et.al.|[2411.15140v2](http://arxiv.org/abs/2411.15140v2)|[link](https://github.com/benpennell/recombination-emulator)|
 |**2024-08-29**|**Seeking the Sufficiency and Necessity Causal Features in Multimodal Representation Learning**|Boyu Chen et.al.|[2408.16577v2](http://arxiv.org/abs/2408.16577v2)|null|
 |**2024-11-26**|**The geodesic structure of BPS one-branes in five dimensions**|Tahia F. Dabash et.al.|[2411.17680v1](http://arxiv.org/abs/2411.17680v1)|null|
-
-### Instrumental Variable
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-11-26**|**Causal Inference in Finance: An Expertise-Driven Model for Instrument Variables Identification and Interpretation**|Ying Chen et.al.|[2411.17542v1](http://arxiv.org/abs/2411.17542v1)|null|
-|**2024-11-26**|**Leaning Time-Varying Instruments for Identifying Causal Effects in Time-Series Data**|Debo Cheng et.al.|[2411.17774v1](http://arxiv.org/abs/2411.17774v1)|null|
-|**2024-11-25**|**A Binary IV Model for Persuasion: Profiling Persuasion Types among Compliers**|Zeyang Yu et.al.|[2411.16906v1](http://arxiv.org/abs/2411.16906v1)|null|
-|**2020-11-05**|**Bias correction for quantile regression estimators**|Grigory Franguridi et.al.|[2011.03073v7](http://arxiv.org/abs/2011.03073v7)|null|
-|**2023-07-20**|**Choosing the Right Approach at the Right Time: A Comparative Analysis of Causal Effect Estimation using Confounder Adjustment and Instrumental Variables**|Roy S. Zawadzki et.al.|[2307.11201v3](http://arxiv.org/abs/2307.11201v3)|null|
-|**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300v4](http://arxiv.org/abs/2410.12300v4)|[link](https://github.com/shimenghuang/spacetsiv)|
-|**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903v2](http://arxiv.org/abs/2410.00903v2)|null|
-|**2024-05-15**|**The Instrumental Variable Model with Categorical Instrument, Treatment and Outcome: Characterization, Partial Identification, and Statistical Inference**|Yilin Song et.al.|[2405.09510v4](http://arxiv.org/abs/2405.09510v4)|null|
-|**2021-10-03**|**Identification and Estimation in a Time-Varying Endogenous Random Coefficient Panel Data Model**|Ming Li et.al.|[2110.00982v2](http://arxiv.org/abs/2110.00982v2)|null|
-|**2024-11-19**|**Testability of Instrumental Variables in Additive Nonlinear, Non-Constant Effects Models**|Xichen Guo et.al.|[2411.12184v1](http://arxiv.org/abs/2411.12184v1)|null|
-|**2024-11-15**|**An Instrumental Variables Framework to Unite Spatial Confounding Methods**|Sophie M. Woodward et.al.|[2411.10381v1](http://arxiv.org/abs/2411.10381v1)|[link](https://github.com/NSAPH-Projects/spatial-scale-confounding)|
-|**2023-12-04**|**Weighted Q-learning for optimal dynamic treatment regimes with nonignorable missing covariates**|Jian Sun et.al.|[2312.01735v4](http://arxiv.org/abs/2312.01735v4)|null|
-|**2024-11-12**|**Robust estimation of carbon dioxide airborne fraction under measurement errors**|J. Eduardo Vera-Valdés et.al.|[2411.07836v1](http://arxiv.org/abs/2411.07836v1)|[link](https://github.com/everval/robust-co2-estimation-supplementary)|
-|**2024-08-08**|**Scarce Workers, High Wages?**|Erik-Benjamin Börschlein et.al.|[2408.04508v2](http://arxiv.org/abs/2408.04508v2)|null|
-|**2022-09-06**|**Do Unions Shape Political Ideologies at Work?**|Johannes Matzat et.al.|[2209.02637v4](http://arxiv.org/abs/2209.02637v4)|null|
 
 ## Survival Analysis
 
