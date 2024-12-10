@@ -1,28 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2024-12-10 22:11:53 Asia/Shanghai
+ Automated deployment @ 2024-12-10 23:12:35 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
 ## Causal Inference
-
-### Causal inference
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-01**|**A Comprehensive Guide to Explainable AI: From Classical Models to LLMs**|Weiche Hsieh et.al.|[2412.00800v2](http://arxiv.org/abs/2412.00800v2)|[link](https://github.com/Echoslayer/XAI_From_Classical_Models_to_LLMs)|
-|**2024-12-07**|**A Compositional Atlas for Algebraic Circuits**|Benjie Wang et.al.|[2412.05481v1](http://arxiv.org/abs/2412.05481v1)|null|
-|**2024-12-05**|**Intent-based Meta-Scheduling in Programmable Networks: A Research Agenda**|Nanjangud C. Narendra et.al.|[2412.04232v2](http://arxiv.org/abs/2412.04232v2)|null|
-|**2024-12-06**|**Estimating the treatment effect over time under general interference through deep learner integrated TMLE**|Suhan Guo et.al.|[2412.04799v1](http://arxiv.org/abs/2412.04799v1)|null|
-|**2024-12-05**|**Disentangled Representation Learning for Causal Inference with Instruments**|Debo Cheng et.al.|[2412.04641v1](http://arxiv.org/abs/2412.04641v1)|null|
-|**2024-12-05**|**Deep Causal Inference for Point-referenced Spatial Data with Continuous Treatments**|Ziyang Jiang et.al.|[2412.04285v1](http://arxiv.org/abs/2412.04285v1)|[link](https://github.com/jzy95310/deep_sci)|
-|**2024-11-30**|**Characterizing the Effects of Environmental Exposures on Social Mobility: Bayesian Semi-parametrics for Principal Stratification**|Dafne Zorzetto et.al.|[2412.00311v2](http://arxiv.org/abs/2412.00311v2)|null|
-|**2024-12-05**|**Graph Disentangle Causal Model: Enhancing Causal Inference in Networked Observational Data**|Binbin Hu et.al.|[2412.03913v1](http://arxiv.org/abs/2412.03913v1)|null|
-|**2024-12-04**|**Using a Two-Parameter Sensitivity Analysis Framework to Efficiently Combine Randomized and Non-randomized Studies**|Ruoqi Yu et.al.|[2412.03731v1](http://arxiv.org/abs/2412.03731v1)|null|
-|**2024-12-04**|**Online Experimental Design With Estimation-Regret Trade-off Under Network Interference**|Zhiheng Zhang et.al.|[2412.03727v1](http://arxiv.org/abs/2412.03727v1)|null|
-|**2024-12-04**|**The R.O.A.D. to clinical trial emulation**|Dimitris Bertsimas et.al.|[2412.03528v1](http://arxiv.org/abs/2412.03528v1)|null|
-|**2023-12-01**|**SpaCE: The Spatial Confounding Environment**|Mauricio Tec et.al.|[2312.00710v3](http://arxiv.org/abs/2312.00710v3)|[link](https://github.com/nsaph-projects/space)|
-|**2024-12-03**|**Nature versus nurture in galaxy formation: the effect of environment on star formation with causal machine learning**|Sunil Mucesh et.al.|[2412.02439v1](http://arxiv.org/abs/2412.02439v1)|null|
-|**2024-05-18**|**The Logic of Counterfactuals and the Epistemology of Causal Inference**|Hanti Lin et.al.|[2405.11284v2](http://arxiv.org/abs/2405.11284v2)|null|
-|**2024-12-03**|**CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events**|Xiaojie Yang et.al.|[2412.02155v1](http://arxiv.org/abs/2412.02155v1)|[link](https://github.com/YangXiaojie1998/CausalMob)|
 
 ### Missing Data
 |Publish Date|Title|Authors|PDF|Code|
@@ -43,24 +24,43 @@
 |**2024-12-01**|**Smoothing of global fields**|Gregor Skok et.al.|[2412.00936v1](http://arxiv.org/abs/2412.00936v1)|[link](https://github.com/skokg/Smoothing_on_Sphere)|
 |**2024-12-01**|**Well log data generation and imputation using sequence-based generative adversarial networks**|Abdulrahman Al-Fakih et.al.|[2412.00718v1](http://arxiv.org/abs/2412.00718v1)|null|
 
-### Mediation Analysis
+### Causal inference
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-09**|**Randomized interventional effects for semicompeting risks, with application to allogeneic stem cell transplantation study**|Yuhao Deng et.al.|[2412.06114v1](http://arxiv.org/abs/2412.06114v1)|null|
-|**2024-12-06**|**Network Structural Equation Models for Causal Mediation and Spillover Effects**|Ritoban Kundu et.al.|[2412.05397v1](http://arxiv.org/abs/2412.05397v1)|null|
-|**2024-11-29**|**Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension Ability**|Yujin Han et.al.|[2411.19456v1](http://arxiv.org/abs/2411.19456v1)|[link](https://github.com/OpenCausaLab/ADCE)|
-|**2024-11-27**|**A Bayesian semi-parametric approach to causal mediation for longitudinal mediators and time-to-event outcomes with application to a cardiovascular disease cohort study**|Saurabh Bhandari et.al.|[2411.18739v1](http://arxiv.org/abs/2411.18739v1)|null|
-|**2024-11-26**|**Bayesian Variable Selection for High-Dimensional Mediation Analysis: Application to Metabolomics Data in Epidemiological Studies**|Youngho Bae et.al.|[2411.17910v1](http://arxiv.org/abs/2411.17910v1)|null|
-|**2024-11-26**|**Simplifying Causal Mediation Analysis for Time-to-Event Outcomes using Pseudo-Values**|Alex Ocampo et.al.|[2411.17533v1](http://arxiv.org/abs/2411.17533v1)|null|
-|**2024-11-16**|**Subsampling-based Tests in Mediation Analysis**|Asmita Roy et.al.|[2411.10648v2](http://arxiv.org/abs/2411.10648v2)|[link](https://github.com/asmita112358/CSMT)|
-|**2024-11-13**|**Interaction Testing in Variation Analysis**|Drago Plecko et.al.|[2411.08861v1](http://arxiv.org/abs/2411.08861v1)|[link](https://github.com/dplecko/ia-testing)|
-|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
-|**2024-11-11**|**Self-separated and self-connected models for mediator and outcome missingness in mediation analysis**|Trang Quynh Nguyen et.al.|[2411.07221v1](http://arxiv.org/abs/2411.07221v1)|null|
-|**2024-11-05**|**An Online Updating Approach for Estimating and Testing Mediation Effects with Big Data Streams**|Xueyan Bai et.al.|[2411.03063v1](http://arxiv.org/abs/2411.03063v1)|null|
-|**2024-10-21**|**Assessing mediation in cross-sectional stepped wedge cluster randomized trials**|Zhiqiang Cao et.al.|[2410.15596v2](http://arxiv.org/abs/2410.15596v2)|[link](https://github.com/zhiqiangcao/mediateswcrt)|
-|**2024-03-07**|**Extracting Mechanisms from Heterogeneous Effects: An Identification Strategy for Mediation Analysis**|Jiawei Fu et.al.|[2403.04131v5](http://arxiv.org/abs/2403.04131v5)|null|
-|**2024-10-29**|**Gender disparities in rehospitalisations after coronary artery bypass grafting: evidence from a functional causal mediation analysis of the MIMIC-IV data**|Henan Xu et.al.|[2410.22502v1](http://arxiv.org/abs/2410.22502v1)|null|
-|**2024-04-28**|**Semiparametric causal mediation analysis in cluster-randomized experiments**|Chao Cheng et.al.|[2404.18256v2](http://arxiv.org/abs/2404.18256v2)|null|
+|**2024-12-01**|**A Comprehensive Guide to Explainable AI: From Classical Models to LLMs**|Weiche Hsieh et.al.|[2412.00800v2](http://arxiv.org/abs/2412.00800v2)|[link](https://github.com/Echoslayer/XAI_From_Classical_Models_to_LLMs)|
+|**2024-12-07**|**A Compositional Atlas for Algebraic Circuits**|Benjie Wang et.al.|[2412.05481v1](http://arxiv.org/abs/2412.05481v1)|null|
+|**2024-12-05**|**Intent-based Meta-Scheduling in Programmable Networks: A Research Agenda**|Nanjangud C. Narendra et.al.|[2412.04232v2](http://arxiv.org/abs/2412.04232v2)|null|
+|**2024-12-06**|**Estimating the treatment effect over time under general interference through deep learner integrated TMLE**|Suhan Guo et.al.|[2412.04799v1](http://arxiv.org/abs/2412.04799v1)|null|
+|**2024-12-05**|**Disentangled Representation Learning for Causal Inference with Instruments**|Debo Cheng et.al.|[2412.04641v1](http://arxiv.org/abs/2412.04641v1)|null|
+|**2024-12-05**|**Deep Causal Inference for Point-referenced Spatial Data with Continuous Treatments**|Ziyang Jiang et.al.|[2412.04285v1](http://arxiv.org/abs/2412.04285v1)|[link](https://github.com/jzy95310/deep_sci)|
+|**2024-11-30**|**Characterizing the Effects of Environmental Exposures on Social Mobility: Bayesian Semi-parametrics for Principal Stratification**|Dafne Zorzetto et.al.|[2412.00311v2](http://arxiv.org/abs/2412.00311v2)|null|
+|**2024-12-05**|**Graph Disentangle Causal Model: Enhancing Causal Inference in Networked Observational Data**|Binbin Hu et.al.|[2412.03913v1](http://arxiv.org/abs/2412.03913v1)|null|
+|**2024-12-04**|**Using a Two-Parameter Sensitivity Analysis Framework to Efficiently Combine Randomized and Non-randomized Studies**|Ruoqi Yu et.al.|[2412.03731v1](http://arxiv.org/abs/2412.03731v1)|null|
+|**2024-12-04**|**Online Experimental Design With Estimation-Regret Trade-off Under Network Interference**|Zhiheng Zhang et.al.|[2412.03727v1](http://arxiv.org/abs/2412.03727v1)|null|
+|**2024-12-04**|**The R.O.A.D. to clinical trial emulation**|Dimitris Bertsimas et.al.|[2412.03528v1](http://arxiv.org/abs/2412.03528v1)|null|
+|**2023-12-01**|**SpaCE: The Spatial Confounding Environment**|Mauricio Tec et.al.|[2312.00710v3](http://arxiv.org/abs/2312.00710v3)|[link](https://github.com/nsaph-projects/space)|
+|**2024-12-03**|**Nature versus nurture in galaxy formation: the effect of environment on star formation with causal machine learning**|Sunil Mucesh et.al.|[2412.02439v1](http://arxiv.org/abs/2412.02439v1)|null|
+|**2024-05-18**|**The Logic of Counterfactuals and the Epistemology of Causal Inference**|Hanti Lin et.al.|[2405.11284v2](http://arxiv.org/abs/2405.11284v2)|null|
+|**2024-12-03**|**CausalMob: Causal Human Mobility Prediction with LLMs-derived Human Intentions toward Public Events**|Xiaojie Yang et.al.|[2412.02155v1](http://arxiv.org/abs/2412.02155v1)|[link](https://github.com/YangXiaojie1998/CausalMob)|
+
+### Truncation by death
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-10-23**|**Longitudinal Causal Inference with Selective Eligibility**|Zhichao Jiang et.al.|[2410.17864v1](http://arxiv.org/abs/2410.17864v1)|null|
+|**2024-10-09**|**Doubly robust estimation and sensitivity analysis with outcomes truncated by death in multi-arm clinical trials**|Jiaqi Tong et.al.|[2410.07483v1](http://arxiv.org/abs/2410.07483v1)|[link](https://github.com/deckardt98/multiarmsace)|
+|**2024-10-06**|**A Bayesian Method for Adverse Effects Estimation in Observational Studies with Truncation by Death**|Anthony Sisti et.al.|[2410.04561v1](http://arxiv.org/abs/2410.04561v1)|[link](https://github.com/anthonysisti/adverse-effects-estimation-in-observational-studies-with-truncation-by-death)|
+|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
+|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
+|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
+|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
+|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
+|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
+|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
+|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
+|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
+|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
+|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
+|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
 
 ### Causality
 |Publish Date|Title|Authors|PDF|Code|
@@ -81,6 +81,25 @@
 |**2024-01-23**|**Comparative Study of Causal Discovery Methods for Cyclic Models with Hidden Confounders**|Boris Lorbeer et.al.|[2401.13009v2](http://arxiv.org/abs/2401.13009v2)|null|
 |**2024-12-01**|**A Comprehensive Guide to Explainable AI: From Classical Models to LLMs**|Weiche Hsieh et.al.|[2412.00800v2](http://arxiv.org/abs/2412.00800v2)|[link](https://github.com/Echoslayer/XAI_From_Classical_Models_to_LLMs)|
 
+### Mediation Analysis
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-09**|**Randomized interventional effects for semicompeting risks, with application to allogeneic stem cell transplantation study**|Yuhao Deng et.al.|[2412.06114v1](http://arxiv.org/abs/2412.06114v1)|null|
+|**2024-12-06**|**Network Structural Equation Models for Causal Mediation and Spillover Effects**|Ritoban Kundu et.al.|[2412.05397v1](http://arxiv.org/abs/2412.05397v1)|null|
+|**2024-11-29**|**Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension Ability**|Yujin Han et.al.|[2411.19456v1](http://arxiv.org/abs/2411.19456v1)|[link](https://github.com/OpenCausaLab/ADCE)|
+|**2024-11-27**|**A Bayesian semi-parametric approach to causal mediation for longitudinal mediators and time-to-event outcomes with application to a cardiovascular disease cohort study**|Saurabh Bhandari et.al.|[2411.18739v1](http://arxiv.org/abs/2411.18739v1)|null|
+|**2024-11-26**|**Bayesian Variable Selection for High-Dimensional Mediation Analysis: Application to Metabolomics Data in Epidemiological Studies**|Youngho Bae et.al.|[2411.17910v1](http://arxiv.org/abs/2411.17910v1)|null|
+|**2024-11-26**|**Simplifying Causal Mediation Analysis for Time-to-Event Outcomes using Pseudo-Values**|Alex Ocampo et.al.|[2411.17533v1](http://arxiv.org/abs/2411.17533v1)|null|
+|**2024-11-16**|**Subsampling-based Tests in Mediation Analysis**|Asmita Roy et.al.|[2411.10648v2](http://arxiv.org/abs/2411.10648v2)|[link](https://github.com/asmita112358/CSMT)|
+|**2024-11-13**|**Interaction Testing in Variation Analysis**|Drago Plecko et.al.|[2411.08861v1](http://arxiv.org/abs/2411.08861v1)|[link](https://github.com/dplecko/ia-testing)|
+|**2024-11-06**|**Mediation analysis of community context effects on heart failure using the survival R2D2 prior**|Brandon R. Feng et.al.|[2411.04310v2](http://arxiv.org/abs/2411.04310v2)|null|
+|**2024-11-11**|**Self-separated and self-connected models for mediator and outcome missingness in mediation analysis**|Trang Quynh Nguyen et.al.|[2411.07221v1](http://arxiv.org/abs/2411.07221v1)|null|
+|**2024-11-05**|**An Online Updating Approach for Estimating and Testing Mediation Effects with Big Data Streams**|Xueyan Bai et.al.|[2411.03063v1](http://arxiv.org/abs/2411.03063v1)|null|
+|**2024-10-21**|**Assessing mediation in cross-sectional stepped wedge cluster randomized trials**|Zhiqiang Cao et.al.|[2410.15596v2](http://arxiv.org/abs/2410.15596v2)|[link](https://github.com/zhiqiangcao/mediateswcrt)|
+|**2024-03-07**|**Extracting Mechanisms from Heterogeneous Effects: An Identification Strategy for Mediation Analysis**|Jiawei Fu et.al.|[2403.04131v5](http://arxiv.org/abs/2403.04131v5)|null|
+|**2024-10-29**|**Gender disparities in rehospitalisations after coronary artery bypass grafting: evidence from a functional causal mediation analysis of the MIMIC-IV data**|Henan Xu et.al.|[2410.22502v1](http://arxiv.org/abs/2410.22502v1)|null|
+|**2024-04-28**|**Semiparametric causal mediation analysis in cluster-randomized experiments**|Chao Cheng et.al.|[2404.18256v2](http://arxiv.org/abs/2404.18256v2)|null|
+
 ### Instrumental Variable
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -99,25 +118,6 @@
 |**2024-10-16**|**Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding**|Shimeng Huang et.al.|[2410.12300v4](http://arxiv.org/abs/2410.12300v4)|[link](https://github.com/shimenghuang/spacetsiv)|
 |**2024-10-01**|**Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments**|Kosuke Imai et.al.|[2410.00903v2](http://arxiv.org/abs/2410.00903v2)|null|
 |**2024-05-15**|**The Instrumental Variable Model with Categorical Instrument, Treatment and Outcome: Characterization, Partial Identification, and Statistical Inference**|Yilin Song et.al.|[2405.09510v4](http://arxiv.org/abs/2405.09510v4)|null|
-
-### Truncation by death
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-10-23**|**Longitudinal Causal Inference with Selective Eligibility**|Zhichao Jiang et.al.|[2410.17864v1](http://arxiv.org/abs/2410.17864v1)|null|
-|**2024-10-09**|**Doubly robust estimation and sensitivity analysis with outcomes truncated by death in multi-arm clinical trials**|Jiaqi Tong et.al.|[2410.07483v1](http://arxiv.org/abs/2410.07483v1)|[link](https://github.com/deckardt98/multiarmsace)|
-|**2024-10-06**|**A Bayesian Method for Adverse Effects Estimation in Observational Studies with Truncation by Death**|Anthony Sisti et.al.|[2410.04561v1](http://arxiv.org/abs/2410.04561v1)|[link](https://github.com/anthonysisti/adverse-effects-estimation-in-observational-studies-with-truncation-by-death)|
-|**2024-06-15**|**Causal Inference with Outcomes Truncated by Death and Missing Not at Random**|Wei Li et.al.|[2406.10554v2](http://arxiv.org/abs/2406.10554v2)|null|
-|**2023-12-19**|**Outcomes truncated by death in RCTs: a simulation study on the survivor average causal effect**|Stefanie von Felten et.al.|[2312.11991v2](http://arxiv.org/abs/2312.11991v2)|null|
-|**2024-06-30**|**Estimating the cognitive effects of statins from observational data using the survival-incorporated median: a summary measure for clinical outcomes in the presence of death**|Qingyan Xiang et.al.|[2407.00846v1](http://arxiv.org/abs/2407.00846v1)|null|
-|**2024-05-27**|**Analysis of Broken Randomized Experiments by Principal Stratification**|Qinqing Liu et.al.|[2405.16780v1](http://arxiv.org/abs/2405.16780v1)|null|
-|**2024-03-20**|**A unified framework for bounding causal effects on the always-survivor and other populations**|Aixian Chen et.al.|[2403.13398v2](http://arxiv.org/abs/2403.13398v2)|null|
-|**2024-04-16**|**Weighting methods for truncation by death in cluster-randomized trials**|Dane Isenberg et.al.|[2404.10629v1](http://arxiv.org/abs/2404.10629v1)|[link](https://github.com/abcdane1/ptsacecrts)|
-|**2023-09-21**|**Principal Stratification with Continuous Post-Treatment Variables: Nonparametric Identification and Semiparametric Estimation**|Sizhu Lu et.al.|[2309.12425v2](http://arxiv.org/abs/2309.12425v2)|null|
-|**2023-12-30**|**Bayesian principal stratification with longitudinal data and truncation by death**|Giulio Grossi et.al.|[2401.00196v1](http://arxiv.org/abs/2401.00196v1)|null|
-|**2021-04-05**|**The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?**|Qingyan Xiang et.al.|[2104.02126v3](http://arxiv.org/abs/2104.02126v3)|null|
-|**2023-04-05**|**PStrata: An R Package for Principal Stratification**|Bo Liu et.al.|[2304.02740v1](http://arxiv.org/abs/2304.02740v1)|null|
-|**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
-|**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
 
 ## Causal Representation
 
