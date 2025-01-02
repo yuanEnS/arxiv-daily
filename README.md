@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-01 05:08:07 Asia/Shanghai
+ Automated deployment @ 2025-01-02 04:27:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/gux99/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/gux99/arxiv-daily/blob/main/database/storage).
 
@@ -24,24 +24,24 @@
 |**2021-09-28**|**Causal Inference with Truncation-by-Death and Unmeasured Confounding**|Yuhao Deng et.al.|[2109.13623v4](http://arxiv.org/abs/2109.13623v4)|null|
 |**2021-10-19**|**Matching methods for truncation by death problems**|Tamir Zehavi et.al.|[2110.10186v2](http://arxiv.org/abs/2110.10186v2)|[link](https://github.com/tamirze/matching-methods-for-truncation-by-death-problems)|
 
-### Causality
+### Missing Data
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30**|**Causal Hangover Effects**|Andreas Santucci et.al.|[2412.21181v1](http://arxiv.org/abs/2412.21181v1)|[link](https://github.com/asantucci/nba-party)|
-|**2024-12-30**|**Causality and Stability from Acoustic Geometry**|Ignacy Sawicki et.al.|[2412.21169v1](http://arxiv.org/abs/2412.21169v1)|null|
-|**2024-12-30**|**Intrinsic meaning, perception, and matching**|William G. P. Mayner et.al.|[2412.21111v1](http://arxiv.org/abs/2412.21111v1)|null|
-|**2024-12-30**|**Timelike and gravitational anomalous entanglement from the inner horizon**|Qiang Wen et.al.|[2412.21058v1](http://arxiv.org/abs/2412.21058v1)|null|
-|**2024-05-02**|**Quantification of vaccine waning as a challenge effect**|Matias Janvin et.al.|[2405.01336v2](http://arxiv.org/abs/2405.01336v2)|null|
-|**2024-09-23**|**Testing stimulated emission photon directions**|Jarek Duda et.al.|[2409.15399v8](http://arxiv.org/abs/2409.15399v8)|null|
-|**2022-02-17**|**Causal inference with recurrent and competing events**|Matias Janvin et.al.|[2202.08500v2](http://arxiv.org/abs/2202.08500v2)|null|
-|**2023-04-18**|**Causal Flow-based Variational Auto-Encoder for Disentangled Causal Representation Learning**|Di Fan et.al.|[2304.09010v5](http://arxiv.org/abs/2304.09010v5)|null|
-|**2024-09-24**|**GISExplainer: On Explainability of Graph Neural Networks via Game-theoretic Interaction Subgraphs**|Xingping Xian et.al.|[2409.15698v2](http://arxiv.org/abs/2409.15698v2)|null|
-|**2024-05-26**|**Causal-aware Graph Neural Architecture Search under Distribution Shifts**|Peiwen Li et.al.|[2405.16489v2](http://arxiv.org/abs/2405.16489v2)|null|
-|**2024-12-30**|**Neurophenomenal Structuralism and the Role of Computational Context**|Marlo Paßler et.al.|[2412.20873v1](http://arxiv.org/abs/2412.20873v1)|null|
-|**2024-12-30**|**Superluminal signalling and chaos in nonlinear quantum dynamics**|Marta Emilia Bielińska et.al.|[2412.20854v1](http://arxiv.org/abs/2412.20854v1)|null|
-|**2023-10-19**|**Bayesian Meta-Learning for Improving Generalizability of Health Prediction Models With Similar Causal Mechanisms**|Sophie Wharrie et.al.|[2310.12595v3](http://arxiv.org/abs/2310.12595v3)|null|
-|**2024-12-30**|**Identifying average causal effect in regression discontinuity design with auxiliary data**|Xinqin Feng et.al.|[2412.20840v1](http://arxiv.org/abs/2412.20840v1)|null|
-|**2024-12-24**|**Neural Directed Speech Enhancement with Dual Microphone Array in High Noise Scenario**|Wen Wen et.al.|[2412.18141v2](http://arxiv.org/abs/2412.18141v2)|null|
+|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802v1](http://arxiv.org/abs/2412.20802v1)|null|
+|**2024-06-29**|**Explainability of Machine Learning Models under Missing Data**|Tuan L. Vo et.al.|[2407.00411v2](http://arxiv.org/abs/2407.00411v2)|[link](https://github.com/simulamet-host/SHAP)|
+|**2024-12-06**|**Low-Rank Expectile Representations of a Data Matrix, with Application to Diurnal Heart Rates**|Shuge Ouyang et.al.|[2412.04765v2](http://arxiv.org/abs/2412.04765v2)|[link](https://github.com/haytham918/low-rank-expectile)|
+|**2024-12-28**|**Linear Shrinkage Convexification of Penalized Linear Regression With Missing Data**|Seongoh Park et.al.|[2412.19963v1](http://arxiv.org/abs/2412.19963v1)|null|
+|**2024-12-27**|**Causal machine learning for heterogeneous treatment effects in the presence of missing outcome data**|Matthew Pryce et.al.|[2412.19711v1](http://arxiv.org/abs/2412.19711v1)|null|
+|**2024-12-23**|**Hierarchical Dirichlet Process Mixture of Products of Multinomial Distributions: Applications to Survey Data with Potentially Missing Values**|Chayut Wongkamthong et.al.|[2412.17335v2](http://arxiv.org/abs/2412.17335v2)|null|
+|**2024-12-26**|**Functional structural equation modeling with latent variables**|Fatemeh Asgari et.al.|[2412.19242v1](http://arxiv.org/abs/2412.19242v1)|null|
+|**2024-12-26**|**To Predict or Not To Predict? Proportionally Masked Autoencoders for Tabular Data Imputation**|Jungkyu Kim et.al.|[2412.19152v1](http://arxiv.org/abs/2412.19152v1)|null|
+|**2022-04-22**|**Identification enhanced generalised linear model estimation with nonignorable missing outcomes**|Kenji Beppu et.al.|[2204.10508v4](http://arxiv.org/abs/2204.10508v4)|null|
+|**2024-12-18**|**Comparative Analysis of Machine Learning-Based Imputation Techniques for Air Quality Datasets with High Missing Data Rates**|Sen Yan et.al.|[2412.13966v2](http://arxiv.org/abs/2412.13966v2)|null|
+|**2024-12-24**|**Navigating Data Corruption in Machine Learning: Balancing Quality, Quantity, and Imputation Strategies**|Qi Liu et.al.|[2412.18296v1](http://arxiv.org/abs/2412.18296v1)|null|
+|**2020-10-20**|**A Comparative Study of Imputation Methods for Multivariate Ordinal Data**|Chayut Wongkamthong et.al.|[2010.10471v5](http://arxiv.org/abs/2010.10471v5)|[link](https://github.com/ChayutWo/Nonparam-oridinal-nominal)|
+|**2024-12-20**|**Low-rank matrix recovery via nonconvex optimization methods with application to errors-in-variables matrix regression**|Xin Li et.al.|[2412.16263v1](http://arxiv.org/abs/2412.16263v1)|null|
+|**2024-12-19**|**Assessing treatment effects in observational data with missing confounders: A comparative study of practical doubly-robust and traditional missing data methods**|Brian D. Williamson et.al.|[2412.15012v1](http://arxiv.org/abs/2412.15012v1)|[link](https://github.com/PamelaShaw/Missing-Confounders-Methods)|
+|**2024-12-19**|**Joint Models for Handling Non-Ignorable Missing Data using Bayesian Additive Regression Trees: Application to Leaf Photosynthetic Traits Data**|Yong Chen Goh et.al.|[2412.14946v1](http://arxiv.org/abs/2412.14946v1)|null|
 
 ### Mediation Analysis
 |Publish Date|Title|Authors|PDF|Code|
@@ -81,6 +81,25 @@
 |**2024-03-09**|**Estimating Causal Effects of Discrete and Continuous Treatments with Binary Instruments**|Victor Chernozhukov et.al.|[2403.05850v2](http://arxiv.org/abs/2403.05850v2)|null|
 |**2024-12-13**|**The Front-door Criterion in the Potential Outcome Framework**|Zexuan Chen et.al.|[2412.10600v1](http://arxiv.org/abs/2412.10600v1)|null|
 
+### Causality
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-30**|**Causal Hangover Effects**|Andreas Santucci et.al.|[2412.21181v1](http://arxiv.org/abs/2412.21181v1)|[link](https://github.com/asantucci/nba-party)|
+|**2024-12-30**|**Causality and Stability from Acoustic Geometry**|Ignacy Sawicki et.al.|[2412.21169v1](http://arxiv.org/abs/2412.21169v1)|null|
+|**2024-12-30**|**Intrinsic meaning, perception, and matching**|William G. P. Mayner et.al.|[2412.21111v1](http://arxiv.org/abs/2412.21111v1)|null|
+|**2024-12-30**|**Timelike and gravitational anomalous entanglement from the inner horizon**|Qiang Wen et.al.|[2412.21058v1](http://arxiv.org/abs/2412.21058v1)|null|
+|**2024-05-02**|**Quantification of vaccine waning as a challenge effect**|Matias Janvin et.al.|[2405.01336v2](http://arxiv.org/abs/2405.01336v2)|null|
+|**2024-09-23**|**Testing stimulated emission photon directions**|Jarek Duda et.al.|[2409.15399v8](http://arxiv.org/abs/2409.15399v8)|null|
+|**2022-02-17**|**Causal inference with recurrent and competing events**|Matias Janvin et.al.|[2202.08500v2](http://arxiv.org/abs/2202.08500v2)|null|
+|**2023-04-18**|**Causal Flow-based Variational Auto-Encoder for Disentangled Causal Representation Learning**|Di Fan et.al.|[2304.09010v5](http://arxiv.org/abs/2304.09010v5)|null|
+|**2024-09-24**|**GISExplainer: On Explainability of Graph Neural Networks via Game-theoretic Interaction Subgraphs**|Xingping Xian et.al.|[2409.15698v2](http://arxiv.org/abs/2409.15698v2)|null|
+|**2024-05-26**|**Causal-aware Graph Neural Architecture Search under Distribution Shifts**|Peiwen Li et.al.|[2405.16489v2](http://arxiv.org/abs/2405.16489v2)|null|
+|**2024-12-30**|**Neurophenomenal Structuralism and the Role of Computational Context**|Marlo Paßler et.al.|[2412.20873v1](http://arxiv.org/abs/2412.20873v1)|null|
+|**2024-12-30**|**Superluminal signalling and chaos in nonlinear quantum dynamics**|Marta Emilia Bielińska et.al.|[2412.20854v1](http://arxiv.org/abs/2412.20854v1)|null|
+|**2023-10-19**|**Bayesian Meta-Learning for Improving Generalizability of Health Prediction Models With Similar Causal Mechanisms**|Sophie Wharrie et.al.|[2310.12595v3](http://arxiv.org/abs/2310.12595v3)|null|
+|**2024-12-30**|**Identifying average causal effect in regression discontinuity design with auxiliary data**|Xinqin Feng et.al.|[2412.20840v1](http://arxiv.org/abs/2412.20840v1)|null|
+|**2024-12-24**|**Neural Directed Speech Enhancement with Dual Microphone Array in High Noise Scenario**|Wen Wen et.al.|[2412.18141v2](http://arxiv.org/abs/2412.18141v2)|null|
+
 ### Causal inference
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -99,25 +118,6 @@
 |**2024-12-21**|**From Correlation to Causation: Understanding Climate Change through Causal Analysis and LLM Interpretations**|Shan Shan et.al.|[2412.16691v1](http://arxiv.org/abs/2412.16691v1)|null|
 |**2024-04-26**|**Trust Dynamics and Market Behavior in Cryptocurrency: A Comparative Study of Centralized and Decentralized Exchanges**|Xintong Wu et.al.|[2404.17227v2](http://arxiv.org/abs/2404.17227v2)|[link](https://github.com/SciEcon/IncidentsAnalysis2023)|
 |**2024-07-10**|**Identifying Macro Conditional Independencies and Macro Total Effects in Summary Causal Graphs with Latent Confounding**|Simon Ferreira et.al.|[2407.07934v4](http://arxiv.org/abs/2407.07934v4)|null|
-
-### Missing Data
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802v1](http://arxiv.org/abs/2412.20802v1)|null|
-|**2024-06-29**|**Explainability of Machine Learning Models under Missing Data**|Tuan L. Vo et.al.|[2407.00411v2](http://arxiv.org/abs/2407.00411v2)|[link](https://github.com/simulamet-host/SHAP)|
-|**2024-12-06**|**Low-Rank Expectile Representations of a Data Matrix, with Application to Diurnal Heart Rates**|Shuge Ouyang et.al.|[2412.04765v2](http://arxiv.org/abs/2412.04765v2)|[link](https://github.com/haytham918/low-rank-expectile)|
-|**2024-12-28**|**Linear Shrinkage Convexification of Penalized Linear Regression With Missing Data**|Seongoh Park et.al.|[2412.19963v1](http://arxiv.org/abs/2412.19963v1)|null|
-|**2024-12-27**|**Causal machine learning for heterogeneous treatment effects in the presence of missing outcome data**|Matthew Pryce et.al.|[2412.19711v1](http://arxiv.org/abs/2412.19711v1)|null|
-|**2024-12-23**|**Hierarchical Dirichlet Process Mixture of Products of Multinomial Distributions: Applications to Survey Data with Potentially Missing Values**|Chayut Wongkamthong et.al.|[2412.17335v2](http://arxiv.org/abs/2412.17335v2)|null|
-|**2024-12-26**|**Functional structural equation modeling with latent variables**|Fatemeh Asgari et.al.|[2412.19242v1](http://arxiv.org/abs/2412.19242v1)|null|
-|**2024-12-26**|**To Predict or Not To Predict? Proportionally Masked Autoencoders for Tabular Data Imputation**|Jungkyu Kim et.al.|[2412.19152v1](http://arxiv.org/abs/2412.19152v1)|null|
-|**2022-04-22**|**Identification enhanced generalised linear model estimation with nonignorable missing outcomes**|Kenji Beppu et.al.|[2204.10508v4](http://arxiv.org/abs/2204.10508v4)|null|
-|**2024-12-18**|**Comparative Analysis of Machine Learning-Based Imputation Techniques for Air Quality Datasets with High Missing Data Rates**|Sen Yan et.al.|[2412.13966v2](http://arxiv.org/abs/2412.13966v2)|null|
-|**2024-12-24**|**Navigating Data Corruption in Machine Learning: Balancing Quality, Quantity, and Imputation Strategies**|Qi Liu et.al.|[2412.18296v1](http://arxiv.org/abs/2412.18296v1)|null|
-|**2020-10-20**|**A Comparative Study of Imputation Methods for Multivariate Ordinal Data**|Chayut Wongkamthong et.al.|[2010.10471v5](http://arxiv.org/abs/2010.10471v5)|[link](https://github.com/ChayutWo/Nonparam-oridinal-nominal)|
-|**2024-12-20**|**Low-rank matrix recovery via nonconvex optimization methods with application to errors-in-variables matrix regression**|Xin Li et.al.|[2412.16263v1](http://arxiv.org/abs/2412.16263v1)|null|
-|**2024-12-19**|**Assessing treatment effects in observational data with missing confounders: A comparative study of practical doubly-robust and traditional missing data methods**|Brian D. Williamson et.al.|[2412.15012v1](http://arxiv.org/abs/2412.15012v1)|[link](https://github.com/PamelaShaw/Missing-Confounders-Methods)|
-|**2024-12-19**|**Joint Models for Handling Non-Ignorable Missing Data using Bayesian Additive Regression Trees: Application to Leaf Photosynthetic Traits Data**|Yong Chen Goh et.al.|[2412.14946v1](http://arxiv.org/abs/2412.14946v1)|null|
 
 ## Survival Analysis
 
@@ -142,25 +142,6 @@
 
 ## Causal Representation
 
-### Uplift
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-09-20**|**Segment Discovery: Enhancing E-commerce Targeting**|Qiqi Li et.al.|[2409.13847v2](http://arxiv.org/abs/2409.13847v2)|null|
-|**2024-12-29**|**Mind the Data Gap: Bridging LLMs to Enterprise Data Integration**|Moe Kayali et.al.|[2412.20331v1](http://arxiv.org/abs/2412.20331v1)|null|
-|**2024-07-29**|**Changes in seismicity in a volcanically active region of the Izu Peninsula, Japan**|K. Z. Nanjo et.al.|[2407.19648v2](http://arxiv.org/abs/2407.19648v2)|null|
-|**2024-12-27**|**On the uplift of 4D wormholes in Braneworld models and their 5D structure**|Thomas D. Pappas et.al.|[2412.19773v1](http://arxiv.org/abs/2412.19773v1)|null|
-|**2024-12-22**|**Associativity is enough: an all-orders 2d chiral algebra for 4d form factors**|Víctor E. Fernández et.al.|[2412.17168v1](http://arxiv.org/abs/2412.17168v1)|null|
-|**2024-12-18**|**Optimizing ML Concurrent Computation and Communication with GPU DMA Engines**|Anirudha Agrawal et.al.|[2412.14335v1](http://arxiv.org/abs/2412.14335v1)|null|
-|**2024-12-16**|**Uplifts in the Penumbra: Features of the Moduli Potential away from Infinite-Distance Boundaries**|Stefano Lanza et.al.|[2412.12253v1](http://arxiv.org/abs/2412.12253v1)|null|
-|**2024-12-14**|**Inertia-aware Unit Commitment and Remuneration Methods for Decarbonized Power System**|HyunJoong Kim et.al.|[2412.10820v1](http://arxiv.org/abs/2412.10820v1)|null|
-|**2024-12-13**|**Class flipping for uplift modeling and Heterogeneous Treatment Effect estimation on imbalanced RCT data**|Krzysztof Rudaś et.al.|[2412.10009v1](http://arxiv.org/abs/2412.10009v1)|null|
-|**2024-12-12**|**Uplift modeling with continuous treatments: A predict-then-optimize approach**|Simon De Vos et.al.|[2412.09232v1](http://arxiv.org/abs/2412.09232v1)|[link](https://github.com/simondevos/umct)|
-|**2024-12-11**|**Chiral global embedding of Fibre Inflation with $\overline{\rm D3}$ uplift**|Michele Cicoli et.al.|[2412.08723v1](http://arxiv.org/abs/2412.08723v1)|null|
-|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v3](http://arxiv.org/abs/2410.14462v3)|null|
-|**2024-10-23**|**Holographic Generalised Gukov-Witten Defects**|Pieter Bomans et.al.|[2410.18172v2](http://arxiv.org/abs/2410.18172v2)|null|
-|**2023-12-05**|**UTBoost: Gradient Boosted Decision Trees for Uplift Modeling**|Junjie Gao et.al.|[2312.02573v2](http://arxiv.org/abs/2312.02573v2)|[link](https://github.com/jd-opensource/utboost)|
-|**2024-06-27**|**Line and surface defects in 5D N=2 SCFT from matter-coupled F(4) gauged supergravity**|Parinya Karndumri et.al.|[2406.18946v3](http://arxiv.org/abs/2406.18946v3)|null|
-
 ### DNN
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -179,3 +160,22 @@
 |**2024-10-24**|**Causal Order Discovery based on Monotonic SCMs**|Ali Izadi et.al.|[2410.19870v1](http://arxiv.org/abs/2410.19870v1)|null|
 |**2024-10-18**|**Beyond Causal Discovery for Astronomy: Learning Meaningful Representations with Independent Component Analysis**|Zehao Jin et.al.|[2410.14775v1](http://arxiv.org/abs/2410.14775v1)|null|
 |**2024-10-18**|**Fine-Tuning Pre-trained Language Models for Robust Causal Representation Learning**|Jialin Yu et.al.|[2410.14375v1](http://arxiv.org/abs/2410.14375v1)|null|
+
+### Uplift
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-09-20**|**Segment Discovery: Enhancing E-commerce Targeting**|Qiqi Li et.al.|[2409.13847v2](http://arxiv.org/abs/2409.13847v2)|null|
+|**2024-12-29**|**Mind the Data Gap: Bridging LLMs to Enterprise Data Integration**|Moe Kayali et.al.|[2412.20331v1](http://arxiv.org/abs/2412.20331v1)|null|
+|**2024-07-29**|**Changes in seismicity in a volcanically active region of the Izu Peninsula, Japan**|K. Z. Nanjo et.al.|[2407.19648v2](http://arxiv.org/abs/2407.19648v2)|null|
+|**2024-12-27**|**On the uplift of 4D wormholes in Braneworld models and their 5D structure**|Thomas D. Pappas et.al.|[2412.19773v1](http://arxiv.org/abs/2412.19773v1)|null|
+|**2024-12-22**|**Associativity is enough: an all-orders 2d chiral algebra for 4d form factors**|Víctor E. Fernández et.al.|[2412.17168v1](http://arxiv.org/abs/2412.17168v1)|null|
+|**2024-12-18**|**Optimizing ML Concurrent Computation and Communication with GPU DMA Engines**|Anirudha Agrawal et.al.|[2412.14335v1](http://arxiv.org/abs/2412.14335v1)|null|
+|**2024-12-16**|**Uplifts in the Penumbra: Features of the Moduli Potential away from Infinite-Distance Boundaries**|Stefano Lanza et.al.|[2412.12253v1](http://arxiv.org/abs/2412.12253v1)|null|
+|**2024-12-14**|**Inertia-aware Unit Commitment and Remuneration Methods for Decarbonized Power System**|HyunJoong Kim et.al.|[2412.10820v1](http://arxiv.org/abs/2412.10820v1)|null|
+|**2024-12-13**|**Class flipping for uplift modeling and Heterogeneous Treatment Effect estimation on imbalanced RCT data**|Krzysztof Rudaś et.al.|[2412.10009v1](http://arxiv.org/abs/2412.10009v1)|null|
+|**2024-12-12**|**Uplift modeling with continuous treatments: A predict-then-optimize approach**|Simon De Vos et.al.|[2412.09232v1](http://arxiv.org/abs/2412.09232v1)|[link](https://github.com/simondevos/umct)|
+|**2024-12-11**|**Chiral global embedding of Fibre Inflation with $\overline{\rm D3}$ uplift**|Michele Cicoli et.al.|[2412.08723v1](http://arxiv.org/abs/2412.08723v1)|null|
+|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v3](http://arxiv.org/abs/2410.14462v3)|null|
+|**2024-10-23**|**Holographic Generalised Gukov-Witten Defects**|Pieter Bomans et.al.|[2410.18172v2](http://arxiv.org/abs/2410.18172v2)|null|
+|**2023-12-05**|**UTBoost: Gradient Boosted Decision Trees for Uplift Modeling**|Junjie Gao et.al.|[2312.02573v2](http://arxiv.org/abs/2312.02573v2)|[link](https://github.com/jd-opensource/utboost)|
+|**2024-06-27**|**Line and surface defects in 5D N=2 SCFT from matter-coupled F(4) gauged supergravity**|Parinya Karndumri et.al.|[2406.18946v3](http://arxiv.org/abs/2406.18946v3)|null|
