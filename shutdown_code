@@ -1,0 +1,9 @@
+cd /home/yuan/Documents/Github_yuanEnS/arxiv-daily/
+git pull
+python main.py run
+filename="storage_$(date +%Y-%m-%d).md"
+echo $filename
+cp ./database/storage/$filename ./README.md
+git add *
+git commit -m "update storage $filename"
+git push
